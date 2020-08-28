@@ -1,0 +1,491 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Numenera 2.5</title>
+    <!-- b0a8e2d8ccb04b24683d347076e80d29e451a385:d3aa2e6571e673001cb012eda23bd97d02234f0b -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/solid.css"
+          integrity="sha384-wnAC7ln+XN0UKdcPvJvtqIH3jOjs9pnKnq9qX68ImXvOGz2JuFoEiCjT8jyZQX2z" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/fontawesome.css"
+          integrity="sha384-HbmWTHay9psM8qyzEKPc8odH4DsOuzdejtnr+OFtDmOcIVnhgReQ4GZBH7uwcjf6" crossorigin="anonymous">
+    <style>
+
+        #ru, #en {
+            display: -webkit-box;
+            display: -ms-flexbox;
+            display: flex;
+            -webkit-box-orient: vertical;
+            -webkit-box-direction: normal;
+            -ms-flex-direction: column;
+            flex-direction: column;
+            font-family: 'PT Sans', Arial, sans-serif;
+            font-size: 16px;
+            height: 100%;
+            min-height: 768px;
+            margin: 0;
+        }
+
+        html {
+            height: 100%;
+        }
+
+        .top, .bottom, hr {
+            flex-shrink: 0;
+        }
+
+        hr {
+            height: 2px;
+            border: 0;
+            box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+            margin: 0;
+        }
+
+        a {
+            color: #2fa3e7;
+            text-decoration: none
+        }
+
+            a:focus, a:hover {
+                color: #157ab5;
+                text-decoration: none
+            }
+
+        body {
+            font-family: 'PT Sans', Arial, sans-serif;
+            font-size: 16px;
+            height: 100%;
+            margin: 0;
+        }
+
+        h1, h2 {
+            font-family: 'PT Sans Caption', Arial, sans-serif;
+            font-weight: bolder;
+            margin: 0;
+        }
+
+        h2 {
+            font-size: 20px !important;
+        }
+
+        h3 {
+            font-weight: normal;
+        }
+
+        h1 {
+            font-size: 21px;
+            line-height: 30px;
+        }
+
+        h2 {
+            font-size: 18px;
+        }
+
+        @media screen and (min-width: 801px) {
+
+            body {
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                min-height: 768px;
+            }
+
+            .top {
+                background-color: #f7f9fa;
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                -webkit-box-flex: 1;
+                -ms-flex-positive: 1;
+            }
+
+            .bottom {
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+            }
+
+            header, footer, .hint {
+                width: 690px;
+                margin: 0 auto;
+            }
+
+            .hint {
+                padding-top: 10px;
+            }
+
+            header {
+                display: -webkit-inline-box;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-box-orient: horizontal;
+                -webkit-box-direction: normal;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                justify-content: space-between;
+            }
+
+            main {
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: start;
+                -ms-flex-pack: start;
+                justify-content: flex-start;
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                width: 740px;
+                margin: 0 auto;
+            }
+
+            footer {
+                display: -webkit-inline-box;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-box-orient: horizontal;
+                -webkit-box-direction: normal;
+                -ms-flex-direction: row;
+                flex-direction: row;
+                -webkit-box-pack: justify;
+                -ms-flex-pack: justify;
+                justify-content: space-between;
+                width: 690px;
+            }
+
+            .logo img {
+                max-width: 100%;
+                max-height: 75px;
+                position: relative;
+                top: 15px;
+            }
+
+            nav {
+                display: -webkit-inline-box;
+                display: -ms-inline-flexbox;
+                display: inline-flex;
+                -webkit-box-pack: end;
+                -ms-flex-pack: end;
+                justify-content: flex-end;
+                -webkit-box-align: center;
+                -ms-flex-align: center;
+                align-items: center;
+                padding-right: 10px;
+            }
+
+                nav a {
+                    padding: 0 15px
+                }
+
+            .octo {
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-pack: center;
+                -ms-flex-pack: center;
+                justify-content: center;
+            }
+
+                .octo img {
+                    height: 230px;
+                    max-height: 230px;
+                }
+
+            .icon img {
+                height: 75px;
+            }
+
+            .footer-col {
+                display: -webkit-box;
+                display: -ms-flexbox;
+                display: flex;
+                -webkit-box-orient: vertical;
+                -webkit-box-direction: normal;
+                -ms-flex-direction: column;
+                flex-direction: column;
+                padding: 15px 0;
+            }
+
+                .footer-col > * {
+                    padding: 2px;
+                }
+
+            .bottom-mobile {
+                display: none;
+            }
+        }
+
+        @media screen and (max-width: 800px) {
+
+            .top {
+                margin: 0 auto;
+                background-color: #f7f9fa;
+            }
+
+            .bottom {
+                margin: 0 auto;
+                width: 95%;
+            }
+
+            header, footer, main {
+                width: 95%;
+            }
+
+            header, footer, main, .hint {
+                margin: 0 auto;
+            }
+
+            .hint {
+                padding-top: 10px;
+                margin-bottom: 30px;
+            }
+
+            .logo {
+                display: block;
+                width: 60%;
+                margin: 0 auto;
+            }
+
+                .logo img {
+                    width: 100%;
+                }
+
+            .icon img {
+                display: none;
+            }
+
+            .octo {
+                width: 60%;
+                margin: 0 auto;
+            }
+
+                .octo img {
+                    width: 100%;
+                }
+
+            header nav {
+                display: none;
+            }
+
+            .bottom {
+                display: none;
+            }
+
+            .bottom-mobile footer {
+                display: table;
+                width: 95%;
+                margin-bottom: 35px;
+            }
+
+                .bottom-mobile footer span {
+                    text-align: right;
+                    display: table-cell;
+                }
+
+                .bottom-mobile footer txt {
+                    display: table-cell;
+                }
+
+                .bottom-mobile footer h2 {
+                    margin-top: 20px;
+                    margin-bottom: 5px;
+                }
+
+                .bottom-mobile footer p {
+                    display: table-row;
+                    width: 100%;
+                    line-height: 25px;
+                }
+        }
+
+        .instruction-row, li {
+            margin-bottom: .5rem;
+        }
+
+        .fa-li {
+            color: #84c738;
+        }
+
+        .fa-ul {
+            margin-left: 1.3em;
+        }
+
+        span.key {
+            background-color: white;
+            padding: 5px;
+            border-radius: 5px;
+            box-shadow: 0 0 4px 0 rgba(86, 94, 113, 0.2);
+        }
+
+        .gallery {
+            padding-top: 20px;
+            display: none;
+        }
+
+            .gallery a {
+                display: block;
+                margin-bottom: 30px;
+                margin-top: 15px;
+            }
+    </style>
+</head>
+<body>
+    <div id="ru">
+        <header>
+            <h1>Numenera 2.5 Character Creation Tables</h1>
+        </header>
+        <hr />
+        <div class="top">
+
+            <main>
+
+
+                <div class="hint">
+                    <h2>Tables</h2>
+                    <ul class="fa-ul">
+                        <li>
+                            <span class="fa-li"><i class="fas fa-angle-right"></i></span>
+                            <a href="Descriptors_Table.html" target="_blank">Descriptors</a>
+                        </li>
+                        <li>
+                            <span class="fa-li"><i class="fas fa-angle-right"></i></span>
+                            <a href="Focuses_Table.html" target="_blank">Focuses</a>
+                        </li>
+                        <li><span class="fa-li"><i class="fas fa-angle-right"></i></span>Abilities</li>
+                        <ul>
+                            <li><a href="TypesAbilities_Table_Glaive.html" target="_blank">Glaive</a></li>
+                            <li><a href="TypesAbilities_Table_Nano.html" target="_blank">Nano</a></li>
+                            <li><a href="TypesAbilities_Table_Jack.html" target="_blank">Jack</a></li>
+                            <li><a href="TypesAbilities_Table_Delve.html" target="_blank">Delve</a></li>
+                            <li><a href="TypesAbilities_Table_Arkus.html" target="_blank">Arkus</a></li>
+                            <li><a href="TypesAbilities_Table_Wright.html" target="_blank">Wright</a></li>
+                        </ul>
+                    </ul>
+
+                    <a href="196-NumeneraCharacterSheetJCv8Interactive.pdf" target="_blank"><h3>Character Sheet (Interactive PDF)</h3></a>
+
+                    <!-- Homerules -->
+                    <br /><h2>Особенности генерации и развития персонажа</h2>
+                    <h3><b>Опыт</b></h3>
+
+                    <p>Заработанный опыт делится по своему использованию.</p>
+                    <p>Опыт заработанный в течение игры тратится на rerolls,  immediate & short-term benefits (gameplay uses).</p>
+                    <p>Опыт получаемый между играми (за исследования и достигнутые цели) тратится на улучшение персонажа.</p>
+
+                    <p>Для получения тира нужно набрать 5 уникальных опций. Каждая из них стоит 5 XP:</p>
+                    <ol>
+                        <li>Effort</li>
+                        <li>Edge</li>
+                        <li>4 points to pools</li>
+                        <li>
+                            One of:
+                            <ul>
+                                <li>Skill or task training (trained or specialized)</li>
+                                <li>+2 to recovery rolls</li>
+                                <li>Reduce the cost for wearing armor (This option lowers the Speed Eﬀort cost by 1)</li>
+                            </ul>
+                        </li>
+                        <li>
+                            One of:
+                            <ul>
+                                <li>Type ability</li>
+                                <li>Special story ability if applicable (cost varies)</li>
+                                <li>Select another focus ability available to you at tier 3. (You must be tier 3 or higher to do this. Characters advancing beyond tier 6 can use this option to select their other tier 6 focus option.)</li>
+                            </ul>
+                        </li>
+                    </ol>
+
+                    <h3><b>Навыки</b></h3>
+                    <p>Если в дескрипторе, типе или фокусе указаны "точные" (narrow) навыки, то брать их. Общие навыки, которые включают "точные" дадут специализацию в "точном" навыке.</p>
+                    <p>Например, если дескриптор даёт вам тренировку в Climbing, то, если вы затем возьмете тренировку в Athletics, вы станете специализированы в Climbing.</p>
+                    <p>К таким случаям так же относятся социальные навыки: pleasant &amp; positive social interationcs, detecting hidden motives и т.д.</p>
+                    <p><strong>Special skills:</strong></p>
+                    <p>Эти навыки требуют специальных знаний. Если вы не тренированы в навыке, то вы получаете Inability (т.е. все попытки его использовать будут Hindered.</p>
+                    <ul>
+                        <li>Understanding numenera</li>
+                        <li>Crafting numenera</li>
+                        <li>Salvaging numenera</li>
+                    </ul>
+                    <p>Crafting Numenera кроме своей основной роли позволяет понять как что-то было построено или какая есть защита у существа (даже если оно неживое)</p>
+                    <p>Salvaging Numenera кроме своей основной роли позволяет понять как что-то разрушить и какие есть уязвимости существа (даже если оно живое)<strong>&nbsp;</strong></p>
+                    <p><strong>Common skills:</strong></p>
+                    <ul>
+                        <li>Acrobatics (Balancing, Jumping, Running fast)</li>
+                        <li>Athletics (Climbing, Swimming, Running long distances)</li>
+                        <li>Escaping</li>
+                        <li>Healing</li>
+                        <li>Identifying</li>
+                        <li>Perception</li>
+                        <li>Riding</li>
+                        <li>Smashing (Breaking)</li>
+                        <li>Stealth (Sneaking)</li>
+                    </ul>
+                    <p><strong>Knowledge Skills:</strong></p>
+                    <ul>
+                        <li>Astronomy</li>
+                        <li>Economics</li>
+                        <li>Geography</li>
+                        <li>Geology</li>
+                        <li>History</li>
+                        <li>Literature</li>
+                        <li>Philosophy</li>
+                        <li>etc.</li>
+                    </ul>
+                    <p><strong>Profession skills:</strong></p>
+                    <ul>
+                        <li>Leatherworking</li>
+                        <li>Metalworking</li>
+                        <li>Woodworking</li>
+                        <li>Singing</li>
+                        <li>Playing a musical instrument</li>
+                        <li>Repairing</li>
+                        <li>Lockpicking</li>
+                        <li>Pickpocketing</li>
+                        <li>etc.</li>
+                    </ul>
+                    <p><strong>Social skills (Effort cannot be used):</strong></p>
+                    <ul>
+                        <li>Deceiving (Lying, Bluffing)</li>
+                        <li>Intimidation</li>
+                        <li>Persuasion</li>
+                        <li>Sense Motives</li>
+                    </ul>
+
+                </div>
+            </main>
+            <footer>
+
+                <div class="footer-col">
+                    <div>&copy; All rights reserved by Monte Cook Games.</div>
+                </div>
+
+                <div class="footer-col">
+                    <div>&reg; Reforged by ZiCold and Underlog.</div>
+                </div>
+
+            </footer>
+        </div>
+        <hr>
+        <div class="bottom-mobile">
+        </div>
+        <div class="bottom">
+        </div>
+    </div>
+
+    
+
+</body>
+</html>
