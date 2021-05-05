@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Numenera 2.5</title>
+    <!-- b0a8e2d8ccb04b24683d347076e80d29e451a385:d3aa2e6571e673001cb012eda23bd97d02234f0b -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/solid.css"
+          integrity="sha384-wnAC7ln+XN0UKdcPvJvtqIH3jOjs9pnKnq9qX68ImXvOGz2JuFoEiCjT8jyZQX2z" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/fontawesome.css"
+          integrity="sha384-HbmWTHay9psM8qyzEKPc8odH4DsOuzdejtnr+OFtDmOcIVnhgReQ4GZBH7uwcjf6" crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="..\css\master-style.css">
+</head>
+<body>
+    <div id="ru">
+        <header>
+            <h1>Numenera 2.5 Crafting System</h1>
+        </header>
+        <hr />
+        <div class="top">
+            <main>
+                <div class="hint">
+                    <img class="hint" src="wright_in_the_workshop.jpg" alt="wright_in_the_workshop">
+                    <br><br>
+
+                    <h2>Crafting Process</h2>
+                    <p>
+                        Salvaging Numenera is a series of Intellect based Tasks (listed below).
+                        <br />Initial salvaging task requires an amount of time equal to [15 minutes X calculated task difficulty].
+                        <br />Plus you have to spend 5 more minutes to extract separate Iotum types.
+                    </p>
+                    <ol>
+                        <li>
+                            Perform an initial salvaging task <i>("Am I able to gain anything here?")</i>.
+                            <br />Success leads you to the second step. In case of failure there is no Iotum to extract.
+                            <br />Maximum level of available Iotum type is equal to the base initial task difficulty.
+                        </li>
+                        <li>
+                            Calculate the amount of Iotum types you can extract:
+                            <ul>
+                                <li>Every Salvaging Numenera skill's level produces one additional Iotum type.</li>
+                                <li>Every asset produces one addtional Iotum type.</li>
+                            </ul>
+                        </li>
+                        <li>
+                            Every Iotum type requires performing separate salvaging task <i>("Am I able to extract exactly what I want?")</i>.
+                            <br />Task difficulty is equal to the Iotum level.
+                            <br />Success grants an amount of Iotum according to the column "Units Salvaged" in <a href="salvaging_tables\Salvaging_Iotum_Table.html" target="_blank">Iotum table</a> and an amount of parts equal to [extracted Iotum amount X Iotum level].
+                        </li>
+                        <li>
+                            Initial salvaging task success can not only extract Iotum, but also some cyphers.
+                            <br />The amount of cyphers found is decided by GM. But in general it's equal to the 1d6 minus amount of Iotum types you tried to extract.
+                        </li>
+                    </ol>
+
+                    <br><h2>Merged Iotum types</h2>
+                    <p>
+                        Some Iotum types were merged into Iotum from the same levels on goal to simplify salvaging system.
+                        <br />Changes are described in the table below.
+                    </p>
+                    <table border="1" cellspacing="0" cellpadding="4">
+                        <tbody style="text-align: center;">
+                            <tr>
+                                <th style="width: 70px;">Iotum level</th>
+                                <th style="width: 70px;">Original Iotum</th>
+                                <th style="width: 70px;">Merged Into</th>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Bio-Circuitry</td>
+                                <td>Pliable Metal</td>
+                            </tr>
+                            <tr>
+                                <td>4</td>
+                                <td>Synthsteel</td>
+                                <td>Pliable Metal</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Azure Steel</td>
+                                <td>Mimetic Gel</td>
+                            </tr>
+                            <tr>
+                                <td>5</td>
+                                <td>Quantium</td>
+                                <td>Mimetic Gel</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Thaum Dust</td>
+                                <td>Amber Crystal</td>
+                            </tr>
+                            <tr>
+                                <td>6</td>
+                                <td>Protomatter</td>
+                                <td>10 x&nbsp;Amber Crystal</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>Kaon dot</td>
+                                <td>Psiranium</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>Monopole</td>
+                                <td>Psiranium</td>
+                            </tr>
+                            <tr>
+                                <td>7</td>
+                                <td>Smart Tissue</td>
+                                <td>Psiranium</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>Midnight Stone</td>
+                                <td>Oraculum</td>
+                            </tr>
+                            <tr>
+                                <td>8</td>
+                                <td>Virtuon particles</td>
+                                <td>Oraculum</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>Philosophine</td>
+                                <td>Tamed iron</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>Scalar Boson Rod</td>
+                                <td>Tamed iron</td>
+                            </tr>
+                            <tr>
+                                <td>9</td>
+                                <td>Data orb</td>
+                                <td>Tamed iron</td>
+                            </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </main>
+            <footer>
+                <div class="footer-col">
+                    <div>&copy; All rights reserved by Monte Cook Games.</div>
+                </div>
+
+                <div class="footer-col">
+                    <div>&reg; Reforged by ZiCold and Underlog.</div>
+                </div>
+            </footer>
+        </div>
+        <hr>
+        <div class="bottom-mobile">
+        </div>
+        <div class="bottom">
+        </div>
+    </div>
+</body>
+</html>
