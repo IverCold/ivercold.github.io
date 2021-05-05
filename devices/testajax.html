@@ -6,11 +6,19 @@
     <title>Numenera 2.5</title>
     <script src="../jquery-3.6.0.min.js"></script>
     <script>
+        var data;
+        var path = "../devices/Oddities_AllSources.xml";
         $(document).ready(function () {
-            $("button").click(function () {
-                $("#load_here").load("/devices/Oddities_AllSources.xml");
+            /*$("button").click(function () {
+                $("#load_here").load(path);
+            });*/
+            $('button').click(function () {
+                $.get(path, function (xmlData) {
+                    data = xmlData;
+                }, 'xml');
             });
         });
+        $("$load_here").append(data);
     </script>
 </head>
 
