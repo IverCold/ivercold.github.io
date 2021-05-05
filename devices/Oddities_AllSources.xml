@@ -1,0 +1,1611 @@
+<?xml version="1.0"?>
+<NumeneraDevices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Oddity>
+    <Description>Crystal that shatters easily but then instantly reforms</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Egg-shaped metallic bauble that occasionally spins and speaks in a language no one knows</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Aerosol can that sprays sparkling paint that hangs in the air</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Device that emits a projection of a human face that changes expression depending on the direction in which it’s looking</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Unknown musical instrument that plays only soft, unpleasant sounds</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Circular stone plate with a human face that occasionally changes expression or appears to speak (but has no voice)</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Box with a tiny group of musicians in it who play when it is opened and look horrifed when it is closed</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Remote-controlled dragonfly with a tiny, handheld controller</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Pants that fit perfectly and never seem to get dirty but are always chilly</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Blob of clay that takes on various mysterious shapes when left alone</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Crystal that hums</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Necklace made of gears and other machine parts</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Flute with buttons rather than holes so you can play music without blowing into it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Lightning bug in a glass globe</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Plastic disk that displays ever-changing but meaningless symbols</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small rod that emits a voice saying the same thing in an unknown language every time a button is pushed</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glass plate that shows what seems to be a live image of the moon, but from a closer vantage</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Comb that glows when used</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small square cage that puts whatever single creature is inside it into stasis</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Plastic bottle containing a spray that cleans any stain and never runs out</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metallic device that creates one sheet of new paper each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Pen that writes in invisible ink revealed only at a very low temperature</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Tiny toy ornithopter made of a solid piece of material that seems indestructible</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Fuzzy stuffed ravage bear that makes growling noises when you squeeze it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Goggles that tint everything green</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Series of thin plastic cards that show all kinds of unknown creatures</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Candle that never runs down</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bag of sixteen rubber balloons</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Three silken gloves with six fingers each</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metallic jar that maintains the temperature of liquid inside indefinitely</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Blue crystal that glows as bright as a candle when held</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small coin pouch that holds twice as much as it appears it should</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small wand-like device that keeps away normal insects in a 5-foot (1.5 m) radius</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Unknown plastic device with lights that occasionally blink</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Powerful magnifying glass</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bag that contains dice, each with a different number of sides</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small mirrored cube</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Piece of extremely strong and thin cable 8 feet (2.5 m) long</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Feathered hat that occasionally makes bird noises</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Wooden rod that increases in length by about 1 inch (2.5 cm) a month</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Brass device with nested circular plates that rotate and click</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cape that billows as if blown by the wind when worn, even in still air</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glass cube that shows what seems to be a live aerial view of an unknown, ruined city</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Armband that tightens slightly when within 100 feet (30 m) of abhumans</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small jar of black paint that reflls itself each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metallic mask that fits perfectly on your face and changes expression when you do</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Five metallic plates that orbit around your head and display ever-changing, unknown symbols</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Green glass sphere that ﬂoats next to you and whistles when you are angry</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal canister that flls with 4 quarts (3.8 liters) of water at the same time each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal and glass disk that, when pressed against ﬂesh, instantly etches a tattoo of a black scorpion</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small mirror that shows someone other than you when you gaze into it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Canister that produces an extremely foul odor and a puff of dark red smoke when opened</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Goggles that allow you to see perfectly through steam or smoke</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Box that produces a 3-inch (7.5 cm) cube of a firm but gelatinous substance at the same time each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Shirt that displays your muscles, bones, and internal organs when you wear it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small leather case of cosmetics that never seem to run out</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Amulet that, when worn, projects holographic images of fish swimming around you</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bracelet with a tiny bell charm that rings like a massive bell when intentionally rung</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metallic, pointed-toe boots designed to fit an aneen or a similar creature</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cup that instantly boils any liquid poured into it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Spectacles that project strange images on the lenses so the wearer sees things that are not there</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Box of a dozen matchsticks that, when burned, release puffs of lingering smoke that take on the shapes of faces, creatures, or other things</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Blanket that makes a pleasant, soft humming noise while covering a living creature</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Semicircular device of metal and glass that projects a harmless, thin red beam up to 50 feet (15 m) when activated</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Two 5-inch (12.7 cm) metal and glass disks that hover around your wrists</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Six small, clear synth bags that can be sealed and are very durable</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glass orb that always drips perfumed water very slowly</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Jar of sixteen seeds; when planted, each seed grows into a daffodil made of gold in six months</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Rose made of nigh-indestructible glass</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Octagon-shaped amulet that is black during the day and sky blue at night</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Mummifed fish with feathered wings in a wooden box</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Two-headed animal fetus in a glass jar</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Saddle sized for a very small animal, such as a squirrel or a small cat</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small rectangular device that makes a chirping sound at the same time each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Pair of tiny metal rods that, when brought within 1 inch (2.5 cm) of each other, vibrate exactly fifteen minutes before the sun rises on any given day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Ceramic ring that makes you feel as though gentle hands are caressing your body</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bottle of twenty-four pills that make you vividly dream about your favorite memory when you next sleep</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cylinder that clears the air of smoke, foul smells, and the like in an enclosed room in one minute’s time</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pair of small, ﬂoating cubes that keep a small, enclosed room at the temperature at which water freezes</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bracelet that renders you unable to reproduce while worn</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Chair that can be stored in an extradimensional space when activated</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth disk that will restore a rotten vegetable or piece of fruit</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cylinder that, if you speak through it, makes your voice sound wavering and strange</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Scarf that appears to be made of silk but is virtually indestructible and cannot be dirtied or stained</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Egg-shaped device that temporarily negates all odor within 3 feet (1 m)</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Short metal rod that is insubstantial to all matter except the special synth glove that goes with it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cube that, when activated, disappears for one minute and then reappears in the same spot</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Wristband that buzzes when in complete darkness</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Plate of glass that, when you view the night sky through it, reveals ten times as many stars</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Ceramic pot that produces a tiny puff of colored smoke once every hour and a half</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Hoop that sharpens any blade passed through it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Sphere that produces vigorous bubbles when placed in water</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Tiny awl that inﬂicts no pain when it pierces ﬂesh</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Contact lenses that make your eyes seem completely white with no pupils</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Silken string 3 feet (1 m) long that coils around whatever it touches</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Large, clear synth bag that keeps food inside it fresh indefnitely</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Stockings that are always warm</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Single rubber glove that is extremely durable and resistant</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Box flled with two dozen spherical magnets, each about the size of a pea</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Pair of clear drinking glasses that change color depending on the contents</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Tiny lidded box that opens, revealing the emptiness of space</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Square of cloth that changes texture and color randomly</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Neverending spray canister of harmless foam that evaporates quickly</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Crystal antiprism about 4 inches (10 cm) across that is mildly repelled away from living flesh</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Lenses that make everything appear upside-down</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Lenses that tint everything pink</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pair of rose-colored spectacles that, when worn, cause everyone to appear to be in the prime of their lives or dead</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Goggles with glowing lenses (although you can see through them normally)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A black box from which issue faint calls of “Hello?”</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A bottle of clear liquid whose flavor changes to match whatever you most desire</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small blue stone that stays wherever you put it, even if you release it in the air, but it can hold no weight</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A black wedge that weighs 1 pound (0.5 kg) and becomes 1 pound (0.5 kg) heavier each month it remains in your possession</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An unbreakable clear crystal sphere filled with green smoke</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A ceramic tile that etches itself with strange markings whenever someone speaks to it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth pyramid that gives off light for one hour at a random time each day</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny harp with strings made of glowing energy</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A crystal that always hovers an inch above a metal ring</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pouch of six seeds that, when planted, grow over the next twenty days into hollow shelters large enough to accommodate one hound-sized animal each</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small metal box that makes a clicking noise when in the presence of smoke</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal wand with a tip that glows in the dark</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A 1-foot (0.3 m) length of silver cord with both ends neatly cut</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A ring that makes the wearer’s fingertips glow blue</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An oblong metal object from which issues a faint ticking sound</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A silver needle that always remains sharp but can puncture nothing</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A wedge of glass that shows the image of three strangely garbed children playing and one frightened child watching you</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Shoes that fit anyone who wears them but leave bizarre, seemingly random prints behind</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A bottle of ink that never goes dry or runs out</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A human-faced insect trapped in a piece of amber</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A ceramic box holding a tiny worm with a head at each end</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A mummified nonhuman hand that twitches as if still alive</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A glass ball filled with fluid through which swims a bloodshot eye trailing its nerve endings</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small metal container that keeps liquid poured inside lukewarm but makes it bitter</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A horn that, when blown, blows bubbles instead of making a sound</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Three glowing synth rings that orbit whatever they are placed around (like a wrist)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A dozen small stones in a narrow, thin box that burst with vibrant colors when tossed into a fire</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A leather belt with metal plates that glow faintly with light</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A set of garish clothes that never get dirty or show signs of wear and tear</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pouch of six pellets that, when dropped into liquid, remove its flavor and color</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small metal box that produces sounds of hysterical laughter when shaken</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A large piece of fabric that does not reflect in mirrors</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A fist-sized glass sphere that floats through the air, never straying more than 2 feet (0.6 m) from a glass token</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A glass jar filled with an edible, creamy white substance that fills back to the top each day at dawn</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A vial of red liquid that causes anything that touches even a drop to turn bright purple for 28 hours</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal wedge that always points east when placed on the ground</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small pink stone that, when placed under the tongue, causes harmless vapor to spill from your mouth</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth hemisphere that occasionally puffs out harmless green mist</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny synth cube with two metal prongs on one side that hum</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal baton that feels as though it is filled with fluid</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small metal box filled with blue powder that, when snuffed, causes profound feelings of ecstasy for about a minute, followed by painful cramps that are alleviated only by a messy and noisy bowel movement</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A mirror that shows anything reflected in it, but something is always missing</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pair of eyes made of bronze that appear slightly human and occasionally blink</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An invisible, empty, hollow cylinder that is 9 inches (23 cm) long</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A powerful magnet that appears to be in the shape of a stylized spider</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bit of moldable synth that generates constant, soft static noise</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Shoes that produce sound and light with each step</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth sleeves that fit over one’s fingertips</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cloth mask that makes each breath taste like mint</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small synth squares that taste good but are inedible</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal sphere that floats like a balloon</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Crystal pendant that causes the wearer’s hair to stop growing</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Five-inch (13 cm) square of cloth that is uncannily pleasant to touch</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth paper that absorbs ink (and stains) after one hour</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Six-inch (15 cm) synth string that stretches to 8 feet (2 m) without breaking</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Unbreakable glass pyramid filled with what appears to be ice or snow</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth sphere that is always warm</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glass cube that is always cold</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth rod that changes color based on who holds it (always the same color for the same people)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal hemisphere with a glass handle that constantly repeats words in an unknown language</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glass panel that appears to show the surrounding area from a high vantage, but it is always completely wrong</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Clear synth globe with an arrow inside it that always points at the sun</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth panel about 8 inches (20 cm) square that shows meaningless, complex diagrams</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Round pendant with a blinking red light that syncs with the wearer’s heartbeat</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small jar that produces 1 ounce (28 g) of green paint when the sun rises</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth panel that constantly shows unknown creatures cavorting in a woodland of unknown plants</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small metal container that produces a peculiar (but not unpleasant) odor when opened</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small, warm metal blade that gives a very close shave</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small metal disk with a crystal at its center that causes a buzzing noise in the ears of anyone holding it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Eight-inch (20 cm) length of synth cord that is invisible</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Pea-sized sphere that reduces the pull of gravity within about 4 feet (1 m), just enough to notice</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pair of 1-foot-tall (0.3 m) metal stilts that can strap onto boots or shoes</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A jar of putty that hardens after being exposed to air for one hour, but softens again if touched</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small disk that bears the image of the father of whoever is touching it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Six-inch (15 cm) wand of glass that can be bent and even tied in a knot</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small metal container that makes a loud (but brief) shrill tone when opened</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small sphere nested within a cube, but the cube exists out of phase and cannot be touched</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Eye lenses that glow in the dark</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Three shoes meant for an unknown, nonhuman creature</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Seven-inch (18 cm) square of cloth to which nothing—dirt, muck, tar, adhesive, and so on—will adhere</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal rod bent into a triangle that frightens off small animals with its mere presence</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glow-in-the-dark hair dye (enough for twenty uses)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glove that, when worn, makes the wearer’s voice sound very high and squeaky</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Ring that reduces the wearer’s sense of touch</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Brush that produces a cleansing soap when used</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Tiny box that produces a small synth figurine in the image of someone within immediate range at random times</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth cup that turns any liquid placed within it purple (no other change is made)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cloth mask that gives anyone who wears it itchy hives for one hour</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Rod that projects the two-dimensional image of an unknown creature on any flat surface</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal rod that makes anyone who touches it sneeze, but never more than once every few minutes</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Two magnets that become one hundred times heavier when put together</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Tiny glass cube that distorts visibility within 6 inches (15 cm) around it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description />
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small cloth sphere that one can thrust a hand through to put things in the inside. The hole made always instantly repairs itself.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal cube that, when touched, turns to thick liquid for one minute</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A ball of unbreakable twine that, when fully unraveled, is 100 feet (30 m) long</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny box with a button that makes a faint chiming noise when pressed</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Twenty red cigarettes that, when smoked, let you exhale monstrous shapes</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A coin stamped with the profile of a man that changes each month</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A bag that always has twenty-seven marbles inside, no matter how many are removed</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small metal half-ring that forces anyone touching it to say “Fanoshil”</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Device that makes everyone within immediate range experience the last one to two seconds again, though nothing can be changed</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Silver pendant with an invisible chain</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small sphere that always remains 1 inch (3 cm) from the tip of a short rod, even though they are not physically connected</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Crystal that pulses in time with the heartbeat of anyone holding it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glowglobe that, if taken underwater, is never moved or disturbed by currents</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A 1-inch (3 cm) square of folded black paper that can be unfolded until it becomes a 10-foot (3 m) square of paper</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A black diamond that causes erotic dreams when it is placed under a sleeper’s head</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A box of twenty oddly shaped stones in different shades of red that can be used like chalk but never run out</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A box of toothpicks that each have a different and sometimes strange flavor</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pouch of powder that can be sprinkled over rotten meat to freshen it and make it safe to eat</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A cube of ice that never melts</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A wooden ball that cannot be burned, but freezing it turns it to vapor</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A plate of glass that turns frosty in freezing temperatures and sometimes shows handprints in the frost</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A monocle that shows different colored auras around people depending on the time of day they were born</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal box with a glass panel in the center that displays different undecipherable symbols each sunrise</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A quivering mass of gelatin that hardens whenever it is about to storm</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A 6-inch (15 cm) metal bar that is impervious to all damage</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A fist-sized hunk of wet flesh that never dries out and makes a purring noise when stroked</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A vial containing six droplets that, when added to a pile of excrement, turn it back into what it was before it was digested (though the droplets don’t restore life to something that was killed by being eaten)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal ring that issues a faint ringing noise when rubbed</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A dark glass trapezohedron that, if held behind someone’s head, makes him state his name, even though he is unaware that he did so</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A glass box containing a living, beating heart wrapped in a golden mesh of wires</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A piece of flexible plastic that emits soft blue, green, or pink light when worn around the ankle or wrist</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A clear elastic sheet, 7 feet (2 m) wide and 2 feet (0.6 m) long, of unknown waterproof material that sparkles under starlight</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A rubber ball that, when thrown with any strength at all, flies for 1 mile (2 km) or until it comes into contact with a solid object and then falls</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An oblong metal plate covered with strange inscriptions and diagrams</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A fist-sized metal object filled with holes that gives anyone touching it a brief glimpse of an endless sea</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A crystal that prevents the person holding it from perspiring</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A glass ball that, when placed on the ground, rolls around in a circle until it’s picked up</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Shoes with such slippery soles that they are impossible to walk in</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny square of foil that always feels warm to the touch</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small metal box that changes the color of anything placed inside it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A sponge that can absorb up to 10 gallons (38 L) of liquid</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Five synth-sealed edible bars that provide nourishment for seven days each</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A porous stone that can be used like soap and has a fresh smell</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A hat that disappears when the wearer wishes, but returns in a few hours</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A cup that turns any liquid poured into it into alcohol</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Oddly shaped plastic box with a button on one side that, when depressed, causes a random word in the viewer’s language to appear in a tiny display</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A rubber ball that, when thrown against a hard surface, creates a second rubber ball that lasts for a few minutes before disappearing</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A piece of cloth that polishes any metal object it touches</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth dodecahedron that allows one to see for about two seconds through the eyes of a person touched</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pomander that always smells of freshly baked bread</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal rod that quickly melts ice touched to it, despite its cool temperature</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>The face of a person stretched and pressed between two panes of glass</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A long piece of cloth never moved by the wind</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth torc that makes the wearer so dizzy that it’s almost impossible to walk a straight line</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal sphere the size of a pebble that weighs 50 pounds (23 kg)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A ball of fur that squeals when submerged in water</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A floating orb that removes all odors from the air for a few minutes</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A crystal that creates a tiny flame when rubbed</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A bottle of pills that have no nutritional value but take away feelings of hunger</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth full helmet with six eyeholes and a buzzing sound within</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal octahedron that, when held, causes the user’s voice to change pitch</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth bowl that nothing adheres to, so it’s always dry and clean</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A 1-foot (0.3 m) bar that has the weight of steel but the flexibility of rubber</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth sphere that always displays the current temperature with a moving set of lines</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal ring that grows warm in cool temperatures or cool in warm temperatures</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth heptahedron that, when touched to other synth, makes everyone in an immediate radius very hungry</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A device that fits over your ears and plays strange noises that sound like atonal, mostly unpleasant music</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pair of multifaceted lenses set into leather goggles that make the wearer see things as an insect would</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An orange contact lens that occasionally lets you see a person’s spoken words float above his head in written form</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An asymmetrical polygon about the size of a fist that spins whenever placed on the ground with a particular side down</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A gyroscopic toy top that spins indefinitely if undisturbed</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A copper ring about the size of a bracelet. If spun around a small shaft (like a finger or a pen), it spins indefinitely.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Three separate silver lozenges about 1 inch (3 cm) long that attach to flesh (and can be pried off with difficulty), but only if all three are on the same creature</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A slab of clear synth that encases a dozen items, most of which appear to be fossils of some kind. There is writing in an unknown language beneath each item.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A coated piece of paper about 1 foot (0.3 m) square that folds itself into a different complex design each day</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A knitted square that adds a new row of stitches on its own</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth honeycomb about 3 inches (8 cm) square that produces a tangy blue syrup</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small marble that howls in response to the sounds of laughter</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A miniature ball on a chain that hovers in the air</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Purple goo that sometimes shows a lit map of unknown constellations</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A chime of synth objects that sounds like people talking</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A belt made of unknown leather and metal that makes you feel full all the time</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A glass prism that provides a kaleidoscope of scents</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An incredibly soft pillow that sometimes cuts your hair while you sleep</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An ankle bracelet that sometimes eases muscle aches</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A needle with thread that never runs out but constantly changes color</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A mass of gel that vibrates in time to any sound</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth box that shows a new image of a place in the Ninth World every couple of days</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A hairpiece that does not seem to have been made for humans</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny mirror that reflects your face exactly as it looked yesterday</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small grey bottle with a screw-off lid that looks like a piece of rock</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A ceramic bird with a razor-sharp metal beak</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A piece of felt that expands into a large, flat waterproof bowl</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A piece of waterproof paper that can’t be crumpled and shows a map of somewhere unknown</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A clear synth hole punch that will make a tiny circular hole in almost any thin material</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A stronglass shell that sometimes has a ghostly visage of a crab inside it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A ring that erases most scratches, scuffs, and ink when passed over them</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tube of purple smoke that changes to a liquid when exposed to sunlight</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A lock of hair that whispers constantly</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A bottle of liquid that releases bubbles that glow in the dark</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description />
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small stamp that creates a bizarre design on anything edible</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small ring that can be scanned over anything and becomes the color of the item scanned</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal disk with a hole in it that reveals shapes in the clouds when you look through it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An antler from an unknown creature that continues to slowly grow</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A clock face that marks the passage of time with unreadable and unsolvable equations</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A wooden tube with a creature carved inside it. Every few days, the creature moves into a different position.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A ring that vibrates when the sun rises in your location</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A hat that rests just on top of your head but never blows or falls off</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A 3-inch (8 cm) tall tornado that never stops moving when you hold it in your hand</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Two small blue disks that seem attracted to your skin and are hard to pull off when they come in contact with you</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Teardrop-shaped object that forms salt crystals along the bottom surface</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Button that seems to fit through any buttonhole</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Living orange and green frog encased inside a clear stronglass bubble</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Necklace that, when worn, temporarily turns your hair grey</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Unbreakable stemmed glass that always looks empty, even when it’s full</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A petrified anomalous octopus with multiple branched arms</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A can of liquid propellant that turns all dust in the air into rainbow colors</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An empty hinged box that sounds like it’s full of rocks when shaken</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny tube that, when blown through, produces small pebbles (and sometimes a surprisingly large rock)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>An egg-shaped stone that, when cracked open, squeals and then puts itself back together</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A bag of small green scales that sometimes seem to mold themselves into a tail</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A bizarrely shaped paintbrush that, when licked, becomes coated with a sparkling clear substance that smells like the sea</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tube of lip gloss that temporarily makes the user’s lips invisible</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A winged circlet that whispers endlessly about jumping when worn</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A leather headdress that turns your eyes black when worn</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small round mirror that reflects nothing during the day and reflects only the moon at night</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small, ornate bead that adjusts to fit over any diameter of rope or string</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A mesh teabag shaped like a star that can be used over and over and never seems to get used up</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny tiara that seems too small for even a newborn baby</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny synth mouth that spits out words all day long, at random</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A handful of small blue stones that randomly turn into sacs full of water. They appear to be drinkable if you open them while in their liquid state.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A long-handled spoon that brings everything in it to the perfect eating or drinking temperature</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A living plant that turns into a different type of edible herb each night</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A length of chain that glows blue if touched by sweat or salt water</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A teardrop-shaped bauble that always leans to the south</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A leaf pin that gradually turns different colors as time passes</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A glob of chewing putty that never loses its flavor or texture</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A slab of petrified wood that glows with a soft green hue</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A preserved flower that lights up when you blow on it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A 5-foot (2 m) length of string that hangs perfectly horizontal without being tied to anything</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small stone that sings a lullaby in an unknown tongue when you rub your thumb over it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small colored-glass sculpture of a bird that flaps its wings in sunlight</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A net with holes so large you can’t imagine what it’s designed to capture</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A leather mask that, when worn, causes you to hear meaningless voices in your head</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A jar of face paint that starts out black and changes color to match your mood while you wear it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A feather necklace that seems to attract all small birds in the area to you</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small square of cloth that is always clean, cool, and slightly damp</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A square of ice 3 inches by 3 inches by 1 inch (8 cm by 8 cm by 3 cm) that never melts, never feels cold, and cools liquids</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A bit of yeast in an inflatable synth packet that occasionally expands. When placed in the sun for a day, it turns into a fully cooked loaf of bread. If eaten, a new bit of yeast appears inside the packet.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A glass pentagonal cupola 2 inches (5 cm) wide that makes one’s hair stand on end if touched</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A self-stick bandage that changes size to fit any wound up to 4 inches (10 cm)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pair of black and blue feathers that float on the wind and flap in the presence of varjellens</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A handheld rake that scratches only synthetic materials. If used on dirt or rock, it softens in your hands.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A piece of strong paper full of written symbols. Every few days, one of the symbols rises off the paper, becoming threedimensional, and disengages from the paper. A new symbol appears on the page to take its place.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A jar full of glitter that always goes back into the jar in the morning, no matter what you used it on</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pillow in the shape of a creature’s face that never bites you while you sleep</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A skull of an unknown creature that is covered in ornate tattoos, one of which shows the face of someone you used to know</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A small handheld box that projects a series of shadows on a flat surface. The shadows seem to be asking for help.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A wire sculpture of a flower that releases petals when you blow on it. The petals “grow” back eventually.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A crystalline stellated dodecahedron that changes color based on how much numenera is nearby (more numenera makes it redder)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A stub of paper with writing on it that says something different to everyone who looks at it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A metal bell that releases the scent of animal dung when you ring it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth bracelet with a tiny pocket that manufactures potable water every time it rains</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A charm bracelet that randomly adds new charms (and occasionally shins)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A soft, big-brimmed hat that sometimes drips water when it’s not raining</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A rolled-up piece of synth that plays music when it gets warm</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A scarf that releases a soothing odor when you’re scared or hurt</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A piece of natural stone that, when you press your ear to it, makes noise that sounds like people screaming</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pair of glasses that purr and coo softly when you breathe rapidly</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A double-handled mug that appears to be made for nonhuman hands</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A fossilized curled shell that sometimes uncurls</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A sticky piece of synth that shows a series of bones and adheres to almost anything</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A crystal that sometimes attracts living things, such as insects and plants, to its surface. The living things appear to be unharmed, and eventually they are released.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny cage in which different things appear, sometimes living, sometimes not. There appears to be no way to open or break the cage.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A bit of synth that is full of holes. The holes collect and hold fluid, despite the fact that they go all the way through the material.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth star about 3 inches (8 cm) across that allows one to levitate about 1 inch (3 cm) for about three seconds, usable at random intervals (about once a day)</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A mask with a set of eyes drawn on the outside. The eyes blink rapidly in bright sunlight.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A heart-shaped piece of synth that you can smoke through, and it always tastes faintly of wood</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pyramid made of heavy metal that always stands straight up from its narrowest end</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth ball that perfectly camouflages itself to whatever it’s touching. It turns white when you whistle at it.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A flexible synth mold of a creature you’ve never seen before, except in your dreams</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A piece of lavarock that is cool to the touch but never stops flowing with bright red lava</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A ceramic cup that lights up when it’s full of liquid</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A handheld shredder that seems to work only on plants</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A synth flower that stays mostly in bud form but blooms when you place it under certain people’s chins</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny hose made of rubber that squirms around, as if it’s trying to connect to something</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Two metal rings that sometimes become one</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A tiny stuffed seskii doll that growls when you kiss it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A set of tassels that attach to your clothing and flutter when you’re near someone you love</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A set of stick-on nails that were clearly created for someone with much larger hands than a normal human</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A stone with a mouth carved into it that sometimes has a pinkish tongue</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A stone snail that grows edible mushrooms instead of a shell</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A black metal box that makes the sound of a broken hound when you shake it</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Shoes that make the ground ripple like water when the wearer walks</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A mask made of a long jaw and sharp teeth. When you wear it, it makes your tongue numb.</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A jar of oil that, when spread on metal, makes the metal glow with a faint radiance</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal boots that sizzle and steam as if very hot, although their temperature is normal</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal wristband that smells strongly of sugar</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Rhomboid of solid stone that sometimes turns to liquid, but always reforms</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glowing, 6-inch (15 cm) elongated teardrop made of synth that seems to have no weight and very little substance</Description>
+    <Source>Compendium</Source>
+  </Oddity>
+</NumeneraDevices>
