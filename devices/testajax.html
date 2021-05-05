@@ -15,6 +15,7 @@
             $('button').click(function () {
                 $.get(path, function (xmlData) {
                     data = xmlData;
+                    console.log(data);
                 }, 'xml');
             });
         });
