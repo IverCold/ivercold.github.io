@@ -15,10 +15,10 @@
             $('button').click(function () {
                 $.get(path, function (xmlData) {
                     data = xmlData;
-                });
+                }, 'xml');
             });
         });
-        $("$load_here").append(data);
+        $("#load_here").append(data);
     </script>
 </head>
 
