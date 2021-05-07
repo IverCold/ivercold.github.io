@@ -1,64 +1,63 @@
-var data;
-var path = "Oddities_AllSources.xml";
-function getRandomInt(max) {
-    return Math.floor(Math.random() * max);
-}
-function getRandomIntInclusive(min, max) {
-    min = Math.ceil(min);
-    max = Math.floor(max);
-    return Math.floor(Math.random() * (max - min + 1) + min); //The maximum is inclusive and the minimum is inclusive
-}
-function loadOddities() {
+const pathToOddities = "Oddities_Official_Books.xml";
+const pathToCyphers = "Cyphers_Official_Books.xml";
+const pathToArtefacts = "Artefacts_Official_Books.xml";
+
+let odditiesXml;
+
+$(document).ready(function () {
+    loadDevicesXmlSync(pathToOddities, loadOdditiesXml);
+
+    $("#generate_oddity").click(function () {
+        generateRandomOddity();
+    });
+
+});
+
+// abstract function
+function loadDevicesXmlSync(pathToXML, loadingFunction) {
     $.get({
-        url: path,
+        url: pathToXML,
         type: "get",
         async: false,
         dataType: 'xml',
         success: function (data) {
-            loadOdditiesXml(data);
+            loadingFunction(data);
         }
     });
 }
 
 function loadOdditiesXml(xmlData) {
+    odditiesXml = xmlData;
+}
 
-    var count = $(xmlData).find('Oddity').length;
-    var index = getRandomInt(count);
-    //$("#load_here").append(index);
-
-    var randomDevice = $(xmlData).find('Oddity').eq(index);
-    data = randomDevice.text();
-    //$("#load_here").append(data);
+function generateRandomOddity() {
+    var randomDevice = getRandomDevice(odditiesXml, 'Oddity');
 
     var html = "";
     var description = randomDevice.find('Description').html();
     var source = randomDevice.find('Source').text();
     html += "<label>Description: " + description + "</label><br>";
     html += "<label>Source: " + source + "<label><br>";
-    $("#load_here").html(html);
+    $("#oddity_description").html(html);
 
 }
 
-$(document).ready(function () {
-    /*$("button").click(function () {
-        $("#load_here").load(path);
-    });*/
-    /*$('button').click(function () {
-        $.get(path, function (xmlData) {
-            data = xmlData;
-            console.log(data);
-            $("#load_here").append(data);
-        }, 'xml');
-    });*/
-    loadOddities();
+function getRandomDevice(xmlData, deviceTypeName) {
+    var count = $(xmlData).find(deviceTypeName).length;
+    var index = getRandomInt(count);
 
+    var randomDevice = $(xmlData).find(deviceTypeName).eq(index);
+    return randomDevice;
+}
 
-    $("button").click(function () {
-        var index = Math.random()
+// Get a number from 0 to max-1
+function getRandomInt(max) {
+    return Math.floor(Math.random() * max);
+}
 
-
-
-        $("#load_here").html(data);
-    });
-
-});
+// Both the maximum and the minimum are inclusive
+function getRandomIntInclusive(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1) + min);
+}
