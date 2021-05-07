@@ -60,14 +60,16 @@ function generateRandomCypher() {
     let html = "";
     html += encloseDeviceProperty(randomDevice, 'Name');
     html += encloseDeviceProperty(randomDevice, 'Level');
-    
+
     html += encloseDeviceProperty(randomDevice, 'Usable');
     html += encloseDeviceProperty(randomDevice, 'Wearable');
     html += encloseDeviceProperty(randomDevice, 'Internal');
-    
+
     html += encloseDeviceProperty(randomDevice, 'Effect');
-    html += encloseDeviceProperty(randomDevice, 'RollTable');
-    html += encloseDeviceProperty(randomDevice, 'Source');
+    if (randomDevice.find('RollTable').length)
+        html += makeRollTable(randomDevice);
+    
+        html += encloseDeviceProperty(randomDevice, 'Source');
     $("#cypher_description").html(html);
 }
 
@@ -76,11 +78,13 @@ function generateRandomArtefact() {
 
     let html = "";
     html += encloseDeviceProperty(randomDevice, 'Name');
-    html += encloseDeviceProperty(randomDevice, 'Level');   
+    html += encloseDeviceProperty(randomDevice, 'Level');
     html += encloseDeviceProperty(randomDevice, 'Form');
-    
+
     html += encloseDeviceProperty(randomDevice, 'Effect');
-    html += encloseDeviceProperty(randomDevice, 'RollTable');
+    if (randomDevice.find('RollTable').length)
+        html += makeRollTable(randomDevice);
+
     html += encloseDeviceProperty(randomDevice, 'Depletion');
     html += encloseDeviceProperty(randomDevice, 'Source');
     $("#artefact_description").html(html);
@@ -107,6 +111,16 @@ function encloseDeviceProperty(deviceXml, propertyName) {
     let text = deviceXml.find(propertyName).text();
     let result = `<div><b>${propertyName}:</b> ${text}</div>`;
     return result;
+}
+
+function makeRollTable(xmlElement) {
+    let resultList = '<b>RollTable</b>:'
+    resultList += '<ul>';
+    xmlElement.find('RollTable').find('Row').each(function () {
+        resultList += '<li>' + $(this).find('Roll').text() + ': ' + $(this).find('Result').text() + '</li>';
+    });
+    resultList += '</ul>';
+    return resultList;
 }
 
 

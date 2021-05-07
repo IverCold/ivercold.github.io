@@ -1929,7 +1929,11 @@
       </Row>
       <Row>
         <Roll>61–80</Roll>
-        <Result>Distinctive mutation 81–00 Powerful mutation</Result>
+        <Result>Distinctive mutation</Result>
+      </Row>
+      <Row>
+        <Roll>81–00</Roll>
+        <Result>Powerful mutation</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
