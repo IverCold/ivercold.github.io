@@ -19,6 +19,10 @@ $(document).ready(function () {
         generateRandomCypher();
     });
 
+    $("#generate_artefact").click(function () {
+        generateRandomArtefact();
+    });
+
 });
 
 // abstract function
@@ -56,15 +60,30 @@ function generateRandomCypher() {
     let html = "";
     html += encloseDeviceProperty(randomDevice, 'Name');
     html += encloseDeviceProperty(randomDevice, 'Level');
-    html += encloseDeviceProperty(randomDevice, 'Effect');
-
+    
     html += encloseDeviceProperty(randomDevice, 'Usable');
     html += encloseDeviceProperty(randomDevice, 'Wearable');
     html += encloseDeviceProperty(randomDevice, 'Internal');
-
+    
+    html += encloseDeviceProperty(randomDevice, 'Effect');
     html += encloseDeviceProperty(randomDevice, 'RollTable');
     html += encloseDeviceProperty(randomDevice, 'Source');
     $("#cypher_description").html(html);
+}
+
+function generateRandomArtefact() {
+    let randomDevice = getRandomDevice(artefactsXml, 'Artefact');
+
+    let html = "";
+    html += encloseDeviceProperty(randomDevice, 'Name');
+    html += encloseDeviceProperty(randomDevice, 'Level');   
+    html += encloseDeviceProperty(randomDevice, 'Form');
+    
+    html += encloseDeviceProperty(randomDevice, 'Effect');
+    html += encloseDeviceProperty(randomDevice, 'RollTable');
+    html += encloseDeviceProperty(randomDevice, 'Depletion');
+    html += encloseDeviceProperty(randomDevice, 'Source');
+    $("#artefact_description").html(html);
 }
 
 function generateRandomOddity() {
