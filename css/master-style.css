@@ -18,7 +18,6 @@ html {
 }
 
 .content,
-.bottom,
 hr {
   flex-shrink: 0;
 }
@@ -30,9 +29,14 @@ hr {
   margin: 0;
 }
 
+P {
+  margin-bottom: 0px;
+}
+
 a {
   color: #2fa3e7;
   text-decoration: none;
+  margin-bottom: 0px;
 }
 
 a:focus,
@@ -51,10 +55,12 @@ h2 {
 
 h2 {
   font-size: 20px !important;
+  margin: 10px 0px;
 }
 
 h3 {
   font-weight: normal;
+  margin: 10px 0px;
 }
 
 h1 {
@@ -64,6 +70,10 @@ h1 {
 
 h2 {
   font-size: 18px;
+}
+
+li {
+  margin-bottom: 0.5rem;
 }
 
 @media screen and (min-width: 801px) {
@@ -89,12 +99,6 @@ h2 {
     flex-direction: column;
     -webkit-box-flex: 1;
     -ms-flex-positive: 1;
-  }
-
-  .bottom {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
   }
 
   header,
@@ -171,20 +175,6 @@ h2 {
     padding: 0 15px;
   }
 
-  .octo {
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: flex;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    justify-content: center;
-  }
-
-  .octo img {
-    height: 230px;
-    max-height: 230px;
-  }
-
   .icon img {
     height: 75px;
   }
@@ -203,21 +193,12 @@ h2 {
   .footer-col > * {
     padding: 2px;
   }
-
-  .bottom-mobile {
-    display: none;
-  }
 }
 
 @media screen and (max-width: 800px) {
   .content {
     margin: 0 auto;
     background-color: #f7f9fa;
-  }
-
-  .bottom {
-    margin: 0 auto;
-    width: 95%;
   }
 
   header,
@@ -246,77 +227,7 @@ h2 {
     display: none;
   }
 
-  .octo {
-    width: 60%;
-    margin: 0 auto;
-  }
-
-  .octo img {
-    width: 100%;
-  }
-
   header nav {
     display: none;
   }
-
-  .bottom {
-    display: none;
-  }
-
-  .bottom-mobile footer {
-    display: table;
-    width: 95%;
-    margin-bottom: 35px;
-  }
-
-  .bottom-mobile footer span {
-    text-align: right;
-    display: table-cell;
-  }
-
-  .bottom-mobile footer txt {
-    display: table-cell;
-  }
-
-  .bottom-mobile footer h2 {
-    margin-top: 20px;
-    margin-bottom: 5px;
-  }
-
-  .bottom-mobile footer p {
-    display: table-row;
-    width: 100%;
-    line-height: 25px;
-  }
-}
-
-.instruction-row,
-li {
-  margin-bottom: 0.5rem;
-}
-
-.fa-li {
-  color: #84c738;
-}
-
-.fa-ul {
-  padding-inline-start: 20px;
-}
-
-span.key {
-  background-color: white;
-  padding: 5px;
-  border-radius: 5px;
-  box-shadow: 0 0 4px 0 rgba(86, 94, 113, 0.2);
-}
-
-.gallery {
-  padding-top: 20px;
-  display: none;
-}
-
-.gallery a {
-  display: block;
-  margin-bottom: 30px;
-  margin-top: 15px;
 }
