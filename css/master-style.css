@@ -104,11 +104,15 @@ h2 {
   }
 
   header,
-  footer {
+  footer,
+  main {
     width: 690px;
     margin: 0 auto;
   }
 
+  main {
+    padding-top: 10px;
+  }
 
   header {
     display: -webkit-inline-box;
@@ -134,9 +138,6 @@ h2 {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    width: 690px;
-    margin: 0 auto;
-    padding-top: 10px;
   }
 
   footer {
@@ -150,7 +151,6 @@ h2 {
     -webkit-box-pack: justify;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    width: 690px;
   }
 
   .logo img {
@@ -230,16 +230,10 @@ h2 {
   footer,
   main {
     width: 95%;
-  }
-
-  header,
-  footer,
-  main {
     margin: 0 auto;
   }
 
   main {
-    margin: 0 auto;
     padding-top: 10px;
     margin-bottom: 30px;
   }
