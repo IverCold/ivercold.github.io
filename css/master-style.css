@@ -1,4 +1,5 @@
-body {
+#ru,
+#en {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -6,10 +7,10 @@ body {
   -webkit-box-direction: normal;
   -ms-flex-direction: column;
   flex-direction: column;
-  min-height: 768px;
   font-family: 'PT Sans', Arial, sans-serif;
   font-size: 16px;
   height: 100%;
+  min-height: 768px;
   margin: 0;
 }
 
@@ -17,7 +18,7 @@ html {
   height: 100%;
 }
 
-.content,
+.top,
 .bottom,
 hr {
   flex-shrink: 0;
@@ -39,6 +40,13 @@ a:focus,
 a:hover {
   color: #157ab5;
   text-decoration: none;
+}
+
+body {
+  font-family: 'PT Sans', Arial, sans-serif;
+  font-size: 16px;
+  height: 100%;
+  margin: 0;
 }
 
 h1,
@@ -66,7 +74,18 @@ h2 {
 }
 
 @media screen and (min-width: 801px) {
-  .content {
+  body {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-height: 768px;
+  }
+
+  .top {
     background-color: #f7f9fa;
     display: -webkit-box;
     display: -ms-flexbox;
@@ -201,7 +220,7 @@ h2 {
 }
 
 @media screen and (max-width: 800px) {
-  .content {
+  .top {
     margin: 0 auto;
     background-color: #f7f9fa;
   }
