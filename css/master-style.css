@@ -104,15 +104,11 @@ h2 {
   }
 
   header,
-  footer,
-  .hint {
+  footer {
     width: 690px;
     margin: 0 auto;
   }
 
-  .hint {
-    padding-top: 10px;
-  }
 
   header {
     display: -webkit-inline-box;
@@ -138,8 +134,9 @@ h2 {
     -webkit-box-direction: normal;
     -ms-flex-direction: column;
     flex-direction: column;
-    width: 740px;
+    width: 690px;
     margin: 0 auto;
+    padding-top: 10px;
   }
 
   footer {
@@ -237,12 +234,12 @@ h2 {
 
   header,
   footer,
-  main,
-  .hint {
+  main {
     margin: 0 auto;
   }
 
-  .hint {
+  main {
+    margin: 0 auto;
     padding-top: 10px;
     margin-bottom: 30px;
   }
