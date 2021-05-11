@@ -1,0 +1,406 @@
+<?xml version="1.0"?>
+<NumeneraDevices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Count="40">
+  <Cypher>
+    <Name>Ablative Thrower</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When activated, creatures within short range are coated with a fine mist of metallic nano particles that coats their clothing (but not flesh), hardening non-flexing portions for about an hour and granting +1 Armor. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a defensive horde during that community action.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Bulky handheld device attached to large tanks and a wide hose</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Acidic Resonator</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, any exposed metallic weapons within short range bead with acid for about an hour, granting affected weapons 1 additional point of damage when used in combat. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the community or horde inflicts +1 damage during the next community-scale combat interaction.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Bulky handheld device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Community Beacon</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, the cypher splits into two pieces. One piece is affixed to a numenera structure, and the other is kept by a character. The character can then use the connection between the two pieces to trigger a spatial warp any time within the next 28 hours. The spatial warp returns the user and all targets within immediate range to a location next to the numenera structure, no matter how far apart the character and the structure were.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Handheld device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Crafter’s Eyes</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Informative images formed on the inner lenses allow the user to automatically succeed on any one crafting subtask whose level is equal to or less than the cypher’s level.</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Thick lenses on frames worn over eyes</Wearable>
+  </Cypher>
+  <Cypher>
+    <Name>Deception Filter</Name>
+    <Level>1d6</Level>
+    <Effect>User cannot knowingly tell a lie for one hour.</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Badge</Wearable>
+    <Internal>Pill, ingestible liquid</Internal>
+  </Cypher>
+  <Cypher>
+    <Name>Destiny Nodule</Name>
+    <Level>1d6</Level>
+    <Effect>For the next 28 hours, each time the tool the nodule is attached to is used to repair, craft, or modify an object or structure, the tool provides the user an additional asset to the task.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Crystal nodule affixed to tool</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Detonation (horde Suppressor)</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>Explodes to release a burst of neurotoxic mist affecting all creatures within long range, hindering all attacks for about an hour. If effectively targeted during a conflict against a ranked horde or community, the affected horde or community inflicts 1 point of damage less than normal during that community action.</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Wristband projector (long range)</Wearable>
+    <Usable>Handheld projector (long range)</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Effort Enhancement</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>For the next 28 hours, the user can access a thin connection to the datasphere to gain a very specific effect. When applying Effort to a task related to a predetermined skill, the user can apply one firee level of Effort. The skills encoded are generally restricted to the following.</Effect>
+    <RollTable>
+      <Row>
+        <Roll>01–10</Roll>
+        <Result>Melee attacks</Result>
+      </Row>
+      <Row>
+        <Roll>11–20</Roll>
+        <Result>Ranged attacks</Result>
+      </Row>
+      <Row>
+        <Roll>21–40</Roll>
+        <Result>Understanding numenera</Result>
+      </Row>
+      <Row>
+        <Roll>41–50</Roll>
+        <Result>Salvaging numenera</Result>
+      </Row>
+      <Row>
+        <Roll>51–60</Roll>
+        <Result>Crafting numenera</Result>
+      </Row>
+      <Row>
+        <Roll>61–70</Roll>
+        <Result>Persuasion</Result>
+      </Row>
+      <Row>
+        <Roll>71–75</Roll>
+        <Result>Healing</Result>
+      </Row>
+      <Row>
+        <Roll>76–80</Roll>
+        <Result>Speed defense</Result>
+      </Row>
+      <Row>
+        <Roll>81–85</Roll>
+        <Result>Intellect defense</Result>
+      </Row>
+      <Row>
+        <Roll>86–90</Roll>
+        <Result>Swimming</Result>
+      </Row>
+      <Row>
+        <Roll>91–95</Roll>
+        <Result>Riding</Result>
+      </Row>
+      <Row>
+        <Roll>96–00</Roll>
+        <Result>Sneaking</Result>
+      </Row>
+    </RollTable>
+    <Source>Destiny</Source>
+    <Wearable>Adhesive patch that activates when slapped</Wearable>
+    <Usable>Injector</Usable>
+    <Internal>Pill, ingestible liquid</Internal>
+  </Cypher>
+  <Cypher>
+    <Name>Emotion Smoother</Name>
+    <Level>1d6</Level>
+    <Effect>For the next hour, the character loses access to the part of their mind that registers and produces emotion. This allows the user to experience situations they might not otherwise be able to handle, to fairly weigh options without emotional shortcuts, or to tell completely convincing lies because they are no longer generating micro-expressions or other telling responses due to emotional inconsistency.</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Adhesive patch that activates when slapped</Wearable>
+    <Usable>Injector</Usable>
+    <Internal>Pill, ingestible liquid</Internal>
+  </Cypher>
+  <Cypher>
+    <Name>Farspeaker</Name>
+    <Level>1d6</Level>
+    <Effect>For the next ten minutes, the user can be heard at any distant location that they can see, as long as nothing physically blocks the intervening space. They can also hear sounds made in return. The area in which the user can speak and hear is up to a short distance across in the target location.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Handheld device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Gravity Changer</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Once placed, the plates change the direction of gravity within an area up to a short distance in diameter. The gravitic warp could be continuous across the affected area, or it could bend and curve, changing directions within the area up to a number of times equal to the level of the cypher. Once gravity is warped, it cannot be changed and persists for 28 hours.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Metal plates</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Harmony Lamp</Name>
+    <Level>1d6</Level>
+    <Effect>For an hour after activation, the cypher emits a combination of colored light, sound, odor, and healing nanobots that permeate an area up to a short distance across. All positive interaction tasks made in the area gain an asset. Creatures who’ve made up their minds about a topic may be open to revisiting the issue. PCs add +1 to recovery rolls made in the area.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Crystal orb, nodule, disc</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Health Resonator</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, creatures within short range each gain 2 points of health (or 2 points to Might for PCs) for about an hour. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force has +2 health during that community action.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Bulky handheld device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Hiding Alarm Nodule</Name>
+    <Level>7</Level>
+    <Effect>For the next 28 hours, each time the installation to which the nodule is attached is struck hard enough to inflict damage (but not more than once per round), the structure or installation goes out of phase for one hour. The installation must ft in a cube up to a short distance wide, tall, and deep. All contents of the out-of-phase structure also go out of phase, unless they somehow leave the structure.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Crystal nodule affixed to installation</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Immobilizer</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The user directs one end of the cypher at a target within short range, which is then subject to an attack by a projected mass of rapidly expanding and hardening foam. The target is held immobile in the hardened mass of foam for one hour, after which the mass turns to powder.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Handheld device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Infrastructure Drill</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The user attaches this cypher to a wall or other structure. On the following round, it drills into the object and keeps going beneath the surface for the next hour, creating a series of tunnels that weaken the integrity of the structure and connecting structures. This decreases the level of all commonplace structures connected to the initial structure within long range and inflicts 3 points of damage to a ranked community’s infrastructure.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Large sphere with a thick screw protrusion</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Installation Enhancer</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When securely attached to an installation, it increases the level of the entire installation up to the level of the cypher for about one hour (no effect on installations of a level equal to or higher than the cypher).</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Bulky device and several metal plates</Wearable>
+  </Cypher>
+  <Cypher>
+    <Name>Installation Mover</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When securely attached to an installation, it allows the entire installation to be moved to another location within very long range (which is normally a difficult task). The transfer requires that the user be able to push the installation to the new location, but for the duration of about an hour, the installation seems almost weightless. During the transfer, the installation does not function.</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Bulky device and several metal plates</Wearable>
+  </Cypher>
+  <Cypher>
+    <Name>Instant Item</Name>
+    <Level>1d6</Level>
+    <Effect>This cypher has a two-stage activation. The first stage occurs when the wearer keys an object that they can hold in one hand to the cypher. The object falls into a subspace pocket and remains indefinitely or until a user activates the cypher a second (and final) time, immediately retrieving the stored item.</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Bulky amulet</Wearable>
+  </Cypher>
+  <Cypher>
+    <Name>Instant Wall</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>With the addition of water and air, the small device expands into an immobile plane up to 10 feet (3 m) tall, 30 feet (9 m) long, and 2 feet (60 cm) thick. It is made from a form of shapestone and is permanent and immobile once created. If an instant wall is tactically placed, the GM may decide that it grants a ranked community 1 additional point of infrastructure.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Handheld device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Instant Workshop</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This small device expands into a workbench that fixes itself in place. The workbench provides an adjustable-height work surface with light and a variety of attached tools suitable for working with commonplace objects, numenera objects, and structural components. The workshop enables crafting tasks by providing the appropriate tools and workspace, though it does not provide shelter from the elements. The workbench and all its components are made from a form of shapemetal, and the workbench is permanent and immobile once created.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Handheld device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Iotum Stabilizer</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When used as part of a salvaging task, the field emitted by the cypher stabilizes all iotum within short range so that an additional 1d6 units of iotum are recovered. The additional iotum must be of the same kind that has already been discovered, and the iotum must be of a level equal to or less than the level of this cypher.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Bulky handheld device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Iotum Upgrader</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When attached to 1 unit of iotum, that iotum can then be used as if it were a unit of iotum 1 level higher in a crafting task. For example, an upgraded unit of io (level 1) could be used as if it were a unit of responsive synth (level 2) for the purpose of one crafting task, or a unit of quantium (level 5) could be used as if it were a unit of protomatter (level 6).</Effect>
+    <Source>Destiny</Source>
+    <Usable>Bulky handheld device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Iron Wind Resistance</Name>
+    <Level>7</Level>
+    <Effect>Grants the user two assets to defense tasks made to resist the effects of an instance of the iron wind (and attempts to resist any ongoing effects instigated by previous iron wind contact, if any) for the next 28 hours.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Injector</Usable>
+    <Internal>Pill, ingestible liquid</Internal>
+  </Cypher>
+  <Cypher>
+    <Name>Mechanical Wright</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>Crafts one numenera object or structure whose level can be no higher than the mechanical wright’s level minus 3 (minimum level 1), as long as a numenera plan is provided to work from. Crafting occurs over the course of the next 28 hours, regardless of the target device’s level. Components, including parts and iotum, are contributed from the mechanical wright, which becomes completely integrated into the new numenera device over the course of the crafting process.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Complex device</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Object Replicator</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>Replicates three additional copies of most objects whose level is equal to or less than this cypher’s level. A unit of iotum can be replicated, but not functioning cyphers, artifacts, or similar devices.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Crystal nodule affixed to object that weighs up to 10 pounds (5 kg)</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Organ Factory</Name>
+    <Level>1d6</Level>
+    <Effect>Over the course of 28 hours, the user grows an external, fully viable living organ or limb. This is a somewhat painful process that dazes the user for the last half of the process. The completely grown organ or limb can be transferred to another creature simply by placing it on their body and waiting a few rounds. If the recipient creature has sustained damage to the same kind of organ or limb, the newly grown one replaces it over the course of about a minute (during which time the recipient creature is stunned). Otherwise, the duplicate organ or limb withers and dies. Duplicate organs must be used within one week. All force-grown organs and limbs are sealed within a partially living, protective, translucent caul. The cypher can produce one of the following, chosen by the user at the time of the cypher’s use:</Effect>
+    <RollTable>
+      <Row>
+        <Roll>01–04</Roll>
+        <Result>Heart</Result>
+      </Row>
+      <Row>
+        <Roll>05–08</Roll>
+        <Result>Lung</Result>
+      </Row>
+      <Row>
+        <Roll>09–12</Roll>
+        <Result>Brain</Result>
+      </Row>
+      <Row>
+        <Roll>13–16</Roll>
+        <Result>Blood</Result>
+      </Row>
+      <Row>
+        <Roll>17–20</Roll>
+        <Result>Ribs</Result>
+      </Row>
+      <Row>
+        <Roll>21–25</Roll>
+        <Result>Eye</Result>
+      </Row>
+      <Row>
+        <Roll>26–30</Roll>
+        <Result>Ear</Result>
+      </Row>
+      <Row>
+        <Roll>31–35</Roll>
+        <Result>Hand</Result>
+      </Row>
+      <Row>
+        <Roll>36–45</Roll>
+        <Result>Foot</Result>
+      </Row>
+      <Row>
+        <Roll>46–55</Roll>
+        <Result>Full arm</Result>
+      </Row>
+      <Row>
+        <Roll>56–65</Roll>
+        <Result>Full leg</Result>
+      </Row>
+      <Row>
+        <Roll>66–75</Roll>
+        <Result>Nose</Result>
+      </Row>
+      <Row>
+        <Roll>76–85</Roll>
+        <Result>Mouth</Result>
+      </Row>
+      <Row>
+        <Roll>86–95</Roll>
+        <Result>Stomach</Result>
+      </Row>
+      <Row>
+        <Roll>96–00</Roll>
+        <Result>Intestines</Result>
+      </Row>
+    </RollTable>
+    <Source>Destiny</Source>
+    <Usable>Injector</Usable>
+    <Internal>Pill, ingestible liquid</Internal>
+  </Cypher>
+  <Cypher>
+    <Name>Phasing Gloves</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>These gloves can selectively phase through solid objects whose level is no higher than the cypher level in a fashion that allows the wearer to see what they are touching, providing an asset for anyone attempting to repair a disabled object or structure. Someone wearing the gloves could also search behind walls and under floors using the gloves. The gloves retain their phasing ability for up to one minute per cypher level. If used as part of a salvaging task, the gloves grant two assets.</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Gloves</Wearable>
+  </Cypher>
+  <Cypher>
+    <Name>Psychic Defense Nodule</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>For the next 28 hours, each time the wearer of the nodule is affected by an attack that attempts to sway their actions or beliefs or that inflicts Intellect damage, they instead go into stasis for one round and remain unaffected. While in stasis, they also lose their next turn. Attacks against a wearer in stasis are made as if the wearer were protected by a force field whose level is equal to the cypher’s level.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Crystal nodule affixed to side of head</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Rage Thrower</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, creatures within short range are coated with a fine mist of insinuating nano particles that enter their blood and stimulate their behavior for about an hour, making them more violent but less able to feel pain. This grants them +1 Armor but an inability to use Effort from their Intellect Pool. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a marauding horde during that community action.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Bulky handheld device attached to large tanks and a wide hose</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Retriever</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>These cyphers always come in at least two parts: a nodule and some kind of retrieving device. The nodule can be attached to an item your size or smaller. When the cypher is activated, that item is teleported to the device.</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Glove of synth and small nodule</Wearable>
+    <Usable>Small handheld device and small nodule</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Salvage Graft</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When applied to a creature’s head, the disk immediately unleashes microfilaments that enter the brain. Within five minutes, the creature is trained in tasks related to salvaging numenera. If the creature is already trained or specialized in salvaging numenera, this graft has no effect. Once the graft attaches, the effect is permanent, and this device no longer counts against the number of cyphers that a PC can bear, but the disc remains.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Small metallic disc</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Shapemetal</Name>
+    <Level>6</Level>
+    <Effect>This metallic clay can be shaped and greatly expanded to create individual tools or objects such as a hammer, a ladder, or a basic structure such as a wall, bench, floor, staircase, and so on, as long as the total volume created could ft in a 10-foot (3 m) cube. Once formed, the structure or objects are permanent.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Canister containing a silvery, shapeable clay</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Slash-retardant Spray</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>For the next 28 hours, walls and structures sprayed with these repairing nanites are treated as if 1 level higher. If an hour is spent spraying down the outer walls and defense structures of a ranked community, that community gains +1 Armor during any conflict that happens over the next 28 hours.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Bulky handheld device attached to large tanks and a wide hose</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Stealth Thrower</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, creatures within short range are coated with a fine mist of dull nano particles that render them more difficult to pick out from their surroundings for about an hour, granting them an asset to stealth tasks. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a stealthy horde during that community action.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Bulky handheld device attached to large tanks and a wide hose</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Summoning Alarm Nodule</Name>
+    <Level>6</Level>
+    <Effect>For the next 28 hours, each time the structure or installation to which the nodule is attached is struck hard enough to inflict damage (but not more than once per round), whoever attached the nodule is teleported from any location within very long range to a location standing next to the installation.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Crystal nodule affixed to installation</Usable>
+  </Cypher>
+  <Cypher>
+    <Name>Sustenance Implant</Name>
+    <Level>1d6</Level>
+    <Effect>For the next number of days equal to the cypher level, the wearer feels no ill effects from not eating or from overeating. They also gain an asset to any defense tasks to withstand poison. A sustenance implant can be used for two radically different situations. The first is when someone expects to face extreme privation. The other is when someone expects to indulge beyond their normal capacity.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Injector</Usable>
+    <Internal>Pill, ingestible liquid</Internal>
+  </Cypher>
+  <Cypher>
+    <Name>Trail Blazer</Name>
+    <Level>1d6</Level>
+    <Effect>For the next 28 hours, each time the boot touches down on solid ground, it deposits a patch of nanites that mark the area with a symbol. At any time before the duration expires, the wearer (and up to one other person that can be carried along) can use an action to instantly teleport back to any of these symbols. The teleportation effect brings the cypher’s duration to an end.</Effect>
+    <Source>Destiny</Source>
+    <Wearable>Single boot with attached device</Wearable>
+  </Cypher>
+  <Cypher>
+    <Name>Transdimensional Sense</Name>
+    <Level>1d6</Level>
+    <Effect>The user can see out-of-phase, invisible, and transdimensional creatures, objects, and sources of energy within long range for 28 hours. If ingested by a creature who attempts to salvage a particular kind of iotum during a salvage task, the effects of this cypher grant the user one firee level of Effort if they first use a level of Effort on that task.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Injector</Usable>
+    <Internal>Pill, ingestible liquid</Internal>
+  </Cypher>
+  <Cypher>
+    <Name>Travel Bubble</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>The user and any additional targets that can ft into a space an immediate distance in diameter are encapsulated in a spherical force field for up to ten hours or until the user collapses it. The sphere hovers at all times and moves as the user wishes vertically or horizontally up to a short distance each round. If the sphere is destroyed or collapsed, whatever it contains falls to the ground.</Effect>
+    <Source>Destiny</Source>
+    <Usable>Handheld device</Usable>
+  </Cypher>
+</NumeneraDevices>

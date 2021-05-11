@@ -1,0 +1,617 @@
+<?xml version="1.0"?>
+<NumeneraDevices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Count="75">
+  <Artefact>
+    <Name>Amber Casement</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>When activated, it solidifes the air in a 10-foot (3 m) cube of space, the center of which must be within short range of the device. The air is turned into an amberlike substance, and those trapped in it will likely suffocate or starve.</Effect>
+    <Source>Discovery</Source>
+    <Form>Series of short, rounded tubes and hoses about 12 inches (30 cm) long</Form>
+    <Depletion>1–4 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Amulet Of Safety</Name>
+    <Level>1d6</Level>
+    <Effect>Once the amulet is keyed to a specific numenera weapon, the weapon cannot activate to harm the wearer. The amulet’s level must be at least as high as the weapon’s level.</Effect>
+    <Source>Discovery</Source>
+    <Form>Plain metallic disk on a chain</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Analyzing Shield</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The bearer can see through this shield, and it has a display that analyzes the best place to strike a foe viewed through it. The bearer can use points from their Intellect Pool (rather than the more typical Might or Speed) to increase the damage of their attacks by 3 additional points per level of Effort.</Effect>
+    <Source>Discovery</Source>
+    <Form>Transparent synth shield</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Armored Flesh</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When placed on the wearer’s flesh, the armor grafts on permanently. It provides Armor equal to half its level (round up) but does not hinder movement or tire the wearer in any way (no Speed cost increase for applying Effort). On the contrary, the wearer’s maximum Might Pool is permanently increased by 2. However, the benefts come at a cost. Fibrous tendrils extend into the wearer’s flesh and eventually reach the spine and brain, inflicting damage in the form of 2 points of permanent maximum Intellect Pool reduction. This process takes one week. The lost points cannot be regained.</Effect>
+    <Source>Discovery</Source>
+    <Form>Appears to be a collection of organic armored plates, like a carapace or very large fsh scales</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Automated Cook</Name>
+    <Level>1d6</Level>
+    <Effect>This automaton prepares food on command. It must be given raw materials (water and organic compounds), but with those it can prepare and serve a hot, nutritious, delicious meal.</Effect>
+    <Source>Discovery</Source>
+    <Form>Small metal and synth cube that has metallic arms and tools</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Battle Armor</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This armor is far hardier yet somewhat lighter than Ninth World smithing techniques could ever manage with steel. It is heavy armor but grants an additional +2 Armor (+3 Armor if the artifact is level 9 or higher) in addition to the 3 Armor that heavy armor usually provides. Further, it is entirely sealed and has its own eternally renewed internal atmosphere, which completely protects against poison gases and allows the wearer to operate in an airless environment. The suit’s Armor rating also applies to damage that often isn’t reduced by typical armor, such as heat or cold damage (but not Intellect damage). Battle armor and battlesuits can be troublesome due to the high Armor totals that a PC can attain. GMs can rule, if they wish, that the Armor rating of these suits degrades over time after sustaining a great deal of damage. (The GM, in fact, can do that with any armor.) Doing so likely comes as part of a GM intrusion.</Effect>
+    <Source>Discovery</Source>
+    <Form>Full suit of synth and steel armor, covering the entirety of the wearer’s body</Form>
+    <Depletion>— (At any time, the GM can rule that the armor has sustained enough damage that the atmosphere and environmental protections cease, but the suit still functions as armor.)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Battlesuit</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This armor is far hardier yet somewhat lighter than Ninth World smithing techniques could ever manage with steel. It is heavy armor but grants an additional +3 to Armor in addition to the 3 Armor that heavy armor usually offers. Further, it is entirely sealed and has its own eternally renewed internal atmosphere, which completely protects against poison gases and allows the wearer to operate in an airless environment. The suit’s Armor rating also applies to damage that often isn’t reduced by typical armor, such as heat or cold damage (but not Intellect damage). In addition, the wearer gains +1 to their Might Edge and +5 to their Might Pool (+7 to their Might Pool if the artifact is level 9 or higher). Battle armor and battlesuits can be troublesome due to the high Armor totals that a PC can attain. GMs can rule, if they wish, that the Armor rating of these suits degrades over time after sustaining a great deal of damage. (The GM, in fact, can do that with any armor.) Doing so likely comes as part of a GM intrusion.</Effect>
+    <Source>Discovery</Source>
+    <Form>Full suit of synth and steel armor, covering the entirety of the wearer’s body</Form>
+    <Depletion>— (At any time, the GM can rule that the armor has sustained enough damage that the atmosphere and environmental protections cease and the Might enhancements no longer function, but the suit still functions as armor.)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Bounding Boots</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The boots negate gravity enough to make jumping and running easier. The boots are an asset for jumping and running (easing by two steps for one of these skills if the artifact is level 6 or higher).</Effect>
+    <Source>Discovery</Source>
+    <Form>Ninth World-made leather boots with small metal and synth devices worked into the sides</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Brain Bud</Name>
+    <Level>1d6</Level>
+    <Effect>The pod grafts onto any living host (must be near the brain) and injects complex chemicals that greatly improve brain activity. This increases the host’s maximum Intellect Pool by 5 (+7 if the artifact is level 6 or higher).</Effect>
+    <Source>Discovery</Source>
+    <Form>Organic pod, almost like a small, hemispherical bit of fruit. Once grafted to a host, it takes on the appearance of the host’s flesh.</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Carryall</Name>
+    <Level>1d6</Level>
+    <Effect>This device comes with a small module that can be worn on a belt. Rolling along on its wheels, the chest attempts to follow within immediate range of the module (though it can be directed to remain where it is). It moves a short distance each round. The chest can come to the module from a range of up to 10 miles (16 km) away (20 miles [32 km] if the artifact is level 6 or higher). The interior of the chest is mostly hollow and can hold up to 5,000 pounds (2,300 kg). The artifact must be newly activated each day.</Effect>
+    <Source>Discovery</Source>
+    <Form>Metallic chest with tracked wheels on either side</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Cellular Disruptor</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This device emits a faint short-range beam that affects only organic creatures and materials. Living targets hit by the beam move one step down the damage track. Nonliving organic targets are likely destroyed. This device is a rapid-fire weapon and thus can be used with the Spray or Arc Spray abilities that some characters have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Discovery</Source>
+    <Form>Small handheld device with a few simple controls</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Chameleon Cloak</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>When activated, the device takes on the colors and textures of everything around the wearer for ten minutes (one hour if the artifact is level 9 or higher). This eases hiding and sneaking tasks by two steps.</Effect>
+    <Source>Discovery</Source>
+    <Form>Very thin, lightweight, transparent cloth formed into a crude cloak</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Chiurgeon Sphere</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device comes with a small module that can be worn on a belt. Floating along, the automaton attempts to follow within immediate range of the module (though it can be directed to remain where it is). It moves a short distance each round. The sphere can come to the module from a range of up to 10 miles (16 km) away. If the module is worn by an organic creature and that creature takes damage, the automaton moves to repair the damage with cellular regenerating tools that restore 1d6 – 2 points per round (meaning that if a 1 or 2 is rolled, no damage is repaired that round). This requires no action on the part of the creature being healed. Each day, the automaton can attempt to render aid a number of times equal to its level. The artifact must be newly activated each day.</Effect>
+    <Source>Discovery</Source>
+    <Form>Small, spherical automaton about 8 inches (20 cm) in diameter</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Cohesion Stabilizer</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>Any attempt to affect the integrity of the wearer’s physical form by disintegrating it, encasing it, changing its phase, teleporting it, or otherwise disrupting it fails if the wearer wishes it to fail. Doing so is not an action on the wearer’s part. The artifact’s level must be equal to or higher than the effect’s level.</Effect>
+    <Source>Discovery</Source>
+    <Form>Wristband-mounted device with a few simple controls</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Cypher Bag</Name>
+    <Level>1d6</Level>
+    <Effect>This bag can contain up to one cypher per artifact level, as long as each is no larger than a typical handheld device. These cyphers do not count against a character’s limit. Cyphers in a cypher bag cannot be used while in the bag.</Effect>
+    <Source>Discovery</Source>
+    <Form>Synth bag</Form>
+    <Depletion>1 in 1d20 (check each time a cypher is added to the bag)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Dimensional Armor</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This armor is far hardier yet somewhat lighter than Ninth World smithing techniques could ever manage with steel. It is heavy armor but grants an additional +2 to Armor in addition to the 3 Armor that heavy armor usually provides. Further, when activated, it shifts the wearer’s phase randomly for ten minutes (one hour if the artifact is level 9 or higher), which hinders attacks on the wearer by two steps. This shifting effect is negated by special multidimensional weapons or attacks.</Effect>
+    <Source>Discovery</Source>
+    <Form>Full suit of synth and steel armor, covering the entirety of the wearer’s body</Form>
+    <Depletion>1 in 1d10 (for the phase shifting ability, but after depletion, the suit still functions as armor)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Disruption Blade</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This weapon functions as a normal sword (or, rarely, an axe or a cleaver). However, if the wielder uses an action to activate it, the weapon radiates a field of molecular disrupting energy for one round. During that round, if it scores a hit, it inflicts an additional 10 points of damage. If the artifact is level 6 or higher, it is an asset on the attack roll.</Effect>
+    <Source>Discovery</Source>
+    <Form>Sword or similar bladed weapon with devices affixed to the blade and hilt</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Drill Spear</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This spear functions as a normal spear. If the wielder uses it to attack a foe, upon a successful hit the wielder decides whether to activate the weapon. Upon activation, the wielder lets go of the spear and it drills into the foe, inflicting an additional 3 points of damage (5 points if the artifact is level 6 or higher). However, the wielder then is no longer holding the spear. The drilling function works only in melee combat because activation occurs after the foe is struck.</Effect>
+    <Source>Discovery</Source>
+    <Form>Wooden shaft with an affixed spearhead that appears to be a metallic drill</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Ecstasy Paralyzer</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This long-range weapon fires a beam of energy that inflicts no damage. Instead, it affects the target’s mind, flling them with such pleasure that they lose their next turn. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Discovery</Source>
+    <Form>Handheld device with a few controls</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Exploding Arrow</Name>
+    <Level>1d6</Level>
+    <Effect>The arrow explodes when it strikes something, inflicting its level in damage to all within immediate range. One advantage of an exploding arrow over a detonation cypher is that the arrow doesn’t count toward your cypher limit.</Effect>
+    <Source>Discovery</Source>
+    <Form>Arrow with a tiny metallic device attached to it</Form>
+    <Depletion>Automatic</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Fearmaker</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>It takes two rounds to assemble and set up this device, and then it takes an action to activate. When activated, the fearmaker affects the minds of all thinking creatures within long range in a 45-degree arc. Those affected are instilled with terror, making them drop what they’re holding and do one of the following:</Effect>
+    <RollTable>
+      <Row>
+        <Roll>01–50</Roll>
+        <Result>Flee for 1d6 rounds</Result>
+      </Row>
+      <Row>
+        <Roll>51–90</Roll>
+        <Result>Cower (losing their actions) for 1d6 rounds</Result>
+      </Row>
+      <Row>
+        <Roll>91–00</Roll>
+        <Result>Faint, remaining unconscious for one minute (or until roused by vigorous action)</Result>
+      </Row>
+    </RollTable>
+    <Source>Discovery</Source>
+    <Form>4-foot (1 m) tall collapsible tripod with a metal cone at the top</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Fiery Hellmaker</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>It takes two rounds to assemble and set up this device, and then it takes an action to activate. When activated, the disk fires a barrage of fery long-range missiles in all directions. Everyone and everything within long range suffers damage equal to the artifact level, unless they are within 3 feet (1 m) of the device and keep their heads down.</Effect>
+    <Source>Discovery</Source>
+    <Form>7-foot (2 m) tall collapsible metal stand with a large metal disk at the top and a control box in the center</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Filtration Straw</Name>
+    <Level>1d6</Level>
+    <Effect>Water that passes through this tube is purifed. Most liquids other than water drawn through the tube come out as water (or mostly water). It neutralizes poisons, diseases, and other contaminants up to the artifact’s level.</Effect>
+    <Source>Discovery</Source>
+    <Form>Long, narrow synth tube</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Food Scanner</Name>
+    <Level>1d6</Level>
+    <Effect>When activated and pointed at food, this device sounds an alarm if the food has any contaminants or poisonous substances.</Effect>
+    <Source>Discovery</Source>
+    <Form>Handheld device with a number of controls and a wide dish at one end</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Food Tube</Name>
+    <Level>1d6</Level>
+    <Effect>The device produces a grey paste that provides enough nutrition for one person for one day (two people per day if the artifact is level 5 or higher). Most people report that the paste from a food tube tastes quite awful.</Effect>
+    <Source>Discovery</Source>
+    <Form>Synth tube</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Force Dome</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>It takes two rounds to assemble and set up this device, and then it takes an action to activate. When activated, this device projects a powerful force field dome with a diameter of short range. The field is immobile, impermeable, and impenetrable until it is brought down by a force (such as a device or creature) of a higher level. Otherwise, it lasts for 28 hours, during which time it has enough air to support six humans.</Effect>
+    <Source>Discovery</Source>
+    <Form>4-foot (1 m) tall collapsible tripod with a large glass globe at the top and a control box in the center</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Healing Sword</Name>
+    <Level>1d6</Level>
+    <Effect>The broadsword blade is a Ninth World-forged addition to the numenera hilt (which likely was not a sword hilt originally). When squeezed properly, the hilt injects a healing substance into the wielder’s body, restoring 1d6 points of any stat Pool they wish (1d6 + 2 points if the artifact is level 5 or higher). If the wielder is using the sword in battle, using the healing function does not require an action.</Effect>
+    <Source>Discovery</Source>
+    <Form>Typical sword with an odd-looking synth hilt</Form>
+    <Depletion>1 in 1d10 (for the healing ability, but after depletion, it still functions as a sword)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Hoop Staff</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>Holographic images flicker to life in the hoop, warning of danger. The images are representative of the danger in some fashion. For example, approaching enemies look like threatening, amorphous creatures, and dangerous weather might look like lightning bolts coming from a cloud. At artifact level 8 and higher, the warnings come earlier and the images more accurately represent the threat. The GM decides when and how the staff warns of danger. For inexplicable reasons, sometimes it fails to deliver a warning. (Thus, it’s all right if the GM forgets about the staff occasionally.)</Effect>
+    <Source>Discovery</Source>
+    <Form>Long wooden staff with a 6-inch (15 cm) bronze hoop attached to the tip. The staff is of recent creation, but the hoop is not.</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Hover Belt</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The wearer can float up into the air or back down again at a rate of 20 feet (6 m) per round. Using the complex controls, the wearer can move horizontally at a much slower pace (5 feet [1.5 m] per round) in a much less stable or controlled trajectory. At artifact level 6 or higher, the wearer floats twice as fast, vertically or horizontally. The belt works for ten minutes per use.</Effect>
+    <Source>Discovery</Source>
+    <Form>Odd-ftting metallic mesh belt that has a metal box attachment with dial controls</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Hover Square</Name>
+    <Level>1d6</Level>
+    <Effect>When unfolded and activated, this piece of synth forms a platform that moves laterally as directed by someone atop it. The platform moves up to short range in a round. It can hold up to 5,000 pounds (2,300 kg), or 8,000 pounds (3,600 kg) if the artifact is level 5 or higher.</Effect>
+    <Source>Discovery</Source>
+    <Form>Folded synth square that is 1 foot by 1 foot (30 cm by 30 cm) and unfolds into a square that is 8 feet by 8 feet (2.5 m by 2.5 m)</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Imager</Name>
+    <Level>1d6</Level>
+    <Effect>This device captures a perfect image of a nearby scene. It can store thousands of images, and any stored image can be shown on the synth panel. When the device is depleted, all stored images are lost.</Effect>
+    <Source>Discovery</Source>
+    <Form>Small, rectangular handheld device with a clear synth panel</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Instant Bridge</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This device fires a cable with a powerful magnet up to long range. When the magnet strikes a metal surface, it affixes itself, and the taut cable extends into a narrow bridge about 3 feet (1 m) wide. The device can then be affixed to another metallic surface to anchor the bridge. The bridge can support 1,000 pounds (450 kg), or 2,000 pounds (900 kg) if the artifact is level 6 or higher. When deactivated, the magnets let go and the cable retracts. An instant bridge could, in theory, be used to grab a metallic object and pull it toward the user. The object would need to weigh less than the user. The action would also be hindered by two steps because the device is not meant for such precision work.</Effect>
+    <Source>Discovery</Source>
+    <Form>Handheld device with a few controls</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Kinetic Shield</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When a physical projectile such as an arrow, a thrown knife, or a bullet-like missile comes within 4 inches (10 cm) of the wearer’s body, a powerful energy field activates automatically and attempts to slow down or deflect the projectile. The wearer’s Speed defense against such attacks is eased (eased by two steps if the artifact is level 6 or higher). If the projectile still hits the wearer, the field adds 1 to Armor against the attack.</Effect>
+    <Source>Discovery</Source>
+    <Form>Wristband or armband with a small metallic device attached</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Launcher</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>This device launches anything about the size of a fst or smaller with great force to very long range. An inert object, such as a rock, inflicts the artifact’s level in damage. A detonation cypher (or similar explosive) can also be launched to activate on impact.</Effect>
+    <Source>Discovery</Source>
+    <Form>Metal tube with a set of winding synth tubes wrapped around it</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Light Spike</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When the glove is activated, a spike of solid, red-hot energy is emitted from the back of the wearer’s hand. This spike can be used as a melee weapon that inflicts damage equal to the artifact’s level. It lasts for ten minutes. If the wielder increases the spike’s power (which requires a separate action and an additional depletion roll), the damage increases by 1 point.</Effect>
+    <Source>Discovery</Source>
+    <Form>Fingerless glove of semirigid synth</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Liquid Armor</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When activated, a watery liquid sprays out of the cylinders on the belt. An electric field shapes this smart fluid, causing it to form a protective shell around the wearer, not unlike full body armor. The fluid becomes immediately (but selectively) rigid when struck, providing +3 to Armor, but it has none of the penalties associated with armor. It can be used over the top of light armor, adding to its protection, but medium or heavy armor disrupts the electric field’s shaping attempts. The liquid armor lasts for four hours (six hours if the artifact is level 8 or higher) or until deactivated.</Effect>
+    <Source>Discovery</Source>
+    <Form>Adamant silk belt with two metallic cylinders attached to it</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Liquid Sword</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When activated, a watery liquid sprays out of the cylinder on the wristband. An electric field shapes this smart fluid, causing it to take the form of a broadsword. The fluid becomes immediately rigid and incredibly sharp, and it can be used as a normal sword that inflicts 1 additional point of damage. The sword lasts for four hours (six hours if the artifact is level 8 or higher) or until deactivated.</Effect>
+    <Source>Discovery</Source>
+    <Form>Adamant silk wristband with a metallic cylinder attached to it</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Living Armor Sheath</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When worn over normal skin, this organic material adheres and conforms to the creature’s body shape. The artifact eases Might defense tasks to resist poison and disease (eases by two steps if the artifact is level 6 or higher). Further, the wearer has +2 to Armor, but the artifact has none of the penalties associated with armor. Armor can’t be worn over the living sheath because it’s too bulky.</Effect>
+    <Source>Discovery</Source>
+    <Form>When not affixed to a creature, this looks like a mass of heavy fabric. On a creature, it looks like heavy, leathery flesh.</Form>
+    <Depletion>1 in 1d100 (checked each day while the sheath is worn)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mephitic Staff</Name>
+    <Level>1d6</Level>
+    <Effect>When activated (which is not an action), the tip of the staff releases a concentrated, immediate-range blast of noxious fumes when it is struck against a solid creature or object. An affected creature loses its next turn to coughing and choking.</Effect>
+    <Source>Discovery</Source>
+    <Form>Short metal-and-glass tube ftted onto a well-made wooden quarterstaff</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Metabolism Bud</Name>
+    <Level>1d6</Level>
+    <Effect>The pod grafts onto any living host (usually near the brain or spine) and injects chemicals that boost the creature’s metabolism. This increases the host’s maximum Speed Pool by 5 (by 7 if the artifact is level 5 or higher).</Effect>
+    <Source>Discovery</Source>
+    <Form>Organic pod, almost like a small, hemispherical bit of fruit. Once grafted to a host, it takes on the appearance of the host’s flesh.</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mind Imager</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device shows a visual image of what a creature is thinking. The affected creature need not be conscious.</Effect>
+    <Source>Discovery</Source>
+    <Form>Handheld device with a synth panel screen and wires that must be affixed to the head of a creature</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Molecular Bonder</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device fuses two objects together with a bond strength equal to its level. If flesh bonded in this way (whether to an object or to other flesh) is torn apart, it suffers damage equal to the device’s level.</Effect>
+    <Source>Discovery</Source>
+    <Form>Handheld device with a number of controls and a pointed end</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Multidimensional Blade</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, the blade exists on many levels of reality at once. It inflicts damage equal to its level, and it harms creatures (such as an abykos) that can be affected only by transdimensional effects. Once activated, the blade is active for one minute.</Effect>
+    <Source>Discovery</Source>
+    <Form>Short, straight bladed weapon with a large haft that has a few controls on it</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Murder Globe</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>It takes two rounds to assemble and set up this device, and then it requires an action to activate. When activated, this device does nothing for five rounds. After that, if anything larger than a mouse comes within long range of it, the globe fires a powerful projectile at that target. The projectile inflicts damage equal to the artifact level. The device can attack up to ten times per round, but it never attacks the same target more than once per round. It remains on watch for 28 hours or until it has made one hundred attacks, whichever comes first.</Effect>
+    <Source>Discovery</Source>
+    <Form>3-foot (1 m) tall collapsible metal tripod with a large metal globe at the top. The globe has a number of holes in it, but it is not hollow.</Form>
+    <Depletion>Automatic</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Nano-needler</Name>
+    <Level>1d6</Level>
+    <Effect>This device projects a single needle—far smaller in width than a human hair—up to long range (very long range if the artifact is level 5 or higher). The needle inflicts no damage, but it can carry poison or disease, and the injection is so tiny that the victim doesn’t feel it. The needle can also penetrate (ignore) up to 4 Armor. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Discovery</Source>
+    <Form>Small handheld device with a tiny tube</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Needler</Name>
+    <Level>1d6</Level>
+    <Effect>This device projects a single needle (no damage), a spray of needles (1 point of damage), or a wide spray of needles (no damage, but it affects everyone within an immediate area)—user’s choice. In each case, the needles can affect anyone within long range (very long range if the artifact is level 5 or higher). The needles can be poisoned, in which case even those who don’t take damage must make Might defense rolls to avoid being poisoned. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, ignoring “rounds of ammo” costs and not requiring additional depletion rolls for using it as a rapid-fire weapon.</Effect>
+    <Source>Discovery</Source>
+    <Form>Small handheld device with a tiny tube</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Nightvision Goggles</Name>
+    <Level>1d6</Level>
+    <Effect>Outside, the wearer can see at night as if it were daylight. Inside, the wearer can see in pitch darkness up to short range (long range if the artifact is level 5 or higher).</Effect>
+    <Source>Discovery</Source>
+    <Form>Pair of synth goggles with dark, protruding lenses</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Phasing Piton</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, the piton phases and can be inserted up to 6 inches (15 cm) into almost any material. When deactivated, the piton becomes solid again and remains embedded solidly in the material. If used as a weapon (requiring one action to activate and insert, and a second action to deactivate), the piton inflicts 6 points of damage.</Effect>
+    <Source>Discovery</Source>
+    <Form>Metallic spike with a single toggle stud</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Plant Jar</Name>
+    <Level>1d6</Level>
+    <Effect>A living plant placed inside this device remains alive until removed regardless of light, water, or other conditions.</Effect>
+    <Source>Discovery</Source>
+    <Form>Large glass or clear synth canister</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Poison Brain Implant</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When swallowed, this implant travels to the brain and nests there. Henceforth, whenever a creature establishes contact with the user’s mind (using mental attack, telepathic communication, mind control, and so on), the creature is attacked mentally. It is stunned for one round (losing its action) and takes Intellect damage equal to the artifact’s level. This effect does not prevent the contact.</Effect>
+    <Source>Discovery</Source>
+    <Form>Capsule</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Psychic Helmet</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The wearer gains 3 Armor that protects against Intellect damage only. Further, attempts to affect the wearer’s mind are hindered (hindered by two steps if the artifact is level 7 or higher).</Effect>
+    <Source>Discovery</Source>
+    <Form>Lightweight synth helmet</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Psychic Whistle</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When the device is activated, a whistlelike sound is heard by humans within very long range. The device doesn’t actually produce sound but instead stimulates the aural center of the human brain. It has no effect on nonhumans. There could easily be psychic whistles keyed to the brain patterns of creatures other than humans. A crafty specialist might even be able to fine-tune a psychic whistle so that it keys only to a few specific individuals’ brain patterns.</Effect>
+    <Source>Discovery</Source>
+    <Form>Metal device 1 inch (2.5 cm) long with a single button</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Recorder Headband</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This headband records everything the wearer sees as moving images that can be replayed and reviewed. It stores up to one hundred hours of images. When the device is depleted, all stored images are lost.</Effect>
+    <Source>Discovery</Source>
+    <Form>Leather-like headband with a small device attached</Form>
+    <Depletion>1 in 1d20 per hour of use</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Redlight Clip</Name>
+    <Level>1</Level>
+    <Effect>This object flashes red when in immediate range of dangerous radiation or poisonous gas.</Effect>
+    <Source>Discovery</Source>
+    <Form>Metal clip or pin easily affixed to clothing</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Remote Clamp</Name>
+    <Level>1d6</Level>
+    <Effect>The control pad allows someone to direct this extremely strong device to clamp and unclamp. The pad must be within very long range of the clamp to control it. The difficulty for a PC caught in a remote clamp to break firee is equal to the artifact level + 2 because its grip is so strong.</Effect>
+    <Source>Discovery</Source>
+    <Form>Metal clamp with a detachable control pad</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Repair Sphere</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device comes with a small module that can be affixed to a machine. Floating along, the sphere attempts to follow within immediate range of the module (though it can be directed to remain where it is). It moves a short distance each round. It can come to the module from a range of up to 10 miles (16 km) away. If the module is attached to a machine and that machine takes damage, the sphere moves to repair the damage with sophisticated tools, requiring no additional materials, task rolls, or direction. This requires no action on the part of the machine being repaired. The sphere can attempt to repair a machine a number of times per day equal to its level. The artifact must be newly activated each day.</Effect>
+    <Source>Discovery</Source>
+    <Form>Small spherical automaton about 8 inches (20 cm) in diameter</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Safe Corridor</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When the device is activated, the space between the two capsules forms an invisible corridor of breathable atmosphere with a moderate temperature. It hedges out dangerous vapors, vacuum, insects, radiation, nanites, and other particulate matter. The corridor is 8 feet (2.5 m) wide and can be up to 1 mile (1.5 km) long. It must be relatively unobstructed—uneven terrain is fine, but walls, hills, and so on will block it. The corridor remains for 28 hours.</Effect>
+    <Source>Discovery</Source>
+    <Form>Two separate metal and synth capsules about the size of a human’s head, each with a large glass plate</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Second Skin</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When stretched over a creature’s normal skin, this organic material adheres and conforms to its body shape. While wearing the second skin, the creature has an asset in Might defense tasks to resist poison and disease (eased by two steps if the artifact is level 6 or higher).</Effect>
+    <Source>Discovery</Source>
+    <Form>When not affixed to a creature, this looks like a mass of diaphanous fabric. On a creature, it is almost invisible.</Form>
+    <Depletion>1 in 1d100 (checked each day while the skin is worn)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Shatter Wand</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This weapon realigns the molecular structure of a living target, in effect crystalizing the flesh. It works at long range but has no visible manifestation (no ray or projectile). The device inflicts damage equal to its level. Further, if the target is slain by the device, the target shatters, exploding in an immediate radius with crystalline shrapnel that inflicts 3 points of damage. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Discovery</Source>
+    <Form>Broad, 8-inch (20 cm) synth stick with a single button</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Shock Manacles</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>Not only are these restraints binding, but they also inflict their level in damage whenever the wearer attempts to break firee. Once active, the manacles operate for 28 hours.</Effect>
+    <Source>Discovery</Source>
+    <Form>Lightweight pair of metal or synth manacles</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Skill Bud</Name>
+    <Level>1d6</Level>
+    <Effect>This pod grafts onto any living host (must be near the brain) and injects complex chemicals that alter brain and muscle functions. This grants the host training in one (predetermined) skill, or two skills if the artifact is level 5 or higher.</Effect>
+    <Source>Discovery</Source>
+    <Form>Organic pod, almost like a small, hemispherical bit of fruit. Once grafted to a host, it takes on the appearance of the host’s flesh.</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Skull Blaster</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device emits a brilliant beam of focused light up to very long range. Targets hit by the beam take damage equal to the artifact’s level. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Discovery</Source>
+    <Form>Headband with an attached cylinder that runs along the left side of the wearer’s head</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Slugspitter</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>With a quiet sound like a puff of air, this device fires a tiny slug of metal up to long range (very long range if the artifact is level 6 or higher). It inflicts damage equal to the artifact’s level. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some characters have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Discovery</Source>
+    <Form>Long device with a narrow metal tube</Form>
+    <Depletion>1–2 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Snipewand</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>Sighting through the glass, the user can view targets up to 1 mile (1.5 km) away as if they were just a short distance away. The user must have a direct line of sight to the target—the device cannot penetrate barriers or go around corners. Once a target is sighted, the device can almost silently fire a tiny slug of metal at the target. The slug inflicts damage equal to the artifact’s level.</Effect>
+    <Source>Discovery</Source>
+    <Form>Long handheld device with a tiny plate of glass</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Stunner</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, this device fires a beam of energy to short range (long range if the artifact is level 6 or higher) that stuns the target for one round, making them lose their next action. This device is a rapid-fire weapon and thus can be used with the Spray or Arc Spray abilities that some characters have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Discovery</Source>
+    <Form>Handheld device that looks like a metal sphere with a handle</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Suspensor Belt</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This belt negates gravity enough to make all movement easier, granting the wearer a +1 bonus to their Speed Edge. Alternatively, a grossly obese creature could wear the belt simply to function normally. The belt supports up to 300 pounds (136 kg), or 500 pounds (227 kg) if the artifact is level 6 or higher.</Effect>
+    <Source>Discovery</Source>
+    <Form>Belt with a number of brass disks affixed to it</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Telltale Glass</Name>
+    <Level>1</Level>
+    <Effect>This glass turns red if anything poisonous is put into it, even in very small quantities.</Effect>
+    <Source>Discovery</Source>
+    <Form>Clear drinking glass</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Tendril Graft</Name>
+    <Level>1d6</Level>
+    <Effect>This graft attaches to the host’s spinal column so that it can be controlled like a limb. The host can use it like a whip (a light weapon) even if their hands are full. They can also use it like a prehensile tail that can hold their weight (assuming they are roughly human-sized) or another object. At level 6 or higher, the tendril provides an asset on attacks made with it. The tendril graft, like many biological artifacts, establishes a symbiotic relationship with its user, or “host.” It gains all the nutrients it needs by absorbing them from its host. People with such grafts fnd that they need to eat and drink about 25% more than normal to stay healthy.</Effect>
+    <Source>Discovery</Source>
+    <Form>Whip-like length of organic material similar to flesh</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Thunder Cannon</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This massive device can barely be held or carried by a single person. When activated, it emits a 50-foot (15 m) wide cone of pure sonic force out to long range. Any creature in that area is knocked prone and stunned for one round, losing its action. Unfxed items the size of a human or smaller are toppled and/or moved at least 5 feet (1.5 m). Larger objects might also be toppled.</Effect>
+    <Source>Discovery</Source>
+    <Form>Large, heavy tube with a bell-shaped end and a number of controls</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Transdimensional Ray Projector</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This long-range weapon fires a beam of energy that exists on many levels of reality at once. It inflicts damage equal to its level, and it harms creatures that can be affected only by transdimensional effects (such as an abykos). This device is a rapid-fire weapon and thus can be used with the Spray or Arc Spray abilities that some characters have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Discovery</Source>
+    <Form>Handheld device with a number of controls and a wide dish at one end</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Trigger Trap</Name>
+    <Level>1d6</Level>
+    <Effect>A cypher of virtually any kind can be added to this trigger device to turn it into a trap. First, the cypher is added to the device (an Intellect task with a difficulty of 4), and then various wires and plates are affixed permanently to something—a nearby surface, door, hinge, and so on. When the trap is triggered, the cypher is activated, so people often use straightforward cyphers such as a detonation, a ray emitter, or a similar device. The trigger can react to a specified movement within 3 feet (1 m)—a door opening, a creature or object moving past the artifact, and so on. The higher the level of the device, the more sophisticated the trigger. For example, a level 4 artifact’s trigger might be based on a creature’s size or weight, a level 5 artifact can trigger based on a specific type of creature, and a level 6 artifact can trigger based on recognizing an individual creature.</Effect>
+    <Source>Discovery</Source>
+    <Form>Small, rather complex box of metal sensor plates, wires, and controls</Form>
+    <Depletion>Automatic</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Vuechi</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>Once activated, this device follows within 3 feet (1 m) of the user and attacks anyone or anything within immediate range that attacks them. A vuechi attacks with a burst of electricity (up to immediate range) that deals damage equal to the artifact level. Once activated, it functions for 28 hours.</Effect>
+    <Source>Discovery</Source>
+    <Form>4-inch (10 cm) silver sphere that hovers in the air</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Weapon Graft</Name>
+    <Level>1d6</Level>
+    <Effect>This organic graft fts over a hand or empty stump and affixes to the flesh of the host. The physical bond provides an asset to attacks with the grafted weapon. This is a medium weapon that inflicts 4 points of damage (6 points if the artifact is level 5 or higher).</Effect>
+    <Source>Discovery</Source>
+    <Form>Blade, spiked ball, or hammer-like object made of hard, chitinous material or metal, with a sleeve of softer, fleshy material</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Windrider</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This is a vehicle that can be ridden by someone who makes a difficulty 1 Speed roll each round. In combat, it moves a long distance each round, but on extended trips, it can move up to 80 miles (130 km) per hour, or 100 miles (160 km) per hour if the artifact is level 6 or higher.</Effect>
+    <Source>Discovery</Source>
+    <Form>8-foot (2.5 m) long metallic wing</Form>
+    <Depletion>1–2 in 1d100; check on activation but no more than once per day</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Windslice Blade</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This sword is made from a material so durable and dense that the edge is sharper and lasts far longer than Ninth World smithing techniques could ever manage with steel. The blade inflicts 1 additional point of damage (2 points if the artifact is level 6 or higher). Its name comes from the idea that it can slice even the wind in half.</Effect>
+    <Source>Discovery</Source>
+    <Form>Medium-length sword</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+</NumeneraDevices>

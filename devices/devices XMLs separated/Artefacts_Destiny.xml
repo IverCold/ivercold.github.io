@@ -1,0 +1,290 @@
+<?xml version="1.0"?>
+<NumeneraDevices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Count="36">
+	<Artefact>
+		<Name>Abhuman Lure</Name>
+		<Level>1d6</Level>
+		<Effect>When activated, the mechanism on top releases a series of sounds, odors, and illumination tuned to draw the attention of any abhumans within very long range for one hour. If any abhumans are in the area, at least one from any associated group comes to investigate unless they are higher level than the artifact, in which case they could choose to resist the temptation offered by the lure.</Effect>
+		<Source>Destiny</Source>
+		<Form>A metallic spike with a box-like device on top</Form>
+		<Depletion>1 in 1d10</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Amulet Of Operation</Name>
+		<Level>1d6</Level>
+		<Effect>Once the amulet is keyed to a specific numenera installation, the installation cannot be used by anyone except the amulet’s wearer.</Effect>
+		<Source>Destiny</Source>
+		<Form>A plain metallic disk on a chain</Form>
+		<Depletion>—</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Automated Bath</Name>
+		<Level>1d6</Level>
+		<Effect>This automaton cleans a nearby target on command if the target doesn’t resist. If allowed to fnish, over the course of about a minute, the target is cleaned of all dirt and grime, their teeth are cleaned, their hair is washed and brushed, and their nails are trimmed. This also cleans the target’s clothing.</Effect>
+		<Source>Destiny</Source>
+		<Form>A small metal-and-synth hovering sphere that has metallic arms, tubes, and cleaning tools</Form>
+		<Depletion>1 in 1d100</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Boring Lance</Name>
+		<Level>1d6 + 1</Level>
+		<Effect>When pointed at a solid surface within short range and activated, a cavity is immediately bored in the surface but only if the material composing it is less than or equal to the artifact’s level. The cavity is an immediate distance across and up to a short distance deep. If the surface being bored isn’t at least a short distance thick, the lance doesn’t continue into a different kind of material or into open air—it just stops (but it could be activated again to bore through that material). If the boring lance is used against a community’s outer walls in a coordinated fashion by attackers over the course of one hour, the community suffers a number of points of damage equal to the level of the artifact, and the artifact is depleted (damage occurs at the end of the hour in which the lance is used).</Effect>
+		<Source>Destiny</Source>
+		<Form>A long metal-and-glass tube ftted with a metallic device studded with controls</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Brain Fogger</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>When activated, the brain fogger produces a prodigious amount of fog that moves with the prevailing air in a cloud a very long distance across. Attacks attempted by creatures within the fog are hindered. If deployed against a ranked community or horde, the target is treated as if one rank lower than normal during that community action.</Effect>
+		<Source>Destiny</Source>
+		<Form>Large backpack-sized device with a metallic wand connected with hoses and wires</Form>
+		<Depletion>1 in 1d10</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Breathing Field Spinner</Name>
+		<Level>1d6</Level>
+		<Effect>It takes two rounds to assemble and set up this device. It then requires an action to activate. When activated, the globe at the top begins to spin, sending out firesh, breathable air in all directions in a continuous wind up to a very long distance across (though current weather or air pressure can shrink that radius) for about an hour. Creatures within the area can breathe normally even if in a toxic atmosphere. Creatures are also protected from effects that move as a mist, fog, or spread of particulates, assuming those particulates can’t move under their own power. If deployed to protect from a ranked airborne threat of some sort, the rank of that threat is decreased by one step.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 12-foot (4 m) tall collapsible metal tripod with a large metal globe at the top; the globe has a number of holes in it but is not hollow</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Cellular Annealer</Name>
+		<Level>1d6 + 4</Level>
+		<Effect>This device emits a faint, short-range beam that affects only organic creatures and materials. A living target hit by the beam moves up one step on the damage track. A target that is not down on the damage track can immediately make a firee recovery roll (or, for NPCs, regain a number of points of health equal to their level × 3).</Effect>
+		<Source>Destiny</Source>
+		<Form>A small handheld device with a few simple controls</Form>
+		<Depletion>1 in 1d10</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Cloak Of Finery</Name>
+		<Level>1d6 + 1</Level>
+		<Effect>This cloak is woven of smart fbers and studded with small devices designed to not only automatically tailor the cloak’s ft to its wearer but also highlight the wearer in the most attractive light possible, providing variable illumination, sound amplifcation, tone control, and even a limited ability to edit grammatical mistakes and pauses made by the wearer. When activated, the cloak provides an asset to all interaction tasks the wearer attempts for the next minute.</Effect>
+		<Source>Destiny</Source>
+		<Form>A multilayered cloak of glittering material</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Cognition Tester</Name>
+		<Level>1d6 + 1</Level>
+		<Effect>Using this device always takes at least two rounds because producing an effect requires that the user solve a newly generated cognitive puzzle by successfully manipulating the device’s controls, rotational planes, and other hidden inputs. Solving the puzzle is an Intellect task with a difficulty equal to the artifact’s level. If successful, the user is injected with the knowledge of a random numenera plan whose level is up to the level of the artifact. If the user fails the cognition test, they suffer 4 points of Intellect damage (but do not trigger a depletion roll).</Effect>
+		<Source>Destiny</Source>
+		<Form>A head-sized metallic box studded with dials and controls</Form>
+		<Depletion>1 in 1d10</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Dead Timeline Viewer</Name>
+		<Level>1d6 + 1</Level>
+		<Effect>Holographic images flicker to life on the screen, showing the user in a situation that has never happened in this reality and that probably never will. With some study and experimentation, the user deduces that the images represent outcomes that would’ve occurred except for some decision the user made in the past that set them on their current course. Once that is understood, the user can attempt to use the device to explore a range of different hypothetical strategies for attempting to deal with a particular issue or problem and see how each might play out. Using the viewer eases the difficulty of a numenera crafting task, a salvage task, a negotiation that takes course over several days, or long-term play rolls that might be required to achieve success.</Effect>
+		<Source>Destiny</Source>
+		<Form>Metallic device mounted with a 6-inch (15 cm) crystal screen</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Empty Field Generator</Name>
+		<Level>1d6</Level>
+		<Effect>It takes two rounds to assemble and set up this device. It then requires an action to activate. When activated, all creatures, structures, and other artifcial alterations in the landscape are visually smeared out in a radius equal to a very long distance for one hour. From the outside of the area, nothing is visible except bare ground and innocuous brush. From within the field, creatures can see what’s around them normally, though all illumination drops by one category. This holographic illusion’s level is equal to the artifact’s level.</Effect>
+		<Source>Destiny</Source>
+		<Form>: A 12-foot (4 m) tall collapsible metal tripod with a complex antenna array on top and a device with a control surface at the base</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Energy Nullifier</Name>
+		<Level>1d6 + 1</Level>
+		<Effect>It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. The device affects an area a very long distance across that's less than 2 miles (3 km) away and in its direct line of sight. Energy-using devices whose levels are less than or equal to the artifact’s lose power for about one hour. This renders installations, artifacts, and many cyphers unusable for the duration. If deployed against a ranked community or horde that is reliant to even a small degree on artifacts and installations, the target is treated as if one rank lower for one hour.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 15-foot (5 m) tall collapsible tripod with a large directional crystal dish at the top and a control box in the center</Form>
+		<Depletion>1 in 1d6</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Explorer’s Gloves</Name>
+		<Level>1d6</Level>
+		<Effect>The wearer can cling to or climb any surface for up to one hour. Even level 10 climbing tasks become routine while the gloves are activated, but taking any other action while climbing requires a new activation.</Effect>
+		<Source>Destiny</Source>
+		<Form>Thick but flexible-fngered gloves with microscopic adaptive hairs on the palms</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Explorer’s Lenses</Name>
+		<Level>1d6</Level>
+		<Effect>Informative images formed on the inner lenses help the user to navigate and explore by tracking location, likely trails, and potential openings for one hour. Navigation and perception tasks made while the device is activated gain two assets. Other types of lenses, similar to the explorer's lenses, have been identifed, including those that provide aid in preparing food recipes, building bridges, and reading other creatures' expressions and body language.</Effect>
+		<Source>Destiny</Source>
+		<Form>Thick lenses built on a device worn on the upper face and eyes</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Febrifuge</Name>
+		<Level>1d6 + 1</Level>
+		<Effect>It takes two rounds to assemble and set up this device. It then requires an action to activate. When activated, the globe at the top begins to spin, sending out a spray of pleasant-smelling, calming mist in all directions up to a very long distance for ten hours. The mist doesn't interfere with vision. All tasks and defense rolls by creatures within the area to resist or overcome infectious diseases are eased for the duration. If deployed to protect from a ranked infectious disease, the rank of that disease is decreased by 1.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 12-foot (4 m) tall collapsible metal tripod with a large metal globe at the top; the globe has a number of holes in it but is not hollow</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Field Destabilizer</Name>
+		<Level>1d6 + 3</Level>
+		<Effect>It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. When activated, this device collapses a force field within short range — or a short-range-diameter portion of a much larger force field—whose level is equal to or less than this artifact’s. A collapsed force field generally remains collapsed for at least 28 hours, if not permanently (but could be reactivated). A field destabilizer can also collapse effects that create illusions or wide-area transdimensional effects within the area.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 9-foot (3 m) tall collapsible tripod with a large directional crystal dish at the top and a control box in the center</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Fingent Brace</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>This device shows a visual image of the details of a numenera plan, one at a time, provided the user has taken a few days to prep the device. (It can also hold other explicit directions or images, if desired.) If worn during a numenera crafting task for the majority of the time it takes to build an object or structure, the artifact provides one asset to the assessed difficulty of the crafting task.</Effect>
+		<Source>Destiny</Source>
+		<Form>A synth panel screen and wires that must be affixed to the head of a creature using a headband or brace, such that the wearer can glance to the side and see the screen</Form>
+		<Depletion>1 in 1d20 (check per month of use)</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Flame Suppressor</Name>
+		<Level>1d6 + 3</Level>
+		<Effect>This device launches a circular device high into the air that hovers overhead for a moment and then seeks out flames within a very long distance. Over the next hour, it draws moisture from the air and quenches any small fires it fnds within the area. If deployed to protect against a ranked fire disaster, the fire’s rank is decreased by 2.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 3-foot (1 m) wide, 6-foot (2 m) long, collapsible metal tube with a set of winding synth tubes wrapped around it</Form>
+		<Depletion>1 in 1d6</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Instant Refuge</Name>
+		<Level>1d6 + 4</Level>
+		<Effect>It takes about a minute to activate this device. When activated, it projects a 30- foot (9 m) diameter circular portal on a hard surface within immediate range that leads to an extradimensional space large enough to hold several thousand people in timeless stasis. The portal persists for up to an hour, during which time a small community could be evacuated through the aperture. Once the portal is closed, it can be opened from the outside at any time in the next three months, at which time all those who entered are expelled in the same order that they entered. If three months pass without the portal being opened manually, it opens automatically and expels its occupants. For those inside the portal, no time seems to have passed.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 2-foot (60 cm) cube with a control surface</Form>
+		<Depletion>1–2 in 1d6</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Iotum Scanner</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>When activated and pointed at an object within immediate range, this device sounds a tone if the object contains 1 or more units of iotum of any type. Iotum found with a scanner must still be successfully salvaged, though knowing exactly where to look reduces salvaging task attempts to just one round.</Effect>
+		<Source>Destiny</Source>
+		<Form>A handheld device with a number of controls and a wide dish at one end</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Liquid Transfer Orb</Name>
+		<Level>1d6 + 1</Level>
+		<Effect>To set up the artifact, the orb is broken into two halves. One half must be submerged in a liquid medium of any kind. Then the other half can be activated for up to 28 hours at a time (though it can be deactivated at any time), during which liquid from the submerged half is instantaneously transferred to the other half across any distance. Up to 150,000 gallons (568,000 l) can be transferred during a one-day activation period. If smartly deployed during a ranked flooding event (so that the output end drains someplace where it won’t just flow back), the rank of the flood is decreased by 2. A community looking for a new source of water could potentially use a faraway aquifer or other water source by dropping half of a liquid transfer orb into it.</Effect>
+		<Source>Destiny</Source>
+		<Form>A head-sized amber orb inscribed with tiny metallic lines</Form>
+		<Depletion>1 in 1d100</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Multidimensional Projector</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>It takes two rounds to assemble and set up this device. Once set up, the device sends out a transdimensional pulse that affects all creatures within long range, spreading out their continuity so that they exist on many levels of reality at once for about an hour. Such creatures are treated as phased—they can neither be affected by normal physical phenomena nor affect the normal world of physical matter. If deployed to protect from a ranked threat of some sort (including an attacking horde or community), the rank of that threat is decreased by 1 for the duration.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 9-foot (3 m) tall collapsible tripod with a complex bundle of interconnected wires on top and a control box in the center</Form>
+		<Depletion>1 in 1d10</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Multi-opener</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>When attached to a lock (whether mechanical or machine-mediated) or to the surface of a sealed machine, the multi-opener extends tiny manipulators and attempts to loosen any mechanism holding the device closed or manipulate any lock that is amenable to physical manipulation. Devices fall open like peeled fruits if their level is 1 less than this artifact, and locks open easily if their level is equal to or less than this artifact. Salvage tasks made in conjunction with a multi-opener gain two assets.</Effect>
+		<Source>Destiny</Source>
+		<Form>Slender metallic box with several smaller telescoping elements</Form>
+		<Depletion>1 in 1d10</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Natalitial</Name>
+		<Level>1d6 + 1</Level>
+		<Effect>Wearer can trigger the worn device as an action. On subsequent rounds, lasting for up to an hour, the helm produces a celebratory atmosphere in an area up to a long distance around it, superimposing colorful streamers, hanging lamps, festive music, and potentially additional visual and auditory factors (depending on the specific parameters set by the crafter). If deployed in a ranked community or horde, the rank is increased by 1 for all tasks related to abating sadness and sorrow, to positive interaction, and to the propagation of revelry.</Effect>
+		<Source>Destiny</Source>
+		<Form>Helm that projects illusionary images, sounds, and scents</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Pacifying Needler</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>This device projects either one or two needles up to long range each time it is used. The needles are far thinner than a human hair, and they inflict no damage. Instead, if one needle is fired, it will calm a belligerent, raging, or attacking creature so that they become calm for at least one minute or until they are attacked. If two needles are fired, the target falls asleep for up to a minute or until they are damaged. The needles can penetrate (ignore) up to 4 Armor. A pacifying needler can be activated to fire all its needles at once on a countdown timer, creating a detonation-like blast that can affect all creatures in line of sight within long range. This depletes and destroys the artifact. If deployed against a ranked horde or community during a conflict in this fashion, the horde or attacking community inflicts 3 less points of damage during that community action.</Effect>
+		<Source>Destiny</Source>
+		<Form>A small handheld device with a tiny tube</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Psychic Eradicator</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. When activated, this device can affect an area up to a very long distance across for one hour. Within that area, all tasks relying on psychic effects, such as telepathy and psychokinesis, whose level is equal to or less than the artifact’s are hindered by two steps, and higher-level psychic tasks are hindered by one step. This means that routine tasks like telepathy are no longer routine, and those that require a roll to succeed, such as an Onslaught mindslice, become even more difficult. If deployed within a ranked community or horde, psychic attacks that would inflict damage to the community during one community action are treated as if 1 level lower.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 15-foot (5 m) tall collapsible tripod with a large directional crystal dish at the top and a control box in the center</Form>
+		<Depletion>1 in 1d10</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Rumbler</Name>
+		<Level>1d6 + 4</Level>
+		<Effect>It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. When activated, the disk begins to agitate the ground underneath. Everyone and everything within very long range is affected by severe shaking over the next five rounds, building to peak severity on the third round when everyone and everything suffers damage equal to the artifact level and falls prone. Only those within 3 feet (1 m) of the device are unaffected. During all rounds of shaking, tasks that require movement or balance (including attacks) are hindered. This effectively creates a ranked quake event with a rank equal to 4 less than the artifact’s level, which could threaten a ranked community or horde.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 9-foot (3 m) tall collapsible metal stand with a large crystalline disc that is partially embedded in the ground at the base and a control box in the center</Form>
+		<Depletion>1 in 1d6</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Salvage Pack</Name>
+		<Level>1d6 + 1</Level>
+		<Effect>This pack’s mouth can be loosened to open as wide as 6 feet (2 m) in diameter. It is larger on the inside than on the outside thanks to transdimensional outpocketing, and it can contain up to 5 tons (4.5 t) worth of material. A salvage pack is ideal for grabbing scrap and salvage, but anything could be stored inside it. Creatures that need to breathe, however, will quickly suffocate within its outpocket.</Effect>
+		<Source>Destiny</Source>
+		<Form>Synth pack with attached devices</Form>
+		<Depletion>1 in 1d100 (check each time something is added to the pack; on depletion, all objects are expelled from the pack)</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Stability Spike</Name>
+		<Level>1d6 + 3</Level>
+		<Effect>It takes two rounds to assemble and set up this device. Once set up, it requires an action to activate and then another round for the powered internal spike to penetrate the ground. (The spike can penetrate any surface whose level is less than or equal to its own, but it cannot penetrate force fields.) When activated, this device stabilizes the ground and any structures built on the ground within very long range for one hour. This reduces shaking, swaying, or vibration, potentially keeping a tower or buildings caught in an earthquake from collapsing. If deployed to protect from a ranked earthquake or other earth-shaking threat, the rank of that threat is decreased by 1.</Effect>
+		<Source>Destiny</Source>
+		<Form>A 6-foot (2 m) tall collapsible metal tripod with a central tube that extends a spike into the earth when deployed</Form>
+		<Depletion>1 in 1d10</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Stasis Pod</Name>
+		<Level>1d6</Level>
+		<Effect>A person willingly placed inside this chamber remains alive and in perfect stasis until removed.</Effect>
+		<Source>Destiny</Source>
+		<Form>A device attached to a rounded synth chamber just large enough to hold a human</Form>
+		<Depletion>1 in 1d100 (check every century a subject is in stasis)</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Structural Extruder</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>When activated, it produces a solid piece of amber-colored crystal over the course of a minute that can take one or two simple shapes: a plank up to 10 feet (3 m) long or a plane up to 10 feet (3 m) by 10 feet (3 m) that could be used as a floor, a wall partition, a ramp, etc. If the structural extruder is used as part of the crafting process for building a commonplace or numenera structure, the assessed difficulty for the task is lowered by one step.</Effect>
+		<Source>Destiny</Source>
+		<Form>A series of short, rounded tubes and hoses about 12 inches (30 cm) long connected to a device that can be carried or worn as a pack</Form>
+		<Depletion>1 in 1d10 (check per week of use)</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Telepathic Wire</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>It takes several minutes to deploy this device, or longer if trying to place it so it is not obvious. When deployed, all creatures within the area gain the ability to telepathically speak with other creatures they can see within short range for up to an hour. Should the line be broken, all creatures in the area suffer 1 point of Intellect damage (ignores Armor). If deployed to surround a ranked community or horde, the rank of the target increases by 1 for the duration due to an enhanced ability to communicate.</Effect>
+		<Source>Destiny</Source>
+		<Form>A metallic wire on a spindle that can be rolled out to surround an area up to a very long distance in diameter</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Temporary Wing</Name>
+		<Level>1d6</Level>
+		<Effect>This device instantly releases wide synth wings stretched on either side of a rigid frame that together reach almost a short distance across. The wings allow a wearer to fly in any direction up to a short distance as an action each round, or glide horizontally or downward up to a long distance each round as part of another action. After one hour or upon deactivation, the wings retract.</Effect>
+		<Source>Destiny</Source>
+		<Form>A body harness with a few controls</Form>
+		<Depletion>1 in 1d20</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Toxic Fogger</Name>
+		<Level>1d6 + 2</Level>
+		<Effect>When activated, the toxic fogger produces a prodigious amount of yellowish fog that lasts an hour and moves with the prevailing air in a cloud a very long distance across. Creatures exposed to the fog for several minutes take damage from poison equal to the artifact’s level. If deployed against a ranked community or horde, 3 points of damage are inflicted to the target’s health during one community action.</Effect>
+		<Source>Destiny</Source>
+		<Form>Large backpack-sized device with a metallic wand connected with hoses and wires</Form>
+		<Depletion>1 in 1d10</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>WEARABLE WORKSHOP, BASIC</Name>
+		<Level>1d6 + 1 Usable: Large pack-like device with multiple extending arms and tools</Level>
+		<MinimumCraftingLevel>4</MinimumCraftingLevel>
+		<Effect>This mobile workshop allows a crafter to work without a workbench and tools. The mobile workbench holds crafted objects in place and provides additional tools for a variety of needs, including not only crafting tasks but also tasks associated with investigation and analysis. The wearable workshop enables crafting tasks by providing appropriate tools; its extra limbs replicate a work surface; it gives one asset to assessed craft difficulty. The wearable workshop is bulky, however, and any character wearing one is hindered in all Speed defense tasks.</Effect>
+		<Depletion>1 in 1d20 (check per completed crafting project)</Depletion>
+	</Artefact>
+	<Artefact>
+		<Name>Wearable Workshop, Smart</Name>
+		<Level>1d6 + 3</Level>
+		<Effect>As the basic wearable workshop, except the smart workshop has a limited capacity to improve the work of its maker, providing two assets to the assessed difficulty of any crafting task done predominantly while wearing the workshop. The wearable workshop is bulky, however, and any character wearing one is hindered in all Speed defense tasks.</Effect>
+		<Source>Destiny</Source>
+		<Form>Large pack-like device with multiple extending arms and tools</Form>
+		<Depletion>1 in 1d20 (check per completed crafting project)</Depletion>
+	</Artefact>
+</NumeneraDevices>

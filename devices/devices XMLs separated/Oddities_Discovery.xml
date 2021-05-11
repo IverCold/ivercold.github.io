@@ -1,0 +1,403 @@
+<?xml version="1.0"?>
+<NumeneraDevices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Oddity>
+    <Description>Crystal that shatters easily but then instantly reforms</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Egg-shaped metallic bauble that occasionally spins and speaks in a language no one knows</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Aerosol can that sprays sparkling paint that hangs in the air</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Device that emits a projection of a human face that changes expression depending on the direction in which it’s looking</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Unknown musical instrument that plays only soft, unpleasant sounds</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Circular stone plate with a human face that occasionally changes expression or appears to speak (but has no voice)</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Box with a tiny group of musicians in it who play when it is opened and look horrifed when it is closed</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Remote-controlled dragonfly with a tiny, handheld controller</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Pants that fit perfectly and never seem to get dirty but are always chilly</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Blob of clay that takes on various mysterious shapes when left alone</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Crystal that hums</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Necklace made of gears and other machine parts</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Flute with buttons rather than holes so you can play music without blowing into it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Lightning bug in a glass globe</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Plastic disk that displays ever-changing but meaningless symbols</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small rod that emits a voice saying the same thing in an unknown language every time a button is pushed</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glass plate that shows what seems to be a live image of the moon, but from a closer vantage</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Comb that glows when used</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small square cage that puts whatever single creature is inside it into stasis</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Plastic bottle containing a spray that cleans any stain and never runs out</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metallic device that creates one sheet of new paper each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Pen that writes in invisible ink revealed only at a very low temperature</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Tiny toy ornithopter made of a solid piece of material that seems indestructible</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Fuzzy stuffed ravage bear that makes growling noises when you squeeze it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Goggles that tint everything green</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Series of thin plastic cards that show all kinds of unknown creatures</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Candle that never runs down</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bag of sixteen rubber balloons</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Three silken gloves with six fingers each</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metallic jar that maintains the temperature of liquid inside indefinitely</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Blue crystal that glows as bright as a candle when held</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small coin pouch that holds twice as much as it appears it should</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small wand-like device that keeps away normal insects in a 5-foot (1.5 m) radius</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Unknown plastic device with lights that occasionally blink</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Powerful magnifying glass</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bag that contains dice, each with a different number of sides</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small mirrored cube</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Piece of extremely strong and thin cable 8 feet (2.5 m) long</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Feathered hat that occasionally makes bird noises</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Wooden rod that increases in length by about 1 inch (2.5 cm) a month</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Brass device with nested circular plates that rotate and click</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cape that billows as if blown by the wind when worn, even in still air</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glass cube that shows what seems to be a live aerial view of an unknown, ruined city</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Armband that tightens slightly when within 100 feet (30 m) of abhumans</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small jar of black paint that reflls itself each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metallic mask that fits perfectly on your face and changes expression when you do</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Five metallic plates that orbit around your head and display ever-changing, unknown symbols</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Green glass sphere that ﬂoats next to you and whistles when you are angry</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal canister that flls with 4 quarts (3.8 liters) of water at the same time each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metal and glass disk that, when pressed against ﬂesh, instantly etches a tattoo of a black scorpion</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small mirror that shows someone other than you when you gaze into it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Canister that produces an extremely foul odor and a puff of dark red smoke when opened</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Goggles that allow you to see perfectly through steam or smoke</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Box that produces a 3-inch (7.5 cm) cube of a firm but gelatinous substance at the same time each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Shirt that displays your muscles, bones, and internal organs when you wear it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small leather case of cosmetics that never seem to run out</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Amulet that, when worn, projects holographic images of fish swimming around you</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bracelet with a tiny bell charm that rings like a massive bell when intentionally rung</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Metallic, pointed-toe boots designed to fit an aneen or a similar creature</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cup that instantly boils any liquid poured into it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Spectacles that project strange images on the lenses so the wearer sees things that are not there</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Box of a dozen matchsticks that, when burned, release puffs of lingering smoke that take on the shapes of faces, creatures, or other things</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Blanket that makes a pleasant, soft humming noise while covering a living creature</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Semicircular device of metal and glass that projects a harmless, thin red beam up to 50 feet (15 m) when activated</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Two 5-inch (12.7 cm) metal and glass disks that hover around your wrists</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Six small, clear synth bags that can be sealed and are very durable</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Glass orb that always drips perfumed water very slowly</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Jar of sixteen seeds; when planted, each seed grows into a daffodil made of gold in six months</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Rose made of nigh-indestructible glass</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Octagon-shaped amulet that is black during the day and sky blue at night</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Mummifed fish with feathered wings in a wooden box</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Two-headed animal fetus in a glass jar</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Saddle sized for a very small animal, such as a squirrel or a small cat</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Small rectangular device that makes a chirping sound at the same time each day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Pair of tiny metal rods that, when brought within 1 inch (2.5 cm) of each other, vibrate exactly fifteen minutes before the sun rises on any given day</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Ceramic ring that makes you feel as though gentle hands are caressing your body</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bottle of twenty-four pills that make you vividly dream about your favorite memory when you next sleep</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cylinder that clears the air of smoke, foul smells, and the like in an enclosed room in one minute’s time</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>A pair of small, ﬂoating cubes that keep a small, enclosed room at the temperature at which water freezes</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Bracelet that renders you unable to reproduce while worn</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Chair that can be stored in an extradimensional space when activated</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Synth disk that will restore a rotten vegetable or piece of fruit</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cylinder that, if you speak through it, makes your voice sound wavering and strange</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Scarf that appears to be made of silk but is virtually indestructible and cannot be dirtied or stained</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Egg-shaped device that temporarily negates all odor within 3 feet (1 m)</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Short metal rod that is insubstantial to all matter except the special synth glove that goes with it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Cube that, when activated, disappears for one minute and then reappears in the same spot</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Wristband that buzzes when in complete darkness</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Plate of glass that, when you view the night sky through it, reveals ten times as many stars</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Ceramic pot that produces a tiny puff of colored smoke once every hour and a half</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Hoop that sharpens any blade passed through it</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Sphere that produces vigorous bubbles when placed in water</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Tiny awl that inﬂicts no pain when it pierces ﬂesh</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Contact lenses that make your eyes seem completely white with no pupils</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Silken string 3 feet (1 m) long that coils around whatever it touches</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Large, clear synth bag that keeps food inside it fresh indefnitely</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Stockings that are always warm</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Single rubber glove that is extremely durable and resistant</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Box flled with two dozen spherical magnets, each about the size of a pea</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+  <Oddity>
+    <Description>Pair of clear drinking glasses that change color depending on the contents</Description>
+    <Source>Discovery</Source>
+  </Oddity>
+</NumeneraDevices>

@@ -1,0 +1,1825 @@
+<?xml version="1.0"?>
+<NumeneraDevices xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Count="225">
+  <Artefact>
+    <Name>Adamantine Cable</Name>
+    <Level>1</Level>
+    <Effect>This length of rope has the flexibility of ordinary rope but a hardness greater than steel. The rope is impervious to all damage and cannot be cut.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 50-foot (15 m) length of black rope</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Agony Scarab</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>To activate the device, a user must place the beetle on the bare skin of a living creature. The beetle immediately burrows into the flesh, inflicting 1 point of damage, and travels just under the skin until it lodges at the base of the creature’s spine. Once there, the beetle drills into the creature’s spine to control its nervous system. At the user’s spoken command, the beetle sends horrific pain shooting through the target’s body, and the target becomes stunned and loses his next action. The beetle then releases its hold on the target and tears firee, inflicting 1 point of damage as it emerges through the skin and returns to the user, at which point it becomes dormant once more.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small beetle-shaped device</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Aim True Goggles</Name>
+    <Level>1d6</Level>
+    <Effect>By pressing small buttons on both sides of the device, the user activates the lenses. These special lenses block blue and violet rays, which can impair vision, thus enhancing the wearer’s sight. The difficulty of all ranged attacks is decreased by one step when wearing the goggles. Lasts for one hour.</Effect>
+    <Source>Compendium</Source>
+    <Form>A pair of goggles, a pair of glasses, a full or half mask that covers the eyes with lenses</Form>
+    <Depletion>1 in 1d20 for lens activation (after depletion, the goggles can still be worn as normal goggles)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Annihilation Chamber</Name>
+    <Level>1d6</Level>
+    <Effect>Anything placed inside the canister is instantly and permanently destroyed. If a singularity detonation is placed in an annihilation chamber, the resulting explosion utterly destroys everything within long range.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal canister 3 feet (1 m) tall and 1 foot (0.3 m) in diameter, with a flip-up lid</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Armoring Cloth</Name>
+    <Level>1d6</Level>
+    <Effect>If this clothing is struck, it hardens upon impact, providing +1 to Armor. It then immediately returns to its normal state (which is in no way encumbering). This clothing cannot be worn with armor of any kind.</Effect>
+    <Source>Compendium</Source>
+    <Form>Typical clothing</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Augmenter Harness</Name>
+    <Level>1d6</Level>
+    <Effect>The device enhances the wearer’s physical strength and power. She inflicts 1 additional point of damage with weapon attacks, and the difficulty of carrying or lifting tasks is reduced by one step.</Effect>
+    <Source>Compendium</Source>
+    <Form>A thick, wide belt with a mechanical device as a buckle and two bands that extend from the belt up and over the wearer’s shoulders</Form>
+    <Depletion>1 in 1d10 (check once each day while worn)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Automapper</Name>
+    <Level>1d6</Level>
+    <Effect>This slab tracks its own progression through the world, creating a virtual light map on its surface for about a month. At the end of that time, it resets itself and begins again.</Effect>
+    <Source>Compendium</Source>
+    <Form>Thin metallic slab with lights and a toggle</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Autoscribe</Name>
+    <Level>1</Level>
+    <Effect>Speaking the command causes the hand to animate, rise up, and ready the writing implement to record whatever you say on whatever surface the implement touches. The hand deactivates when you speak the command again.</Effect>
+    <Source>Compendium</Source>
+    <Form>A severed hand fitted with a metal plate on the stump that holds a writing implement</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Beam Lance</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When mounted on a creature’s forearm, this weapon fires a beam of concentrated green light up to 200 feet (61 m), inflicting 6 points of damage. Alternatively, the beam can be shortened to 6 feet (2 m) in length and used as a melee weapon for one minute, inflicting 6 points of damage.</Effect>
+    <Source>Compendium</Source>
+    <Form>Forearm bracer</Form>
+    <Depletion>1–3 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Biometric Patch</Name>
+    <Level>1d6</Level>
+    <Effect>The patch bonds to whatever it touches and prevents creatures other than the user from using the artifact. To use the artifact, the user must place his lips on the patch, which reads the biometric signature and activates the artifact.</Effect>
+    <Source>Compendium</Source>
+    <Form>A patch of skin that must be grafted onto another artifact</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Bloodblade</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When inserted into the wielder’s arm, this device inflicts 3 points of damage (ignores Armor). Thereafter, the wielder can use this weapon as a light weapon that inflicts 3 points of damage. Further, when the wielder wishes it (requiring no action), the blade can absorb 3 points from his Might Pool and turn them into a powerful poison. The poison coats the blade so that a victim suffers 5 additional points of damage if affected.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal blade with spikes that must be inserted into the flesh of the wielder’s forearm</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Bone Garden</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The liquefied bone is injected directly into the bone marrow of the user. Within ten minutes, the user’s bones are fortified by the calcium injection, and his Might Pool is permanently increased by 2.</Effect>
+    <Source>Compendium</Source>
+    <Form>Long-needled injector filled with liquefied calcium</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Box Of Embers</Name>
+    <Level>1d6</Level>
+    <Effect>Once attached, this nodule causes the hilt of the weapon or tool to glow with a pulsing reddish-black light. The patch has no effect on the item during combat, but three small buttons on the side allow the user to control the other effects: light (a red glow that allows the user to see at night as if it were daylight), heat (enough to melt ice or keep one person warm even in fireezing temperatures), and firestarting (while in this mode, blowing on the hilt will release enough embers from the weapon to start a fire).</Effect>
+    <Source>Compendium</Source>
+    <Form>Very small synth panel or patch affixed to a melee weapon or other tool</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Burning Egg</Name>
+    <Level>1d6</Level>
+    <Effect>Pressing the button causes the device to flash once each round for three rounds. After this time, it emits a loud buzzing noise and releases a wave of invisible energy. The wave inflicts ambient heat damage equal to the artifact level on every living thing within a short distance.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small metal, egg-shaped object with a button on top</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Cacophony Blade</Name>
+    <Level>1d6</Level>
+    <Effect>This sword is unwieldy and heavy. The difficulty of attacks made with this weapon is increased by one step. However, if the user activates the artifact, the spiked chain begins to rock back and forth, creating an awful shrieking noise. When the weapon hits a target, the chain catches and rips through the target, inflicting 4 additional points of damage. The damage penetrates (ignores) 2 Armor.</Effect>
+    <Source>Compendium</Source>
+    <Form>A dull, heavy, medium-length sword, dripping oil, with a fine spiked chain running along the edge</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Calridian Proboscis</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Once grafted, the proboscis sniffs the air constantly, attempting to detect nanites. It provides the host with an asset on all tasks related to discovering (within long range) and identifying the numenera. The proboscis must be surgically and permanently grafted (a task with a difficulty equal to the artifact level). In skilled hands, the procedure takes about one hour. It works best if grafted in an area that is typically firee of clothing or hair.</Effect>
+    <Source>Compendium</Source>
+    <Form>Prehensile, biomechanical proboscis about 3 inches (8 cm) long that can be surgically grafted anywhere on a person’s body</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Chronometer</Name>
+    <Level>1</Level>
+    <Effect>The device keeps perfect time. The device also has a stopwatch and timer function.</Effect>
+    <Source>Compendium</Source>
+    <Form>A wristband with a mechanical display in the middle</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Clawed Gauntlets</Name>
+    <Level>1d6</Level>
+    <Effect>With a flick of one’s hands (not an action), these gauntlets produce long steel claws that are medium weapons, inflicting 1 additional point of damage on each attack.</Effect>
+    <Source>Compendium</Source>
+    <Form>Metal gauntlets</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Communication Beads</Name>
+    <Level>1</Level>
+    <Effect>To activate this item, each insect must be placed inside an ear canal. If placed in the ears of two different creatures, each creature can hear the other speak regardless of the distance between them or the volume at which they speak.</Effect>
+    <Source>Compendium</Source>
+    <Form>A pair of tiny insects with strange sucker heads</Form>
+    <Depletion>1 in 1d100 (checked each hour the devices are used)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Compactor</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When the tube is pointed at an inanimate, unsecured, solid object that is 10 to 30 inches (25 to 76 cm) across within immediate range, that object implodes, compacts into a ball no more than 4 inches (10 cm) across, and is drawn into the tube. Using another action, the user can project the ball up to long range with incredible force, inflicting 10 points of damage. Only one object can be compacted and loaded at a time.</Effect>
+    <Source>Compendium</Source>
+    <Form>A tube that is 24 inches (61 cm) long and 5 inches (13 cm) wide</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Concussion Mace</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The baton functions as a club (a light weapon). However, if the wielder uses an action to activate it, the weapon hums with crackling energy for one round. During that round, the foe is stunned.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal baton that emits a soft blue light when gripped</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Control Spike</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>The device activates when the user hammers the spike into the head of a creature, which inflicts no damage. Upon doing so, the user can use the viewscreen to control the creature. The user decides what the creature says and does each round provided that they remain within long distance of each other. Removing the spike ends the effect. No hole or injury remains from the spike once it’s withdrawn.</Effect>
+    <Source>Compendium</Source>
+    <Form>A long metal spike and separate viewscreen</Form>
+    <Depletion>1 in 1d10 (checked each round the device is used)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Coolclothes</Name>
+    <Level>1d6</Level>
+    <Effect>These clothes keep the wearer’s body temperature at the same level as her surroundings. Not only do they keep her comfortable, they also make her invisible to creatures or automatons that use heat sources to sense (such as infrared vision).</Effect>
+    <Source>Compendium</Source>
+    <Form>Full body jumpsuit</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Crawler Tank</Name>
+    <Level>9</Level>
+    <Effect>This biomechanical vehicle pulls itself along with living tendrils and motorized treads, moving a short distance each round. The tank has two different weapons built into it. The main weapon is a twinned set of ray projectors that can fire up to a range of 500 feet (152 m) and inflict 8 points of damage. The secondary weapon is an emitter that releases a cloud of poisonous gas in an immediate radius. Anyone in the cloud suffers 4 points of damage (ignores Armor). The tank can move and activate one (but not both) of its weapons as a single action. In order to function, the tank must have an occupant, and there is room for only one human inside. The vehicle obeys thought commands from this occupant, who uses her action to give the tank new orders. If no new order is given, the tank continues to obey the previous order.</Effect>
+    <Source>Compendium</Source>
+    <Form>A vehicle 12 feet (4 m) long, 6 feet (2 m) wide, and 6 feet (2 m) high</Form>
+    <Depletion>1–4 in 1d100 (check once each day used)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Creation Lantern</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, the device scans a 5-foot (2 m) cube of material within a short distance and then creates a physical copy from solidified light in an open space within a short distance. The copy lasts for a number of hours equal to the artifact level.</Effect>
+    <Source>Compendium</Source>
+    <Form>Egg-shaped synth device with a hollowed center containing a metal orb</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Crimson Polyhedron</Name>
+    <Level>10</Level>
+    <Effect>This device must be embedded into the user’s body through a surgical procedure. The procedure takes about an hour in a skilled chiurgeon’s hands. If successful, the polyhedron ties itself to the user’s vital functions. The user can designate a cypher or artifact to be activated if she is ever rendered unconscious (as opposed to just asleep), impaired, or debilitated. A different device can be tied to each of these three states, but only one per state. The user can also designate one, some, or all of her cyphers and artifacts to activate in the event of her death.</Effect>
+    <Source>Compendium</Source>
+    <Form>Small red crystal</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Crown Of Eyes</Name>
+    <Level>1d6</Level>
+    <Effect>It takes one round to activate the crown. When activated, the crystal spheres separate from the crown and fly around the wearer at immediate range for an hour. He can see anything the crystal spheres can see. This allows him to peek around corners without being exposed to danger. This gives the wearer an asset in initiative and all perception tasks.</Effect>
+    <Source>Compendium</Source>
+    <Form>Metallic circlet set with several crystal spheres</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Cryogen Box</Name>
+    <Level>1</Level>
+    <Effect>The box’s interior is 34° F (1° C) and stays at that temperature indefinitely. Anything placed inside the box cools until it reaches this temperature.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 5-foot (2 m) cube made of metal with a door on the front</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Cryogen Rod</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, the cube at the end of the device rapidly cools until it reaches absolute zero (approximately –460° F, or –273° C) and remains at that temperature for about one minute before warming back up to local temperature. The rod can be used as a club (a light weapon) that inflicts additional ambient damage equal to the artifact level. If the frozen tip is placed in any liquid, it causes all the liquid within a 50-foot (15 m) radius to solidify. The rod cannot be removed from the solid until it melts.</Effect>
+    <Source>Compendium</Source>
+    <Form>A smooth length of metal that has a bronze cube at one end</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Crystal Armor</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This appears to be a harness of highly articulated plate armor, but the pieces are made of very thin crystal rather than metal. This is heavy armor. Any ray or beam attacks that strike the wearer are reflected back at the attacker. When the armor depletes, it turns to powder.</Effect>
+    <Source>Compendium</Source>
+    <Form>Suit of armor made of crystal</Form>
+    <Depletion>1–2 in 1d100 (check once each day)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Crystal Helmet</Name>
+    <Level>1d6</Level>
+    <Effect>When a user activates the device while wearing it, the band surrounding the hole fuses with his skin to make the globe airtight. The globe creates a breathable atmosphere for him that lasts for up to four hours or until he deactivates it (not an action). In addition, the globe allows him to perceive his surroundings clearly to a distance of 500 feet (152 km). However, the device interferes with his ability to hear and increases the difficulty of any task that involves hearing by one step.</Effect>
+    <Source>Compendium</Source>
+    <Form>A glass globe with a hole on the bottom. The hole is large enough for a human to place the globe over his head, and a soft band around the opening cushions its weight.</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Cthonic Bore</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This vehicle can be piloted by someone who makes Intellect rolls (level 1) each round. Inside, there’s a seat for the pilot and two benches that run along either side for up to four people to sit comfortably. When activated, the device moves a short distance each round or up to 10 miles (16 km) per hour on extended trips. The device can also be used to tunnel through 10 feet (3 m) of earth or 5 feet (2 m) of stone each round.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 10-foot long (3 m), 5-foot wide (2 m), and 7-foot tall (2 m) tracked vehicle made from steel equipped with an enormous drill on the front and a door on the back</Form>
+    <Depletion>1–4 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Cyclops Helm</Name>
+    <Level>1d6</Level>
+    <Effect>The wearer sees through the lens on the front of the helm via screens inside the helmet. It gives her an asset on all visual perception tasks.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal helmet that fits over the wearer’s entire head and has a single lensed eye in the front</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Data Armor</Name>
+    <Level>1d6</Level>
+    <Effect>When placed just under the ear, tiny prongs sprout from the disk to anchor it in the flesh. The device reinforces the user’s mind with an information stream from the datasphere. The device adds 1 to her Intellect Edge.</Effect>
+    <Source>Compendium</Source>
+    <Form>A tiny metal disk with a glowing crystal in the center</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Data Imager</Name>
+    <Level>1d6</Level>
+    <Effect>When the device is activated, the user names one type of creature or object, and the device draws information about the subject from the datasphere, creating an image of it anywhere the user chooses within immediate range. The image is visual only, and any physical object that touches it passes right through it. The image remains for one minute.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small handheld device</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Demonflesh</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When activated, this ball liquefires and coats the body of the user for one hour, appearing to be a dark blue bodysuit veined with pathways of soft light. Demonflesh confers two abilities. First, the wearer can become invisible. While invisible, she is specialized in stealth and Speed defense tasks. This effect ends if she does something to reveal her presence or position—attacking, performing an esotery, using an ability, moving a large object, and so on. If this occurs, she can regain the remaining invisibility effect by taking an action to focus on hiding his position. Second, the demonflesh wearer can inflict 3 points of damage with a touch. This attack ignores Armor as it breaks down molecular bonds, disintegrating anything that comes in contact with it. Demonflesh was so named long ago because those who discovered it believed that it was the creation of evil gods and was itself inherently evil. A few people still believe this.</Effect>
+    <Source>Compendium</Source>
+    <Form>A ball of dark blue synth</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Destabilizer</Name>
+    <Level>1d6</Level>
+    <Effect>The user activates the device and points it at a small stone or piece of metal within immediate range. The device causes the target to become unstable for one hour. If the target is thrown while unstable, it explodes in an immediate radius on impact, inflicting shrapnel damage equal to the artifact level.</Effect>
+    <Source>Compendium</Source>
+    <Form>A synth cube made of smaller cubes</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Detachable Eye</Name>
+    <Level>1d6</Level>
+    <Effect>To use this device, the user must press it into an empty eye socket and hold it there for at least one minute while filaments plug into the brain. Once it’s properly installed, she can see through it as if it were a normal eye, and she can also see in areas of darkness as if they were lit. At any point, the user can use an action to pluck the device from her head. She can continue to see through the device while she is within 1 mile (2 km) of it.</Effect>
+    <Source>Compendium</Source>
+    <Form>Synthetic eyeball</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Detonation Catalyst</Name>
+    <Level>1d6</Level>
+    <Effect>When the device is affixed to a detonation cypher for one hour, the detonation is enhanced, inflicting 2 additional points of damage. If the detonation does not normally inflict damage, it now inflicts 2 points in addition to whatever effect it normally has.</Effect>
+    <Source>Compendium</Source>
+    <Form>Small handheld device with clips on wires</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Digestion Parasite</Name>
+    <Level>1d6</Level>
+    <Effect>The worm functions only if it is swallowed whole. Once ingested, it grows until it completely replaces the user’s digestive tract. Henceforth, the user receives sustenance from anything he ingests, even if that substance is poisonous, contaminated, or something that cannot normally be digested. The worm breaks down the substance and passes it while supplying the host with lifesustaining nutrients.</Effect>
+    <Source>Compendium</Source>
+    <Form>A living grey worm with a mouth at either end</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Disruptive Sword</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This broadsword inflicts 1 additional point of damage from the disruptive energy projected around the blade. This energy cannot be turned on or off, and it eats through sheaths at a rate of about one a week.</Effect>
+    <Source>Compendium</Source>
+    <Form>An energy-entwined broadsword</Form>
+    <Depletion>1 in 1d20 (check once each week)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Distance Imager</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When pointed at an enclosed structure within 1 mile (2 km), the screen shows the interior of that structure, room by room. The user can “move” through the structure (even through walls or other barriers) at a speed of 10 feet (3 m) per round. One use of the item lasts for ten rounds.</Effect>
+    <Source>Compendium</Source>
+    <Form>Synth cube with a screen and a number of controls</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Domination Rod</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device saps the will of a creature touched by the rod. The affected creature makes all Intellect defense rolls with the difficulty increased by one step. Actions involving seeing through deceptions, resisting urges, and other similar tasks are likewise affected. Creatures are affected for 28 hours.</Effect>
+    <Source>Compendium</Source>
+    <Form>A short wooden haft with a crystalline tip</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Doroa Of The Silent Song</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, the device begins to recount the Sacred Chronicle of High Father Calaval in a soft, slightly metallic voice. The entire tale takes about 28 hours from start to finish. If the tale is interrupted during the telling for any reason, the device starts again at the beginning.</Effect>
+    <Source>Compendium</Source>
+    <Form>Complex standalone device carved of soapstone in the rough shape of a woman, about 4 feet (1 m) high, with two bright green gems lodged into the face</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Earth Caller</Name>
+    <Level>10</Level>
+    <Effect>When the narrow end is pushed into the ground and activated, the top half repeatedly lifts up and slams back into place. This action sends a tremor through the ground. It continues for ten minutes and then stops. If the device operates for the full time, a violent earthquake tears through the area in a 1-mile (2 km) radius. The quake persists for five minutes and causes widespread damage. Buildings made of wood, stone, or brick collapse; walls topple; cliffs crumble; ceilings cave in; some areas of ground rise up; and other areas sink. Characters inside collapsed buildings or beneath a crumbling cliff or falling wall are subject to a crush or huge crush, and they may have to dig themselves firee as the GM decides. A crush inflicts 3 points of damage, and a huge crush deals 6. Furthermore, the force of the quake knocks creatures to the ground and prevents them from standing until the shaking stops.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal staff about 5 feet (2 m) long that tapers down to a rounded point at one end</Form>
+    <Depletion>Automatic</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Ebon Eyes</Name>
+    <Level>1d6</Level>
+    <Effect>Placing a droplet in each eye turns the user’s eyes solid black. For the next 28 hours, he can see in areas of dim light or very dim light as if they were illuminated with bright light. The user’s eyes adjust to protect him from sudden light changes, and he can’t be blinded by light effects. If a single drop of ebon eyes is carefully mixed with any liquid cypher with a beneficial effect (task difficulty 4), the resulting cypher enhances the user’s eyes so that the difficulty of all ranged attacks is reduced by one step.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small bottle of black liquid with a dropper</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Electromagnetic Projector</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>The device propels the sphere with incredible speed up to 10 miles (16 km). The sphere inflicts damage equal to the artifact level to whatever it strikes. Once used, the device must cool down for one minute before it can be used again. Each time the weapon is used, the user and everyone within an immediate distance becomes deafened for one hour unless they took precautions to protect their hearing— earplugs, for example.</Effect>
+    <Source>Compendium</Source>
+    <Form>A large, heavy, handheld device that has two long metal rods protruding from a cushioned metal stock. A small metal sphere floats between the rods near the base of the weapon.</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Emitter Enhancer</Name>
+    <Level>1d6</Level>
+    <Effect>When the device is fit over and around any kind of ray emitter cypher, the emitter inflicts 2 additional points of damage. If the emitter does not normally inflict damage, it now inflicts 2 points in addition to whatever effect it normally has.</Effect>
+    <Source>Compendium</Source>
+    <Form>Complex set of tubes and hinged rods</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Energy Converter</Name>
+    <Level>1d6</Level>
+    <Effect>The device transforms physical energy into mental energy. Whenever the user would apply Effort on an Intellect roll, she may spend the points from her Might Pool instead.</Effect>
+    <Source>Compendium</Source>
+    <Form>A mechanical plug that must be installed somewhere in the user’s body</Form>
+    <Depletion>1 in 1d100 (check once each day)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Environment Suit</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When worn, the suit protects the wearer from extreme temperatures and transforms her excretions into a foul-tasting but edible substance that can be retrieved from pouches in the legs. In addition, she suffers no ill effects from temperatures as cold as –58° F (–50° C) or as hot as 212° F (100° C). In addition, she takes no damage from extreme cold or heat.</Effect>
+    <Source>Compendium</Source>
+    <Form>A full bodysuit made from synthetic material that’s covered with tubes and wires</Form>
+    <Depletion>1 in d100 (check each day while the suit is worn)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Ephemeral Garb</Name>
+    <Level>1d6</Level>
+    <Effect>The clothing has no appearance. The wearer looks like he is not wearing any clothing at all. However, the suit gives him +1 to Armor.</Effect>
+    <Source>Compendium</Source>
+    <Form>A suit of transparent clothing</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Eternal Journal</Name>
+    <Level>1d6</Level>
+    <Effect>The pages of this book are designed to be written on with a finger, rather than a traditional writing utensil. The pages pick up the oils and skin cells shed from the writer’s finger, turning them into a soft grey ink. Whenever the book is returned to the stronglass case for more than 28 hours at a time, another blank page is created from the skin cells and added to the back.</Effect>
+    <Source>Compendium</Source>
+    <Form>Leather- and metallic-bound book that is housed inside a stronglass case</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Ever-write</Name>
+    <Level>1</Level>
+    <Effect>Someone can use the device to write on any surface, even liquid. The writing cannot be erased.</Effect>
+    <Source>Compendium</Source>
+    <Form>A slender metal tube that ends in a point</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Everyoung Choker</Name>
+    <Level>1d6</Level>
+    <Effect>While wearing the device, the user shows no physical effects of aging and remains at the same age he was when he put on the device. If the device is removed, he ages normally.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal choker with a glowing crystal set on the clasp</Form>
+    <Depletion>1 in 1d100 (check once each year)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Extraneous Arm</Name>
+    <Level>1d6</Level>
+    <Effect>Unlike a mechanical arm, this cybernetic limb is meant to be affixed to a position on a host body that would not normally have such a limb. This, then, could be seen as an additional arm. The arm must be surgically and permanently attached (a task equal to the artifact level). The procedure takes about an hour in a skilled chiurgeon’s hands. Once the arm is attached, the user has complete control over the limb and uses it naturally, which might end up allowing her to hold an additional object. She is granted an asset for all lifting tasks, but the extra arm does not confer additional actions. Extraneous limbs are often found in groups. Thus, a creature that would normally have two arms might have four or six. In addition, they often have mechanical arms or legs, so a creature that normally has two legs might have six, and all of them are cybernetic (and just as often, inappropriate in size, shape, and configuration for that creature).</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal arm</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Extraneous Leg</Name>
+    <Level>1d6</Level>
+    <Effect>Unlike a mechanical leg, this cybernetic limb is meant to be affixed to a position on a host body that would not normally have such a limb. This, then, could be seen as an additional leg. The leg must be surgically and permanently attached (a task equal to the artifact level). The procedure takes about an hour in a skilled chiurgeon’s hands. Once the leg is attached, the user has complete control over the limb and uses it naturally. He is granted an asset for running tasks.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal leg</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Extreme Lenses</Name>
+    <Level>1d6</Level>
+    <Effect>The wearer can refocus her eyes to see up to one hundred times farther than normal.</Effect>
+    <Source>Compendium</Source>
+    <Form>Synth eye cups</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Exuvia</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This form-fitting biological armor can be donned very quickly and is very light and unencumbering. It is treated in all ways like light armor but offers +2 to Armor.</Effect>
+    <Source>Compendium</Source>
+    <Form>Armor made of what appears to be large animal shells (or rather, what the shell of a human might look like, if humans had shells)</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Eye Of The Sky</Name>
+    <Level>1d6</Level>
+    <Effect>Inside the tube is a fist-sized orb with a dozen or so lenses positioned across its surface. When activated, the tube fires the orb to a distance of 1 mile (2 km) in whatever direction it is facing. Provided the orb does not encounter a solid surface en route to its destination, once it moves the full distance, it stops and captures a perfect image of everything it can see within 5 miles (8 km). It then slowly floats to the ground, where it can be retrieved. Placing the orb into the tube after it has been retrieved allows a user to see the image on the viewscreen. The device is typically used to create a detailed map of the surrounding environment. When fired, if the orb strikes a solid object in its path, it inflicts damage equal to the artifact level and immediately shatters, rendering the artifact worthless.</Effect>
+    <Source>Compendium</Source>
+    <Form>A large tube mounted on a flat platform with a viewscreen</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Eye Spy</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When activated, the sphere stores up to 28 hours of visual and audio information around it. The sphere can “see” and “hear” as far as an average human, and information is recorded from a 360-degree perspective around it. The information can be replayed on the sphere itself when it is activated again.</Effect>
+    <Source>Compendium</Source>
+    <Form>Large synth sphere</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Fabricator</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Causes raw materials placed in the compartment to transform into a finished item, which appears inside the frame. The process of fabrication takes one minute. The device can be used to create just about any sort of item provided that it has a supply of raw materials needed to make the item. The trick to using a fabricator is knowing what raw materials are needed. Something as complex as a cypher or an artifact requires a task involving knowledge of the numenera with a difficulty of the device level + 4. If the result is above 10, it’s impossible for anyone to get the fabricator to make that device. All powered devices successfully created by a fabricator start off depowered.</Effect>
+    <Source>Compendium</Source>
+    <Form>A bulky metal frame with glass plates on each side and a metal compartment at the top</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Feather Cloak</Name>
+    <Level>1d6</Level>
+    <Effect>The feathers stiffen when struck to protect the wearer from injury. The user gains +1 to Armor while wearing the cloak.</Effect>
+    <Source>Compendium</Source>
+    <Form>A cloak made from golden feathers</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Fiber Optic Sleeves</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>These armor sleeves grant +1 to Armor in addition to whatever armor the user is currently wearing. Further, when active, the sleeves light up in a random, pulsing pattern for ten minutes. When used with melee attacks, this pattern confuses the target during that attack, modifying all defense actions by one step to its detriment.</Effect>
+    <Source>Compendium</Source>
+    <Form>Flexible, lightweight sleeves with integrated fiber optic wires, designed to go over existing armor</Form>
+    <Depletion>1 in 1d20 for the confusion ability (after depletion, the sleeves still function as armor)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Finger Talkers</Name>
+    <Level>1d6</Level>
+    <Effect>When worn on the thumb, pointer, and middle finger of both hands, the rings translate the wearer’s hand gestures into spoken words that are emitted by the bracelet. The bracelet also converts other people’s spoken words into text, which the wearer can read on a small screen on the side of the bracelet. While converting hand gestures into speech and speech into written language, the device also does any necessary translating. The device works automatically for most commonly used sign languages of the Ninth World, but if a user wishes to “train” the device to a new hand language, she must use it simultaneously with speaking for about an hour.</Effect>
+    <Source>Compendium</Source>
+    <Form>Six adjustable black rings and one black bracelet (which stores the rings when they are not in use)</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Flame Caster</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The device has two settings. The user chooses which setting to use when he activates it. The first setting causes the nozzle to emit a short beam of white-hot flames. The flames are hot enough to cut through 6 inches (15 cm) of steel each minute the device is used. It can also be used as a melee weapon that inflicts damage equal to the artifact level. The device burns for ten minutes and then deactivates. The second setting releases a ball of flame that travels a long distance and detonates at the end of this point or when it comes into contact with a solid object. When the ball explodes, it throws fire a short distance that inflicts 4 points of ambient damage.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal canister with a flexible hose emerging from the top and ending at a nozzle</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Flaming Torrent</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This sprays a gout of flame out to short range in a cone that is 30 feet (9 m) wide at the terminus, potentially affecting multiple targets that are close together. The flames inflict damage equal to the artifact level.</Effect>
+    <Source>Compendium</Source>
+    <Form>Short synth wand with a small synth globe at the back end</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Flesh-render Wand</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This device projects a wide spray of sharp fragments that inflicts 2 points of damage to everyone within an immediate area, and 1 point of damage to everyone within a short area. The fragments also penetrate (ignore) up to 4 Armor. In other words, targets in range who have 4 Armor (or less) take 2 points of damage, targets with 5 Armor take 1 point of damage, and targets with 6 Armor (or more) take no damage.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small handheld device fitted with a tiny tube</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Flexsteel Weapon</Name>
+    <Level>1d6</Level>
+    <Effect>The weapon looks like it is made of steel, but when it is swung with force, it stretches. A wielder can stretch the weapon in his hands as if it were made of elastic material. When stretched in this way, it always snaps back to its original shape. The difficulty of attack rolls made using this weapon is increased by one step. However, if the attack misses, the user can repeat the attack roll once. If the second roll succeeds, the weapon inflicts half its normal damage.</Effect>
+    <Source>Compendium</Source>
+    <Form>A weapon normally made from hard material such as a greatsword or battleaxe</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Flicker Cloak</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Causes the user to flicker in and out of existence for ten minutes. At the end of each of her turns while wearing the cloak, she must roll a d6. On an odd number, nothing happens. On an even number, she disappears, ceasing to exist. At the start of her next turn, she reappears in the space she left (or an open space nearest to that space). She has no idea what happened during the time she ceased to exist.</Effect>
+    <Source>Compendium</Source>
+    <Form>A long cloak made from material woven with circuitry</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Flight Pack</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The wearer can move in the air for one hour, moving an immediate distance per turn in any direction. If desired, this speed can be increased to almost 100 miles (161 km) per hour for that hour, but doing so automatically depletes the artifact.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal device worn on one’s back</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Foldable Coach</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>It takes two rounds to fold the coach out of its chest, whereupon it becomes a vehicle able to seat up to five humans. The vehicle has six hard synth wheels. When sealed inside, characters are not visible to external creatures, but they can see outside. Furthermore, characters inside gain +5 to Armor against all attacks made from outside the coach. Each time the coach is set up, it responds to audible voice commands from passengers and can travel for up to one hour per artifact level, with long movement on roads and short movement on rough or difficult terrain. It’s possible for up to four additional human-sized creatures to ride on top of the coach while it travels. When exhausted, the vehicle folds back into its compact form, ejecting any passengers still within, and can’t be used again for several hours.</Effect>
+    <Source>Compendium</Source>
+    <Form>A chest that folds out into a selfpowered coach</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Force Shield</Name>
+    <Level>1</Level>
+    <Effect>When activated, an energy field expands out from the device until it attains the size of a shield. The energy field functions as a shield for one hour.</Effect>
+    <Source>Compendium</Source>
+    <Form>A wristband with a round device attached in the middle</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Globe Projector</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, the device shoots a glittering orb at a target within short range. Upon striking the target, the orb expands into an opaque white bubble that completely envelops the target and then floats away at a rate of 10 feet (3 m) per round for ten minutes. It then pops and drops the target to the ground. Until the effect ends, nothing can pass through the bubble.</Effect>
+    <Source>Compendium</Source>
+    <Form>A short device with a narrow synth tube that flares at the end</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Glow Boots</Name>
+    <Level>1d6</Level>
+    <Effect>The boots cause the wearer to leave behind faint footprints that reveal themselves in very dim light or darkness. The prints glow with faint light that is strong enough to be followed, but not strong enough to illuminate the area. The prints last for 28 hours before fading away.</Effect>
+    <Source>Compendium</Source>
+    <Form>A pair of leather boots</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Glowglobe Nest</Name>
+    <Level>1d6</Level>
+    <Effect>This device holds one to three glowglobes. After ten minutes of sitting in the nest, the globes are fully recharged and ready for use again. Some people speculate that these devices were once far more common. In particular, the nests must have been used heavily by whatever prior civilization used glowglobes so much that they are still ubiquitous.</Effect>
+    <Source>Compendium</Source>
+    <Form>Either a small synth bowl or a synth object with two or three round receptacles</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Graviton Emitter</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This long-range weapon fires a beam of gravitons that inflicts no damage. Whatever object or creature the beam hits emits a powerful gravity field that extends out to 30 feet (9 m) in all directions. Anything in the area “falls” toward the target unless it is fixed in place. A falling creature or object takes damage based on the distance it fell as normal when it strikes the target or another solid object in the way. Each creature or object struck by a falling object takes half the damage sustained from the fall. A creature flying through the area is unaffected provided that it continues flying. For attacks using projectile weapons in which the projectile passes through the affected area, the GM may increase the difficulty of the attack by one step. The weird gravity lasts until the end of the next round. Until then, any creature in the affected area functions as if gravity pointed to the target. The target cannot move until this effect ends.</Effect>
+    <Source>Compendium</Source>
+    <Form>A handheld device with a dial and several buttons</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Graviton Suppressor</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>Once activated, it takes two rounds for the device to take effect. The device shuts off gravity within a short distance. Anything not bolted down or anchored in some way floats up 30 feet (9 m) and hangs there until the effect ends, one minute later. Anyone pulled outside of the area or still in the area when the effect ends falls to the ground.</Effect>
+    <Source>Compendium</Source>
+    <Form>A flat metal disk with a display and several buttons</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Gravity Suit</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This light armor not only provides +1 to Armor as expected, but it also allows the wearer to reverse gravity for herself. In other words, she can choose to “fall” upward, walk across the ceiling as if it were the floor, and so on. This change in gravity orientation is true of everything she carries, but if she lets go of an object or drops something, normal gravity takes over for that object. It is an action to change the gravity orientation.</Effect>
+    <Source>Compendium</Source>
+    <Form>A light but tough full-body leather suit</Form>
+    <Depletion>1–2 in 1d100 (remains light armor even when depleted)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Greenstone Adaptor</Name>
+    <Level>1d6</Level>
+    <Effect>The device bonds to any artifact to which it is touched. The wires plug into the artifact and embed themselves in it. Henceforth, whenever a user rolls for depletion of that artifact, he can roll twice and use either result. This device is radioactive. At the end of each day during which a user spent any time around the device, he must make a Might roll with a difficulty equal to the artifact level. On a failure, the device inflicts radiation damage equal to half the artifact level (minimum 1 point). This damage ignores Armor.</Effect>
+    <Source>Compendium</Source>
+    <Form>A glowing stone laced with wires</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Guardian Sphere</Name>
+    <Level>1d6</Level>
+    <Effect>The sphere follows whoever activated it around for one hour by rolling across the ground to stay within an immediate distance of the user. The sphere jumps over obstacles that are 3 feet (1 m) tall or less. Otherwise, it maneuvers around them if possible or stays put if not. Once per round, whenever the user is attacked by a foe that is within an immediate distance, the ball leaps toward the foe and sprouts long spikes from its body that inflict damage equal to the artifact level on a hit. After making this attack, the spikes retract and the sphere falls to the ground.</Effect>
+    <Source>Compendium</Source>
+    <Form>A black metal sphere fitted with a glowing red disk made of glass that moves across its surface</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Gut Worm</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>A user must swallow the worm whole to activate it. Until the worm is expelled two days later, the user must consume twice as much food as normal each day. Activating the device causes a fleshy tendril to burst from the user’s body, inflicting 1 point of damage that cannot be reduced in any way. The tendril is a level 2 creature under the user’s control. As a level 2 creature, it has a target number of 6, inflicts 2 points of damage, and has 6 health. The tendril cannot leave the user’s body. It can attack targets at a short distance from the user.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 6-inch (15 cm) fleshy worm</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Hand Of Annihilation</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When activated, this device creates a small orb of light that can be wielded as a medium weapon that annihilates the matter it touches, disintegrating it. This inflicts 10 points of damage, but it is very difficult and dangerous to use. The difficulty of attacks is increased by two steps, and a roll of 1 or 2 results in GM intrusion. The orb can be dispelled with an action. Having the orb in the pincer for an extended period of time (walking around outside of combat, for example) is dangerous, and GM intrusions should be common. Hand of Annihilation GM Intrusion: The character drops or otherwise inadvertently looses the orb. This could mean that the damage is inflicted upon the user or another target within immediate range, or that the orb falls at the user’s feet, making a hole that he likely falls into.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metallic pincer that fits over the wrist</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Handy Hollow</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>It takes one round to fold the black cloth across a flat surface such as on the ground, draped down a wall, and so on, to cover an area 5 feet by 5 feet (2 m by 2 m). The cloth becomes a permeable passage through the surface reaching up to 10 feet (3 m) through solid material. The permeability lasts for one hour and creates no instability in the surrounding structure.</Effect>
+    <Source>Compendium</Source>
+    <Form>A square piece of black cloth</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Hard Light Cutter</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Activating this device causes a 3-foot (1 m) blade of solid light to extend from the baton’s tip and remain until deactivated (not an action). The blade inflicts damage equal to the artifact level. When the wielder gets a major effect on an attack using a hard light cutter, the blade can lop off one of the target’s limbs, with consequences determined by the GM.</Effect>
+    <Source>Compendium</Source>
+    <Form>A short metal baton with a crystal mounted at the top and buttons along one side</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Hard Light Goggles</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>A wearer can tap the side of the goggles and cause them to emit a pulse of solidified light that travels a long distance. The light inflicts 4 points of damage. If the user gets a major effect on an attack roll using this device, the light inflicts 12 points of damage to the target, and it inflicts 4 points of damage to everything within a short distance of the target. After resolving this effect, roll for depletion again.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal visor with a lens that, when looked through, tints everything red</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Homing Volt Projector</Name>
+    <Level>1d6</Level>
+    <Effect>Fires tiny pellets that veer toward organic targets and burst with a jolt of electricity that deals 5 points of damage (ignores Armor). Attacking inorganic targets increases the difficulty by two steps, but attacking an organic target decreases the difficulty by one step. Hiding behind inorganic cover provides no protection, but hiding behind organic cover (like a tree) increases the difficulty of attacking the target by one step.</Effect>
+    <Source>Compendium</Source>
+    <Form>Small handheld device</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Hot-cold Stone</Name>
+    <Level>1</Level>
+    <Effect>When activated, the device changes the temperature in the area within a short distance. It can increase or decrease the temperature by up to 68° F (20° C), as the user decides. The effect lasts for up to seven hours.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small, round, flat mechanical device with four vents at the top</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Husk</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Activating the device causes it to become a level 1 creature. The creature follows the user wherever it goes, but otherwise does nothing. As a level 1 creature, it has a target number of 3 and has 3 health. If reduced to 0 health, the device is destroyed. The first time a human or humanoid within short range of the creature dies, the creature absorbs the target’s personality, memories, and identity, and transforms to assume the target’s appearance in the prime of its life. In effect, the device becomes the creature. After nine years, the body dissolves into a slick of foul-smelling slime.</Effect>
+    <Source>Compendium</Source>
+    <Form>A featureless, hairless humanoid creature</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Hypno-lenses</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The wearer has an asset on any task that involves deceiving or persuading a creature that meets his gaze.</Effect>
+    <Source>Compendium</Source>
+    <Form>A pair of pink lenses held in a silver frame</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Hypnotic Nanny</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, the device croons and hums various songs and tunes, flashes in a series of calming, mesmerizing lights, and begins to vibrate softly. Creatures that listen for more than one minute are calmed and compelled to remain listening for as long as the effect lasts (one hour). During that hour, creatures of a lower level than the artifact fall asleep for 2d6 hours.</Effect>
+    <Source>Compendium</Source>
+    <Form>Fur-covered, squishy oval device about 3 feet by 1 foot (1 m by 0.3 m)</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Impossible Blade</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This tool can be used for very fine work, cutting or carving almost any (small) object with amazing precision. It allows for surgeries and crafting that would likely otherwise be impossible (it counts as two assets for such tasks). It can also be used as a weapon. In this capacity, it is a light weapon that ignores Armor. However, the blade is somewhat fragile, so using it as a weapon risks damaging it.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small, extremely thin blade with a short handle</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Impulse Collar</Name>
+    <Level>1d6</Level>
+    <Effect>While within short range of another living creature, the wearer can activate the device by pressing the light with his thumb and aiming it in the general direction of another person. The device picks up and broadcasts the general emotional state of that person. A blue light signifires indifference, red signifires anger, purple signifires arousal, and yellow indicates good will, friendship, or love. Activation is an action.</Effect>
+    <Source>Compendium</Source>
+    <Form>A thick leather strap that wraps around one’s throat with a pulsing light set into a metal casing on the front of it</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Instant Ladder</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, the rod extends and produces rungs so that it can be used as a ladder up to 28 feet (9 m) long.</Effect>
+    <Source>Compendium</Source>
+    <Form>Small lightweight rod</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Interceptor</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When small, fast-moving physical objects (arrows, thrown rocks, or other projectiles) coming toward the device reach a distance within immediate range, it fires bursts of energy that destroy the projectiles if they are of lower level than the interceptor. Although the interceptor can fire at multiple targets at once, depletion is rolled for each use.</Effect>
+    <Source>Compendium</Source>
+    <Form>Shoulder-mounted device</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Kill Dart Projector</Name>
+    <Level>1d6</Level>
+    <Effect>This device projects a tiny dart made of glowing metal up to long range. The dart inflicts 1 point of damage and then saturates the target with radiation. The target takes 1 point of ambient damage each round, and the difficulty of all tasks it performs is modified by one step to its detriment. If the target removes the dart, the effect ends after 28 hours. This device is a rapid-fire weapon and thus can be used with the Spray or Arc Spray abilities that some glaives and jacks have, but each round of ammo used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small handheld device with a narrow tube</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Leap Boots</Name>
+    <Level>1d6</Level>
+    <Effect>The user can activate these boots to jump up to a long distance and then land safely.</Effect>
+    <Source>Compendium</Source>
+    <Form>A pair of heavy boots</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Light Discus</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The user must be wearing the device to activate it. After doing so, he can pull a disk made of glowing, solidified light out of the plate and throw it at a target within short range. The disk inflicts damage equal to half the artifact level. After making the attack, the disk may fly to attack up to two different targets, each within a short distance of the last, and inflicting the same damage as the first attack. After the disk makes its last attack, it flies back to the user’s hand and dissipates.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal plate worn on the back and held in place by two shoulder straps</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Light Tendril</Name>
+    <Level>1d6</Level>
+    <Effect>This mechanical tendril grafts easily (and without surgery) onto the user’s back. She controls the tendril, which always shines light on whatever she wishes.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal and synth tendril with an illuminated end</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Lightning Whip</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, energy crackles all along the length of the filament for one minute. While energized, the device can be used like a whip (a light weapon) that inflicts 4 points of damage. The damage ignores Armor.</Effect>
+    <Source>Compendium</Source>
+    <Form>A short handle with a 10-foot-long (3 m) filament extending from the end</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Lightwings</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, the wings light up and can carry the user and her equipment up to 50 feet (15 m) in the air. Each time the wings are used, they last a number of minutes equal to the artifact level × 10 (a new roll is required for each use). As the power gets used up, the bioluminescent light begins to wane, alerting the wearer. The worms require about a day of rest between each use of the wings. (The wings don’t work as well if used more than once per day. For subsequent uses within 28 hours, they last only a number of minutes equal to the artifact level × 2). Action to attach. Action to activate.</Effect>
+    <Source>Compendium</Source>
+    <Form>Set of lightweight collapsible wings and harness built of adamant silk and azure steel. The spine of the wings is actually a stronglass terrarium hosting the bioluminescent worms that power the device.</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Likeness Thief</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The device activates when placed onto the face of another creature, and once activated, it cannot be removed for one minute. During this time, the mass excretes digestive enzymes that inflict 10 points of corrosive damage, destroying the face of the creature it touches. Afterward, the mass hardens into a perfect copy of the face it destroyed. When a creature wears the mask, it becomes like real tissue and moves in a lifelike and realistic manner. If the victim survives having its face stolen, it is blind, and its facial features are almost completely erased. Nothing remains except a nub of a nose and a slit for a mouth.</Effect>
+    <Source>Compendium</Source>
+    <Form>A pink-hued gelatinous mass</Form>
+    <Depletion>Automatic</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Liminal Scanner</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device scans an object or creature within short range and determines a variety of qualities (some quite esoteric) that cannot be observed with the naked eye. This grants the user an asset in dealing with the material in some desired way, chosen by the user. For example, a scanned wall might be easier to break through, a foe might be easier to attack, a device might be easier to understand, and so on. The asset is always specific to the single object or creature and to the single task specified, but it remains indefinitely.</Effect>
+    <Source>Compendium</Source>
+    <Form>A large device that fits over the user’s hand and has a screen, an array of controls, and a long metal tendril that functions as a sensory apparatus</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Living Cable</Name>
+    <Level>1d6</Level>
+    <Effect>When activated, the cable unspools and sprouts two rows of impossibly long legs from either side, one pair per segment, while a row of knobby protrusions that resemble handles rise up from it, perpendicular to the legs. The cable then slithers to the vertical surface the user indicates and climbs up or down until it reaches the top or bottom or until it has extended its body to a distance of 100 feet (30 m). It uses its legs to grip the surface and remains in place until a button is depressed near the top or bottom, which causes the thing to release, coil up, and retract all its legs and knobs.</Effect>
+    <Source>Compendium</Source>
+    <Form>A spool of hard, flat, segmented cable</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Living Tentacle</Name>
+    <Level>1d6</Level>
+    <Effect>The cord suctions to anything that it is pressed against, living or nonliving. When one suction disk is set, the others follow suit, always forming as straight a line as possible. Once the cord has suctioned to something, it will not release until the bulbous opening has been “fed” (usually a bit of meat, although tastes can vary from cord to cord).</Effect>
+    <Source>Compendium</Source>
+    <Form>Thick, genetically created rope, approximately 20 feet (6 m) long, with suction disks all along its length and a bulbous opening on one end, that self-coils into a buoyant, waterproof case</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Living Wall</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device functions as a level 3 creature that accompanies the user and follows his instructions. The only action the device can take is to move where the user directs it. As a level 3 creature, it has a target number of 9 and a health of 9. It has 5 Armor. The creature can move only across the ground. The device is destroyed if reduced to 0 health.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 10-foot (3 m) cube of metal mounted on two wide tracks</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Logic Spike</Name>
+    <Level>1d6</Level>
+    <Effect>To activate this item, the user must hammer the spike into his head, which inflicts no damage. Once installed, the device decreases the difficulty of any task that involves reason, logic, or recall by two steps. However, it increases the difficulty of any task that involves communication by one step. An installed spike cannot be removed without permanently reducing the user’s Intellect Pool to 0.</Effect>
+    <Source>Compendium</Source>
+    <Form>A long metallic spike</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Machine’s Heart</Name>
+    <Level>1d6</Level>
+    <Effect>It takes two rounds to assemble and set up this device, and then it takes an action to activate it. The empty box can hold four depleted, broken, or otherwise unusable cyphers and artifacts. When the box is filled with the numenera and the machine’s heart is activated, it combines all of the numenera items inside it and reconfigures them into a number of new cyphers or artifacts equal to the artifact level.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 7-foot-tall (2 m) collapsible metal stand with a 3-foot-by-3-foot (1-m-by-1-m) empty box on top and a control panel along the side</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Manybag</Name>
+    <Level>1d6</Level>
+    <Effect>This leather bag has dozens of sealed compartments of different sizes. By verbal command, portions of the bag can become selectively intangible so that anything in the bag can be accessed quickly. In effect, the user can speak a command word and draw out whatever object in the bag is desired, because all other obstructing compartments (and their contents) are rendered out of phase for a moment.</Effect>
+    <Source>Compendium</Source>
+    <Form>Stiff leather bag of fairly large size</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Matter Separator</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device causes the atomic bonds holding together a creature or object within an immediate distance to separate, creating a cloud of dust that spreads out a short distance in all directions and remains there for one round. Unless dispersed by wind (which utterly destroys the target), the target snaps back together after the effect ends. The user then rolls a d20. On a result of 11 or higher, a part of the target, as decided by the GM, is missing. The disappearance inflicts 4 points of damage that ignores Armor.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small handheld device equipped with prongs at one end</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mechanical Arm</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The arm must be surgically and permanently attached (a task equal to the artifact level). The procedure takes about an hour in a skilled chiurgeon’s hands. Once the arm is attached, the user has complete control over the limb and uses it naturally. The arm grants an asset on any task involving carrying or lifting.</Effect>
+    <Source>Compendium</Source>
+    <Form>Mechanical arm grafted to a stump on a person’s body</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mechanical Leg</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The leg must be surgically and permanently attached (a task equal to the artifact level). The procedure takes about an hour in a skilled chiurgeon’s hands. Once the leg is attached, the user has complete control over the limb and uses it naturally. The leg grants an asset on any task that involves running.</Effect>
+    <Source>Compendium</Source>
+    <Form>Mechanical leg grafted to a stump on a person’s body</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Memory Shard</Name>
+    <Level>10</Level>
+    <Effect>The spike contains a personality fragment from a person long dead. Installing the spike floods the host’s mind with shreds of memory, feelings, and sensations until he absorbs the extra personality. He can immediately choose and gain a second focus.</Effect>
+    <Source>Compendium</Source>
+    <Form>A sharp metal spike that must be inserted into the base of the neck at an upward angle. Installing the spike inflicts no damage, but it cannot be removed without killing the person.</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mental Storage</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>When used, this device records a thinking creature’s knowledge, memories, and personality—basically, a copy of his consciousness. The recording process takes four hours. The device can then store this data indefinitely. It can be accessed and downloaded into another appropriate device or body (if those capabilities are available). The device can be used only once.</Effect>
+    <Source>Compendium</Source>
+    <Form>Large device with multiple screens and controls as well as wires with electrodes</Form>
+    <Depletion>Automatic</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mesmerizing Flame</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When the device is activated, two things happen. First, the user is protected by a shield of force that provides +1 to Armor, and +10 to Armor against flame. Second, the starshaped wheel begins spinning and spitting out flames. This is a heavy melee weapon that inflicts damage equal to the artifact level + 2, and all of the damage is fire and heat (ignores Armor). Once activated, the device remains active for one minute. Moreover, when the device is activated, creatures within immediate range that can see the patterns in the spinning flames become mesmerized, losing their action in the next round. Creatures that come within immediate range once the device is active may also become mesmerized. No creature ever loses more than one action to the patterns.</Effect>
+    <Source>Compendium</Source>
+    <Form>Large handheld device with a starshaped wheel on the end of a long extension</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mesoglea Gloss</Name>
+    <Level>1d6</Level>
+    <Effect>After breaking the orb and essentially killing the creature inside, the user can then slather a piece of armor with the goo. Once the goo dries into a hard shellac (about ten minutes), it provides protection against water, wind, and light. Additionally, the user can add a single drop of liquid to the gloss to activate it. When activated, the gloss becomes both hard and slippery, decreasing the difficulty of all Speed and Might defense actions by one step for one hour. Applying the gloss is an action. Activating the gloss is also an action.</Effect>
+    <Source>Compendium</Source>
+    <Form>A living gelatinous creature encased in a medium-sized orb</Form>
+    <Depletion>1 in 1d20 for the Speed and Might defense abilities (after depletion, the glossed armor retains its water-, wind-, and lightreflection properties)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mind Blade</Name>
+    <Level>1d6</Level>
+    <Effect>The material from which the weapon is made is highly receptive to thought and stores mental energy placed into it. When a user attacks with the weapon and would apply Effort, he can spend points from his Intellect Pool instead of his Might Pool.</Effect>
+    <Source>Compendium</Source>
+    <Form>A weapon (usually a broadsword or dagger) made from grey crystal</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mind Displacer</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>When activated, the device blasts the user’s mind with vivid colors for one minute. At the end of this time, the user sees and hears as if at a fixed point in a place that she has visited at least once before. The perception lasts until she removes the device.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal helmet with an opaque visor</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Minute Lenses</Name>
+    <Level>1d6</Level>
+    <Effect>The wearer can refocus her eyes to magnify whatever she is looking at within an immediate distance by up to one hundred times.</Effect>
+    <Source>Compendium</Source>
+    <Form>Synth eye cups</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mirage Generator</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>Activating the device takes ten minutes. At the end of this time, the device creates a complex scene of images (chosen by the user) within immediate range. The entire scene must fit inside a 100-foot (30 m) cube. The images are made from solidified light and look and feel completely real. The device also creates sounds to make the images seem real. If the images include creatures, those creatures look and act like real creatures, but when they talk, they speak in gibberish. The only quality the device cannot produce is smell—nothing created by the device has an odor. The images last for one hour or until the device is deactivated (not an action). If the scene is something that could be harmful (such as a roaring inferno), the device inflicts ambient damage equal to half its level to all creatures within long range. The images cannot conceal terrain features. They can change the features’ general appearance but must incorporate them into the scene. Thus, a pit in the area would still be a pit, though the color might change so that it blends in with the created scene.</Effect>
+    <Source>Compendium</Source>
+    <Form>A complex mechanical device bristling with multicolored lenses</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mobile Arm</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The bigger device is about 3 feet (1 m) long, with an arm that can extend out to 7 feet (2 m). It is controlled by the smaller device. The larger device can be made to move across almost any solid surface, and the mechanical arm can manipulate objects in a crude fashion. It can open doors, pull levers, push buttons, pick up and drop objects that a human could pick up in one hand, push or pull objects about the size of a human or smaller, and so on. It is neither fast enough nor precise enough to make attacks. When activated, it operates for one hour.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small handheld device and a larger complex mechanical device with treads and a multijointed arm</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Monitor Bracelet</Name>
+    <Level>1</Level>
+    <Effect>The device activates when a creature puts on the bracelet. While the bracelet is worn, the viewscreen displays the wearer’s exact position and vital signs.</Effect>
+    <Source>Compendium</Source>
+    <Form>A bracelet made from a flexible, synthetic material and a viewscreen</Form>
+    <Depletion>1 in 1d100 (checked each day the bracelet is worn)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Monowhip</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>Produces a 10-foot-long (3 m), hairthin, glowing white cord. The whip cuts through any material of a level lower than its own. If used to attack, the whip is a light weapon that ignores Armor of a level lower than its own, but each attack requires a depletion check. Furthermore, each missed attack requires a difficulty 3 Speed defense roll to avoid accidentally taking damage from the retracting whip.</Effect>
+    <Source>Compendium</Source>
+    <Form>Hilt with connected red sphere</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mother Parasite</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The user must position the parasite so it can bite his skin. The parasite sinks its teeth into his skin and remains there. The bite inflicts 1 point of damage. While in place, the parasite draws sustenance from its host, reducing his Might Pool by 1. The parasite automatically activates whenever the user fails a Might or Speed defense roll. An orifice opens on the parasite and sprays corrosive slime at a target of the user’s choice within immediate range. The slime inflicts damage equal to the artifact level. The damage penetrates (ignores) up to 2 Armor.</Effect>
+    <Source>Compendium</Source>
+    <Form>A flat nodule of tissue equipped with a round, toothed mouth on one side and a great roaming red eye on the other</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Multiphasic Ray</Name>
+    <Level>1d6</Level>
+    <Effect>Emits a ray of yellow-orange light that bathes up to three human-sized targets in a burst of energy. For the next ten minutes, those affected by the ray are multiphasic, existing in multiple phases and dimensions at one time. Multiphasic characters are not subject to the special resistances of creatures that are normally difficult to touch or attack because they are out of phase or transdimensional in nature. Likewise, if the attacks of foes who are out of phase or transdimensional would normally ignore Armor, this benefit does not apply to multiphasic characters.</Effect>
+    <Source>Compendium</Source>
+    <Form>Small handheld device</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Music Makers</Name>
+    <Level>1d6</Level>
+    <Effect>While the gloves are worn and the fingertips are pressed to the surface of any living creature, they sound off in a series of notes. The notes may be altered by the amount of applied pressure, the angle of the touch, and the movement of the living creature. The sounds can be heard by anyone within 500 feet (152 m).</Effect>
+    <Source>Compendium</Source>
+    <Form>Yellow and blue gloves with glowing fingertips</Form>
+    <Depletion>1 in 1d20 (roll each time when putting the gloves on)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Mutation Mask</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>When worn, the mask conforms to the wearer’s head, enclosing it. While wearing the mask, the character can trigger a mutation by spending an action fiddling with the mask. Over the next few rounds, any previous mutations fade, and a new mutation appears. Roll on the mutation tables for a harmful mutation (1 on a 1d6), a beneficial mutation (2–5 on a 1d6), or a powerful mutation (6 on a 1d6).</Effect>
+    <Source>Compendium</Source>
+    <Form>A leather face mask with a variety of synth protuberances</Form>
+    <Depletion>1 in 1d100 (checked each day the mask is worn, and checked each time the mutation is changed)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Neural Disruptor</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Fires a green neural disruption beam at long range. Those struck suffer 2 points of Intellect damage (ignores Armor) and must make an Intellect defense roll or lose their next turn, stunned.</Effect>
+    <Source>Compendium</Source>
+    <Form>Small cylinder with a few studs</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Null Blade</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This weapon functions as a normal sword (sometimes a dagger). However, if the user kills a creature with this weapon, the creature and everything it wears and carries disappears, erased from existence.</Effect>
+    <Source>Compendium</Source>
+    <Form>A sword whose blade is covered with circuitry</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Obedient Rope</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This extremely useful, semi-intelligent cable obeys the verbal commands of the user. The cable can tie itself in knots and untie those knots. It can become sticky to adhere to surfaces (selectively—parts of the cable can remain normal) or rigid (again, selectively). The rope cannot move of its own volition other than to tie or untie itself.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 50-foot (15 m) length of thin metallic cable</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Ocular Graft</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This living device feeds off the nutrients in the host’s blood, so her total Might Pool is reduced by 1 while the graft is worn. She has an asset on perception tasks and can see in complete darkness as if it were dim light. Perhaps most impressive, the host can see creatures and objects within short range that are invisible, out of phase, or dimensionally displaced. The graft inflicts 8 points of damage to the host if removed.</Effect>
+    <Source>Compendium</Source>
+    <Form>A fleshy mass with three eyes that fits over the head (and one eye) of a human</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Ocular Helm</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The wearer of this strange helm sees a variety of visual sensors, clarity enhancers, viewfinders, rangefinders, and other aids to sight. She gains an asset on perception tasks and all ranged attacks.</Effect>
+    <Source>Compendium</Source>
+    <Form>A synthsteel helm with seven round eyes</Form>
+    <Depletion>1 in 1d20 (check each day used)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Oubliette</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When thrown (short range) at a human-sized creature, the box unfolds, expands, and snaps shut around a target. The box is a 7-foot (2 m) cube. There is enough air inside to allow the target to breathe (if it needs to). If the user activates the artifact while it contains a target, the box opens, releases its contents, and returns to its normal small size. If it deactivates while holding a target, the device must be destroyed in order to firee its contents.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small metal box</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Periscopic Eye</Name>
+    <Level>1d6</Level>
+    <Effect>This device must be surgically implanted behind the user’s eyeball (a level 1d6 task that takes about one hour). Once it’s placed, the user can push on the inside of his eye and extend his eyeball out a number of feet equal to the artifact level. Doing this allows him to see around corners, down thin tunnels, and anywhere else he is willing to risk sending his eyeball.</Effect>
+    <Source>Compendium</Source>
+    <Form>Mechanical implant</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Personality Adjuster</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>When placed on a creature’s head, the helmet inflicts 2 points of damage. If the helmet is activated, it completely erases the creature’s memories and personality, turning the creature into a blank slate, a process that takes about one hour. After this time, the user who activated the device can implant new memories that build the creature’s personality. If used on a character, the character remains at his tier, but he can swap out his type, descriptor, and focus for different ones.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal helmet trailing wires with several spikes on the inside</Form>
+    <Depletion>Automatic</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Phase Axe</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This weapon functions as a normal battleaxe except the blade can pass through anything made of rock or metal. Attacks with the weapon ignore Armor made from these materials.</Effect>
+    <Source>Compendium</Source>
+    <Form>A battleaxe whose blade is made of an unknown translucent material</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Photon Transporter</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>When activated, anything on one of the metal disks instantly transports to the other disk. The device accomplishes this by transforming the item or passenger into light particles and broadcasting them to the second disk. When the particles arrive, the disk reassembles them in their original form. The devices allow instant transport from one disk to the other and back again, regardless of the distance separating them. Photon Transporter GM Intrusion: If a use would deplete the device, there could be a mishap. If the device transports an object, the object disappears. If it transports a creature, something goes horribly wrong and the device inflicts damage equal to the artifact level. This damage ignores Armor. If the creature survives, it gains a random harmful mutation.</Effect>
+    <Source>Compendium</Source>
+    <Form>Two metal disks, each 5 feet (2 m) in diameter</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Pincer Arm</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The arm must be surgically and permanently attached (a task equal to the artifact level). The procedure takes about an hour in a skilled chiurgeon’s hands. Once the arm is attached, the user has complete control over the limb and uses it naturally. The arm grants an asset on grabbing, grappling, and any task involving carrying or lifting. Further, the arm is considered a medium weapon if used to attack. However, the arm allows for no delicate or fine manipulation.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal arm with a pincer rather than a hand</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Point Clamp</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When this object touches another object, it forms a point-to-point connection that is almost unbreakable. The connection can be undone by activating a control on the side of the disk. The disk can be connected to multiple objects at once. For example, a character could attach it to a rope and then fling the disk up to the ceiling, where it would attach, allowing him to climb up.</Effect>
+    <Source>Compendium</Source>
+    <Form>Flat metal disk 4 inches (10 cm) across</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Poisoner’s Touch</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When the wearer concentrates (taking an action), the glove secretes a small amount of nerve toxin. The next creature touched suffers Speed damage equal to the artifact level (ignores Armor) and must make a new defense roll each round or suffer the damage again until either she succeeds at the defense roll or five rounds pass, whichever comes first.</Effect>
+    <Source>Compendium</Source>
+    <Form>Very thin transparent glove</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Portable Lavation</Name>
+    <Level>1d6</Level>
+    <Effect>When set up near water (or if set up prior to a rainstorm), the device cleans and heats up to 1 gallon (4 L) of liquid and then creates a pressurized shower that lasts for ten minutes. The pressurized water also contains a scented residue that stays on the skin, which produces an odor that most humans find pleasing. Those who shower for ten minutes (and don’t wipe the scented residue off their skin) find that the difficulty of all actions related to charm, charisma, and persuasion is reduced by one step for one hour, but only when they are dealing with humans. The device takes 28 hours to recharge between uses. When in its box form, the device is sturdy enough to use as a stool or small table.</Effect>
+    <Source>Compendium</Source>
+    <Form>Black synth cube 1 foot (0.3 m) on a side that expands to a shelter 3 feet by 3 feet by 7 feet (1 m by 1 m by 2 m)</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Power Glove</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>Unarmed strikes made while wearing the glove inflict 1 additional point of damage. However, if the user takes an action to activate the glove, energy sparks between the protrusions for one round. During that round, if the attack is successful, the glove inflicts 5 additional points of damage and throws the target back a short distance.</Effect>
+    <Source>Compendium</Source>
+    <Form>An oversized metal gauntlet with thick protrusions on the knuckles</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Printing Stylus</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The stylus can be used to draw threedimensional objects in midair. It takes a few rounds to draw a piece of basic equipment, such as rope, a backpack, spikes, a sword, or a shield. Upon completion of the drawing, the user makes an Intellect roll against a target number determined by the GM. The roll might be modified by any skill the GM agrees is pertinent. On a success, the item drawn becomes a real piece of equipment.</Effect>
+    <Source>Compendium</Source>
+    <Form>A thick stylus that produces quickhardening “ink” of varying firmness and strength, as desired</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Probability Engine</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When the user activates the item, the GM secretly rolls a d20 and notes the result. Anytime the user chooses, she can replace the result of one roll with the number that the GM rolled. The GM rolls a new secret number each time the device is activated.</Effect>
+    <Source>Compendium</Source>
+    <Form>A synth cube made of small white cubes and blue spheres</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Probability Mantle</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>If the wearer fails a defense roll or an attack roll, she can call on the probability mantle for a second chance (and another roll).</Effect>
+    <Source>Compendium</Source>
+    <Form>A multicolored cloak</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Projectile Drone</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. When activated, this device follows whoever activated it around for one hour on its tripod legs (movement: short). If the user comes under attack, the drone fires one shot per round at attackers within long range, inflicting damage equal to the artifact level.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 3-foot-tall (1 m) collapsible tripod with a metallic projectile weapon mounted on top</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Protection Amulet</Name>
+    <Level>1d6</Level>
+    <Effect>The amulet reduces one type of damage by an amount equal to the artifact level. Roll a d20 to determine the kind of damage the amulet protects against.</Effect>
+    <RollTable>
+      <Row>
+        <Roll>1–4</Roll>
+        <Result>Cold</Result>
+      </Row>
+      <Row>
+        <Roll>5–8</Roll>
+        <Result>Electrocution and shock</Result>
+      </Row>
+      <Row>
+        <Roll>9–12</Roll>
+        <Result>Fire</Result>
+      </Row>
+      <Row>
+        <Roll>13–16</Roll>
+        <Result>Poison</Result>
+      </Row>
+      <Row>
+        <Roll>17–20</Roll>
+        <Result>Radiation</Result>
+      </Row>
+    </RollTable>
+    <Source>Compendium</Source>
+    <Form>A stylized amulet worn on a chain</Form>
+    <Depletion>1 in 1d6 (check each time the amulet reduces the damage)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Psycap</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The weave protects the wearer’s mind from mental attacks. While he wears it, he has an asset on Intellect defense rolls and cannot be contacted by telepathic means.</Effect>
+    <Source>Compendium</Source>
+    <Form>A weave of thin metallic wires worn on a shaved head</Form>
+    <Depletion>1 in 1d10 (check each time the user makes an Intellect defense roll)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Pulse Staff</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Fires pulses of energy up to 200 feet (61 m) that explode in an immediate radius for 5 points of damage. However, whenever the device is used, if the player rolls a 1 or 2, the pulse explodes early at a point determined by the GM.</Effect>
+    <Source>Compendium</Source>
+    <Form>A short, fat tube joined with a long, thin tube</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Punishment Tick</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When the disk is touched to a creature’s skin, tiny metal barbs sprout from the perimeter and embed the disk in the flesh. Pressing the button on the handheld device inflicts 2 points of electrocution damage to the creature to which the disk is attached.</Effect>
+    <Source>Compendium</Source>
+    <Form>A round metal disk with an adhesive patch and a handheld device that controls it</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Pyroclastic Staff</Name>
+    <Level>1d6</Level>
+    <Effect>A user can wield this device as a normal quarterstaff. It also has two functions, which can be activated by pressing one of its two buttons. The first function causes a short jet of bright blue flame to rise from one end. The flame emits bright light out to a short distance. In addition, the staff inflicts 2 additional points of fire damage that ignores Armor. The flame burns for up to one hour. The second function causes a blast of flames to wash out from one end at up to three targets within immediate range. The flames inflict burn damage equal to the artifact level.</Effect>
+    <Source>Compendium</Source>
+    <Form>A long metal pole with a handle in the middle and two buttons above it</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Quickice Axe</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The end of this pole sprays out liquid that immediately fireezes into an axe blade, turning the pole into a heavy weapon. Further, if the blade is touched to water or other liquid, it fireezes an area approximately 6 feet (2 m) in radius around it. Using this secondary function also triggers a depletion roll. Once created, the axe head lasts for 28 hours.</Effect>
+    <Source>Compendium</Source>
+    <Form>A long metal pole</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Remnant Reader</Name>
+    <Level>1d6</Level>
+    <Effect>When activated and slowly passed over bones, skin, or some other bit of organic tissue, the device “reads” the material and compares its composition to information stored in the datasphere. After one minute, the device emits a tiny shimmering hologram that reveals what the creature looked like when it was alive. This image lasts for about a minute and then flickers before disappearing altogether.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small handheld device</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Replacement Hand</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>To use this device, a user must hold it to the stump of an arm for at least one minute. At the end of this time, filaments bind the hand to the arm and connect with the user’s nerve endings so that it can be used as if it were a normal hand. After the item has been attached, the user can take an action to detach the hand from the stump. The hand drops and moves about, scuttling like a spider. The user can control the hand and perceive through it out to a short distance. The hand is a level 1 creature under the user’s control and has a target number of 3, inflicts 1 point of damage, and has 3 health. The hand can remain separated for up to one hour. At the end of this time, the device powers off and must be reattached for at least one hour before it can be separated again.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metallic hand</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Restoration Pod</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>The artifact activates only when a creature climbs inside the device. When this happens, roll a d20. If you roll any number other than 1, the lid seals shut, the device replenishes the creature’s stat Pools up to their maximum, and it also removes any poisons, diseases, and contaminants that might be affecting the creature. However, if you roll a 1, the device malfunctions and takes the creature apart piece by piece, painting the interior with gore and killing the creature almost instantly.</Effect>
+    <Source>Compendium</Source>
+    <Form>A lidded canister made of metal and glass containing a padded bed</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Ring Of Iron Wind</Name>
+    <Level>1d6</Level>
+    <Effect>When activated prior to the arrival of a storm, the device implodes, creating a gravitationally null ring about 6 feet (2 m) in diameter and 8 feet (2 m) tall. The space inside the ring is protected from the majority of all external effects (including heat, cold, rain, wind, and storms) for a number of hours equal to the artifact level.</Effect>
+    <Source>Compendium</Source>
+    <Form>Freestanding device with small control panel</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Roving Eyes</Name>
+    <Level>1d6</Level>
+    <Effect>The spheres float in the air, moving in designated patrol patterns assigned to them by the user, moving no more than 300 feet (91 m) before they return to their starting point. Each sphere can have its own pattern, but once set, it cannot be changed. At any time, the user can see on the synth panel what any one of the spheres sees with its eye. The glass eyes see with the same ability as a human’s.</Effect>
+    <Source>Compendium</Source>
+    <Form>A clear synth panel and 1d6 + 4 metal spheres with glass eyes, each about the size of a fist</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Seated Lift</Name>
+    <Level>1d6</Level>
+    <Effect>When a person sits in the device, she can use a small dial on the right side to be lifted up to 3 feet (1 m) in the air. The device holds only one person at a time. While active, it gives a few inches in any direction when pushed, but it never moves more than that.</Effect>
+    <Source>Compendium</Source>
+    <Form>A series of fabric straps that open to form a seat like a swing</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Second Hand</Name>
+    <Level>1d6</Level>
+    <Effect>Putting on the gloves causes them to merge with the wearer’s skin, and they can never be removed. The wearer has an asset on all tasks that involve perceiving by touch.</Effect>
+    <Source>Compendium</Source>
+    <Form>A pair of skintight gloves made from synthetic material woven with circuitry</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Silver Ichor</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>To activate this device, the user must inject the liquid into her body. An hour after activation, the liquid spreads throughout her system and links her to the datasphere, giving her complete control over her body, with several benefits. She can control her heart rate, breathing, and any other body functions she chooses. Her Might Edge increases by 1 as the device allows her to coax more energy from her body and achieve greater control over its systems. If she becomes diseased, poisoned, or sickened by a harmful environmental effect such as radiation, she can use an action to flush the toxin from her body. She can use an action to adapt her body to extreme heat or cold. While adapted, she reduces damage from cold or fire by 2 points. Finally, whenever she makes a recovery roll, she can roll twice and use the higher result.</Effect>
+    <Source>Compendium</Source>
+    <Form>An injector filled with silvery liquid</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Skin Of Fire Sloughing</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When stretched over a creature’s normal skin, this organic material adheres and conforms to its body shape. While wearing the skin, the creature gains +5 to Armor against damage inflicted by fire.</Effect>
+    <Source>Compendium</Source>
+    <Form>When not affixed to a creature, this looks like a mass of diaphanous fabric. On a creature, it is almost invisible.</Form>
+    <Depletion>1 in 1d100 (checked each time the user sustains fire damage)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Skin Of Water Breathing</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When stretched over a creature’s normal skin, this organic material adheres and conforms to its body shape. While wearing the skin, the creature can breathe normally both in air and underwater, and is not adversely affected by extreme pressure or sudden changes in pressure.</Effect>
+    <Source>Compendium</Source>
+    <Form>When not affixed to a creature, this looks like a mass of diaphanous fabric. On a creature, it is almost invisible.</Form>
+    <Depletion>1 in 1d100 (checked each day the skin is used)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Sky Chariot</Name>
+    <Level>8</Level>
+    <Effect>The device hovers 3 feet (1 m) above the ground and remains there until activated by the pilot. A potential pilot must be inside the head and wear a headband that is connected to the device by a thick cord. The pilot can then fly the head by making Intellect rolls (level 3) each round. In combat, the pilot can use an action to move the head a long distance reach round. On extended trips, the head can fly up to 60 miles (97 km) per hour and reach an altitude of 5 miles (8 km).</Effect>
+    <Source>Compendium</Source>
+    <Form>A large hollow head, about 30 feet (9 m) in diameter, made from stone. Characters can access the interior by crawling through its mouth. The inside has enough space to hold up to eight human-sized people. The head’s interior features comfortable cushions on its floor and several cabinets containing foodstuffs, drinks, and toiletries that replenish each day.</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Slave Cap</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The cap shuts down all mental capacity by suffusing the wearer’s mind with psychic static. If the wearer’s level is equal to or lower than the artifact level, the wearer cannot take actions for one hour or until the cap is removed. The user can use the handheld device to control the wearer as an action. The user may give the target general instructions, such as “Stand over there” or “Clean that room,” or a specific instruction to take a particular action, such as to move or attack. In the case of general instructions, the wearer carries them out to the best of its ability until it completes the task. Then it stands in place until given new instructions. When the effect ends, the wearer does not remember being controlled or anything that it did while controlled. A slave cap can be adjusted to affect automatons rather than organic living creatures with a task difficulty of 5.</Effect>
+    <Source>Compendium</Source>
+    <Form>A mesh skullcap that’s placed on another creature and a handheld device that allows the user to control the creature</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Slugspitter (Heat)</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>With a quiet sound like a puff of air, this device fires a tiny slug of metal with a range of 200 feet (61 m). It inflicts damage equal to the artifact level. A slug that strikes and does damage then grows very hot, so on the next round, the target automatically suffers the same amount of damage again from the heat. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some glaives and jacks have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Compendium</Source>
+    <Form>A long device with a narrow metal tube</Form>
+    <Depletion>1–3 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Slugspitter (Inorganic Phasing)</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>With a quiet sound like a puff of air, this device fires a tiny slug of metal with a range of 200 feet (61 m). It inflicts damage equal to the artifact level, but since the slug phases through inorganic matter, it ignores Armor. In fact, the slug can even pass through walls unhindered, although targeting through a solid wall provides its own challenges. This weapon cannot harm inorganic targets (it passes through them). This device is a rapidfire weapon, and thus can be used with the Spray or Arc Spray abilities that some glaives and jacks have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Compendium</Source>
+    <Form>A long device with a narrow metal tube</Form>
+    <Depletion>1–4 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Slugspitter (Mass Increasing)</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>With a quiet sound like a puff of air, this device fires a tiny slug of metal with a range of 200 feet (61 m). Since the slug increases its mass as it travels, it inflicts damage equal to the artifact level + 4. This device is a rapid-fire weapon, and thus can be used with the Spray or Arc Spray abilities that some glaives and jacks have, but each “round of ammo” used or each additional target selected requires an additional depletion roll.</Effect>
+    <Source>Compendium</Source>
+    <Form>A long device with a narrow metal tube</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Smart Boots</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When activated, the boots allow the wearer to move across rough or difficult terrain, walk up walls, and even walk across liquids without penalty to movement for one hour. In a low-gravity or zero-gravity environment, the boots adhere to a surface and allow the wearer to walk normally.</Effect>
+    <Source>Compendium</Source>
+    <Form>A pair of boots</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Smart Cape</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>It takes one round to slip into the cape, pull up the collar, and seal the front. When activated, the cape provides +3 to Armor against damage from fire, electricity, radiation, and most forms of energy.</Effect>
+    <Source>Compendium</Source>
+    <Form>Collared cape</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Smart Gloves</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, these long gloves allow the wearer to safely handle objects that would otherwise inflict damage if held, such as burning items or items dripping with acid. He can also safely insert his arms up to the elbow into liquid that would otherwise inflict damage, such as lava.</Effect>
+    <Source>Compendium</Source>
+    <Form>Gauntlets</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Smart Helm</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When activated, the helm allows the wearer to breathe in any medium, including water, a poisonous atmosphere, or even the airless void, for one hour.</Effect>
+    <Source>Compendium</Source>
+    <Form>Bulky silvery globe that encloses the wearer’s head</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Smoke Helm</Name>
+    <Level>1d6</Level>
+    <Effect>When worn, the helmet synthesizes a telepathic smoke from the wearer’s breath. If someone else inhales the smoke, they feel everything the wearer feels for one hour. (If two people wear the helmets, they can “trade” sensations with each other for one hour.)</Effect>
+    <Source>Compendium</Source>
+    <Form>A hood or helmet designed to be worn on the head</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Snail Shell</Name>
+    <Level>1d6</Level>
+    <Effect>Up to two cyphers can be placed within the snail’s shell, as long as each is no larger than a typical handheld device. Thanks to the specially designed material of the shell, these cyphers do not count against a character’s cypher limit. The metal shell has a built-in lock that requires a spoken password to open (set by the user). It’s very difficult to tell from looking at the shell that it is anything more than a whimsical object. Snail shells come in many shapes and forms, including frogs with distended stomachs, large flowers with closed buds, and large purple fruit from the Ausren Woods. All secretly hold anywhere from one to four cyphers, and they are designed to seem like simple objects with no apparent purpose other than decorative. Whatever their design, they are still commonly called snail shells.</Effect>
+    <Source>Compendium</Source>
+    <Form>A sculpted snail with a hollow, insulated shell made of expandable, malleable metal</Form>
+    <Depletion>1 in 1d20 (check each time a cypher is added to the shell)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Snuffler</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This is a level 1 creature. It accompanies you and obeys your commands, but it’s not capable of attacking. As a level 1 creature, it has a target number of 3 and 3 health. If you wave something in front of the snuffler’s orifice, the creature inhales and memorizes the scent. It can then unerringly track the scent until it gets a good sniff of something else. If the creature is reduced to 0 health, it is instantly slain.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 3-foot-tall (1 m) hairless, nearly mindless creature lacking any distinctive features beyond a gaping orifice in its head</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Solid Light Bindings</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When activated, bonds of solid light entwine around a creature touched by the cylinder. It is possible to use this as a weapon in melee or at immediate range, but successfully capturing an opponent requires two attack rolls—one to touch him with the cylinder and the other to ensure that he is ensnared. The bonds last for up to 28 hours.</Effect>
+    <Source>Compendium</Source>
+    <Form>Small metal cylinder</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Solid Light Helm</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When the device is activated, the wearer’s head is encased in solid light. If anything specifically attacks the wearer’s head, he has 12 Armor. Moreover, he has breathable air while the helmet is active.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal collar</Form>
+    <Depletion>1 in 1d20 (check once each day)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Sonic Blade</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This blade functions as a normal dagger except that when used to make an attack, it vibrates at an ultrasonic firequency that lets it punch through physical armor and other defenses. The weapon inflicts 2 additional points of damage. Affixing a weapon nodule to a sonic blade requires a task with a difficulty of 4.</Effect>
+    <Source>Compendium</Source>
+    <Form>A dagger covered in glowing tracery</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Sphere Thrower</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When activated, the clawlike end of the rod fills with a ball of roiling energy. If used as a melee weapon, this is a medium weapon that inflicts 2 additional points of damage from the energy, but this strike exhausts the energy and it must be reactivated. More devastatingly, the sphere can be hurled from the rod up to long range, where it bursts in an immediate radius and inflicts damage equal to the artifact level.</Effect>
+    <Source>Compendium</Source>
+    <Form>Metal rod with a clawlike end</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Spider Harness</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When activated, eight spindly, jointed metallic legs emerge from the belt and lift the wearer a few feet off the ground for a number of minutes equal to the artifact level. The legs give the wearer a long movement speed on the ground and a short movement speed when climbing on walls or ceilings. In addition, they provide an asset on any task involving running, balance, staying upright, climbing, and so on.</Effect>
+    <Source>Compendium</Source>
+    <Form>Harnesslike belt</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Spine Armor</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When activated, a spine in the belt injects the wearer with a mutagen, causing her skin to grow a mass of protective spines over the course of a few minutes, providing +3 to Armor without any penalties associated with wearing armor. It can’t be worn with other normal armor, which would be pierced and torn by the spines. Whenever a character wearing spine armor makes a successful Speed defense roll against a melee attack, the attacker takes 3 points of damage from the piercing spines. The spine armor lasts for four hours, after which the spines become brittle and break off.</Effect>
+    <Source>Compendium</Source>
+    <Form>A synth belt with a toggle</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Spinneret Ring</Name>
+    <Level>1d6</Level>
+    <Effect>When the stronglass is lightly stroked, the spider inside reacts by releasing a thin, incredibly strong steel cord through a small hole in the stronglass. Each cord is about 20 feet (6 m) long. If firmly attached to something, the cord can hold up to 300 pounds (136 kg). Additionally, it can be used as a snare, a whip, or a similar device to cause damage equal to the artifact level + 2.</Effect>
+    <Source>Compendium</Source>
+    <Form>Clear stronglass locket ring that houses a tiny biomechanical spider</Form>
+    <Depletion>1 in 1d6 for the spinner ability (after depletion, the ring can still be worn)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Spirit Call</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>While worn, the user activates the glove by touching the face of a dead creature. If the creature’s head is largely intact, the glove imbues the head with the semblance of life for 1d6 minutes. Although not alive, the head animates, and, if it still has a mouth, it can speak and answer questions put to it based on what it knew when it was alive. The head remains cooperative only until the last minute of the duration begins. At that point, the head realizes it is dead and spends the remaining time weeping and screaming for help. This artifact can affect a particular corpse only one time.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal glove</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Stasis Projector</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This device projects a wide ray at a target that is already immobile (perhaps a creature that is bound or willing). The target is placed in safe suspended animation within an energy sheath. The sheath floats about 4 feet (1 m) off the ground and can be pushed along easily, almost as if it were weightless. The sheath lasts for 28 hours and is impervious to attacks of a level lower than the artifact that created it.</Effect>
+    <Source>Compendium</Source>
+    <Form>Handheld device</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Stimulation Stem</Name>
+    <Level>1d6</Level>
+    <Effect>This 3-foot-long (1 m) tube can be attached to the flesh of two biological, sentient creatures via the ever-grasping mouths. Once the teeth sink in, the tube is attached for five minutes (pulling it off before that kills the cellular tissue and renders the device useless). If both creatures are in agreement, one of them can siphon 1d6 Might points from the other via the tube. If the device senses that one or both participants are not amenable to the exchange, it draws 1d6 Might points from both creatures. When not pulled tight, the tube self-coils for easy carrying.</Effect>
+    <Source>Compendium</Source>
+    <Form>Biological tube synthesized from living cellular tissue, with a toothed “mouth” at each end</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Strangelight Torch</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This device illuminates the immediate area regardless of barriers. It casts no shadows, and every nook and cranny in the area is well lit. If you permanently combine a strangelight torch with a liminal scanner (task difficulty 6), you create an artifact that grants the user information as if she used the Scan esotery. Its depletion is 1 in 1d100.</Effect>
+    <Source>Compendium</Source>
+    <Form>Glowing sphere on the end of a synth rod</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Synthsteel Shield</Name>
+    <Level>1d6</Level>
+    <Effect>This shield is far hardier and still somewhat lighter than Ninth World smithing techniques could ever manage with steel. It grants an additional +1 bonus to Speed defense rolls in addition to the asset that shields normally grant.</Effect>
+    <Source>Compendium</Source>
+    <Form>Synth shield</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Telescopic Beast</Name>
+    <Level>1d6</Level>
+    <Effect>Once the creature is unfolded, the user may control it via voice for 28 hours. It can understand and carry out simple commands such as moving laterally, staying stationary, reforming into a cube, and telescoping up and down (it can raise its body up to 10 feet [3 m] with a single person standing on top of it). Action to unfold.</Effect>
+    <Source>Compendium</Source>
+    <Form>Pocket-sized cube that unfolds into a box-shaped automaton about 1 foot by 1 foot (0.3 m by 0.3 m) with four telescoping legs.</Form>
+    <Depletion>1 in 1d6 for the telescopic abilities (after depletion, the creature continues to follow the other voice commands)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Temporal Armor</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This heavy armor has a field around it that is triggered when the wearer wishes (requiring an action) and lasts for ten minutes. During this time, the field causes incoming attacks to potentially stop suddenly or slow down before they strike. This adds +2 to the wearer’s Armor.</Effect>
+    <Source>Compendium</Source>
+    <Form>Heavy armor of synth</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Temporal Maul</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>This time-displacement device constantly shifts back and forth through moments in time, making it very difficult to defend against. All attacks made with the maul have an asset that decreases the difficulty of the attack by one step.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal and synth device placed at the end of a metal haft, turning it into a heavy weapon</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Tentacle Harness (bladed)</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Putting on the harness allows the wearer to control the tentacles as if they were extra limbs. The tentacles are fully prehensile and can be used to make attacks (each tentacle is a medium weapon) while the wearer’s normal arms are firee. The wearer is still limited by the normal number of actions she can take in a round.</Effect>
+    <Source>Compendium</Source>
+    <Form>A heavy body harness equipped with two 15-foot (5 m) segmented metal tentacles that each end in a metal blade</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Tentacle Harness (clawed)</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Putting on the harness allows the wearer to control the tentacles as if they were extra limbs. The tentacles are fully prehensile and have the same functionality as if they were the wearer’s arms.</Effect>
+    <Source>Compendium</Source>
+    <Form>A heavy body harness equipped with two 15-foot (5 m) segmented metal tentacles that each end in a grasping claw</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Tentacle Helmet</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>When activated, a 9-foot (3 m) tentacle comes out of the device. This tentacle resembles that of a very large living creature, but it’s also translucent, as it modulates between phase states. The tentacle can be used to pick up or manipulate small objects, push buttons, and so forth, but it has very little strength. It can’t pick up an object that weighs more than 10 pounds (5 kg) and could never be used to make an effective attack. However, its most remarkable feature is that because of its pandimensional nature, the tentacle can move through energy fields, including solid force fields, as if they were not there. Once activated, the tentacle lasts for ten minutes.</Effect>
+    <Source>Compendium</Source>
+    <Form>A smooth, lightweight synthsteel helmet with an octagon-shaped device on the back</Form>
+    <Depletion>1 in 1d10 The Death by</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Angles</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This object can be used as a weapon that fires a beam of energy up to long range. The beam always bounces off of inorganic materials but not living tissue or organic materials. Thus, the weapon can be used only against living targets (or an organic nonliving target). However, the beam is harmless unless it ricochets off a surface first. Strangely, the beam never ricochets in the way that a character expects, so attack rolls with the weapon are two steps more difficult than normal. The beam inflicts 7 points of damage. Particularly skilled users discover that if the beam reflects off of more than one surface, the damage increases. For every additional surface, the difficulty increases by one step, but the damage increases by 3 points (maximum 19 points).</Effect>
+    <Source>Compendium</Source>
+    <Form>Handheld device</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Thought Storage</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The user can store fifteen minutes’ worth of mental images (real or imagined) and words that can be replayed by anyone who activates the rod again.</Effect>
+    <Source>Compendium</Source>
+    <Form>Long organic rod with a number of crystal nodules</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Thoughtlight</Name>
+    <Level>1d6</Level>
+    <Effect>When touching (or practically touching—through clothing, for example) a living, thinking creature, the thoughtlight gives off light like a torch, powered by the brain waves of the creature. The moment the user stops thinking (which is to say, is very likely dead), the light goes out.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small synth box that lights up on one side</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Thunder Boots</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>When activated, the boots allow the wearer to lift off the ground on a jet of flame, granting him the ability to fly with long movement for a number of minutes equal to the artifact level.</Effect>
+    <Source>Compendium</Source>
+    <Form>A pair of boots</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Thunder Vocalizer</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This device turns the user’s words into powerful weapons. When it is activated, the user speaks and the device throws the sound to a spot within short range. A thunderous boom erupts from that spot and inflicts 4 points of ambient damage to everything within an immediate distance.</Effect>
+    <Source>Compendium</Source>
+    <Form>A choker with a mechanical device that sits atop the user’s throat</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Time Machine</Name>
+    <Level>10</Level>
+    <Effect>Upon activation, an invisible barrier springs into existence out to a short distance around the device. The barrier shunts everything within it out of normal time so that within the barrier, time flows ten thousand times slower than it does outside the barrier. In other words, for each minute a person spends inside the barrier, about seven days pass outside the barrier. For characters inside the barrier, time passes normally, though the environment outside the barrier may seem quite strange, as time there seems to pass very rapidly. If the artifact is outside, a day passes every 8.5 seconds. To creatures outside the barrier, people within seem frozen, though an extended viewing reveals that they are not in stasis but instead moving very slowly. Nothing can pass through the barrier while the device is in operation.</Effect>
+    <Source>Compendium</Source>
+    <Form>A massive arch made of metal and equipped with a display and keyboard protruding from one side of the arch</Form>
+    <Depletion>1 in 1d10 (check at the start of each hour of operation)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Tongue Snake</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The creature must be surgically and permanently attached (a task equal to the artifact level), a procedure that takes about an hour in a skilled chiurgeon’s hands. Once the serpent is attached to the user’s tongue, he can control it and attack with it. The serpent can attack targets within an immediate distance and inflicts poison damage equal to the artifact level (ignores Armor).</Effect>
+    <Source>Compendium</Source>
+    <Form>Snakelike creature grafted onto a user’s tongue</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Torment Wand</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The user can attack anyone within short range, inflicting horrendous pain. The victim moves one step down the damage track and cannot take actions. This lasts as long as the victim is within range and the user spends an action each round to continue the attack. Torment wands of level 6 or higher can continue to move the victim down the damage track each round (with a new Might defense roll each round to resist), which means that after three rounds, the target is dead.</Effect>
+    <Source>Compendium</Source>
+    <Form>Long black rod of metal and synth</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Tracer Nodule</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When activated, the crystal adheres to any surface and transmits its location (distance and direction) to the user via a mental connection. The connection has a range of 100 miles (161 km) and lasts for a number of days equal to the artifact level. If you use any cypher or artifact that is a crystal (such as a weapon or armor nodule) and reconfigure it with a tracer nodule (task difficulty 8), you can have multiple tracer nodules functioning at once.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small crystal</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Transdimensional Blade</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, this blade exists on multiple levels of reality at once. The wielder can strike foes (or objects) that are out of phase or resistant to attacks or damage due to their ultraterrestrial or transdimensional nature as if they were normal targets. Each activation allows for a single attack, but activation is not an action.</Effect>
+    <Source>Compendium</Source>
+    <Form>Broadsword</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Transformation Chamber</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>The subject must stand within this device when it is activated. Doing so transforms the subject over ten painful minutes into another organic form of approximately the same size, chosen upon activation. The form can be (but does not have to be) extremely specific, but it must be well known to the operator of the device. For example, a human could be changed into a specific margr, if that margr is known. The transformation is permanent, although another activation can be used to change the subject back.</Effect>
+    <Source>Compendium</Source>
+    <Form>Complex device 9 feet (3 m) tall and 10 feet (3 m) wide with a central open cylindrical area</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Traveling Coiffeur</Name>
+    <Level>1d6</Level>
+    <Effect>Provides the user with the opportunity to completely change her hair style (including facial hair) via a complicated contraption of electronic blades, ray emitters, and modified hairspiders. A control panel along the side of the device shows myriad style options, from completely bald to long, spiderspun tresses in various colors. The user must choose her desired option ahead of time (28 hours prior to being used) to allow the device time to prepare.</Effect>
+    <Source>Compendium</Source>
+    <Form>Large bubble-shaped helm that fits over a person’s head and houses a complex chamber inside</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Trio</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When activated, this fires three rays at once up to long range, each inflicting damage equal to the artifact level. Unless the target is very large, the rays never strike the same target, but instead potentially strike three targets standing near each other. Roll separately for each attack.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal rod with a splay of three prongs on the end</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Truth Seeker</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>When affixed to a user’s forehead (perhaps with a headband), this device allows him to sense whether someone speaking to him is lying. The speaker must be within immediate range and must be speaking in a language that the wearer understands.</Effect>
+    <Source>Compendium</Source>
+    <Form>Small synth square</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Tunneling Gauntlets</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>It takes one round to slip into the gauntlets. When activated, they give the wearer an immediate burrowing speed for one hour. She can burrow through most soils and even some stone, but not material whose level is equal to or higher than the artifact level. Burrowing leaves behind a tunnel with a diameter of 5 feet (2 m) that remains stable for several hours. After that, the tunnel is subject to collapse.</Effect>
+    <Source>Compendium</Source>
+    <Form>An oversized pair of metallic gauntlets with broad nails</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Twin Mirrors</Name>
+    <Level>1d6</Level>
+    <Effect>When a character looks into one mirror, he sees out the other and vice versa regardless of the distance that separates them.</Effect>
+    <Source>Compendium</Source>
+    <Form>Two 1-foot (0.3 m) diameter disks polished to a mirrorlike finish</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Ultimate Grapnel</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>The glowing sphere adheres to any surface or object until activated, which turns off the grip for one minute.</Effect>
+    <Source>Compendium</Source>
+    <Form>A length of 100 feet (30 m) of synth rope with a glowing sphere at one end</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Ultra Armor</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>This heavy armor provides +5 to Armor rather than +3. It boosts the wearer’s strength and reflexes, increasing her Might Edge and Speed Edge by 1. She inflicts 2 additional points of damage with melee weapons and can jump twice as far as normal. The interior of the suit has its own oxygen, water, food supply, and environmental controls, sustaining the wearer in any environment indefinitely. Depletion of this artifact is not standard. When depletion occurs, it then provides only +4 to Armor. Depletion must continue to be checked. When it occurs again, the Might Edge and Speed Edge bonuses fail, and the damage and jumping boosts are lost. When depletion occurs again, the sustenance and environmental protections break down. When it occurs one last time, the suit then provides only +3 to Armor, but depletion need not be checked ever again, and the suit remains usable heavy armor.</Effect>
+    <Source>Compendium</Source>
+    <Form>A massive suit of metal and synth armor</Form>
+    <Depletion>1 in 1d10 (checked each day worn)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Urchalis Mask</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>This mask has no function unless worn by someone with at least some mechanical components—automatons, characters who Fuse Flesh and Steel, characters with a mech eye or a mechanical arm, and so on. (Simply wearing a mechanical device is not enough—it must be a permanent part of one’s body.) Such characters gain an asset when using their mechanical parts. This means that an allmechanical being like an automaton gains an asset on almost every task.</Effect>
+    <Source>Compendium</Source>
+    <Form>A distinctive mask of thin, curved strips</Form>
+    <Depletion>1 in 1d20 (check each day worn)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Usurper</Name>
+    <Level>1d6</Level>
+    <Effect>Activating the device causes the two prongs to fire at a target within immediate range. The target takes 1 point of electrocution damage, and if the target’s level is equal to or less than the artifact level, the user takes control of the target for one minute provided that the user and the target are within an immediate distance of each other. If either exceeds this distance, the target regains control of itself.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small handheld device with two prongs extending from the end</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Vision Snake</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>Looking through one end of this tube always allows the user to see through it to the other end, no matter how many twists or bends are in the tube.</Effect>
+    <Source>Compendium</Source>
+    <Form>A 3-foot-long (1 m) flexible synth tube that can be extended to 8 feet (2 m)</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Void Clamp</Name>
+    <Level>1d6</Level>
+    <Effect>The device activates when the clamps are placed on any object that can fit inside a 20-foot (6 m) cube. The clamps bond with the object and make it weightless. Anyone can lift it and move it by gripping the handle. The device can be detached at any time (not an action), and the object regains its normal weight.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal bar with clamps on either end</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Void Knife</Name>
+    <Level>1d6</Level>
+    <Effect>When the device is gripped, an invisible blade extends out from the cylinder, allowing the wielder to use this device as a dagger.</Effect>
+    <Source>Compendium</Source>
+    <Form>A cylinder about the size of a knife handle</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Vox Scrambler</Name>
+    <Level>1d6</Level>
+    <Effect>Whenever the user speaks while wearing this device, her words sound normal to those within immediate range, but they sound like gibberish to those farther away.</Effect>
+    <Source>Compendium</Source>
+    <Form>A mouthpiece secured with a thick strap that wraps around the head</Form>
+    <Depletion>1 in 1d100 (check once each day)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Water Finder</Name>
+    <Level>1</Level>
+    <Effect>For one hour after it’s activated, the device vibrates whenever it is within a short distance of water. The closer the user gets to the water, the stronger the device vibrates.</Effect>
+    <Source>Compendium</Source>
+    <Form>A floating crystal that emits soft yellow light</Form>
+    <Depletion>1 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Water Skimmers</Name>
+    <Level>1d6</Level>
+    <Effect>Anyone wearing these water skimmers over their regular footwear can stride quickly across liquid surfaces up to 20 feet (6 m) deep without sinking or getting wet. Wearing water skimmers while on land offsets the wearer’s center of gravity, increasing the difficulty of all movementbased actions by one step.</Effect>
+    <Source>Compendium</Source>
+    <Form>Black and silver covers for footwear sporting thick heels layered with hydrofuge hairs</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Wavesplitter</Name>
+    <Level>1d6 + 3</Level>
+    <Effect>This vehicle can hold up to four characters and be piloted by someone who makes Intellect rolls (level 2) each round. In combat, the pilot can use an action to move the vehicle a long distance each round. On extended trips, it moves up to 40 miles (64 km) per hour. The vehicle provides a breathable atmosphere for everyone inside, allowing occupants to breathe normally for up to seven hours. The vehicle also sports six lamps on the exterior, one on each corner and two in front. The lamps light everything within a long distance. The pilot can shut off the lights or turn them on (not an action). Although the vehicle can travel over land, it excels underwater and can move through liquids at half its ground speed. The device can descend to depths of 5 miles (8 km). If it goes any deeper, roll for depletion each round, with depletion in this case indicating that the walls buckle and spring leaks.</Effect>
+    <Source>Compendium</Source>
+    <Form>A metal-and-glass vehicle that is 12 feet (4 m) long, 8 feet (2 m) wide, and 6 feet (2 m) tall. It hovers about 3 feet (1 m) above the ground. The vehicle has an access hatch on the side. Inside there is a seat and control panel for the pilot, plus three more seats for passengers. Numerous portholes allow occupants to look outside.</Form>
+    <Depletion>1–4 in 1d100</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Weapon Mount</Name>
+    <Level>1d6</Level>
+    <Effect>The mount must be surgically and permanently attached (a task equal to the artifact level). The procedure takes about an hour in a skilled chiurgeon’s hands. Once attached, the mount can hold a light or medium weapon, and the user can attack with that weapon as if he was wielding it.</Effect>
+    <Source>Compendium</Source>
+    <Form>A thin mechanical arm grafted to a person’s back</Form>
+    <Depletion>—</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Wheeled Porter</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>Obeying verbal commands, this device will follow the user around, even over difficult terrain. It can create up to three force bubbles at the ends of the rods, which can contain up to 200 pounds (91 kg) of inanimate material or gear. The bubbles are only as large as they need to be to hold whatever they are given. Commanding the device to create or negate a force bubble is an action.</Effect>
+    <Source>Compendium</Source>
+    <Form>A triangular device 4 feet (1 m) high and 5 feet (2 m) across with treads, sporting metal rods on top</Form>
+    <Depletion>1 in 1d100 (check each day)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Whisperer In The Ether</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The bearer of this crystal has a direct line of telepathic communication with an immortal, artificial intelligence whose location is unknown (and may not even be relevant or comprehensible). The user can converse with the intelligence on an ongoing basis, but in general, the whisperer can share a useful bit of information, insight, or advice about once every 28 hours. Sometimes, this translates into an asset on one of the user’s actions, as the intelligence suggests the right phrase to make friends with a shopkeeper to get a good deal, the right tools to use while tinkering with a device, or the right place to put a shield to deflect an incoming attack. Sometimes the information is more broad, such as the right road to take to reach the next town or why the abhumans are attacking the caravan. The whisperer’s willingness and ability to converse varies considerably. Sometimes it is quite chatty and offers advice. Other times, it must be convinced, cajoled, or tricked into giving information. Still other times, it is entirely absent for reasons it will not explain. The whisperer’s knowledge base is broad but not omniscient. It cannot see the future, but it can often predict outcomes based on logic. It has little or nothing of use (to a Ninth World inhabitant) to say about the distant past.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small crystal</Form>
+    <Depletion>1 in 1d20 (check each day)</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Wing Blade</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The user activates the insect by tossing it into the air. On each of the user’s turns, the insect flies a short distance and attacks a target that she chooses. The device inflicts damage equal to half the artifact level. At the end of this time or when the user chooses, the insect flies back to her and attaches itself to one of her limbs.</Effect>
+    <Source>Compendium</Source>
+    <Form>A small winged insect with a lower body that tapers down to a sharp point</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Woodwind Of The Broken</Name>
+    <Level>1d6</Level>
+    <Effect>This musical instrument can be played normally, but it has one setting that produces no obviously audible noise. If a tune is played on this setting in any area open to dry wastes, temperate lowlands, or mountains, a pack of 2d6 + 6 broken hounds arrives within a few hours or less at the location where the instrument was played. Once summoned, the broken hounds revert to their normally vicious demeanor.</Effect>
+    <Source>Compendium</Source>
+    <Form>A flutelike musical instrument</Form>
+    <Depletion>1 in 1d20</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Yarrin</Name>
+    <Level>1d6 + 1</Level>
+    <Effect>The yarrin is a creature with a level equal to the artifact level, and it has 3 health per level and 3 points of Armor. When activated, the yarrin hovers in the air in orbit around the user and becomes invisible. If anyone within immediate distance attacks the user, the yarrin automatically intercepts and absorbs the attack. Assuming the attack does not destroy the yarrin, it immediately becomes visible and begins attacking the assailant with thin beams of energy (one per round) that inflict damage equal to its level. The yarrin fights for one round per artifact level and then deactivates. However, until it intercepts an attack, it continues to hover invisibly, even as the user sleeps. If you permanently combine a yarrin with significant parts from any other automaton cypher or artifact (task difficulty 7), you create an artifact that functions as a yarrin but with +2 to its level and the ability to attack two targets (if two creatures are attacking the user) with its beams as a single action.</Effect>
+    <Source>Compendium</Source>
+    <Form>A synth cube</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Yesterglass</Name>
+    <Level>1d6 + 4</Level>
+    <Effect>When held before the user’s face, this panel allows her to see the last major activity that occurred in the area, even if it happened years or centuries earlier. The effect lasts for one minute per use.</Effect>
+    <Source>Compendium</Source>
+    <Form>Glass panel</Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+</NumeneraDevices>
