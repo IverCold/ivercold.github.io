@@ -23,121 +23,484 @@
             <h2>Crafting Process</h2>
 
             <p>
-                Salvaging Numenera is a series of Intellect based Tasks (listed below).
-                <br />Initial salvaging task requires an amount of time equal to [15 minutes X calculated task
-                difficulty].
-                <br />Plus you have to spend 5 more minutes to extract separate Iotum types.
+                Crafting is a series of Intellect based tasks. Generally whole process includes two steps:
             </p>
             <ol>
                 <li>
-                    Perform an initial salvaging task <i>("Am I able to gain anything here?")</i>.
-                    <br />Success leads you to the second step. In case of failure there is no Iotum to extract.
-                    <br />Maximum level of available Iotum type is equal to the base initial task difficulty.
+                    <b>Project assessed difficulty calculation.</b> Any object or structure you want create has assessed
+                    difficulty level that determines amount of subtasks you must complete to finish crafting.
+                    <br /> Final assessed difficulty formula: <em>minimal crafting level + project type modifier
+                        + "hindered" modifiers - level of appropriate crafting skill - assets - "eased" modifiers.</em>
+                    <br /> Project type modifiers presented in table below.
                 </li>
                 <li>
-                    Calculate the amount of Iotum types you can extract:
-                    <ul>
-                        <li>Every Salvaging Numenera skill's level produces one additional Iotum type.</li>
-                        <li>Every asset produces one addtional Iotum type.</li>
-                    </ul>
-                </li>
-                <li>
-                    Every Iotum type requires performing separate salvaging task <i>("Am I able to extract exactly
-                        what I want?")</i>.
-                    <br />Task difficulty is equal to the Iotum level.
-                    <br />Success grants an amount of Iotum according to the column "Units Salvaged" in <a
-                        href="salvaging_tables\Salvaging_Iotum_Table.html" target="_blank">Iotum table</a> and an
-                    amount of parts equal to [extracted Iotum amount X Iotum level].
-                </li>
-                <li>
-                    Initial salvaging task success can not only extract Iotum, but also some cyphers.
-                    <br />The amount of cyphers found is decided by GM. But in general it's equal to the 1d6 minus
-                    amount of Iotum types you tried to extract.
+                    <b>Performing craft subtasks.</b> Final assessed difficulty level is equal to amount of subtasks
+                    that must be performed to complete crafting. First subtask will have first difficulty
+                    level. Difficulty level of each next subtask will increase by 1. Subtask difficulty level can be
+                    decreased by appropriate Crafting skill, assets and "eased" modifiers. Efforts can be used
+                    only if subtask duration is no longer than 1 day.
+                    <br /> If at any point the crafter fails on a single subtask, the object or structure isn’t ruined.
+                    Instead, the crafter merely loses time. A failure means the time spent on that crafting roll was
+                    wasted, but the character can spend that much time again and then try to succeed at that same
+                    subtask. If the crafter fails twice in a row on the same subtask, the character can continue
+                    crafting but in addition to losing another interval of crafting time, 1 unit of the
+                    highest level material being used is destroyed in a mishap and must be replaced before crafting can
+                    continue.
+                    <br /> Subtask duration formula: <em>project crafting time * subtask difficulty level / all subtasks
+                        difficulty levels sum.</em>
+                    <br /> Project crafting time presented in table below. Total project crafting time can't be less
+                    than half of time for minimal crafting level and less than time for first crafting level.
                 </li>
             </ol>
 
-            <br>
-            <h2>Merged Iotum types</h2>
             <p>
-                Some Iotum types were merged into Iotum from the same levels on goal to simplify salvaging system.
-                <br />Changes are described in the table below.
+                The appropriate crafting skill also applies to any task to repair objects or structures.
+                Similarly, mundane crafting skills apply to the repair of associated items. In either case, if a Wright
+                attempts to repair an object or structure they personally crafted, they gain an asset to the repair
+                task.
+            </p>
+
+            <br>
+            <h2>Assessed difficulty project type modifiers</h2>
+            <table border="1" cellspacing="0" cellpadding="4">
+                <tbody style="text-align: center;">
+                    <tr>
+                        <th style="width: 70px;">Project type</th>
+                        <th style="width: 70px;">Modifier</th>
+                    </tr>
+                    <tr>
+                        <td>Common object</td>
+                        <td>+0</td>
+                    </tr>
+                    <tr>
+                        <td>Common structure</td>
+                        <td>+0</td>
+                    </tr>
+                    <tr>
+                        <td>Cypher</td>
+                        <td>+1</td>
+                    </tr>
+                    <tr>
+                        <td>Installation</td>
+                        <td>+2</td>
+                    </tr>
+                    <tr>
+                        <td>Limited automaton</td>
+                        <td>+2</td>
+                    </tr>
+                    <tr>
+                        <td>Artifact</td>
+                        <td>+3</td>
+                    </tr>
+                    <tr>
+                        <td>Vehicle</td>
+                        <td>+3</td>
+                    </tr>
+                    <tr>
+                        <td>True automaton</td>
+                        <td>+4</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <h2>Crafting time</h2>
+            <table border="1" cellspacing="0" cellpadding="4">
+                <tbody style="text-align: center;">
+                    <tr>
+                        <th style="width: 100px;">Project type / Level</th>
+                        <th style="width: 70px;">1</th>
+                        <th style="width: 70px;">2</th>
+                        <th style="width: 70px;">3</th>
+                        <th style="width: 70px;">4</th>
+                        <th style="width: 70px;">5</th>
+                        <th style="width: 70px;">6</th>
+                        <th style="width: 70px;">7</th>
+                        <th style="width: 70px;">8</th>
+                        <th style="width: 70px;">9</th>
+                        <th style="width: 70px;">10</th>
+                    </tr>
+                    <tr>
+                        <td>Common object</td>
+                        <td>5 min</td>
+                        <td>1 h</td>
+                        <td>1 d</td>
+                        <td>2 d</td>
+                        <td>1 w</td>
+                        <td>1 m</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Common structure</td>
+                        <td>3 h</td>
+                        <td>3 d</td>
+                        <td>3 w</td>
+                        <td>3 m</td>
+                        <td>1 y</td>
+                        <td>5 y</td>
+                        <td>10 y</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                    </tr>
+                    <tr>
+                        <td>Cypher</td>
+                        <td>10 min</td>
+                        <td>1 h</td>
+                        <td>4 h</td>
+                        <td>9 h</td>
+                        <td>1 d</td>
+                        <td>2 d</td>
+                        <td>1 w</td>
+                        <td>3 w</td>
+                        <td>2 m</td>
+                        <td>6 m</td>
+                    </tr>
+                    <tr>
+                        <td>Installation</td>
+                        <td>1 d</td>
+                        <td>2 d</td>
+                        <td>4 d</td>
+                        <td>6 d</td>
+                        <td>2 w</td>
+                        <td>1 m</td>
+                        <td>3 m</td>
+                        <td>6 m</td>
+                        <td>1 y</td>
+                        <td>10 y</td>
+                    </tr>
+                    <tr>
+                        <td>Limited automaton</td>
+                        <td>2 d</td>
+                        <td>4 d</td>
+                        <td>8 d</td>
+                        <td>2 w</td>
+                        <td>1 m</td>
+                        <td>2 m</td>
+                        <td>6 m</td>
+                        <td>1 y</td>
+                        <td>5 y</td>
+                        <td>10 y</td>
+                    </tr>
+                    <tr>
+                        <td>Artifact</td>
+                        <td>2 d</td>
+                        <td>4 d</td>
+                        <td>8 d</td>
+                        <td>2 w</td>
+                        <td>1 m</td>
+                        <td>2 m</td>
+                        <td>6 m</td>
+                        <td>1 y</td>
+                        <td>5 y</td>
+                        <td>10 y</td>
+                    </tr>
+                    <tr>
+                        <td>Vehicle</td>
+                        <td>2 d</td>
+                        <td>4 d</td>
+                        <td>8 d</td>
+                        <td>2 w</td>
+                        <td>1 m</td>
+                        <td>2 m</td>
+                        <td>6 m</td>
+                        <td>1 y</td>
+                        <td>5 y</td>
+                        <td>10 y</td>
+                    </tr>
+                    <tr>
+                        <td>True automaton</td>
+                        <td>2 d</td>
+                        <td>4 d</td>
+                        <td>8 d</td>
+                        <td>2 w</td>
+                        <td>1 m</td>
+                        <td>2 m</td>
+                        <td>6 m</td>
+                        <td>1 y</td>
+                        <td>5 y</td>
+                        <td>10 y</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <br>
+            <br>
+            <h2>Templates</h2>
+            <p>
+                In special cases you and GM discuss possibility of crafting specific cyphers and artifacts. GM
+                determines minimal crafting level according to desired effect. Materials quantity for each minimal
+                crafting level presented in tables below.
             </p>
             <table border="1" cellspacing="0" cellpadding="4">
                 <tbody style="text-align: center;">
                     <tr>
-                        <th style="width: 70px;">Iotum level</th>
-                        <th style="width: 70px;">Original Iotum</th>
-                        <th style="width: 70px;">Merged Into</th>
+                        <th style="width: 70px;">Iotum / Cypher level</th>
+                        <th style="width: 70px;">1</th>
+                        <th style="width: 70px;">2</th>
+                        <th style="width: 70px;">3</th>
+                        <th style="width: 70px;">4</th>
+                        <th style="width: 70px;">5</th>
+                        <th style="width: 70px;">6</th>
+                        <th style="width: 70px;">7</th>
+                        <th style="width: 70px;">8</th>
+                        <th style="width: 70px;">9</th>
+                        <th style="width: 70px;">10</th>
                     </tr>
                     <tr>
-                        <td>4</td>
-                        <td>Bio-Circuitry</td>
-                        <td>Pliable Metal</td>
-                    </tr>
-                    <tr>
-                        <td>4</td>
-                        <td>Synthsteel</td>
-                        <td>Pliable Metal</td>
-                    </tr>
-                    <tr>
-                        <td>5</td>
-                        <td>Azure Steel</td>
-                        <td>Mimetic Gel</td>
-                    </tr>
-                    <tr>
-                        <td>5</td>
-                        <td>Quantium</td>
-                        <td>Mimetic Gel</td>
-                    </tr>
-                    <tr>
+                        <td>Io</td>
+                        <td>3</td>
+                        <td>3</td>
+                        <td>3</td>
+                        <td>3</td>
                         <td>6</td>
-                        <td>Thaum Dust</td>
-                        <td>Amber Crystal</td>
-                    </tr>
-                    <tr>
                         <td>6</td>
-                        <td>Protomatter</td>
-                        <td>10 x&nbsp;Amber Crystal</td>
+                        <td>6</td>
+                        <td>9</td>
+                        <td>9</td>
+                        <td>9</td>
                     </tr>
                     <tr>
-                        <td>7</td>
-                        <td>Kaon dot</td>
+                        <td>Responsive synth</td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>5</td>
+                        <td>5</td>
+                        <td>5</td>
+                        <td>5</td>
+                        <td>5</td>
+                        <td>5</td>
+                    </tr>
+                    <tr>
+                        <td>Apt clay</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>3</td>
+                        <td>3</td>
+                        <td>3</td>
+                        <td>3</td>
+                        <td>3</td>
+                        <td>3</td>
+                        <td>3</td>
+                    </tr>
+                    <tr>
+                        <td>Pliable metal</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Mimetic gel</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>Amber crystal</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
                         <td>Psiranium</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>1</td>
                     </tr>
                     <tr>
-                        <td>7</td>
-                        <td>Monopole</td>
-                        <td>Psiranium</td>
-                    </tr>
-                    <tr>
-                        <td>7</td>
-                        <td>Smart Tissue</td>
-                        <td>Psiranium</td>
-                    </tr>
-                    <tr>
-                        <td>8</td>
-                        <td>Midnight Stone</td>
                         <td>Oraculum</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>2</td>
                     </tr>
                     <tr>
+                        <td>Tamed iron</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>2</td>
+                    </tr>
+                </tbody>
+            </table>
+
+            <br>
+            <table border="1" cellspacing="0" cellpadding="4">
+                <tbody style="text-align: center;">
+                    <tr>
+                        <th style="width: 70px;">Artifact / Cypher level</th>
+                        <th style="width: 70px;">1</th>
+                        <th style="width: 70px;">2</th>
+                        <th style="width: 70px;">3</th>
+                        <th style="width: 70px;">4</th>
+                        <th style="width: 70px;">5</th>
+                        <th style="width: 70px;">6</th>
+                        <th style="width: 70px;">7</th>
+                        <th style="width: 70px;">8</th>
+                        <th style="width: 70px;">9</th>
+                        <th style="width: 70px;">10</th>
+                    </tr>
+                    <tr>
+                        <td>Io</td>
+                        <td>12</td>
+                        <td>18</td>
+                        <td>18</td>
+                        <td>18</td>
+                        <td>18</td>
+                        <td>18</td>
+                        <td>24</td>
+                        <td>24</td>
+                        <td>40</td>
+                        <td>40</td>
+                    </tr>
+                    <tr>
+                        <td>Responsive synth</td>
                         <td>8</td>
-                        <td>Virtuon particles</td>
+                        <td>12</td>
+                        <td>12</td>
+                        <td>12</td>
+                        <td>12</td>
+                        <td>12</td>
+                        <td>12</td>
+                        <td>12</td>
+                        <td>32</td>
+                        <td>32</td>
+                    </tr>
+                    <tr>
+                        <td>Pliable metal</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                        <td>4</td>
+                    </tr>
+                    <tr>
+                        <td>Mimetic gel</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>Amber crystal</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
+                        <td>Psiranium</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                        <td>2</td>
+                    </tr>
+                    <tr>
                         <td>Oraculum</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>1</td>
+                        <td>1</td>
                     </tr>
                     <tr>
-                        <td>9</td>
-                        <td>Philosophine</td>
                         <td>Tamed iron</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
+                        <td>2</td>
+                        <td>2</td>
                     </tr>
                     <tr>
-                        <td>9</td>
-                        <td>Scalar Boson Rod</td>
-                        <td>Tamed iron</td>
-                    </tr>
-                    <tr>
-                        <td>9</td>
-                        <td>Data orb</td>
-                        <td>Tamed iron</td>
+                        <td>Cosmic foam</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>-</td>
+                        <td>1</td>
                     </tr>
                 </tbody>
             </table>
