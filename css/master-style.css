@@ -56,24 +56,28 @@ header a:hover{
 }
 
 h1,
-h2 {
+h2,
+h3 {
   font-family: 'PT Sans Caption', Arial, sans-serif;
   font-weight: bolder;
   margin: 0;
 }
 
 h1 {
-  font-size: 24px;
+  font-size: 26px;
   line-height: 30px;
 }
 
 h2 {
-  font-size: 18px !important;
+  font-size: 22px;
   line-height: 22px;
+  margin: 10px 0px;
 }
 
 h3 {
-  font-weight: normal;
+  font-size: 18px;
+  line-height: 20px;
+  margin: 5px 0px;
 }
 
 li {
