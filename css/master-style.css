@@ -91,6 +91,12 @@ li {
 img {
   margin: 10px 0px;
 }
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 
 @media screen and (min-width: 801px) {
   body {
