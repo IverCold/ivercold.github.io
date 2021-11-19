@@ -30,7 +30,7 @@ hr {
 }
 
 P {
-  margin-bottom: 0px;
+  margin: 10px 0px;
 }
 
 a {
@@ -53,27 +53,26 @@ h2 {
   margin: 0;
 }
 
-h2 {
-  font-size: 20px !important;
-  margin: 10px 0px;
-}
-
-h3 {
-  font-weight: normal;
-  margin: 10px 0px;
-}
-
 h1 {
-  font-size: 21px;
+  font-size: 24px;
   line-height: 30px;
 }
 
 h2 {
-  font-size: 18px;
+  font-size: 18px !important;
+  line-height: 22px;
+}
+
+h3 {
+  font-weight: normal;
 }
 
 li {
   margin-bottom: 0.5rem;
+}
+
+img {
+  margin: 10px 0px;
 }
 
 @media screen and (min-width: 801px) {
