@@ -115,6 +115,14 @@ img {
   width: 45%
 }
 
+.column-text-wide{
+  text-align: justify;
+}
+
+.width-inherited {
+  width: inherit;
+}
+
 @media screen and (min-width: 801px) {
   body {
     display: -webkit-box;
