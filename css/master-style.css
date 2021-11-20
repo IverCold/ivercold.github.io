@@ -97,6 +97,23 @@ img {
   margin-right: auto;
 }
 
+.column-centered-header {
+  float: none; 
+  text-align: center;
+}
+
+.column-text-left{
+  float: left; 
+  margin: 0px;
+  width: 50%; 
+  text-align: justify;
+}
+
+.column-image-right{
+  float: right;
+  margin: 10px 10px 0 0; 
+  width: 45%
+}
 
 @media screen and (min-width: 801px) {
   body {
