@@ -59,7 +59,7 @@ function generateRandomCypher() {
 
     let html = "";
     html += encloseDeviceProperty(randomDevice, 'Name');
-    html += encloseDeviceProperty(randomDevice, 'Level');
+    html += combineLevelProperty(randomDevice);
 
     html += encloseDeviceProperty(randomDevice, 'Usable');
     html += encloseDeviceProperty(randomDevice, 'Wearable');
@@ -78,8 +78,8 @@ function generateRandomArtefact() {
 
     let html = "";
     html += encloseDeviceProperty(randomDevice, 'Name');
-    html += encloseDeviceProperty(randomDevice, 'Level');
     html += encloseDeviceProperty(randomDevice, 'Form');
+    html += combineLevelProperty(randomDevice);
 
     html += encloseDeviceProperty(randomDevice, 'Effect');
     if (randomDevice.find('RollTable').length)
@@ -97,6 +97,15 @@ function generateRandomOddity() {
     html += encloseDeviceProperty(randomDevice, 'Description');
     html += encloseDeviceProperty(randomDevice, 'Source');
     $("#oddity_description").html(html);
+}
+
+function combineLevelProperty(randomDevice){
+    let level = encloseDeviceProperty(randomDevice, 'Level');
+    level = level.substring(0, level.length - 6);
+    if (level.indexOf('d6') != -1)
+        level += '; d6 = ' + (getRandomInt(6) + 1);
+    level += '</div>';
+    return level;
 }
 
 function getRandomDevice(xmlData, deviceTypeName) {
