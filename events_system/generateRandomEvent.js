@@ -8,6 +8,11 @@ $(document).ready(function () {
      loadXml(pathToCreatures, loadCreaturesXml);
      loadXml(pathToEncounters, loadEncountersXml);
 
+     $("#rolld20_button").click(function () {
+        $("#d20result").html(getRandomIntInclusive(1, 20));
+    });
+
+
      $("#generate_creature_button").click(function () {
          generateRandomCreature();
     });
@@ -82,4 +87,11 @@ function generateRandomEncounter(){
 // Get a number from 0 to max-1
 function getRandomInt(max) {
     return Math.floor(Math.random() * max);
+}
+
+// Both the maximum and the minimum are inclusive
+function getRandomIntInclusive(min, max) {
+    min = Math.ceil(min);
+    max = Math.floor(max);
+    return Math.floor(Math.random() * (max - min + 1) + min);
 }
