@@ -123,6 +123,10 @@ img {
   width: inherit;
 }
 
+.radio_form{
+  margin: 10px 10px;
+}
+
 @media screen and (min-width: 801px) {
   body {
     display: -webkit-box;

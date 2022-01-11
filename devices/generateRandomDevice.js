@@ -6,6 +6,8 @@ let odditiesXml;
 let cyphersXml;
 let artefactsXml;
 
+
+
 $(document).ready(function () {
     loadDevicesXmlSync(pathToOddities, loadOdditiesXml);
     loadDevicesXmlSync(pathToCyphers, loadCyphersXml);

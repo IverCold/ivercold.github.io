@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Events Generators</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="..\css\master-style.css">
+
+    <script src="../jquery-3.6.0.min.js"></script>
+    <script src="generateRandomEvent.js"></script>
+</head>
+
+<body>
+    <header>
+        <a href="..\">
+            <h1>Numenera 2.5 Events System</h1>
+        </a>
+    </header>
+    <hr />
+    <div class="content">
+        <main>
+            <div>
+                <p>Кидается на каждые 7 часов хода, плюс один на ночь - всего 4.<br>
+                    В случае 16-20 что-то происходит, и кидается д20 на типа события:</p>
+                <table border="1" cellspacing="0" cellpadding="4">
+                    <thead>
+                        <th>D20</th>
+                        <th>Type</th>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td>1-10</td>
+                            <td>Creature</td>
+                        </tr>
+                        <tr>
+                            <td>11-20</td>
+                            <td>Encounter</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+            <br>
+
+            <div>
+                <h3>Creatures</h3>
+                <form id="generate_creature_form" class="radio_form">
+                    <input type="radio" name="creature_terrain" value="Ruins/Underground" />Ruins/Underground<br>
+                    <input type="radio" name="creature_terrain" value="Plains/Hills" />Plains/Hills<br>
+                    <input type="radio" name="creature_terrain" value="Desert" />Desert<br>
+                    <input type="radio" name="creature_terrain" value="Woods" />Woods<br>
+                    <input type="radio" name="creature_terrain" value="Mountains" />Mountains<br>
+                    <input type="radio" name="creature_terrain" value="Swamp" />Swamp<br>
+                    <input type="radio" name="creature_terrain" value="Dimensions" />Dimensions<br>
+                    <input type="radio" name="creature_terrain" value="Water" />Water<br>
+                </form>
+                
+                <button id="generate_creature_button">Generate Creature</button>
+                <br><br>
+                <div id="creature">
+                </div>
+            </div>
+
+            <div>
+                <h3>Encounters</h3>
+                <form id="generate_encounter_form" class="radio_form">
+                    <input type="radio" name="encounter_terrain" value="PlainsHills" />Plains/Hills<br>
+                    <input type="radio" name="encounter_terrain" value="Desert" />Desert<br>
+                    <input type="radio" name="encounter_terrain" value="Woods" />Woods<br>
+                    <input type="radio" name="encounter_terrain" value="Mountains" />Mountains<br>
+                    <input type="radio" name="encounter_terrain" value="Swamp" />Swamp<br>
+                    <input type="radio" name="encounter_terrain" value="Camp" />Camp<br>
+                </form>
+                
+                <button id="generate_encounter_button">Generate Encounter</button>
+                <br><br>
+                <div id="encounter">
+                </div>
+            </div>
+
+        </main>
+        <footer>
+            <div class="footer-col">
+                <div>&copy; All rights reserved by Monte Cook Games.</div>
+            </div>
+
+            <div class="footer-col">
+                <div>&reg; Reforged by ZiCold and Underlog.</div>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
