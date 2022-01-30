@@ -5,16 +5,22 @@ let creaturesXml;
 let encountersXml;
 
 $(document).ready(function () {
-     loadXml(pathToCreatures, loadCreaturesXml);
-     loadXml(pathToEncounters, loadEncountersXml);
+    loadXml(pathToCreatures, loadCreaturesXml);
+    loadXml(pathToEncounters, loadEncountersXml);
 
-     $("#rolld20_button").click(function () {
+    $("#rolld20_button").click(function () {
         $("#d20result").html(getRandomIntInclusive(1, 20));
     });
 
+    $("#rolld20_for4phases").click(function () {
+        $("#morning").html(getRandomIntInclusive(1, 20));
+        $("#midday").html(getRandomIntInclusive(1, 20));
+        $("#evening").html(getRandomIntInclusive(1, 20));
+        $("#night").html(getRandomIntInclusive(1, 20));
+    });
 
-     $("#generate_creature_button").click(function () {
-         generateRandomCreature();
+    $("#generate_creature_button").click(function () {
+        generateRandomCreature();
     });
 
     $("#generate_encounter_button").click(function () {
@@ -23,7 +29,7 @@ $(document).ready(function () {
 });
 
 /* XML Loading */
-function loadXml(pathToXml, loadingFunction){
+function loadXml(pathToXml, loadingFunction) {
     $.get({
         url: pathToXml,
         type: 'get',
@@ -35,15 +41,15 @@ function loadXml(pathToXml, loadingFunction){
     })
 }
 
-function loadCreaturesXml(xmlData){
+function loadCreaturesXml(xmlData) {
     creaturesXml = xmlData;
 }
-function loadEncountersXml(xmlData){
+function loadEncountersXml(xmlData) {
     encountersXml = xmlData;
 }
 
 /* Creature Generating */
-function generateRandomCreature(){
+function generateRandomCreature() {
     let selectedTerrain = $("#generate_creature_form input[type='radio']:checked").val();
     if (selectedTerrain == null) return;
 
@@ -64,7 +70,7 @@ function generateRandomCreature(){
 }
 
 /* Encounter Generating */
-function generateRandomEncounter(){
+function generateRandomEncounter() {
     let selectedTerrain = $("#generate_encounter_form input[type='radio']:checked").val();
     if (selectedTerrain == null) return;
 

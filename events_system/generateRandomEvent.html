@@ -25,6 +25,29 @@
             <div>
                 <p>Кидается на каждые 7 часов хода, плюс один на ночь - всего 4.<br>
                     В случае 16-20 что-то происходит, и кидается д20 на типа события:</p>
+
+                <table border="1" cellspacing="0" cellpadding="4">
+                    <thead>
+                        <th>Утро</th>
+                        <th>Полдень</th>
+                        <th>Вечер</th>
+                        <th>Ночь</th>
+                    </thead>
+
+                    <tbody style="height: 30px;" >
+                        <td id="morning"></td>
+                        <td id="midday" ></td>
+                        <td id="evening"></td>
+                        <td id="night"></td>
+                    </tbody>
+                </table>
+                <br>
+                <button id="rolld20_for4phases">Roll d20</button>
+
+                <br>
+                <br>
+
+
                 <table border="1" cellspacing="0" cellpadding="4">
                     <thead>
                         <th>D20</th>
@@ -59,7 +82,7 @@
                     <input type="radio" name="creature_terrain" value="Dimensions" />Dimensions<br>
                     <input type="radio" name="creature_terrain" value="Water" />Water<br>
                 </form>
-                
+
                 <button id="generate_creature_button">Generate Creature</button>
                 <br><br>
                 <div id="creature">
@@ -70,14 +93,14 @@
             <div>
                 <h3>Encounters</h3>
                 <form id="generate_encounter_form" class="radio_form">
-                    <input type="radio" name="encounter_terrain" value="PlainsHills" checked="true"/>Plains/Hills<br>
+                    <input type="radio" name="encounter_terrain" value="PlainsHills" checked="true" />Plains/Hills<br>
                     <input type="radio" name="encounter_terrain" value="Desert" />Desert<br>
                     <input type="radio" name="encounter_terrain" value="Woods" />Woods<br>
                     <input type="radio" name="encounter_terrain" value="Mountains" />Mountains<br>
                     <input type="radio" name="encounter_terrain" value="Swamp" />Swamp<br>
                     <input type="radio" name="encounter_terrain" value="Camp" />Camp<br>
                 </form>
-                
+
                 <button id="generate_encounter_button">Generate Encounter</button>
                 <br><br>
                 <div id="encounter">

@@ -91,6 +91,11 @@ li {
 img {
   margin: 10px 0px;
 }
+
+table{
+  text-align: center;
+}
+
 .center {
   display: block;
   margin-left: auto;
