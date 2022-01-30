@@ -102,12 +102,30 @@ function generateRandomOddity() {
 }
 
 function combineLevelProperty(randomDevice){
-    let level = encloseDeviceProperty(randomDevice, 'Level');
-    level = level.substring(0, level.length - 6);
-    if (level.indexOf('d6') != -1)
-        level += '; d6 = ' + (getRandomInt(6) + 1);
-    level += '</div>';
-    return level;
+    let levelFormula = randomDevice.find('Level').text();
+
+    if (levelFormula.indexOf("d") == -1)
+        return `<div><b>Level:</b> ${levelFormula}</div>`;
+
+    let baseDice = 6;
+    if (levelFormula[2] != '6') baseDice = 10;
+    
+    let iteratorStart = 3;
+    if (baseDice == 10) iteratorStart = 4;
+    
+    if (iteratorStart == levelFormula.length){
+        return `<div><b>Level:</b> ${getRandomInt(baseDice) + 1} [${levelFormula}]</div>`;
+    }
+
+    let termString = "";
+    for(let i = iteratorStart; i < levelFormula.length; i++){
+        if (levelFormula[i] == "+" || levelFormula[i] == " ")
+            continue;
+        else termString += levelFormula[i];
+    }
+
+    var term = Number(termString);
+    return `<div><b>Level:</b> ${getRandomInt(baseDice) + 1 + term} [${levelFormula}]</div>`;
 }
 
 function getRandomDevice(xmlData, deviceTypeName) {
