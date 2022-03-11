@@ -124,6 +124,10 @@ table{
   text-align: justify;
 }
 
+.process-image{
+  max-width: 100%;
+}
+
 .width-inherited {
   width: inherit;
 }
@@ -285,5 +289,23 @@ table{
 
   header nav {
     display: none;
+  }
+
+  .column-centered-header {
+    float: none; 
+    text-align: center;
+  }
+
+  .column-text-left{
+    float: none; 
+    margin: 0px;
+    width: 100%; 
+    text-align: justify;
+  }
+
+  .column-image-right{
+    float: none;
+    margin: 10px 10px 0 0; 
+    width: 100%
   }
 }
