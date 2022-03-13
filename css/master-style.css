@@ -83,6 +83,10 @@ li {
   margin-bottom: 0.5rem;
 }
 
+nav li {
+  margin-bottom: 0px;
+}
+
 img {
   margin: 10px 0px;
 }
@@ -91,12 +95,13 @@ table{
   text-align: center;
 }
 
-.center {
+.centered-block {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
+/* Classes for Focuses page */
 .column-centered-header {
   float: none; 
   text-align: center;
@@ -118,6 +123,7 @@ table{
 .column-text-wide{
   text-align: justify;
 }
+/* End of Classes for Focuses page */
 
 .process-image{
   max-width: 100%;
@@ -131,9 +137,6 @@ table{
   margin: 10px 10px;
 }
 
-nav li {
-  margin-bottom: 0px;
-}
 
 @media screen and (min-width: 801px) {
   body {
