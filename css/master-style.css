@@ -131,6 +131,10 @@ table{
   margin: 10px 10px;
 }
 
+nav li {
+  margin-bottom: 0px;
+}
+
 @media screen and (min-width: 801px) {
   body {
     min-height: 768px;
@@ -143,6 +147,7 @@ table{
   }
 
   header,
+  nav,
   footer,
   main {
     width: 690px;
@@ -177,12 +182,9 @@ table{
     position: relative;
     top: 15px;
   }
-
   nav {
     display: inline-flex;
-    justify-content: flex-end;
     align-items: center;
-    padding-right: 10px;
   }
 
   nav a {
