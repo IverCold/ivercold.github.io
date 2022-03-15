@@ -137,6 +137,50 @@ table{
   margin: 10px 10px;
 }
 
+/* Generation pages */
+#generate-anything-area{
+  background-color: #bfbfbf;
+  height: 100%;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+}
+#generated-items{
+  background-color: #ebebeb;
+  margin: 10px;
+  flex-grow:1;
+}
+
+.buttons-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.tab-button{
+  height: 50px;
+  background-color: #969696;
+  
+  flex-grow: 1;
+  margin: 10px;
+
+  display: flex;
+  justify-content: center; 
+  align-items: center;
+}
+
+.device-button-text{
+  color: white;
+  font-weight: 600;
+}
+
+.device-block{
+  border: 1px black solid;
+  margin: 0px 0px 10px 0px;
+  padding: 5px;
+}
+
+/* End of Generation pages */
 
 @media screen and (min-width: 801px) {
   body {
@@ -147,6 +191,11 @@ table{
     background-color: #f7f9fa;
     display: flex;
     flex-direction: column;
+    min-height: 100vh;
+  }
+
+  footer{
+    margin-top: auto;
   }
 
   header,
@@ -159,6 +208,7 @@ table{
 
   main {
     padding-top: 10px;
+    flex-grow: 1;
   }
 
   header {
