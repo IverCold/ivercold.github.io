@@ -5490,4 +5490,270 @@
     <Source>Compendium</Source>
     <Usable>Glass panel with selection of dials</Usable>
   </Cypher>
+  <Cypher>
+    <Name>Certain Attack</Name>
+    <Level>10</Level>
+    <Effect>For the next round, when the user attacks a target with an ability, weapon, or device, regardless of the range or any barriers separating them, the attack succeeds (treat as a routine task). The user can attack any target, but only if she knows that the target exists; the GM will decide if she has enough information to confirm the target’s existence.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>City Communion</Name>
+    <Level>10</Level>
+    <Effect>All creatures within a 2-mile (3 km) radius gain telepathy for a few rounds and can speak to each other regardless of any interceding barriers or language barriers. Though the effect is potentially overwhelming for those few rounds, the follow-on effect allows all connected creatures to gain a brief sense of each other and each other’s point of view. For the next ten days at least, the difficulty of any positive interaction tasks attempted between affected creatures is reduced by three steps.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Complete Restoration</Name>
+    <Level>10</Level>
+    <Effect>User’s Pools are completely restored, she becomes hale on the damage track, and she is cured of all diseases, poisons, and other ongoing deleterious effects.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Disciple</Name>
+    <Level>9</Level>
+    <Effect>A creature about the size of the user and whose level does not exceed the cypher’s level becomes convinced that the user is worthy of service and sacrifice. The creature gives up whatever occupation and life it previously pursued to become the user’s follower. It continues to serve the user gladly, unless or until the user does wrong by the creature, as determined by the GM.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Distant Summons</Name>
+    <Level>9</Level>
+    <Effect>A named target the user knows to exist is summoned from wherever it is, even if it’s unwilling to be called. The user can summon any target, but only if she knows that the target exists; the GM will decide if she has enough information to confirm the target’s existence.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Eclipse</Name>
+    <Level>12</Level>
+    <Effect>A location up to 10 miles (16 km) away is shadowed in darkness in an area 3 miles (5 km) in radius for one day, during which time all natural sources of light are absent. Light sources produced by technology may also be affected, especially if they are normally the only “natural” sources of light in the chosen area.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Effortless</Name>
+    <Level>9</Level>
+    <Effect>For the next hour, the user doesn’t spend points from her Pools when applying Effort. Other normal limits for applying Effort remain in effect.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Evacuate Air</Name>
+    <Level>11</Level>
+    <Effect>An area that is a short distance in radius and up to a long distance away is evacuated of all air, gas, or ice, creating a vacuum. The area of vacuum is permanent.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Far Traveler</Name>
+    <Level>11</Level>
+    <Effect>User is transferred to a location that she knows to exist, no matter how far away it is or how many interceding barriers lie between her and the endpoint. The user can go anywhere, as long as she knows that the location exists; the GM will decide if she has enough information to confirm the location’s existence.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Indestructible Item</Name>
+    <Level>10</Level>
+    <Effect>Effects with a level that is less than the cypher’s level can no longer harm a designated object no larger than the user within immediate range.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Instant Friends</Name>
+    <Level>9</Level>
+    <Effect>All chosen targets within short range regard the user in a friendly fashion, regardless of their earlier dispositions, for one hour or unless she harms a target or otherwise does something obvious that isn’t in a target’s best interest.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Instant Tower</Name>
+    <Level>10</Level>
+    <Effect>Expands into a complex twenty-story structure with entrances, windows, and stairs connecting each level. The structure is permanent and immobile once created.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Lethal Upgrade</Name>
+    <Level>1d6 + 9</Level>
+    <Effect>For the next minute, a selected weapon within immediate range inflicts additional points of damage equal to the cypher’s level.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Limitless</Name>
+    <Level>10</Level>
+    <Effect>The user succeeds at any one knowledge task whose difficulty is equal to or less than the cypher’s level.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Massive Destruction</Name>
+    <Level>1d6 + 9</Level>
+    <Effect>Projects a destructive pulse up to 3 miles (5 km) away that explodes in a 1-mile (1.5 km) radius, inflicting damage equal to the cypher’s level. The type of damage is informed by the genre setting where this cypher is deployed.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Multibooster</Name>
+    <Level>9</Level>
+    <Effect>Adds 3 to the user’s Might Edge, Speed Edge, and Intellect Edge for one hour.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Multiport</Name>
+    <Level>8</Level>
+    <Effect>User and all allies within short range are instantly transferred to any location the user designates within 100 miles (160 km), as long as she has previously visited the location and the location still exists.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Physical Upgrade</Name>
+    <Level>10</Level>
+    <Effect>User permanently adds 3 points to one Pool.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Power Shift (accuracy)</Name>
+    <Level>15</Level>
+    <Effect>For three days, the user gains a power shift to accuracy, which reduces the difficulty of any attack he makes by one step.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Power Shift (intelligence)</Name>
+    <Level>15</Level>
+    <Effect>For three days, the user gains a power shift to intelligence, which reduces the difficulty of any Intellect defense roll and all knowledge, science, and crafting tasks he makes by one step.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Power Shift (resilience)</Name>
+    <Level>15</Level>
+    <Effect>For three days, the user gains a power shift to resilience, which reduces the difficulty of any Might defense roll he makes by one step and adds 1 to Armor.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Power Shift (single Attack)</Name>
+    <Level>15</Level>
+    <Effect>For three days, the user gains a power shift to a single attack (chosen when the cypher is used), which reduces the difficulty of that particular attack by one step and adds 3 points of damage on a successful attack.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Quell</Name>
+    <Level>10</Level>
+    <Effect>All chosen targets within long range fall unconscious or become inoperative for one hour or until a target sustains damage, which wakes that particular target.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Rage Unending</Name>
+    <Level>10</Level>
+    <Effect>Targets within a 200-foot (60 m) radius up to 1 mile (1.5 km) away become raging psychopaths, with no thought for their own safety. Affected targets seek out and make melee attacks on the nearest creatures and continue to do so until they are killed or one day passes.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Ray Emitter (extreme)</Name>
+    <Level>1d6 + 9</Level>
+    <Effect>Allows the user to project a ray of destructive energy up to 3 miles (5 km) that inflicts damage equal to the cypher’s level. Roll a d100 for the type of damage:</Effect>
+    <RollTable>
+      <Row>
+        <Roll>01-50</Roll>
+        <Result>Heat/concentrated light</Result>
+      </Row>
+      <Row>
+        <Roll>51-60</Roll>
+        <Result>Cell-disrupting radiation</Result>
+      </Row>
+      <Row>
+        <Roll>61-80</Roll>
+        <Result>Force</Result>
+      </Row>
+      <Row>
+        <Roll>81-87</Roll>
+        <Result>Magnetic wave</Result>
+      </Row>
+      <Row>
+        <Roll>88-93</Roll>
+        <Result>Molecular bond disruption</Result>
+      </Row>
+      <Row>
+        <Roll>94-00</Roll>
+        <Result>Concentrated cold</Result>
+      </Row>
+    </RollTable>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Replacement</Name>
+    <Level>10</Level>
+    <Effect>Target within long range disappears for one hour, while the user gains the target’s features, general mannerisms, and trivial surface knowledge (such as the names of friends). This lowers the difficulty by four steps of the user’s attempts to pass himself off as or disguise himself as the target.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Resurrect</Name>
+    <Level>13</Level>
+    <Effect>Dead creature within immediate range is returned to life in full health, relative youth, and complete possession of its faculties and memories up to the point of death. To ensure success, some remnant of the target creature must remain, such as hair, skin, or bone.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Shadow Body</Name>
+    <Level>9</Level>
+    <Effect>For one day, the user and all her equipment becomes equivalent to an animate shadow. As a shadow, she can flicker between two shadows within 300 feet (90 m) of each other as part of another action (regardless of interceding barriers), and she gains +15 to Armor against all sources of damage other than those generated by light. In addition, the difficulty of all stealth tasks is reduced by two steps.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Super Champion</Name>
+    <Level>10</Level>
+    <Effect>A level 10 creature is produced within long range and fights on behalf of the user for one minute.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Survive</Name>
+    <Level>10</Level>
+    <Effect>For one minute, the user regains all points to his Pools each round while he has at least 1 point in any Pool. If he dies, he instead regains all points to one Pool and the effect ends.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Temporal Escape</Name>
+    <Level>10</Level>
+    <Effect>User and all allies within long range are instantly transferred 1d20 + 5 years into the future. For them, no time elapses. For all other creatures, it’s as if the targets ceased to exist during the intervening period.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Transcendence</Name>
+    <Level>11</Level>
+    <Effect>For the next minute, each of the user’s actions is treated as if the player rolled a 20.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Transformation Extreme</Name>
+    <Level>10</Level>
+    <Effect>For one minute, the user gains the form and attributes of a creature of up to level 10 that she knows to exist. The GM will decide if she has enough information to confirm the creature’s existence.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Twister</Name>
+    <Level>8</Level>
+    <Effect>Launches a small tornado that travels a short distance each round in the direction determined by the user. The tornado persists for five minutes, leaving a swath of destruction 300 feet (90 m) wide in its wake by destroying structures whose level is less than the cypher’s level. Each round a creature is caught in the area, it is stunned (losing its next turn), it sustains damage equal to the cypher’s level, and it could be flung a short or long distance in a random direction.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Ultimate Acquisition</Name>
+    <Level>9</Level>
+    <Effect>A named object of the user’s size or smaller that she knows to exist is drawn immediately to her, no matter the range or interceding barriers. The user can summon any object, as long as she knows it exists; the GM will decide if she has enough information to confirm the object’s existence.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Universal Expertise</Name>
+    <Level>10</Level>
+    <Effect>For the next hour, the difficulty of all tasks the user attempts is reduced by three steps.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Unlock Latency</Name>
+    <Level>10</Level>
+    <Effect>User permanently gains one special ability from any available focus. The GM determines what foci are available to choose from. The user can choose any ability, but the difficulty of using an ability whose tier is higher than her tier is increased by a number of steps equal to the difference between the tiers.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Vanish Creature</Name>
+    <Level>11</Level>
+    <Effect>One creature within immediate range that is of the user’s size or smaller permanently vanishes.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Vanish Volume</Name>
+    <Level>11</Level>
+    <Effect>One or more objects, a structure (and all its contents), or a portion of a structure able to fit in a 10-foot (3 m) cube permanently vanishes.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Volcano</Name>
+    <Level>15</Level>
+    <Effect>Over the course of thirty hours, a volcanic dome grows beneath the point on the ground where the cypher is activated, which likely destroys most structures in the area over time. When finished growing, the upthrust area is 6 miles (10 km) across at its base and has an elevation of 4,000 feet (1,200 m). When the growth phase ends, the dome erupts as a volcano for ten hours, threatening to destroy an additional area up to 5 miles (8 km) in radius around the base. A volcano cypher should be made available to PCs only if the GM is willing to end the current campaign or update it in potentially significant ways.</Effect>
+    <Source>Extreme Cyphers</Source>
+  </Cypher>
 </NumeneraDevices>
