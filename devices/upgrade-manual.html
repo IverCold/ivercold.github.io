@@ -1,0 +1,266 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Numenera 2.5</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Sans+Caption&amp;subset=cyrillic,latin-ext" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="..\css\master-style.css">
+</head>
+
+<body>
+    <header>
+        <a href="..\">
+            <h1>Numenera 2.5</h1>
+        </a>
+    </header>
+    <hr />
+    <div class="content">
+        <main>
+            <h2>Upgrading cyphers on the fly</h2>
+            <p>
+                This page was made by comparison of cyphers in the Numenera Corebook and Numenera Discovery books. It
+                helps to upgrade cyphers from Technology Compendium on the fly. It uses cyphers as examples. Artefacts
+                can be upgraded in the same way.
+            </p>
+            <h3>General fixes</h3>
+            <ol>
+                <li>Numenera Lore &rarr; Understanding Numenera </li>
+                <li>Ranges: 6.1m &rarr; 6m, 9.1m &rarr; 9m </li>
+                <li>Same level or lower &rarr; Cypher level or lower</li>
+                <li>Modified by one step &rarr; Eased or hindered</li>
+                <li>Range of 200 feet [61 m] &rarr; Very long range</li>
+            </ol>
+
+            <p>Duration of 28 hours almost always remains unchanged.</p>
+            <p>MAX is calculated as the maximum level that you can get from the dice roll. For example, for 1d6+2
+                cypher, MAX is 8, MAX-2 is 6.</p>
+            <p>Easy cypher's power up: <u>Improve cypher’s effect for MAX-2 level.</u></p>
+
+
+            <h3>No duration &rarr; Set minutes/hours per cypher level </h3>
+            <p>Examples:</p>
+            <table border="1px" cellspacing="0" cellpadding="4">
+                <tbody style="text-align: center;">
+                    <tr>
+                        <th style="width: 20%;">Tech Name</th>
+                        <th style="width: 40%;">Old</th>
+                        <th style="width: 40%;">Fix</th>
+                    </tr>
+                    <tr>
+                        <td>Antivenom </td>
+                        <td>Renders user immune to poisons of the same level or lower</td>
+                        <td>Renders user immune to poisons of the same level or lower for one hour per cypher level</td>
+                    </tr>
+                    <tr>
+                        <td>Detonation (Sonic)</td>
+                        <td>Explodes with terrifying sound, deafening all in an immediate radius. </td>
+                        <td>Explodes with terrifying sound, deafening all in an immediate radius for ten minutes per
+                            cypher level. </td>
+                    </tr>
+                    <tr>
+                        <td>Detonation (Web)</td>
+                        <td>Explodes in an immediate radius and creates sticky strands of goo. </td>
+                        <td>Explodes in an immediate radius and creates sticky strands of goo that last 1 hour.</td>
+                    </tr>
+                    <tr>
+                        <td>Sound Dampener </td>
+                        <td>Dampens all sound within immediate range, providing an asset </td>
+                        <td>Dampens all sound within immediate range for one minute per cypher level, providing an asset
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+
+            <h3>Static duration &rarr; Set duration per cypher level </h3>
+            <p>The lower border should be equal (or around) old duration. If there is some value (damage or armor) AND
+                duration, then duration (not value) is increased by cypher level. Examples:</p>
+            <table border="1px" cellspacing="0" cellpadding="4">
+                <tbody style="text-align: center;">
+                    <tr>
+                        <th style="width: 20%;">Tech Name</th>
+                        <th style="width: 40%;">Old</th>
+                        <th style="width: 40%;">Fix</th>
+                    </tr>
+                    <tr>
+                        <td>Adhesion Clamps</td>
+                        <td>Lasts for twenty minutes.</td>
+                        <td>Lasts for ten minutes per cypher level.</td>
+                    </tr>
+                    <tr>
+                        <td>Catseye</td>
+                        <td>Lasts for eight hours</td>
+                        <td>Lasts five hours per cypher level</td>
+                    </tr>
+                    <tr>
+                        <td>Detonation (Flash) [powerful]</td>
+                        <td>For one minute</td>
+                        <td>Ten minutes if the cypher is level MAX-4 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Eagleseye</td>
+                        <td>ability to see ten times as far as normal for one hour</td>
+                        <td>ability to see ten times as far as normal for one hour per cypher level</td>
+                    </tr>
+                    <tr>
+                        <td>Force Screen Projector</td>
+                        <td>plane of solid force up to 20 feet by 20 feet (6.1 m by 6.1 m) for one hour.</td>
+                        <td>plane of solid force up to 20 feet by 20 feet (6 m by 6 m) for one hour per cypher level.
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Magnetic Master</td>
+                        <td>The connection lasts for ten rounds.</td>
+                        <td>The connection lasts for ten rounds per cypher level.</td>
+                    </tr>
+                    <tr>
+                        <td>Phase Changer [powerful]</td>
+                        <td>For one minute</td>
+                        <td>&nbsp;Add: Two minutes if the cypher is level MAX-1 or higher</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+
+            <h3>Damage &rarr; Increase damage for MAX-2 and MAX level</h3>
+            <p>Takes 1 additional point of damage &rarr; Add: 2 points of the cypher if level MAX-2 or higher, 3 points
+                of MAX level</p>
+            <p>Examples: Density Nodule, Disrupting Nodule, Heat Nodule, Retaliation Nodule, Shock Nodule</p>
+            <br>
+
+
+            <h3>Armor &rarr; Increase armor for MAX-1 level</h3>
+            <p>Examples:</p>
+            <table border="1px" cellspacing="0" cellpadding="4">
+                <tbody style="text-align: center;">
+                    <tr>
+                        <th style="width: 20%;">Tech Name</th>
+                        <th style="width: 40%;">Old</th>
+                        <th style="width: 40%;">Fix</th>
+                    </tr>
+                    <tr>
+                        <td>Force Nodule</td>
+                        <td>Adding 2 points to the armor it provides </td>
+                        <td>Add: adding 3 to the armor if the cypher is level MAX-1 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Sheen</td>
+                        <td> Resists damage +1 to Armor</td>
+                        <td> Add: +2 to Armor if the cypher is level MAX-1 or higher</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+
+
+            <h3>Range &rarr; Increase range for MAX-2 level </h3>
+            <p>Close &rarr; Long range &rarr; Very long range. Examples:</p>
+            <table border="1px" cellspacing="0" cellpadding="4">
+                <tbody style="text-align: center;">
+                    <tr>
+                        <th style="width: 20%;">Tech Name</th>
+                        <th style="width: 40%;">Old</th>
+                        <th style="width: 40%;">Fix</th>
+                    </tr>
+                    <tr>
+                        <td>Attractor</td>
+                        <td>Long range</td>
+                        <td>Very long range if the cypher level MAX-2 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Image Projector</td>
+                        <td>The image appears 25 feet away from the user</td>
+                        <td>The image appears up to a close distance away (long distance if the cypher level is MAX-2 or
+                            higher, very long distance if the cypher level is 6 or higher)</td>
+                    </tr>
+                    <tr>
+                        <td>Ray Emitter (Numbing)</td>
+                        <td>Project a ray of energy up to 200 feet (61 m)</td>
+                        <td>Add: Very long range if the cypher is level MAX-2 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Tracer</td>
+                        <td>Within short range</td>
+                        <td>Add: Long range if the cypher is level MAX-2 or higher, very long range if the cypher is
+                            level MAX or higher</td>
+                    </tr>
+                </tbody>
+            </table>
+            <br>
+
+            <h3>Value &rarr; Increase it for MAX-2 level</h3>
+            <p>Examples:</p>
+            <table border="1px" cellspacing="0" cellpadding="4">
+                <tbody style="text-align: center;">
+                    <tr>
+                        <th style="width: 20%;">Tech Name</th>
+                        <th style="width: 40%;">Old</th>
+                        <th style="width: 40%;">Fix</th>
+                    </tr>
+                    <tr>
+                        <td>Banishing Nodule</td>
+                        <td>Hindered by one step</td>
+                        <td>Add: Hindered by two steps if the cypher level MAX-1 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Comprehension Graft</td>
+                        <td>Understand one language</td>
+                        <td>Add: Two languages if the cypher is level MAX-2 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Controlled Blinking Nodule</td>
+                        <td>Eases defence by one step</td>
+                        <td>Add: Eases defence by two step if the cypher is level MAX-2 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Datasphere Siphon</td>
+                        <td>One question</td>
+                        <td>Add: Two questions if the cypher is level MAX-2 or higher, three questions if MAX or higher
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Gravity-Nullifying Spray</td>
+                        <td>A nonliving object about the size of a person or smaller</td>
+                        <td>Add: Two humans if the cypher is level 6 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Intellect Enhancement</td>
+                        <td>Adds 1 to Intellect Edge for one hour</td>
+                        <td>Add: Or adds 2 if the cypher is level MAX-3 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Knowledge Enhancement</td>
+                        <td>&nbsp;The character has training in a predetermined skill</td>
+                        <td>Add: Or two skills if the cypher is level 5 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Personal Environment Field</td>
+                        <td>&nbsp;The aura extends to 1 foot (30 cm) around the user</td>
+                        <td>Add: double that radius if the cypher is level 7 or higher</td>
+                    </tr>
+                    <tr>
+                        <td>Psychic Communique</td>
+                        <td>Telepathic message of up to ten words</td>
+                        <td>ten words per cypher level</td>
+                    </tr>
+                </tbody>
+            </table>
+
+
+        </main>
+        <footer>
+            <div class="footer-col">
+                <div>&copy; All rights reserved by Monte Cook Games.</div>
+            </div>
+
+            <div class="footer-col">
+                <div>&reg; Reforged by ZiCold and Underlog.</div>
+            </div>
+        </footer>
+    </div>
+</body>
+
+</html>
