@@ -160,7 +160,8 @@ table{
 .tab-button{
   height: 50px;
   background-color: #969696;
-  
+  cursor: pointer;
+
   flex-grow: 1;
   margin: 10px;
 
