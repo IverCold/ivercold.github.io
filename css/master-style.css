@@ -96,6 +96,7 @@ li {
 
 img {
   margin: 10px 0px;
+  width: inherit;
 }
 
 table{
