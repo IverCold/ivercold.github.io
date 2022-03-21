@@ -84,13 +84,14 @@ nav li {
   margin-bottom: 0px;
 }
 
-ul {
+ul, ol {
   margin: 5px 0px;
   padding-left: 30px;
 }
 
 li {
   margin-bottom: 5px;
+  padding-left: 5px;
 }
 
 img {
