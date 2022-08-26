@@ -1124,4 +1124,24 @@ Endless Legend: Она нужна Неварину из звездного ге�
     <Swamp>true</Swamp>
     <Camp>true</Camp>
   </Encounter>
+  <Encounter>
+    <Id>113</Id>
+    <Description>Автоматон с солнечными батареями поддерживает жизнь ребёнка в своём чреве.</Description>
+    <PlainsHills>true</PlainsHills>
+    <Desert>true</Desert>
+    <Woods>false</Woods>
+    <Mountains>true</Mountains>
+    <Swamp>false</Swamp>
+    <Camp>true</Camp>
+  </Encounter>
+  <Encounter>
+    <Id>114</Id>
+    <Description>Желатиновый куб держит в себе голову и руки внутри, говоря, что именно они управляют им.</Description>
+    <PlainsHills>false</PlainsHills>
+    <Desert>false</Desert>
+    <Woods>true</Woods>
+    <Mountains>false</Mountains>
+    <Swamp>true</Swamp>
+    <Camp>false</Camp>
+  </Encounter>
 </Encounters>
