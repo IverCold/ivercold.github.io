@@ -1895,7 +1895,11 @@
       </Row>
       <Row>
         <Roll>86–95</Roll>
-        <Result>Creates a random distinctive mutation for one hour 96–00 Creates a random cosmetic mutation for one hour</Result>
+        <Result>Creates a random distinctive mutation for one hour</Result>
+      </Row>
+      <Row>
+        <Roll>96–00</Roll>
+        <Result>Creates a random cosmetic mutation for one hour</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -1958,7 +1962,11 @@
       </Row>
       <Row>
         <Roll>51–75</Roll>
-        <Result>Repels metallic objects from the creature (can move an object up to the weight of the creature within long range) 76–00 Causes the creature’s blood to become overly magnetized, decreasing the flow of oxygen to the cells (does damage equal to the cypher level)</Result>
+        <Result>Repels metallic objects from the creature (can move an object up to the weight of the creature within long range)</Result>
+      </Row>
+      <Row>
+        <Roll>76–00</Roll>
+        <Result>Causes the creature’s blood to become overly magnetized, decreasing the flow of oxygen to the cells (does damage equal to the cypher level)</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -2335,7 +2343,11 @@
       </Row>
       <Row>
         <Roll>19</Roll>
-        <Result>Riding 20 GM’s choice</Result>
+        <Result>Riding</Result>
+      </Row>
+      <Row>
+        <Roll>20</Roll>
+        <Result>GM’s choice</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -2433,7 +2445,11 @@
       </Row>
       <Row>
         <Roll>96–97</Roll>
-        <Result>Access unknown energies and use them to attack all nearby 98–00 Access unknown energies and open a transdimensional portal</Result>
+        <Result>Access unknown energies and use them to attack all nearby</Result>
+      </Row>
+      <Row>
+        <Roll>98–00</Roll>
+        <Result>Access unknown energies and open a transdimensional portal</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -2616,17 +2632,18 @@
         <Roll>02</Roll>
         <Result>The device, when activated, also projects a force field around the user that lasts for an hour. This field provides +2 to Armor. If the device already creates protective Armor, that Armor gains +1 instead. This functions once, regardless of whether the enhanced device is a cypher or an artifact.</Result>
       </Row>
-      <Row>
-        <Roll>03</Roll>
-        <Result>The device, when activated, also adds 1 to the user’s Might Edge, Speed Edge, and Intellect Edge for one hour. This functions once, regardless of whether the enhanced device is a cypher or an artifact.</Result>
-      </Row>
+
       <Row>
         <Roll>04</Roll>
         <Result>If the device has immediate range, the range is increased to short. If short, it is increased to long. If long, it is increased to 200 feet (61 m). Such changes to the device last for 28 hours. If the device does not have a ranged effect, it instead affects the user when activated so that the user moves a long distance on an action for 28 hours. This latter effect can be used once.</Result>
       </Row>
       <Row>
         <Roll>05</Roll>
-        <Result>The device, when activated, also makes the user invisible for an hour. While invisible the user is specialized in stealth and Speed defense tasks. This effect ends if he does something to reveal his presence or position—attacking, performing an esotery, using an ability, and so on. If this occurs, he can regain the remaining invisibility effect by taking an action to focus on hiding his position. This functions once, regardless of whether the enhanced device is a cypher or an artifact. 06 The device now also restores a total of 4 points each time it is activated. The user can allocate those points among his stat Pools as desired, but the Pools cannot go above their maximum. If the device already restores points to Pools, it restores 2 additional points. If used on an artifact, this effect lasts for 28 hours after the first use.</Result>
+        <Result>The device, when activated, also makes the user invisible for an hour. While invisible the user is specialized in stealth and Speed defense tasks. This effect ends if he does something to reveal his presence or position—attacking, performing an esotery, using an ability, and so on. If this occurs, he can regain the remaining invisibility effect by taking an action to focus on hiding his position. This functions once, regardless of whether the enhanced device is a cypher or an artifact.</Result>
+      </Row>
+      <Row>
+        <Roll>06</Roll>
+        <Result>The device now also restores a total of 4 points each time it is activated. The user can allocate those points among his stat Pools as desired, but the Pools cannot go above their maximum. If the device already restores points to Pools, it restores 2 additional points. If used on an artifact, this effect lasts for 28 hours after the first use.</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -2670,7 +2687,11 @@
       </Row>
       <Row>
         <Roll>82–98</Roll>
-        <Result>Synth 99–00 Organic matter (inflicts damage equal to the cypher level on a living creature)</Result>
+        <Result>Synth</Result>
+      </Row>
+      <Row>
+        <Roll>99–00</Roll>
+        <Result>Organic matter (inflicts damage equal to the cypher level on a living creature)</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -2809,7 +2830,11 @@
       </Row>
       <Row>
         <Roll>51–75</Roll>
-        <Result>Chemical traps 76–00 User’s choice</Result>
+        <Result>Chemical traps</Result>
+      </Row>
+      <Row>
+        <Roll>76–00</Roll>
+        <Result>User’s choice</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -2872,7 +2897,11 @@
       </Row>
       <Row>
         <Roll>15–18</Roll>
-        <Result>Black: Infuses cells with disruptive energy; inflicts 5 points of damage to user, and then user’s touch inflicts 8 points of damage to others for ten minutes. 19–20 White: Alters ocular system; user gains x-ray vision and can see through up to 10 inches (25 cm) of matter for one minute.</Result>
+        <Result>Black: Infuses cells with disruptive energy; inflicts 5 points of damage to user, and then user’s touch inflicts 8 points of damage to others for ten minutes.</Result>
+      </Row>
+      <Row>
+        <Roll>19–20</Roll>
+        <Result>White: Alters ocular system; user gains x-ray vision and can see through up to 10 inches (25 cm) of matter for one minute.</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -2910,7 +2939,11 @@
       </Row>
       <Row>
         <Roll>51–75</Roll>
-        <Result>Speed Pool 76–00 Intellect Pool</Result>
+        <Result>Speed Pool</Result>
+      </Row>
+      <Row>
+        <Roll>76–00</Roll>
+        <Result>Intellect Pool</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -3915,7 +3948,11 @@
       </Row>
       <Row>
         <Roll>51–75</Roll>
-        <Result>Fire 76–00 Shrapnel</Result>
+        <Result>Fire</Result>
+      </Row>
+      <Row>
+        <Roll>76–00</Roll>
+        <Result>Shrapnel</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -3951,7 +3988,11 @@
       </Row>
       <Row>
         <Roll>51–75</Roll>
-        <Result>Fabric 76–00 Leather</Result>
+        <Result>Fabric</Result>
+      </Row>
+      <Row>
+        <Roll>76–00</Roll>
+        <Result>Leather</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -4055,7 +4096,11 @@
       </Row>
       <Row>
         <Roll>51–75</Roll>
-        <Result>Completely truthful (1–3 on d6) or pathological liar (4–6 on d6) for one hour 76–00 Permanently erases one memory chosen by the wearer</Result>
+        <Result>Completely truthful (1–3 on d6) or pathological liar (4–6 on d6) for one hour </Result>
+      </Row>
+      <Row>
+        <Roll>76–00</Roll>
+        <Result>Permanently erases one memory chosen by the wearer</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>
@@ -4098,11 +4143,7 @@
       </Row>
       <Row>
         <Roll>6</Roll>
-        <Result>Weird Death. Roll 2d6 to determine an age. The first roll is the first digit of the age, and the second roll is the second digit. Every living thing of that age within</Result>
-      </Row>
-      <Row>
-        <Roll>1</Roll>
-        <Result>mile (2 km) immediately dies.</Result>
+        <Result>Weird Death. Roll 2d6 to determine an age. The first roll is the first digit of the age, and the second roll is the second digit. Every living thing of that age within 1 mile (2 km) immediately dies.</Result>
       </Row>
       <Row>
         <Roll>7</Roll>
