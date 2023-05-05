@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "Charming",
+    "Source": "Discovery",
+    "Flavor": "You’re a smooth talker and a charmer. Whether through seemingly supernatural means or just a way with words, you can convince others to do as you wish. Most likely, you’re physically attractive or at least highly charismatic, and others enjoy listening to your voice. You probably pay attention to your appearance, keeping yourself well groomed. You make friends easily. You play up the personality facet of your Intellect stat; intelligence is not your strong suit. You’re personable, not necessarily studious or strong-willed.",
+    "Pools": [
+      {
+        "Name": "Personable",
+        "Description": "+2 to your Intellect Pool."
+      }
+    ],
+    "Skills": [
+      {
+        "Name": "Skill",
+        "Description": "You’re trained in all tasks involving positive or pleasant social interaction."
+      },
+      {
+        "Name": "Skill",
+        "Description": "You’re trained when using esoteries or special abilities that influence the minds of others."
+      }
+    ],
+    "Inabilities": [
+      {
+        "Name": "Inability",
+        "Description": "You were never good at studying or retaining facts. Any task involving lore, knowledge, or understanding is hindered."
+      }
+    ],
+    "Other": [
+      {
+        "Name": "Contact",
+        "Description": "You have an important contact who is in an influential position, such as a minor noble, the captain of the town guard, an Aeon Priest, or the head of a large gang of thieves. You and the GM should work out the details together."
+      }
+    ],
+    "AdditionalEquipment": "You’ve managed to talk your way into some decent discounts and bonuses in recent weeks. As a result, you have 10 extra shins jangling in your pocket."
+  }
+]

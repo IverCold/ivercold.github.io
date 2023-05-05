@@ -1,0 +1,101 @@
+[
+  {
+    "Name": "Acts Without Consequence",
+    "Source": "Destiny",
+    "Flavor": "You’re a rebel. You resist the dictates of authority, you try to break away from the control that society holds over you, and you like to flout traditions that you view as backward. That’s not to say that you automatically disagree with anything or anyone you deal with. It’s more that you believe certain institutions and conventions are foolish and even hurtful. This is why you often press your luck and defy the status quo. Often enough, you get away with it.<br><br> In fact, your success is more than a mere twist of statistics. You enjoy some kind of psychic enhancement, implanted device, or attention of a datasphere spirit. You’ve also practiced certain skills, behaviors, and attitudes that allow blame to slip off you like water off a murden. A character who acts without consequence often dresses in flamboyant garments designed to draw the eye, as if they’re tempting the universe to notice them after all. Those who can successfully act without consequence could walk into the center of a city square, steal a fruit from a vendor, pass it to a beggar in full view of everyone, and suffer no repercussions whatsoever. Glaives, Jacks, Delves, and Arkai are drawn to acting without consequence.",
+    "Connection": [
+      {
+        "Description": "1. Pick one other PC. Through a quirk of fate, this character is sometimes blamed for your exploits, even if they’re not near you."
+      },
+      {
+        "Description": "2. Pick one other PC. You recently discovered that they always seem to be able to track you when you Slip Into Shadow."
+      },
+      {
+        "Description": "3. Pick one other PC. You saved them from certain death by taking a lucky gamble. It could’ve gone either way, but in the end, they lived. If you’d lost, they would’ve certainly died."
+      },
+      {
+        "Description": "4. Pick one other PC. They rescued you from an awful predicament during one of the few times your luck failed you. You’re a bit embarrassed that they know you have limits."
+      }
+    ],
+    "Additional": [
+      {
+        "Name": "Additional Equipment",
+        "Description": "Deck of cards and a “lucky” oddity of the GM’s choice."
+      },
+      {
+        "Name": "Weird Ability",
+        "Description": "You can choose to learn Danger Sense instead of one of the abilities granted by your type. Danger Sense (1 Speed point): Your initiative tasks are eased. You pay the cost each time the ability is used. Enabler."
+      }
+    ],
+    "Minor-Major Effects": [
+        {
+            "Name": "Minor Effect Suggestions",
+            "Description": "Your foe is surprised by or has a bad reaction to you for one round, during which time all its tasks are hindered."
+          },
+          {
+            "Name": "Major Effect Suggestions",
+            "Description": "A foe forgets about you unless you draw attention to yourself."
+          }
+    ],
+    "Tier 1": [
+      {
+        "Name": "Slip Into Shadow",
+        "Description": "You attempt to slip away from a selected target and hide from view in a nearby shadow, behind a tree or a furnishing, or into the next room, even if in full view of the target. For each level of Effort applied, you can attempt to affect one additional target, as long as all your targets are next to each other. Action to initiate.",
+        "Pool": "Intellect",
+        "Cost": "2+"
+      },
+      {
+        "Name": "Blameless",
+        "Description": "You are trained in one of the following: deception, stealth, or disguise. Enabler."
+      }
+    ],
+    "Tier 2": [
+      {
+        "Name": "Get Away",
+        "Description": "After your action on your turn, you move up to a short distance or get behind or beneath cover within immediate range. Enabler.",
+        "Pool": "Speed",
+        "Cost": "2"
+      }
+    ],
+    "Tier 3 (choose one)": [
+      {
+        "Name": "Goad",
+        "Description": "After you successfully attack a creature, Speed defense tasks by all others against the creature’s attacks are eased until the end of the next round. Enabler.",
+        "Pool": "Might",
+        "Cost": "2"
+      },
+      {
+        "Name": "Seize Opportunity",
+        "Description": "If you succeed on a Speed defense roll to resist an attack, you gain an action. You can use it immediately even if you have already taken a turn in the round. You can use this ability once per round, after which you don’t take an action during the next round. If you use this action to attack, the attack is eased. Enabler.",
+        "Pool": "Speed",
+        "Cost": "4"
+      }
+    ],
+    "Tier 4": [
+      {
+        "Name": "Uncanny Luck",
+        "Description": "When you roll for a task and succeed, roll again. If the second number rolled is higher than the first, you get a minor effect. If you roll the same number again, you get a major effect. If you have Uncanny Luck from another source or a similar ability, it’s your choice (no roll required) whether you get a minor effect, a major effect, or a free activation of one of your tier 1-3 focus abilities. Enabler.",
+        "Pool": "Speed",
+        "Cost": "4"
+      }
+    ],
+    "Tier 5": [
+      {
+        "Name": "Invisibility",
+        "Description": "You become invisible for ten minutes. While invisible, you are specialized in stealth and Speed defense tasks. This effect ends if you do something to reveal your presence or position—attacking, using an ability, moving a large object, and so on. If this occurs, you can regain the remaining invisibility effect by taking an action to hide your position. If you have a type ability that also confers invisibility, using either ability allows you to remain invisible for twice as long as the duration specified. Action to initiate or reinitiate.",
+        "Pool": "Intellect",
+        "Cost": "4"
+      }
+    ],
+    "Tier 6 (choose one)": [
+      {
+        "Name": "No Fate",
+        "Description": "You don’t believe in any luck except that which you make for yourself. If you fail on a task (including an attack or a defense), you can change the die result to a natural 20. (That still might not be enough to succeed if the difficulty is higher than 6.) Once you use this ability, it is not available again until after you make a ten-hour recovery roll. This ability doesn’t work if you roll a natural 1 for an attempted task, unless you also have Twist of Fate or a similar ability. Enabler."
+      },
+      {
+        "Name": "Twist of Fate",
+        "Description": "When you roll a 1, you can reroll. You must use the new result, even if it’s another 1. Enabler."
+      }
+    ]
+  }
+]
