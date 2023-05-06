@@ -1,0 +1,644 @@
+{
+    "Tier 1": {
+        "auto": [
+            {
+                "Name": "Pools Starting Values",
+                "Description": ""
+            },
+            {
+                "Name": "Bonus Pools Values",
+                "Description": "You get 6 additional points to divide among your stat Pools however you wish."
+            },
+            {
+                "Name": "Effort",
+                "Description": "Your Effort is 1."
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            }
+        ],
+        "option": [
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            }
+        ]
+    },
+    "Tier 2": {
+        "auto": [
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            }
+        ],
+        "option": [
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            }
+        ]
+    },
+    "Tier 3": {
+        "auto": [
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            }
+        ],
+        "option": [
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            }
+        ]
+    },
+    "Tier 4": {
+        "auto": [
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            }
+        ],
+        "option": [
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            }
+        ]
+    },
+    "Tier 5": {
+        "auto": [
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            }
+        ],
+        "option": [
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            }
+        ]
+    },
+    "Tier 6": {
+        "auto": [
+            {
+                "Name": "",
+                "Description": ""
+            },
+            {
+                "Name": "",
+                "Description": ""
+            }
+        ],
+        "option": [
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            },
+            {
+                "Name": "",
+                "Description": "",
+                "Pool": "",
+                "Cost": ""
+            }
+        ]
+    }
+}
