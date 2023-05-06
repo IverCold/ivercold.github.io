@@ -1,143 +1,43 @@
 const pathToDescriptors = "descriptors.json";
 const pathToFocuses = "focuses.json";
 
-let descriptorsJson;
-let focusesJson;
+const descriptorsTableSelector = "#descriptors-table";
+const focusesTableSelector = "#focuses-table";
+
+let jsonArray;
 
 $(document).ready(function () {
-    if ($("#descriptors-table")) {
-        loadTableDataJsonSync(pathToDescriptors, loadDescriptorsJson);
-        //buildHtmlTable("#descriptors-table");
-        generateDescriptorsTableFromJSON();
+    if ($(descriptorsTableSelector).length) {
+        loadTableDataJsonSync(pathToDescriptors);
+        generateTableFromJSON(descriptorsTableSelector);
+        setTableStylesForDescriptors();
     }
 
-    if ($("#focuses-table")) {
-        loadTableDataJsonSync(pathToFocuses, loadFocusesJson);
-        generateFocusesTableFromJSON();
+    if ($(focusesTableSelector).length) {
+        loadTableDataJsonSync(pathToFocuses);
+        generateTableFromJSON(focusesTableSelector);
+        setTableStylesForFocuses();
     }
 })
 
-//#region Data loading functions
-function loadTableDataJsonSync(pathToJSON, loadingFunction) {
+function loadTableDataJsonSync(pathToJSON) {
     $.get({
         url: pathToJSON,
         type: "get",
         async: false,
         dataType: 'json',
         success: function (data) {
-            loadingFunction(data);
+            jsonArray = data;
         }
     });
 }
 
-function loadDescriptorsJson(jsonData) {
-    descriptorsJson = jsonData;
-}
-
-function loadFocusesJson(jsonData) {
-    focusesJson = jsonData;
-}
-//#endregion
-
-function generateDescriptorsTableFromJSON() {
-    var tableSelector = "#descriptors-table";
-
-    var columns = addColumnHeadersFromFirstElement(descriptorsJson, tableSelector);
-    //addDescriptorsHeaders(tableSelector);
-    $("th:contains('Flavor')").attr("style", "width: 400px");
-    $("th:contains('Pools')").attr("style", "width: 140px");
-    $("th:contains('Other')").attr("style", "width: 300px");
-
-    for (var i = 0; i < descriptorsJson.length; i++) {
-        // addDescriptorRowFromElement(tableSelector, descriptorsJson[i]);
-        addFocusRowFromElement(tableSelector, descriptorsJson[i], columns);
-    }
-}
-
-function addDescriptorsHeaders(tableSelector) {
-    var headerTr$ = $('<tr/>');
-
-    headerTr$.append($('<th/>').html("Name"));
-    headerTr$.append($('<th/>').html("Source"));
-
-    var flavorElem = $('<th/>');
-    flavorElem.html("Flavor");
-    flavorElem.attr("style", "width: 400px");
-    headerTr$.append(flavorElem);
-    // headerTr$.append($('<th/>').html("Flavor"));
-
-    headerTr$.append($('<th/>').html("Pools"));
-    headerTr$.append($('<th/>').html("Skills"));
-    headerTr$.append($('<th/>').html("Inabilities"));
-    headerTr$.append($('<th/>').html("Other"));
-    headerTr$.append($('<th/>').html("Additional Equipment"));
-
-    $(tableSelector).append(headerTr$);
-}
-
-function addDescriptorRowFromElement(tableSelector, elem) {
-    var row$ = $('<tr/>');
-    row$.append($('<td/>').html(elem.Name));
-    row$.append($('<td/>').html(elem.Source));
-    row$.append($('<td/>').html(elem.Flavor));
-
-    let poolsTr = "";
-    for (let i = 0; i < elem.Pools.length; i++) {
-        if (i != 0) poolsTr += "<br><br>";
-        poolsTr += "<b>" + elem.Pools[i].Name + ":</b> ";
-        poolsTr += elem.Pools[i].Value;
-    }
-    row$.append($('<td/>').html(poolsTr));
-
-    let skillsTr = "";
-    for (let i = 0; i < elem.Skills.length; i++) {
-        if (i != 0) skillsTr += "<br><br>";
-        skillsTr += "<b>Skill:</b> ";  //"<b>" + elem.Skills[i].Name + ":</b> ";
-        skillsTr += elem.Skills[i];
-    }
-    row$.append($('<td/>').html(skillsTr));
-
-    row$.append($('<td/>').html("Inabilities"));
-    row$.append($('<td/>').html("Other"));
-    row$.append($('<td/>').html(elem.AdditionalEquipment));
-
-    $(tableSelector).append(row$);
-}
-
-// Builds the HTML Table out of any JSON.
-function buildHtmlTable(tableSelector) {
-    var columns = addAllColumnHeaders(descriptorsJson, tableSelector);
-
-    for (var i = 0; i < descriptorsJson.length; i++) {
-        var row$ = $('<tr/>');
-        for (var colIndex = 0; colIndex < columns.length; colIndex++) {
-            var cellValue = descriptorsJson[i][columns[colIndex]];
-            if (cellValue == null) cellValue = "";
-            row$.append($('<td/>').html(cellValue));
-        }
-        $(tableSelector).append(row$);
-    }
-}
-
-// Adds a header row to the table and returns the set of columns.
-// Need to do union of keys from all records as some records may not contain
-// all records.
-function addAllColumnHeaders(jsonArray, tableSelector) {
-    var columnSet = [];
-    var headerTr$ = $('<tr/>');
-
+// Main unified function for Descriptors, Focuses and Types abilities
+function generateTableFromJSON(tableSelector) {
+    var columns = addColumnHeadersFromFirstElement(jsonArray, tableSelector);
     for (var i = 0; i < jsonArray.length; i++) {
-        var singleRow = jsonArray[i];
-        for (var key in singleRow) {
-            if ($.inArray(key, columnSet) == -1) {
-                columnSet.push(key);
-                headerTr$.append($('<th/>').html(key));
-            }
-        }
+        addRowFromElement(tableSelector, jsonArray[i], columns);
     }
-    $(tableSelector).append(headerTr$);
-
-    return columnSet;
 }
 
 // Add a header to the table and return the set of columns.
@@ -157,21 +57,7 @@ function addColumnHeadersFromFirstElement(jsonArray, tableSelector) {
     return columnSet;
 }
 
-function generateFocusesTableFromJSON() {
-    var tableSelector = "#focuses-table";
-
-    var columns = addColumnHeadersFromFirstElement(focusesJson, tableSelector);
-    $(tableSelector).attr("style", "min-width: 4500px");
-    /*$("th:contains('Flavor')").attr("style", "width: 400px");
-    $("th:contains('Pools')").attr("style", "width: 140px");
-    $("th:contains('Other')").attr("style", "width: 300px");*/
-
-    for (var i = 0; i < focusesJson.length; i++) {
-        addFocusRowFromElement(tableSelector, focusesJson[i], columns);
-    }
-}
-
-function addFocusRowFromElement(tableSelector, elem, columns) {
+function addRowFromElement(tableSelector, elem, columns) {
     var row$ = $('<tr/>');
 
     for (var colIndex = 0; colIndex < columns.length; colIndex++) {
@@ -206,3 +92,66 @@ function addFocusRowFromElement(tableSelector, elem, columns) {
 
     $(tableSelector).append(row$);
 }
+
+function setTableStylesForDescriptors() {
+    setWidthForColumn('Flavor', 400);
+    setWidthForColumn('Pools', 140);
+    setWidthForColumn('Other', 300);
+}
+
+function setTableStylesForFocuses() {
+    $(focusesTableSelector).attr("style", "min-width: 4500px");
+    setWidthForColumn('Name', 100);
+    setWidthForColumn('Source', 60);
+    setWidthForColumn('Flavor', 400);
+    setWidthForColumn('Connection', 300);
+    setWidthForColumn('Additional', 400);
+    setWidthForColumn('Minor-Major Effects', 400);
+    setWidthForColumn('Tier 1', 400);
+    setWidthForColumn('Tier 2', 400);
+    setWidthForColumn('Tier 3 (choose one)', 400);
+    setWidthForColumn('Tier 4', 400);
+    setWidthForColumn('Tier 5', 400);
+    setWidthForColumn('Tier 6 (choose one)', 400);
+}
+
+function setWidthForColumn(name, width) {
+    $("th:contains('" + name + "')").attr("style", "width: " + width + "px");
+}
+
+//#region code from stackoverflow
+// Builds the HTML Table out of any JSON with simple fields.
+function buildHtmlTable(tableSelector) {
+    var columns = addAllColumnHeaders(descriptorsJson, tableSelector);
+
+    for (var i = 0; i < descriptorsJson.length; i++) {
+        var row$ = $('<tr/>');
+        for (var colIndex = 0; colIndex < columns.length; colIndex++) {
+            var cellValue = descriptorsJson[i][columns[colIndex]];
+            if (cellValue == null) cellValue = "";
+            row$.append($('<td/>').html(cellValue));
+        }
+        $(tableSelector).append(row$);
+    }
+}
+
+// Adds a header row to the table and returns the set of columns.
+// Need to do union of keys from all records as some records may not contain all records.
+function addAllColumnHeaders(jsonArray, tableSelector) {
+    var columnSet = [];
+    var headerTr$ = $('<tr/>');
+
+    for (var i = 0; i < jsonArray.length; i++) {
+        var singleRow = jsonArray[i];
+        for (var key in singleRow) {
+            if ($.inArray(key, columnSet) == -1) {
+                columnSet.push(key);
+                headerTr$.append($('<th/>').html(key));
+            }
+        }
+    }
+    $(tableSelector).append(headerTr$);
+
+    return columnSet;
+}
+//#endregion

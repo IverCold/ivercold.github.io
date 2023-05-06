@@ -1,5 +1,193 @@
 [
   {
+    "Name": "",
+    "Source": "",
+    "Flavor": "",
+    "Connection": [
+      {
+        "Description": ""
+      },
+      {
+        "Description": ""
+      },
+      {
+        "Description": ""
+      },
+      {
+        "Description": ""
+      }
+    ],
+    "Additional": [
+      {
+        "Name": "",
+        "Description": ""
+      },
+      {
+        "Name": "",
+        "Description": ""
+      }
+    ],
+    "Minor-Major Effects": [
+      {
+        "Name": "Minor Effect Suggestions",
+        "Description": ""
+      },
+      {
+        "Name": "Major Effect Suggestions",
+        "Description": ""
+      }
+    ],
+    "Tier 1": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      },
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 2": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 3 (choose one)": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      },
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 4": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 5": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 6 (choose one)": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      },
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ]
+  },
+  {
+    "Name": "Absorbs Energy",
+    "Source": "Destiny",
+    "Flavor": "Every movement is an expression of energy. You can harness this kinetic energy and transform it into other kinds of energy. At first, once you absorb energy, you must use it before you can absorb any more. You can use the absorbed energy as a weapon, or you can infuse an object with dangerous energy that is released upon touch. Eventually, you will be able to use the energy for nonviolent purposes, such as healing or invigorating creatures. Glaives often gain the biggest benefit from being energy absorbers, as they are the ones most often being struck in combat, and many of the initial uses of absorbed energy are for combat. However, Wrights can potentially use some of that energy to improve their crafting abilities.",
+    "Connection": [
+      {
+        "Description": "1. Pick one other PC. For reasons unknown to you, this character is completely immune to the energy you release, whether you use it for help or harm."
+      },
+      {
+        "Description": "2. Pick one other PC. You knew of this character years ago, but you don’t think they knew you."
+      },
+      {
+        "Description": "3. Pick one other PC. You’re always trying to impress them, but you’re not even sure why."
+      },
+      {
+        "Description": "4. Pick one other PC. This character has a habit that annoys you, but you’re otherwise quite impressed with their abilities."
+      }
+    ],
+    "Additional": [
+    ],
+    "Minor-Major Effects": [
+      {
+        "Name": "Minor Effect Suggestions",
+        "Description": "The energy you release is even more potent than you thought. Your opponent’s actions are hindered next round."
+      },
+      {
+        "Name": "Major Effect Suggestions",
+        "Description": "The energy you release is even more potent than you thought. Your opponent loses their next action."
+      }
+    ],
+    "Tier 1": [
+      {
+        "Name": "Absorb Kinetic Energy",
+        "Description": "You absorb a portion of the energy of a physical attack or impact. You negate 1 point of damage you would have suffered and store that point as energy. Once you have absorbed 1 point of energy, you continue to negate 1 point of damage from any incoming blow or impact, but the residual energy bleeds off with a flare of harmless light (you cannot store more than 1 point at a time). Enabler."
+      },
+      {
+        "Name": "Release Energy",
+        "Description": "You release 1 point of energy you’ve absorbed (magnifying and focusing it into a blast of energy) that strikes a single foe within long range for 4 points of damage. If you don’t have any kinetic energy absorbed, you can still use this ability, but it requires that you transform a fraction of yourself into the blast, which costs 1 point of Might. A character can use Release Energy in place of io while crafting the numenera. One point of damage equals 1 unit of io. Action."
+      }
+    ],
+    "Tier 2": [
+      {
+        "Name": "Energize Object",
+        "Description": "You infuse energy you have absorbed into an object, like a weapon. The object holds the energy until it is touched by anyone but you, so putting it into your melee weapon or the ammo of a ranged weapon allows the weapon to trigger the energy in combat. The energy inflicts 3 points of damage on the creature touched in addition to any damage the weapon itself might do. You cannot have more than one energized object on your person at a time. Action to initiate."
+      }
+    ],
+    "Tier 3 (choose one)": [
+      {
+        "Name": "Absorb Pure Energy",
+        "Description": "You can also absorb and store energy from attacks made with pure energy (focused light, radiation, transdimensional, psychic, etc.) or from conduits that direct energy, if you can make direct contact. This ability does not change how many points of energy you can store. If you also have Improved Absorb Kinetic Energy, you can absorb 2 points of damage from other energy sources as well. Enabler."
+      },
+      {
+        "Name": "Improved Absorb Kinetic Energy",
+        "Description": "Instead of being able to absorb 1 point of damage from a physical attack or impact, you can absorb 2 points. You can also store up to 2 points of energy from any source. However, you can still only release energy 1 point at a time. Enabler."
+      }
+    ],
+    "Tier 4": [
+      {
+        "Name": "Overcharge Energy",
+        "Description": "When you use Release Energy, it inflicts an additional 2 points of damage. Enabler."
+      }
+    ],
+    "Tier 5": [
+      {
+        "Name": "Energize Creature",
+        "Description": "You extend your Absorb Kinetic Energy ability to one creature within immediate range so that they also can absorb energy from physical attacks and impacts for one hour. That creature, however, cannot release excess energy as a blast. For each level of Effort you apply, you can increase the number of targets you affect by one. If you have Absorb Pure Energy or Improved Absorb Kinetic Energy, those abilities are also duplicated in your target when you use Energize Creature. Action to initiate.",
+        "Pool": "Might",
+        "Cost": "6+"
+      }
+    ],
+    "Tier 6 (choose one)": [
+      {
+        "Name": "Energize Crowd",
+        "Description": "You extend your Absorb Kinetic Energy ability to up to thirty creatures within short range so that they also can absorb energy from physical attacks and impacts for one hour. If you have Absorb Pure Energy or Improved Absorb Kinetic Energy, these creatures can use those abilities as well. The creatures, however, cannot release excess energy as a blast. When you use Energize Crowd on a crowd of people pledged to defend a ranked community or a horde from attack, the community or horde gains +1 Armor. Action to initiate.",
+        "Pool": "Might",
+        "Cost": "9"
+      },
+      {
+        "Name": "Overcharge Device",
+        "Description": "You infuse 1 point of energy you’ve stored into a device, such as an artifact or installation, which raises its effective level on its next use by 3 (to a maximum of 10). Enabler."
+      }
+    ]
+  },
+  {
     "Name": "Acts Without Consequence",
     "Source": "Destiny",
     "Flavor": "You’re a rebel. You resist the dictates of authority, you try to break away from the control that society holds over you, and you like to flout traditions that you view as backward. That’s not to say that you automatically disagree with anything or anyone you deal with. It’s more that you believe certain institutions and conventions are foolish and even hurtful. This is why you often press your luck and defy the status quo. Often enough, you get away with it.<br><br> In fact, your success is more than a mere twist of statistics. You enjoy some kind of psychic enhancement, implanted device, or attention of a datasphere spirit. You’ve also practiced certain skills, behaviors, and attitudes that allow blame to slip off you like water off a murden. A character who acts without consequence often dresses in flamboyant garments designed to draw the eye, as if they’re tempting the universe to notice them after all. Those who can successfully act without consequence could walk into the center of a city square, steal a fruit from a vendor, pass it to a beggar in full view of everyone, and suffer no repercussions whatsoever. Glaives, Jacks, Delves, and Arkai are drawn to acting without consequence.",
@@ -28,14 +216,14 @@
       }
     ],
     "Minor-Major Effects": [
-        {
-            "Name": "Minor Effect Suggestions",
-            "Description": "Your foe is surprised by or has a bad reaction to you for one round, during which time all its tasks are hindered."
-          },
-          {
-            "Name": "Major Effect Suggestions",
-            "Description": "A foe forgets about you unless you draw attention to yourself."
-          }
+      {
+        "Name": "Minor Effect Suggestions",
+        "Description": "Your foe is surprised by or has a bad reaction to you for one round, during which time all its tasks are hindered."
+      },
+      {
+        "Name": "Major Effect Suggestions",
+        "Description": "A foe forgets about you unless you draw attention to yourself."
+      }
     ],
     "Tier 1": [
       {
