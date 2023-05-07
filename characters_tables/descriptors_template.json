@@ -1,0 +1,36 @@
+[
+  {
+    "Name": "",
+    "Source": "",
+    "Flavor": "",
+    "Pools": [
+      {
+        "Name": "",
+        "Description": ""
+      }
+    ],
+    "Skills": [
+      {
+        "Name": "",
+        "Description": ""
+      },
+      {
+        "Name": "",
+        "Description": ""
+      }
+    ],
+    "Inabilities": [
+      {
+        "Name": "",
+        "Description": ""
+      }
+    ],
+    "Other": [
+      {
+        "Name": "",
+        "Description": ""
+      }
+    ],
+    "AdditionalEquipment": ""
+  }
+]

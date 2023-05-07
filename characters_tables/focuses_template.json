@@ -1,0 +1,105 @@
+{
+    "Name": "",
+    "Source": "",
+    "Flavor": "",
+    "Connection": [
+      {
+        "Description": ""
+      },
+      {
+        "Description": ""
+      },
+      {
+        "Description": ""
+      },
+      {
+        "Description": ""
+      }
+    ],
+    "Additional": [
+      {
+        "Name": "",
+        "Description": ""
+      },
+      {
+        "Name": "",
+        "Description": ""
+      }
+    ],
+    "Minor-Major Effects": [
+      {
+        "Name": "Minor Effect Suggestions",
+        "Description": ""
+      },
+      {
+        "Name": "Major Effect Suggestions",
+        "Description": ""
+      }
+    ],
+    "Tier 1": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      },
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 2": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 3 (choose one)": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      },
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 4": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 5": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ],
+    "Tier 6 (choose one)": [
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      },
+      {
+        "Name": "",
+        "Description": "",
+        "Pool": "",
+        "Cost": ""
+      }
+    ]
+}
