@@ -70,7 +70,8 @@ function addRowFromElement(tableSelector, elem, columns) {
                     if (i != 0) trValue += "<br><br>";
                     if (curProp[i].Name) {
                         trValue += "<b>" + curProp[i].Name;
-                        if (curProp[i].Pool && curProp[i].Cost) {
+                        if (curProp[i].Pool && curProp[i].Cost 
+                            && curProp[i].Pool.length > 0 && curProp[i].Cost.length > 0) {
                             trValue += " (" + curProp[i].Cost + " " + curProp[i].Pool + " ";
                             if (curProp[i].Cost == "1")
                                 trValue += "point";
