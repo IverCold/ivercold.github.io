@@ -68,12 +68,13 @@ function addRowFromElement(tableSelector, elem, columns) {
             if (curProp.constructor === Array) {
                 for (let i = 0; i < curProp.length; i++) {
                     if (i != 0) trValue += "<br><br>";
-                    if (curProp[i].Name) {
-                        trValue += "<b>" + curProp[i].Name;
-                        if (curProp[i].Pool && curProp[i].Cost 
-                            && curProp[i].Pool.length > 0 && curProp[i].Cost.length > 0) {
-                            trValue += " (" + curProp[i].Cost + " " + curProp[i].Pool + " ";
-                            if (curProp[i].Cost == "1")
+                    let curElem = curProp[i];
+                    if (curElem.Name) {
+                        trValue += "<b>" + curElem.Name;
+                        if (curElem.Pool && curElem.Cost 
+                            && curElem.Pool.length > 0 && curElem.Cost.length > 0) {
+                            trValue += " (" + curElem.Cost + " " + curElem.Pool + " ";
+                            if (curElem.Cost == "1")
                                 trValue += "point";
                             else
                                 trValue += "points";
@@ -81,7 +82,7 @@ function addRowFromElement(tableSelector, elem, columns) {
                         }
                         trValue += ":</b> ";
                     }
-                    trValue += curProp[i].Description;
+                    trValue += curElem.Description;
                 }
             } else {
                 trValue = curProp;
