@@ -3,7 +3,7 @@
         "auto": [
             {
                 "Name": "Pools Starting Values",
-                "Description": ""
+                "Description": "Might - 11, Speed - 10, Intellect - 7"
             },
             {
                 "Name": "Bonus Pools Values",
@@ -14,228 +14,216 @@
                 "Description": "Your Effort is 1."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Fighter",
+                "Description": "You have a Might Edge of 1, a Speed Edge of 1, and an Intellect Edge of 0."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Cypher Use",
+                "Description": "You can bear two cyphers at a time."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Weapons",
+                "Description": "You can use any weapon without penalty."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Physical Skills",
+                "Description": "Choose one of the following skills in which you aren’t already trained: balancing, climbing, jumping, or swimming. You are trained in this skill. You have an inability in crafting numenera, salvaging numenera, and understanding numenera."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Combat Prowess",
+                "Description": "You add +1 damage to one type of attack of your choice: melee attacks or ranged attacks. Enabler."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Trained in Armor",
+                "Description": "You can wear armor for long periods of time without tiring and can compensate for slowed reactions from wearing armor. You reduce the Speed Effort cost for wearing armor by 1. Enabler."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Starting Equipment",
+                "Description": "You start with clothing, two weapons (or one weapon and a shield), light or medium armor, an explorer’s pack, two cyphers (chosen for you by the GM), one oddity (chosen for you by the GM), and 5 shins (coins). If you start with a ranged weapon that requires ammunition (arrows, for example), you start with 12 of that type of ammunition. Before selecting your weapons, armor, and other gear, you might want to wait until after you’ve chosen your fighting moves, descriptor, and focus."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Community Defender",
+                "Description": "While you are present within a community, and actively and personally working on behalf of that community, the community’s effective rank for damage inflicted is +1. Enabler."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Fighting Moves",
+                "Description": "You have a special talent for combat and can perform feats that others can barely imagine. These feats are called fighting moves. Some fighting moves are constant, ongoing effects, and others are specific actions that usually cost points from one of your stat Pools. Choose two of the fighting moves described below. You can’t choose the same fighting move more than once unless its description says otherwise."
+            },
+            {
+                "Name": "Player Intrusions",
+                "Description": "You can spend 1XP to use one of the following player intrusions, provided the situation is appropriate and the GM agrees.<br><br>- <b>Perfect Setup</b>: you’re fighting at least three foes and each one is standing in exactly the right spot for you to use a move you trained in long ago, allowing you to attack all three as a single action. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action.<br><br>- <b>Old Friend</b>: a comrade in arms from your past shows up unexpectedly and provides aid in whatever you’re doing. They are on a mission of their own and can’t stay longer than it takes to help out, chat a while after, and perhaps share a quick meal.<br><br>- <b>Weapon Break</b>: your foe’s weapon has a weak spot and in the course of the combat quickly becomes damaged and moves two steps down the object damage track."
             }
         ],
         "option": [
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Fleet of Foot",
+                "Description": "You can move a short distance as part of another action. You can move a long distance as your entire action for a turn. If you apply a level of Effort to this ability, you can move a long distance and make an attack as your entire action for a turn, but the attack is hindered. Enabler.",
+                "Pool": "Speed",
+                "Cost": "1+"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Trained Without Armor",
+                "Description": "You are trained in Speed defense actions when not wearing armor. Enabler."
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "No Need for Weapons",
+                "Description": "Your unarmed attacks deals 2 additional damage. It requires both hands (or feets). Enabler."
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Danger Sense",
+                "Description": "The difficulty of your initiative roll is reduced by one step. Enabler."
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Surging Confidence",
+                "Description": "When you use an action to make your first recovery roll of the day, you immediately gain another action. Enabler.",
+                "Pool": "Might",
+                "Cost": "1"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Reload",
+                "Description": "When using a weapon that normally requires an action to reload, such as a heavy crossbow, you can reload and fire (or fire and reload) in the same action. Enabler.",
+                "Pool": "Speed",
+                "Cost": "1"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Control the Field",
+                "Description": "This melee attack inflicts 1 less point of damage than normal, but regardless of whether you hit the target, you maneuver it into a position you desire within immediate range. Action.",
+                "Pool": "Might",
+                "Cost": "1"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Misdirect",
+                "Description": "When an opponent misses you, you can redirect their attack to another target (a creature or object) of your choosing that’s within immediate range of you. Make an unmodified attack roll against the new target (do not use any of your or the opponent’s modifiers to the attack roll, but you can apply Effort for accuracy). If the attack hits, the target takes damage from your opponent’s attack. Enabler.",
+                "Pool": "Speed",
+                "Cost": "3"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Goad",
+                "Description": "After you successfully attack a creature, his Speed-based attacks are hindered. Enabler.",
+                "Pool": "Might",
+                "Cost": "2"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Muscles of Iron",
+                "Description": "For the next ten minutes, all Might-based actions other than attack rolls that you attempt have their difficulty reduced by one step. Enabler.",
+                "Pool": "Might",
+                "Cost": "2"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Opportunist",
+                "Description": "You have an asset on any attack roll you make against a creature that has been attacked at some point during the round and is within immediate range. Enabler."
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Overwatch",
+                "Description": "You use a ranged weapon to target a limited area (such as a doorway, a hallway, or the eastern side of the clearing) and make an attack against the next viable target to enter that area. This works like a wait action, but you also negate any benefit the target would have from cover, position, surprise, range, illumination, or visibility. Further, you inflict 1 additional point of damage with the attack. You can remain on overwatch as long as you wish, within reason. Action.",
+                "Pool": "Intellect",
+                "Cost": "1"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Quick Draw",
+                "Description": "You use an action to make an attack with a thrown light weapon. You then draw another light weapon and make another thrown attack against the same target or a different one. Action.",
+                "Pool": "Speed",
+                "Cost": "2"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Guarded Attack",
+                "Description": "While you’re using a shield when you make an attack with a melee weapon, you can choose to increase the difficulty of the roll by one step. You then decrease the difficulty of all Speed defense rolls you make by one step until the end of the round. Enabler."
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Impressive Display",
+                "Description": "You perform a feat of strength, speed, or combat, impressing those nearby. For the next minute you gain an asset in all interaction tasks with people who saw you use this ability. Action.",
+                "Pool": "Might",
+                "Cost": "2"
             }
         ]
     },
     "Tier 2": {
         "auto": [
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Skill With Attacks",
+                "Description": "Choose one type of attack in which you are not already trained: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. You are trained in attacks using that type of weapon. Enabler."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Fighting Moves",
+                "Description": "Choose one of the following fighting moves (or a move from a lower tier) to add to your repertoire. In addition, you can replace one of your first-tier fighting moves with a different first-tier fighting move."
             }
         ],
         "option": [
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Skill With Defense",
+                "Description": "Choose one type of defense task in which you are not already trained: Might, Speed, or Intellect. You are trained in defense tasks of that type. Unlike most fighting moves, you can select this move up to three times. Each time you select it, you must choose a different type of defense task. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Hemorrhage",
+                "Description": "You make a powerful and precise strike that inflicts additional damage later. On your next turn, the target of this attack takes an additional 3 points of damage (this ignores Armor). The target can prevent this additional damage by making a recovery roll, using any ability that heals it, or using its action to attend to the injury. In addition to the normal options for using Effort, you can choose to use Effort to increase this duration by one round. Action.",
+                "Pool": "Might",
+                "Cost": "2+"
+            },
+            {
+                "Name": "Crushing Blow",
+                "Description": "When you use a bashing or bladed weapon in both hands and apply Effort on the attack, you get a free level of Effort on the damage. (If fighting unarmed, this attack is made with both fists or both feet together.) Action.",
+                "Pool": "Might",
+                "Cost": "2"
+            },
+            {
+                "Name": "Successive Attack",
+                "Description": "If you take down a foe, you can immediately make another attack on that same turn against a new foe within your reach. The second attack is part of the same action. You can use this fighting move with melee attacks and ranged attacks. Enabler.",
+                "Pool": "Speed",
+                "Cost": "2"
+            },
+            {
+                "Name": "Rage",
+                "Description": "You focus on making attacks to such an extent that you leave yourself vulnerable to your opponents. While this ability is active, you gain an asset on your melee attacks, and your Speed defense rolls against melee and ranged attacks are hindered. This effect lasts for as long as you wish, but it ends if no combat is taking place within range of your senses. Enabler.",
+                "Pool": "Might",
+                "Cost": "2"
+            },
+            {
+                "Name": "Vigilance",
+                "Description": "You take a cautious approach to combat, focusing more on protecting yourself than on hurting your opponents. While this ability is active, you gain an asset on Speed defense rolls against melee and ranged attacks, and your melee and ranged attacks are hindered. This effect lasts for as long as you wish, but it ends if no combat is taking place within range of your senses. Action to initiate.",
+                "Pool": "Intellect",
+                "Cost": "2"
+            },
+            {
+                "Name": "Avalanche",
+                "Description": "When you get a minor effect or a major effect for an attack using a weapon you wield in two hands, you deal the extra damage and you knock the creature down. Enabler.",
+                "Pool": "Might",
+                "Cost": "2"
+            },
+            {
+                "Name": "Block",
+                "Description": "You automatically block the next melee attack made against you within the next minute. Action to initiate.",
+                "Pool": "Speed",
+                "Cost": "3"
+            },
+            {
+                "Name": "Bloodlust",
+                "Description": "If you take down a foe, you can move a short distance, but only if you move toward another foe. You don’t need to spend the points until you know that the foe is down. Enabler.",
+                "Pool": "Might",
+                "Cost": "3"
+            },
+            {
+                "Name": "Quick Recovery",
+                "Description": "Your second recovery roll (usually requiring ten minutes) takes only a single action, just like the first roll. Additionaly when you use an action to make your first recovery roll of the day, you immediately gain another action. When you choose this ability you can replace Surging Confidence with another same tier ability. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Shield Bash",
+                "Description": "If you make a melee attack and you’re using a shield, you can also make an attack with your shield as a part of the same action. Both attacks are hindered. A shield counts as a light melee weapon. Action.",
+                "Pool": "Might",
+                "Cost": "1"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Stand Watch",
+                "Description": "While standing watch (mostly remaining in place for an extended period of time), you unfailingly remain awake and alert for up to eight hours. During this time, you are trained in perception tasks as well as stealth tasks to conceal yourself from those who might approach. Action to initiate.",
+                "Pool": "Intellect",
+                "Cost": "2"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
+                "Name": "Sense Ambush",
+                "Description": "You are never treated as surprised by an attack. Enabler.",
                 "Pool": "",
                 "Cost": ""
             }
@@ -244,104 +232,80 @@
     "Tier 3": {
         "auto": [
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Expert Cypher Use",
+                "Description": "You can bear three cyphers at a time."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Skill With Attacks",
+                "Description": "Choose one type of attack in which you are not already trained: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. You are trained in attacks using that type of weapon. Enabler."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Improved Community Defender",
+                "Description": "A community continues to modify its effective rank for damage inflicted by +1. However, you do not need to be constantly present in and actively working on behalf of the community for it to gain this benefit; it gains it merely because of your past defense of the community. Enabler."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Fighting Moves",
+                "Description": "Choose one of the following fighting moves (or a move from a lower tier) to add to your repertoire. In addition, you can also replace one of your lower-tier fighting moves with a different fighting move from the same lower tier."
             }
         ],
         "option": [
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Lunge",
+                "Description": "This move requires you to extend yourself for a powerful stab or smash. The awkward lunge hinders the attack roll. If your attack is successful, it inflicts 4 additional points of damage. Action.",
+                "Pool": "Might",
+                "Cost": "2"
+            },
+            {
+                "Name": "Obstacle Running",
+                "Description": "For the next minute, you can ignore obstacles that slow your movement, allowing you to travel at normal speed through areas with rubble, fences, tables, and similar objects that you would have to climb over or move around. This movement might include sliding on a railing, briefly running along a wall, or even stepping on a creature to boost yourself over something. If an obstacle would normally require a Might or Speed task to overcome, such as swinging on a rope, balancing on a rope, or jumping over a hole, you are trained at that task. Enabler.",
+                "Pool": "Speed",
+                "Cost": "3"
+            },
+            {
+                "Name": "Slice",
+                "Description": "This is a quick attack with a bladed or pointed weapon that is hard to defend against. You are trained in this task. If the attack is successful, it deals 1 less point of damage than normal. Action.",
+                "Pool": "Speed",
+                "Cost": "2"
+            },
+            {
+                "Name": "Specialized in Armor",
+                "Description": "The cost reduction from your Trained in Armor ability improves. You now reduce the Speed Effort cost for wearing armor by an additional 1. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Spray",
+                "Description": "If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow), you can spray multiple shots around your target to increase the chance of hitting. This move uses 1d6 + 1 rounds of ammo (or all the ammo in the weapon, if it has less than the number rolled). You are trained in making this attack. If the attack is successful, it deals 1 less point of damage than normal. Action.",
+                "Pool": "Speed",
+                "Cost": "2"
+            },
+            {
+                "Name": "Trick Shot",
+                "Description": "As part of the same action, you make a ranged attack against two targets that are within immediate range of each other. Make a separate attack roll against each target. The attack rolls are hindered. Action.",
+                "Pool": "Speed",
+                "Cost": "2"
+            },
+            {
+                "Name": "Mighty Blow",
+                "Description": "As part of the same action, you make a melee attack against two targets that are within immediate range of each other. Make a separate attack roll against each target. Each attack deals 1 less point of damage than normal. Action.",
+                "Pool": "Might",
+                "Cost": "2"
+            },
+            {
+                "Name": "Deadly Aim",
+                "Description": "For the next minute, all ranged attacks you make inflict 2 additional points of damage. Action to initiate.",
+                "Pool": "Speed",
+                "Cost": "3"
+            },
+            {
+                "Name": "Fury",
+                "Description": "For the next minute, all melee attacks you make inflict 2 additional points of damage. Action to initiate.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
+                "Name": "Inner Defense",
+                "Description": "You are trained in any task to resist the ability of another to discern your true feelings, beliefs, or plans. You are likewise trained in resisting torture, telepathic intrusion, and mind control. Enabler.",
                 "Pool": "",
                 "Cost": ""
             }
@@ -350,96 +314,72 @@
     "Tier 4": {
         "auto": [
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Skill With Attacks",
+                "Description": "Choose one type of attack in which you are not already trained: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. You are trained in attacks using that type of weapon. Enabler."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Fighting Moves",
+                "Description": "Choose one of the following fighting moves (or a move from a lower tier) to add to your repertoire. In addition, you can also replace one of your lower-tier fighting moves with a different fighting move from the same lower tier."
             }
         ],
         "option": [
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Amazing Effort",
+                "Description": "When you apply at least one level of Effort to a non-combat task, you get a free level of Effort on that task. When you choose this fighting move, decide if this ability applies to Might Effort or Speed Effort. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Capable Warrior",
+                "Description": "Your attacks deal 1 additional point of damage. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Experienced Defender",
+                "Description": "When wearing armor, you gain +1 to Armor. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Minor to Major",
+                "Description": "You treat rolls of natural 19 as rolls of natural 20 for Might attack rolls or Speed attack rolls (your choice when you gain this ability). This allows you to gain a major effect on a natural 19 or 20. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Feint",
+                "Description": "If you spend one action creating a misdirection or diversion, in the next round you can take advantage of your opponent’s lowered defenses. Make a melee attack roll against that opponent. You gain an asset on this attack. If your attack is successful, it inflicts 4 additional points of damage. Action.",
+                "Pool": "Speed",
+                "Cost": "2"
+            },
+            {
+                "Name": "Snipe",
+                "Description": "If you spend one action aiming, in the next round you can make a precise ranged attack. You gain an asset on this attack. If your attack is successful, it inflicts 4 additional points of damage. Action.",
+                "Pool": "Speed",
+                "Cost": "2"
+            },
+            {
+                "Name": "Hardy",
+                "Description": "You are utterly immune to disease and poison. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Momentum",
+                "Description": "If you use an action to move, your next attack made using a melee weapon before the end of the next round inflicts 4 additional points of damage. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Precise Strike",
+                "Description": "When you attack using a weapon, your attack is eased, and the damage is reduced by 3 points (minimum 0 points). Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
+                "Name": "Persistence",
+                "Description": "If you take the same action for three rounds in a row, on the third round (and every consecutive round thereafter), the difficulty is reduced by one step. Actions might include bashing a door, swimming across a raging river, or attacking the same foe. Enabler.",
                 "Pool": "",
                 "Cost": ""
             }
@@ -448,196 +388,146 @@
     "Tier 5": {
         "auto": [
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Adept Cypher Use",
+                "Description": "You can bear four cyphers at a time."
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Mastery With Attack",
+                "Description": "Choose one type of attack in which you are trained: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. You are specialized in attacks using that type of weapon. Enabler. (In place of this ability, you may instead select Skill With Attacks to become trained in one type of attack.)"
+            },
+            {
+                "Name": "Fighting Moves",
+                "Description": "Choose one of the following fighting moves (or a move from a lower tier) to add to your repertoire. In addition, you can also replace one of your lower-tier fighting moves with a different fighting move from the same lower tier."
             }
         ],
         "option": [
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Mastery in Armor",
+                "Description": "The cost reduction from your Trained in Armor ability improves. You now reduce the Speed Effort cost for wearing armor by an additional 1. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Arc Spray",
+                "Description": "If a weapon has the ability to fire rapid shots without reloading (usually called a rapid-fire weapon, such as a crank crossbow), you can fire your weapon at up to three targets (all next to one another) at once. Make a separate attack roll against each target. Each attack is hindered. Action.",
+                "Pool": "Speed",
+                "Cost": "3"
+            },
+            {
+                "Name": "Battlefield Tactician",
+                "Description": "You scrutinize your surroundings, learning whatever facts the GM feels are pertinent about attacking, defending, maneuvering, and dealing with environmental hazards within a short distance. For example, you might notice a pile of rubble you can stand on for an advantage in melee, a sheltered corner to help protect against enemy attacks, a less-slippery part of a frozen lake, or a place where the poison gas is thinner than elsewhere. If you (or someone you tell) move to that location, you (or the person told) gain an asset on tasks related to that optimal position (such as attack rolls from the high ground, Speed defense rolls from the sheltered corner, balance rolls on the frozen lake, or Might defense rolls against the poisonous cloud). Instead of gaining an advantageous location, you might learn a disadvantageous location that you could use against your enemies, such as maneuvering them into an awkward corner that hinders their melee attacks or a weak spot on the frozen lake that will break if they stand on it. You can apply Effort to learn one additional good or bad location within range (one location per level of Effort), increase the range of this ability (another short distance per level of Effort), or both. Enabler.",
+                "Pool": "Intellect",
+                "Cost": "2+"
+            },
+            {
+                "Name": "Jump Attack",
+                "Description": "You attempt a difficulty 4 Might roll to jump high into the air as part of your melee attack action. If you succeed at the jump and your attack hits, you inflict 3 additional points of damage and knock the foe prone. If you fail at the jump, you still make your normal attack roll, but you don’t inflict the extra damage or knock down the opponent if you hit. In addition to the normal options for using Effort, you can choose to use Effort to enhance your jump; each level of Effort used in this way adds +2 feet to the height and +1 damage to the attack. Action.",
+                "Pool": "Might",
+                "Cost": "5"
+            },
+            {
+                "Name": "Mastery With Defense",
+                "Description": "Choose one type of defense task in which you are trained: Might, Speed, or Intellect. You are specialized in defense tasks of that type. Unlike most fighting moves, you can select this move up to three times. Each time you select it, you must choose a different type of defense task. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Inverse Attrition",
+                "Description": "In every round of combat after the first, you gain a +1 bonus to damage. This bonus increases every other round. So on the second and third rounds, you inflict 1 additional point of damage. On the fourth and fifth rounds, you inflict 2 additional points of damage. You must be a participant in the combat, and you must be fully aware and take an action in a round for it to count toward an increase in damage. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
+                "Name": "Improved Success",
+                "Description": "When you roll a 17 or higher on an attack roll that deals damage, you deal 1 additional point of damage. For instance, if you roll a natural 18, which normally deals 2 extra points of damage, you deal 3 extra points instead. If you roll a natural 20 and choose to deal damage instead of achieve a special major effect, you deal 5 extra points of damage. Enabler.",
                 "Pool": "",
                 "Cost": ""
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Press",
+                "Description": "You drive a foe back from your companions. Make an attack with a melee weapon. In addition to inflicting damage, both you and the target move a short distance together so you remain within immediate range of each other. Action.",
+                "Pool": "Might",
+                "Cost": "6"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Riposte",
+                "Description": "When you succeed on a Speed defense roll against an attack from a creature within immediate range, you can immediately make an attack on that creature, or you can gain an asset for the next attack you make on it before the end of the next round. Enabler.",
+                "Pool": "Speed",
+                "Cost": "6"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Parry",
+                "Description": "You can deflect incoming attacks quickly. When you activate this move, for the next minute you ease all Speed defense rolls. Enabler.",
+                "Pool": "Speed",
+                "Cost": "5"
             }
         ]
     },
     "Tier 6": {
         "auto": [
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Mastery With Attacks",
+                "Description": "Choose one type of attack in which you are trained: light bashing, light bladed, light ranged, medium bashing, medium bladed, medium ranged, heavy bashing, heavy bladed, or heavy ranged. You are specialized in attacks using that type of weapon. Enabler. (In place of this ability, you may instead select Skill With Attacks to become trained in one type of attack.)"
             },
             {
-                "Name": "",
-                "Description": ""
+                "Name": "Rampaging Beast Horde",
+                "Description": "You can take community actions with a horde or a community as if you were a rank 3 rampaging beast horde for one hour. You can spend a few rounds or minutes here and there taking character actions if something requires attention and still retain your horde status. For each allied PC that joins you and remains with you during this period who also spends 12 points from one of their Pools, you can extend the duration by one hour. Each point of damage you take while being treated as a rampaging beast horde is deducted from your Might Pool, or if you have allied PCs helping, the damage is split up and deducted from all your Might Pools evenly. Action to initiate.",
+                "Pool": "Might",
+                "Cost": "12"
+            },
+            {
+                "Name": "Fighting Moves",
+                "Description": "Choose one of the following fighting moves (or a move from a lower tier) to add to your repertoire. In addition, you can also replace one of your lower-tier fighting moves with a different fighting move from the same lower tier."
             }
         ],
         "option": [
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Again and Again",
+                "Description": "You can take an additional action in a round in which you have already acted. Enabler.",
+                "Pool": "Speed",
+                "Cost": "8"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Finishing Blow",
+                "Description": "If your foe is prone, stunned, or somehow helpless or incapacitated when you strike, you inflict 7 additional points of damage on a successful hit. Enabler.",
+                "Pool": "Might",
+                "Cost": "5"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Slayer",
+                "Description": "When you successfully strike an NPC or creature of level 5 or lower, make another roll (using whichever stat you used to attack). If you succeed on the second roll, you kill the target outright. If you use this fighting move against a PC of any tier and you succeed on the second roll, the character moves down one step on the damage track. Enabler.",
+                "Pool": "Might",
+                "Cost": "3"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Spin Attack",
+                "Description": "You stand still and make attacks against up to five foes, all as part of the same action in one round. All of the attacks have to be the same sort of attack (melee or ranged). Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all of these attacks. In addition to the normal options for using Effort, you can choose to use Effort to increase the number of foes you can attack with this ability (one additional foe per level of Effort used in this way). Action.",
+                "Pool": "Speed",
+                "Cost": "5"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Combat Trance",
+                "Description": "You empty your mind of all distractions to let your instincts take over. For one minute, you can take two actions each round, but only one of those actions can be an attack. Action to initiate.",
+                "Pool": "Might",
+                "Cost": "7"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Run Through Walls",
+                "Description": "When you use an action to move and you move up to an obstacle, you can make a Might roll. The GM sets the difficulty based on the material from which the object is made. If you succeed, you smash through the obstacle and leave behind a hole large enough for others to move through. Enabler.",
+                "Pool": "Might",
+                "Cost": "6"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Spring Away",
+                "Description": "Whenever you succeed on a Speed defense roll, you can immediately move up to a short distance. You cannot use this ability more than once in a given round. Enabler.",
+                "Pool": "Speed",
+                "Cost": "5"
             },
             {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
-            },
-            {
-                "Name": "",
-                "Description": "",
-                "Pool": "",
-                "Cost": ""
+                "Name": "Shooting Gallery",
+                "Description": "You stand still and make ranged attacks against up to five foes within range, all as part of the same action in one round. Make a separate attack roll for each foe. You remain limited by the amount of Effort you can apply on one action. Anything that modifies your attack or damage applies to all of these attacks. Action.",
+                "Pool": "Speed",
+                "Cost": "5"
             }
         ]
     }
