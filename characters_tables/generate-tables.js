@@ -69,20 +69,7 @@ function addRowFromElement(tableSelector, elem, columns) {
                 for (let i = 0; i < curProp.length; i++) {
                     if (i != 0) trValue += "<br><br>";
                     let curElem = curProp[i];
-                    if (curElem.Name) {
-                        trValue += "<b>" + curElem.Name;
-                        if (curElem.Pool && curElem.Cost 
-                            && curElem.Pool.length > 0 && curElem.Cost.length > 0) {
-                            trValue += " (" + curElem.Cost + " " + curElem.Pool + " ";
-                            if (curElem.Cost == "1")
-                                trValue += "point";
-                            else
-                                trValue += "points";
-                            trValue += ")";
-                        }
-                        trValue += ":</b> ";
-                    }
-                    trValue += curElem.Description;
+                    trValue += getSingleAbility(curElem);
                 }
             } else {
                 trValue = curProp;
@@ -93,6 +80,25 @@ function addRowFromElement(tableSelector, elem, columns) {
     }
 
     $(tableSelector).append(row$);
+}
+
+function getSingleAbility(curElem) {
+    let singleAbility = "";
+    if (curElem.Name) {
+        singleAbility += "<b>" + curElem.Name;
+        if (curElem.Pool && curElem.Cost
+            && curElem.Pool.length > 0 && curElem.Cost.length > 0) {
+            singleAbility += " (" + curElem.Cost + " " + curElem.Pool + " ";
+            if (curElem.Cost == "1")
+                singleAbility += "point";
+            else
+                singleAbility += "points";
+            singleAbility += ")";
+        }
+        singleAbility += ":</b> ";
+    }
+    singleAbility += curElem.Description;
+    return singleAbility;
 }
 
 function setTableStylesForDescriptors() {
