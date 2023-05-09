@@ -11,17 +11,13 @@
     ],
     "Skills": [
       {
-        "Name": "",
-        "Description": ""
-      },
-      {
-        "Name": "",
+        "Name": "Skill",
         "Description": ""
       }
     ],
     "Inabilities": [
       {
-        "Name": "",
+        "Name": "Inability",
         "Description": ""
       }
     ],
