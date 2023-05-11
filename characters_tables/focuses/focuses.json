@@ -5122,7 +5122,7 @@
     "Tier 1": [
       {
         "Name": "Healing Touch",
-        "Description": "With a touch, you restore id6 points to one stat Pool of any creature. This ability is a difficulty 2 Intellect task. Each time you attempt to heal the same creature, the task difficulty increases by one step. The difficulty returns to 2 after that creature rests for ten hours. Action.",
+        "Description": "With a touch, you restore 1d6 points to one stat Pool of any creature. This ability is a difficulty 2 Intellect task. Each time you attempt to heal the same creature, the task difficulty increases by one step. The difficulty returns to 2 after that creature rests for ten hours. Action.",
         "Pool": "Intellect",
         "Cost": "1"
       }
@@ -5138,7 +5138,7 @@
     "Tier 3 (choose one)": [
       {
         "Name": "Font of Healing",
-        "Description": "With your approval, other creatures can touch you and regain id6 points to either their Might Pool or their Speed Pool. This healing costs them 2 Intellect points. A single creature can benefit from this ability only once each day. Enabler."
+        "Description": "With your approval, other creatures can touch you and regain 1d6 points to either their Might Pool or their Speed Pool. This healing costs them 2 Intellect points. A single creature can benefit from this ability only once each day. Enabler."
       },
       {
         "Name": "Miraculous Health",
