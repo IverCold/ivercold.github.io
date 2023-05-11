@@ -982,7 +982,7 @@
     "Tier 1": [
       {
         "Name": "Beast Companion",
-        "Description": "A level 2 creature of your size or smaller accompanies you and follows your instructions. You and the GM must work out the details of your creature, and you’ll probably make rolls for it in combat or when it takes actions. The beast companion acts on your turn. As a level 2 creature, it has a target number of 6 and 6 health and it inflicts 2 points of damage. Its movement is based on its creature type (avian, swimmer, and so on). If your beast companion dies, you can hunt in the wild for id6 days to find a new companion. Enabler."
+        "Description": "A level 2 creature of your size or smaller accompanies you and follows your instructions. You and the GM must work out the details of your creature, and you’ll probably make rolls for it in combat or when it takes actions. The beast companion acts on your turn. As a level 2 creature, it has a target number of 6 and 6 health and it inflicts 2 points of damage. Its movement is based on its creature type (avian, swimmer, and so on). If your beast companion dies, you can hunt in the wild for 1d6 days to find a new companion. Enabler."
       }
     ],
     "Tier 2": [
@@ -2498,7 +2498,7 @@
       },
       {
         "Name": "Reboot",
-        "Description": "In addition to your normal recovery rolls each day, you can at any time between ten-hour rests recover id6 + 10 points to your Intellect Pool. Action."
+        "Description": "In addition to your normal recovery rolls each day, you can at any time between ten-hour rests recover 1d6 + 10 points to your Intellect Pool. Action."
       }
     ]
   },
@@ -3109,7 +3109,7 @@
       },
       {
         "Name": "Wilderness Encouragement",
-        "Description": "While in the wilderness, or when talking about your time in the wilderness, your stirring words of encouragement grant a target within short range that can understand you id6 points to one Pool. You can’t use this ability on the same creature again until they’ve made a recovery roll. Action.",
+        "Description": "While in the wilderness, or when talking about your time in the wilderness, your stirring words of encouragement grant a target within short range that can understand you 1d6 points to one Pool. You can’t use this ability on the same creature again until they’ve made a recovery roll. Action.",
         "Pool": "Intellect",
         "Cost": "3"
       }
@@ -3680,7 +3680,7 @@
     "Tier 5": [
       {
         "Name": "Not Dead Yet",
-        "Description": "When you would normally be dead, you instead fall unconscious for one round and then awaken. You immediately gain id6 + 6 points to restore your stat Pools, and you are treated as if debilitated (which for you is like impaired, thanks to your Ignore the Pain ability) until you rest for ten hours. If you die again before you take your ten-hour recovery roll, you are truly dead. If you also have the Not Dead Yet ability granted by your type, your healing from this ability increases to id6 + 12. Enabler."
+        "Description": "When you would normally be dead, you instead fall unconscious for one round and then awaken. You immediately gain 1d6 + 6 points to restore your stat Pools, and you are treated as if debilitated (which for you is like impaired, thanks to your Ignore the Pain ability) until you rest for ten hours. If you die again before you take your ten-hour recovery roll, you are truly dead. If you also have the Not Dead Yet ability granted by your type, your healing from this ability increases to 1d6 + 12. Enabler."
       }
     ],
     "Tier 6": [
@@ -4808,7 +4808,7 @@
       },
       {
         "Name": "Ice Creation",
-        "Description": "You create a solid object of ice that is your size or smaller. The object is crude and can have no moving parts, so you can make a sword, a shield, a short ladder, and so on. Your ice objects are as strong as iron, but if you’re not in constant contact with them, they function for only id6 + 6 rounds before breaking or melting. For example, you can make and wield an ice sword, but if you give it to another PC, the sword won’t last as long for that character. In addition to the normal options for using Effort, you can choose to use Effort to create objects larger than you. For each level of Effort used in this way, you can create an object up to twice again as large as you. Action.",
+        "Description": "You create a solid object of ice that is your size or smaller. The object is crude and can have no moving parts, so you can make a sword, a shield, a short ladder, and so on. Your ice objects are as strong as iron, but if you’re not in constant contact with them, they function for only 1d6 + 6 rounds before breaking or melting. For example, you can make and wield an ice sword, but if you give it to another PC, the sword won’t last as long for that character. In addition to the normal options for using Effort, you can choose to use Effort to create objects larger than you. For each level of Effort used in this way, you can create an object up to twice again as large as you. Action.",
         "Pool": "Intellect",
         "Cost": "4+"
       }
