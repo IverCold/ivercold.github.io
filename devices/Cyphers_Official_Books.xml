@@ -5797,4 +5797,26 @@
     <Effect>Over the course of thirty hours, a volcanic dome grows beneath the point on the ground where the cypher is activated, which likely destroys most structures in the area over time. When finished growing, the upthrust area is 6 miles (10 km) across at its base and has an elevation of 4,000 feet (1,200 m). When the growth phase ends, the dome erupts as a volcano for ten hours, threatening to destroy an additional area up to 5 miles (8 km) in radius around the base. A volcano cypher should be made available to PCs only if the GM is willing to end the current campaign or update it in potentially significant ways.</Effect>
     <Source>Extreme Cyphers</Source>
   </Cypher>
+  <Cypher>
+    <Name>Alertness Stimulant</Name>
+    <Level>1d6</Level>
+    <Effect>When activated with a firm tap, it keeps you awake and alert for three days, negating your need for sleep. You can still choose to sleep while affected by this cypher. You gain asset on all rolls to resist being forced to sleep or rendered unconscious (such as from mental attacks or drugs). After the cypher’s effect ends, you become exhausted - all skill checks are hindered. Each full night of sleep after the cypher ends reduces your exhaustion by one level.</Effect>
+    <Usable>This unrecognizable pattern can be applied to your skin like a tattoo and removed again.</Usable>
+    <Source>Arcana of the Ancients</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Arm Bifurcator</Name>
+    <Level>1d6</Level>
+    <Effect>When you swallow the pill, your forearms split lengthwise from your elbow through the hand, such that two of your limbs become four. The divided limbs are complete (including thumbs) and function just like your original ones, although your actions with the divided limbs are hindered until you spend a few minutes practicing with them. You can gain asset on some tasks determined by GM in suitable situations. The hands can hold objects, wield weapons, hold a shield, and so on. You gain no additional actions from this. (although the GM may allow you to do additional things that aren’t actions, such as writing, giving hand signals, carrying something, and so on). The cypher lasts for hours equal to its level, after which your extra forearms and hands turn to dust.</Effect>
+    <Internal>This gelatinous pill has a hard outer surface and a blue liquid interior.</Internal>
+    <Source>Arcana of the Ancients</Source>
+  </Cypher>
+  <Cypher>
+    <Name>Astute Weapon Nodule</Name>
+    <Level>1d6</Level>
+    <Effect>This device of crystal and synth must be attached to a weapon to function; applying the nodule takes an action. The affected weapon then becomes a sentient item for the next day, with a personality and outlook similar to yours. It can speak, read, and understand one language in common with you, has hearing and normal vision out to long range. It can fly at a speed of immediate distance. It helps you in combat by moving itself toward your opponent’s vital spots, giving you asset on attack rolls while wielding it. If the astute weapon’s bearer has the ability to select an equal level follower, the GM may allow the character to select the weapon as a follower, in which case the weapon’s intelligence is permanent and it may have specific knowledge to be revealed later.</Effect>
+    <Usable>Crystal nodule affixed to a melee weapon</Usable>
+    <Source>Arcana of the Ancients</Source>
+  </Cypher>
+  
 </NumeneraDevices>

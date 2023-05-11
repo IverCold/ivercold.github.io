@@ -3,10 +3,10 @@
   <Artefact>
     <Name>Amber Casement</Name>
     <Level>1d6 + 4</Level>
-    <Effect>When activated, it solidifes the air in a 10-foot (3 m) cube of space, the center of which must be within short range of the device. The air is turned into an amberlike substance, and those trapped in it will likely suffocate or starve.</Effect>
+    <Effect>When activated, it solidifes the air in a 10-foot (3 m) cube of space, the center of which must be within short range of the device. The air is turned into an amberlike substance, and those trapped in it will likely suffocate or starve. Creatures can make Speed check to not be caught.</Effect>
     <Source>Discovery</Source>
     <Form>Series of short, rounded tubes and hoses about 12 inches (30 cm) long</Form>
-    <Depletion>1–4 in 1d6</Depletion>
+    <Depletion>Automatic</Depletion>
   </Artefact>
   <Artefact>
     <Name>Amulet Of Safety</Name>
@@ -35,10 +35,10 @@
   <Artefact>
     <Name>Automated Cook</Name>
     <Level>1d6</Level>
-    <Effect>This automaton prepares food on command. It must be given raw materials (water and organic compounds), but with those it can prepare and serve a hot, nutritious, delicious meal.</Effect>
+    <Effect>This automaton prepares food on command. It must be given raw materials (water and organic compounds), but with those it can prepare and serve a hot, nutritious, delicious meal. The amount of food is approximately equal to the amount of materials it is given (approximately 1 pound of materials are needed to create a meal for one person).</Effect>
     <Source>Discovery</Source>
     <Form>Small metal and synth cube that has metallic arms and tools</Form>
-    <Depletion>1 in 1d100</Depletion>
+    <Depletion>1 in 1d100 (per day of use)</Depletion>
   </Artefact>
   <Artefact>
     <Name>Battle Armor</Name>
@@ -2723,5 +2723,13 @@
     <Source>Compendium</Source>
     <Form>Glass panel</Form>
     <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+  <Artefact>
+    <Name>Synchronization Amulet</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>When the amulet is touched to a numenera weapon (such as a cypher, relic, or iron flesh) and activated as an action, the weapon becomes synchronized with the amulet and cannot be activated to harm the amulet’s wearer. For example, if you’re wearing the amulet, a synchronized ray emitter won’t fire at you, a synchronized detonation cypher won’t explode if you would be affected, and so on. The amulet can only be synchronized to one weapon at a time, and only to weapons that have level equal to or less than the amulet itself.</Effect>
+    <Source>Arcana of the Ancients</Source>
+    <Form>This plain metallic disc hangs from a metal chain.</Form>
+    <Depletion>-</Depletion>
   </Artefact>
 </NumeneraDevices>

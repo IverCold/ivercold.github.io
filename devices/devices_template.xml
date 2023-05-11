@@ -1,0 +1,18 @@
+  <Artefact>
+    <Name></Name>
+    <Level>1d6 + 4</Level>
+    <Effect></Effect>
+    <Source>Arcana of the Ancients</Source>
+    <Form></Form>
+    <Depletion>1 in 1d6</Depletion>
+  </Artefact>
+
+  <Cypher>
+    <Name></Name>
+    <Level>1d6</Level>
+    <Effect></Effect>
+    <Wearable></Wearable>
+    <Usable></Usable>
+    <Internal></Internal>
+    <Source>Arcana of the Ancients</Source>
+  </Cypher>
