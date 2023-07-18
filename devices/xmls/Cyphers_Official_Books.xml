@@ -1780,7 +1780,11 @@
       </Row>
       <Row>
         <Roll>51–75</Roll>
-        <Result>Nanowires create greater flexibility in the material. Gain a +2 bonus to Speed defense rolls for 28 hours. 76–00 Nanowires create a tough outer coating to the material. Gain a +2 bonus to Might defense rolls for 28 hours.</Result>
+        <Result>Nanowires create greater flexibility in the material. Gain a +2 bonus to Speed defense rolls for 28 hours.</Result>
+      </Row>
+      <Row>
+         <Roll>76–00</Roll>
+         <Result>Nanowires create a tough outer coating to the material. Gain a +2 bonus to Might defense rolls for 28 hours.</Result>
       </Row>
     </RollTable>
     <Source>Compendium</Source>

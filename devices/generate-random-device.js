@@ -1,17 +1,15 @@
-const pathToOddities = "Oddities_Official_Books.xml";
-const pathToCyphers = "Cyphers_Official_Books.xml";
-const pathToArtefacts = "Artefacts_Official_Books.xml";
+const pathToCyphers = "Cyphers_Official_Books.json";
+const pathToArtefacts = "Artefacts_Official_Books.json";
+const pathToOddities = "Oddities_Official_Books.json";
 
-let odditiesXml;
-let cyphersXml;
-let artefactsXml;
-
-
+let cyphersJson;
+let artefactsJson;
+let odditiesJson;
 
 $(document).ready(function () {
-    loadDevicesXmlSync(pathToOddities, loadOdditiesXml);
-    loadDevicesXmlSync(pathToCyphers, loadCyphersXml);
-    loadDevicesXmlSync(pathToArtefacts, loadArtefactsXml);
+    loadDevicesJsonSync(pathToOddities, loadOddities);
+    loadDevicesJsonSync(pathToCyphers, loadCyphers);
+    loadDevicesJsonSync(pathToArtefacts, loadArtefacts);
 
     $("#generate_oddity").click(function () {
         generateRandomOddity();
@@ -28,84 +26,83 @@ $(document).ready(function () {
 });
 
 // abstract function
-function loadDevicesXmlSync(pathToXML, loadingFunction) {
+function loadDevicesJsonSync(pathToXML, loadingFunction) {
     $.get({
         url: pathToXML,
         type: "get",
         async: false,
-        dataType: 'xml',
+        dataType: 'json',
         success: function (data) {
             loadingFunction(data);
         }
     });
 }
 
-
-
-function loadOdditiesXml(xmlData) {
-    odditiesXml = xmlData;
+function loadOddities(data) {
+    odditiesJson = data;
 }
 
-function loadCyphersXml(xmlData) {
-    cyphersXml = xmlData;
+function loadCyphers(data) {
+    cyphersJson = data;
 }
 
-function loadArtefactsXml(xmlData) {
-    artefactsXml = xmlData;
+function loadArtefacts(data) {
+    artefactsJson = data;
 }
 
 
 
 function generateRandomCypher() {
-    let randomDevice = getRandomDevice(cyphersXml, 'Cypher');
+    let randomDevice = getRandomDevice(cyphersJson);
 
     let html = "<div class=\"device-block\">";
-    html += encloseDeviceProperty(randomDevice, 'Name');
+    html += encloseDeviceProperty("Name", randomDevice.Name);
+
     html += combineLevelProperty(randomDevice);
 
-    html += encloseDeviceProperty(randomDevice, 'Usable');
-    html += encloseDeviceProperty(randomDevice, 'Wearable');
-    html += encloseDeviceProperty(randomDevice, 'Internal');
+    html += encloseDeviceProperty("Usable", randomDevice.Usable);
+    html += encloseDeviceProperty("Wearable", randomDevice.Wearable);
+    html += encloseDeviceProperty("Internal", randomDevice.Internal);
 
-    html += encloseDeviceProperty(randomDevice, 'Effect');
-    if (randomDevice.find('RollTable').length)
+    html += encloseDeviceProperty("Effect", randomDevice.Effect);
+    if (randomDevice.RollTable != null)
         html += makeRollTable(randomDevice);
     
-        html += encloseDeviceProperty(randomDevice, 'Source');
+    html += encloseDeviceProperty("Source", randomDevice.Source);
     html += "</div>";
     $("#generated-items").prepend(html);
 }
 
 function generateRandomArtefact() {
-    let randomDevice = getRandomDevice(artefactsXml, 'Artefact');
+    let randomDevice = getRandomDevice(artefactsJson);
 
     let html = "<div class=\"device-block\">";
-    html += encloseDeviceProperty(randomDevice, 'Name');
-    html += encloseDeviceProperty(randomDevice, 'Form');
+    html += encloseDeviceProperty("Name", randomDevice.Name);
+    html += encloseDeviceProperty("Form", randomDevice.Form);
     html += combineLevelProperty(randomDevice);
 
-    html += encloseDeviceProperty(randomDevice, 'Effect');
-    if (randomDevice.find('RollTable').length)
+    html += encloseDeviceProperty("Effect", randomDevice.Effect);
+    if (randomDevice.RollTable != null)
         html += makeRollTable(randomDevice);
 
-    html += encloseDeviceProperty(randomDevice, 'Depletion');
-    html += encloseDeviceProperty(randomDevice, 'Source');
+    html += encloseDeviceProperty("Depletion", randomDevice.Depletion);
+    html += encloseDeviceProperty("Source", randomDevice.Source);
     html += "</div>";
     $("#generated-items").prepend(html);
 }
 
 function generateRandomOddity() {
-    let randomDevice = getRandomDevice(odditiesXml, 'Oddity');
+    let randomDevice = getRandomDevice(odditiesJson);
 
     let html = "<div class=\"device-block\">";
-    html += encloseDeviceProperty(randomDevice, 'Description');
-    html += encloseDeviceProperty(randomDevice, 'Source');
+    html += encloseDeviceProperty("Description", randomDevice.Description);
+    html += encloseDeviceProperty("Source", randomDevice.Source);
     html += "</div>";
     $("#generated-items").prepend(html);
 }
 
 function combineLevelProperty(randomDevice){
-    let levelFormula = randomDevice.find('Level').text();
+    let levelFormula = randomDevice.Level;
 
     if (levelFormula.indexOf("d") == -1)
         return `<div><b>Level:</b> ${levelFormula}</div>`;
@@ -131,25 +128,21 @@ function combineLevelProperty(randomDevice){
     return `<div><b>Level:</b> ${getRandomInt(baseDice) + 1 + term} [${levelFormula}]</div>`;
 }
 
-function getRandomDevice(xmlData, deviceTypeName) {
-    var count = $(xmlData).find(deviceTypeName).length;
-    var index = getRandomInt(count);
-
-    var randomDevice = $(xmlData).find(deviceTypeName).eq(index);
-    return randomDevice;
+function getRandomDevice(jsonData) {
+    var index = getRandomInt(jsonData.length);
+    return jsonData[index];
 }
 
-function encloseDeviceProperty(deviceXml, propertyName) {
-    let text = deviceXml.find(propertyName).text();
-    let result = `<div><b>${propertyName}:</b> ${text}</div>`;
-    return result;
+function encloseDeviceProperty(name, value) {
+    if (value == null || value == "") return "";
+    else return `<div><b>${name}:</b> ${value}</div>`;
 }
 
-function makeRollTable(xmlElement) {
+function makeRollTable(randomDevice) {
     let resultList = '<b>RollTable</b>:'
     resultList += '<ul>';
-    xmlElement.find('RollTable').find('Row').each(function () {
-        resultList += '<li>' + $(this).find('Roll').text() + ': ' + $(this).find('Result').text() + '</li>';
+    randomDevice.RollTable.RollTableRows.forEach(function(element) {
+        resultList += '<li>' + element.Roll + ': ' + element.Result + '</li>';
     });
     resultList += '</ul>';
     return resultList;

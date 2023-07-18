@@ -2725,6 +2725,14 @@
     <Depletion>1 in 1d6</Depletion>
   </Artefact>
   <Artefact>
+    <Name>Crystallization Beam</Name>
+    <Level>1d6 + 2</Level>
+    <Effect>Handheld device that projects a ray inflicting damage equal to the artifact level. Wounds transform living flesh to crystal, which then shatters on the next round, inflicting the same amount of damage again.</Effect>
+    <Source>Compendium Extra</Source>
+    <Form>Handheld Device</Form>
+    <Depletion>1 in 1d10</Depletion>
+  </Artefact>
+  <Artefact>
     <Name>Synchronization Amulet</Name>
     <Level>1d6 + 2</Level>
     <Effect>When the amulet is touched to a numenera weapon (such as a cypher, relic, or iron flesh) and activated as an action, the weapon becomes synchronized with the amulet and cannot be activated to harm the amulet’s wearer. For example, if you’re wearing the amulet, a synchronized ray emitter won’t fire at you, a synchronized detonation cypher won’t explode if you would be affected, and so on. The amulet can only be synchronized to one weapon at a time, and only to weapons that have level equal to or less than the amulet itself.</Effect>
