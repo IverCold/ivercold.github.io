@@ -2760,7 +2760,7 @@
     "Name": "Crystallization Beam",
     "Level": "1d6 + 2",
     "Effect": "Handheld device that projects a ray inflicting damage equal to the artifact level. Wounds transform living flesh to crystal, which then shatters on the next round, inflicting the same amount of damage again.",
-    "Source": "Compendium Extra"
+    "Source": "Compendium"
   },
   {
     "Form": "This plain metallic disc hangs from a metal chain.",
@@ -2769,5 +2769,598 @@
     "Level": "1d6 + 2",
     "Effect": "When the amulet is touched to a numenera weapon (such as a cypher, relic, or iron flesh) and activated as an action, the weapon becomes synchronized with the amulet and cannot be activated to harm the amulet’s wearer. For example, if you’re wearing the amulet, a synchronized ray emitter won’t fire at you, a synchronized detonation cypher won’t explode if you would be affected, and so on. The amulet can only be synchronized to one weapon at a time, and only to weapons that have level equal to or less than the amulet itself.",
     "Source": "Arcana of the Ancients"
+  },
+  {
+    "Form": "Artificial eye made of glass, metal, crystal, or synth",
+    "Depletion": "1 in 1d6 (check each month)",
+    "Name": "Aggression Eye",
+    "Level": "1d6",
+    "Effect": "To use this device, the user must press it into an empty eye socket and hold it there for at least one minute while filaments plug into the user’s brain. Once the eye is properly installed, the user can see through it as if it were a normal eye. The eye automatically scans each creature within immediate range (short range if the artifact is level 5 or higher) and provides targeting suggestions based on the creature’s vulnerabilities and injuries, easing attacks against them. Because the eye is constantly feeding the user information about potential threats and ways to attack everyone it sees, pleasant social interactions are hindered for the user. Removing the eye takes an action and moves the user one step down the damage track.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Metal or synth canister with a long tube",
+    "Depletion": "1 in 1d20 per hour of use in default mode (burst mode counts as an hour of use in default mode)",
+    "Name": "Bread Sprayer",
+    "Level": "1d6",
+    "Effect": "This device has two modes of operation. The default mode dispenses a hand-width cylinder of brown dough-like material, up to 10 feet (3 m) each round per artifact level, which cooks itself into a bland sort of hard-crusted bread after about one minute. By building up multiple layers, the user can create larger structures such as walls and doorways, but it is still just hard bread (a level 1 material). The bread is filling and nutritious as bread goes, but not something a human could live on for an extended period. When operated in burst mode, the tube dispenses a high-volume slurry of the dough in an immediate area, which instantly flash-bakes itself into hard bread, inflicting heat damage equal to the artifact level and trapping things inside a thick mass of level 2 bread. Unlike a web detonation cypher, the material created by this artifact is permanent, but (like regular bread) it might be eaten by animals, softened by water or other liquids, and so on.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Oversized boots connected by wires up to a belt with a metal box attached with dial controls",
+    "Depletion": "1 in 1d20 (check each hour of use)",
+    "Name": "Burrowing Boots",
+    "Level": "1d6 + 1",
+    "Effect": "The wearer can descend into the ground or back up to the surface at a rate of 20 feet (6 m) per round, as long as the level of the material through which they are passing is equal to or less than the artifact’s level. Using the complex controls, the wearer can either leave behind a narrow, smooth-sided tunnel, or leave no tunnel at all as the material closes up again behind them. The boots do not allow the user to move through empty air, so if the wearer breaks into a pocket or other open space, they might fall. By default, the wearer moves straight up or down, but the burrowing path can be adjusted up to 15 degrees from vertical.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Synth garment with many ports and plugs",
+    "Depletion": "1 in 1d6",
+    "Name": "Cypher Stabilizing Suit",
+    "Level": "1d6 + 1",
+    "Effect": "This artifact can be connected to up to four cyphers of its level or lower, using its built-in ports and weird connectors. If a connected cypher is activated, instead of the cypher being used up, it remains functional, but the artifact makes a depletion roll. (If the artifact depletes, the cypher is still usable.) Some cyphers (particularly pills and injections) cannot be connected to the suit or recharged in this way.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Organic pod, almost like a small, hemispherical bit of fruit. Once grafted to a host, it takes on the appearance of the host’s flesh.",
+    "Depletion": "Automatic",
+    "Name": "Evolution Bud",
+    "Level": "1d6 + 4",
+    "Effect": "The pod grafts onto any living host (usually near the brain or spine) and injects chemicals that cause the creature to develop a new mutation over the course of the next 28 hours. If the user later reproduces, their children also develop the ability after passing through adolescence. Each bud provides a specific mutation, usually a beneficial mutation.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Metallic rods hinged to resemble human frame",
+    "Depletion": "1 in 1d20",
+    "Name": "External Skeleton",
+    "Level": "1d6 +1",
+    "Effect": "Wearer adds 2 to their Might Edge for one hour, but all Speed tasks are hindered for that period of time.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Lightweight synth helmet with crystal or glass lenses",
+    "Depletion": "1 in 1d20 (check each hour of use)",
+    "Name": "Extradimensional Viewer",
+    "Level": "1d6 + 2",
+    "Effect": "Creates a personal holographic environment (with images and sound) that shows everything in a nearby dimension out to short range (long range if the artifact is level 6 or higher). These images override what the user sees in their current dimension, making them effectively blind to anything not in the viewed dimension. The artifact includes a limited machine intelligence that automatically adjusts to view the most appropriate nearby dimension when there are multiple options (such as showing an otherspace structure rather than an empty parallel dimension), but it can be manually adjusted as an understanding numenera task.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Synth or glass stylus",
+    "Depletion": "1 in 1d20 (check each hour of use)",
+    "Name": "Flesh Ink Pen",
+    "Level": "1d6",
+    "Effect": "When used like a pencil, the artifact creates lines of thin living tissue on surfaces, which can be built up like a lattice to create three-dimensional structures. The pen can create one type of tissue per artifact level from the following list: epithelial (skin and internal linings), cartilage, bone, fat, nerve, and vascular. This tissue doesn’t provoke an immune response in most creatures, so the user could repair damaged tissue, craft a replacement blood vessel, and so on, either directly on a living subject or separately for later surgical attachment. The artifact is an asset for appropriate healing, surgery, and biological crafting tasks.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Adhesive patch that gently sticks to flesh, metal, and synth",
+    "Depletion": "1 in 1d20 (check each day of use)",
+    "Name": "Glowbrand",
+    "Level": "1d6",
+    "Effect": "This device illuminates everything in short range with soft light. Tapping it in a specific sequence turns it on or off. A different sequence of taps makes it shine bright enough to illuminate everything within long range for one hour, but this requires a depletion roll.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Pair of connected synth sleeves with ports and plugs",
+    "Depletion": "1 in 1d20",
+    "Name": "Interface Sleeves",
+    "Level": "1d6",
+    "Effect": "If the artifact is attached to a device, it gives helpful feedback (visual, auditory, and tactile) about using the device. This grants the wearer an asset on understanding numenera tasks to identify and operate the attached device.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Shirt-like garment made of overlapping synth scales",
+    "Depletion": "1 in 1d20",
+    "Name": "Lacewing Shirt",
+    "Level": "1d6 + 4",
+    "Effect": "When activated, the scales on the artifact expand into hundreds of lacy bright green wings, granting the user the ability to fly a long distance each round for a number of minutes equal to the artifact level. The user steers by adjusting the angle of their arms and cannot use their arms for anything else while flying or they’ll fall.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "When not affixed to a creature, this looks like a mass of heavy fabric. On a creature, it looks like heavy, leathery flesh.",
+    "Depletion": "1 in 1d100 (check each day of use)",
+    "Name": "Living Conceptualization Sheath",
+    "Level": "1d6 + 1",
+    "Effect": "When worn over normal skin, this organic material adheres and conforms to the creature’s body shape. The wearer is trained in Intellect defense tasks. Further, they add 2 to their Intellect Edge. However, they cannot wear armor over the living sheath because it’s too bulky.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Ball of black synth or container of black smart fluid",
+    "Depletion": "1 in 1d20 (check each minute of use)",
+    "Name": "Midnight Suit",
+    "Level": "1d6 + 1",
+    "Effect": "When activated, this suit surrounds the wearer in a skintight field of absolute blackness, darker than black paint or a cloudy night under a new moon. In dim light, the wearer is trained in stealth tasks. In very dim light or darkness, the wearer is specialized in stealth tasks. Because the user appears completely black (without any highlights), viewing them is slightly disorienting, and attacks against them are hindered. The field allows a small amount of light to reach the wearer’s eyes (otherwise they’d be blind), and at best the wearer can see as if in dim light. The wearer can make the suit create an immobile cloud of darkness in an immediate radius that lasts for one minute, but this requires a depletion roll. The cloud of darkness is enough to obscure bright lights brought into it, but very bright light sources (such as a miniaturized star or a portal to a dimension of light) are only slightly diminished.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Belt, shirt, harness, or full-body synth suit",
+    "Depletion": "-",
+    "Name": "Motion Stabilizer",
+    "Level": "1d6 + 2",
+    "Effect": "The artifact provides two assets to tasks resisting sudden and unwanted motion, such as falling or being knocked prone or pushed backward. It recognizes when the wearer is initiating these movements (including tumbling, running, swinging from ropes, and so on) and does not hamper these actions.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Arrow with a tiny metallic device attached to it",
+    "Depletion": "Automatic",
+    "Name": "Net Arrow",
+    "Level": "1d6",
+    "Effect": "The arrow releases a net of exceptionally strong fibers when it strikes something, entangling the target so it can’t move or physically act (and inflicting 1 point of damage instead of normal damage). The net works best on targets no larger than a human. Against larger targets, the attack is hindered by one or more steps.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Wristband or armband with a small metallic device attached",
+    "Depletion": "1 in 1d20",
+    "Name": "Reflective Shield",
+    "Level": "1d6 + 2",
+    "Effect": "When a physical projectile such as an arrow, a thrown knife, a slug from a slugspitter, or a similar projectile comes within 4 inches (10 cm) of the wearer’s body, a powerful energy field activates automatically and attempts to reverse the projectile’s course. This hinders the attack against the wearer. If the projectile misses, it returns along its course and attacks whatever made the attack. The wearer makes an unmodified attack against the original attacker (do not use any of the wearer’s or the original attacker’s modifications in this attack). On a hit, the attacker takes damage from the projectile.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Sword or similar bladed weapon with devices affixed to the blade and hilt",
+    "Depletion": "1 in 1d20 (check per target)",
+    "Name": "Repeating Blade",
+    "Level": "1d6 + 1",
+    "Effect": "This weapon functions as a normal dagger or sword (or, rarely, an axe or a cleaver). However, if the wielder successfully strikes a target with the blade, the weapon gains a spatial fix on the target. On subsequent rounds, attacks made with the weapon against that target are eased.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Subdermal implant",
+    "Depletion": "1 in 1d10 (check each use)",
+    "Name": "Retaliation Implant",
+    "Level": "1d6",
+    "Effect": "Anyone striking the implanted creature triggers a small burst of electricity that inflicts 1 point of damage (2 points if the artifact is level 4 or higher, or 3 points if the artifact is level 6 or higher). No action or roll is required by the implanted creature. If the artifact would deplete, the wearer can prevent that depletion by allowing the artifact to drain power from their body, hindering all actions for the next 28 hours.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Metal or synth canister with a long tube",
+    "Depletion": "1 in 1d20 per hour of use in default mode (burst mode counts as an hour of use in default mode)",
+    "Name": "Shapestone Sprayer",
+    "Level": "1d6",
+    "Effect": "This device has two modes of operation. The default mode dispenses a hand-width cylinder of grey dough-like material, up to 10 feet (3 m) long each round per artifact level, which hardens into shapestone after a minute. While soft, the dough can be sculpted or smoothed by hand or with tools, such as to patch a crack or create a simple relief sculpture. By building up multiple layers, the user can create larger structures such as walls and doorways. When operated in burst mode, the tube dispenses a high-volume slurry of the dough in an immediate area, which instantly hardens into shapestone, trapping things inside it. PCs caught in the area must use a Might-based action to get out, with the difficulty determined by the artifact level. NPCs break firee if their level is higher than the artifact level. Unlike a web detonation cypher, the material created by this artifact is permanent.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Synth or glass stylus",
+    "Depletion": "1 in 1d20 (check each hour of use)",
+    "Name": "Smoke Ink Pen",
+    "Level": "1d6",
+    "Effect": "When used like a pencil, the artifact creates lines of durable black or white smoke on surfaces or in midair, allowing the user to write or draw just about anywhere. The smoke remains in place unless disturbed, such as by physical contact or a breeze. The smoke is more fragile than a human hair (a level 0 material), and even a large dense scribble can’t support more than a pebble’s weight. If the artifact is level 4 or higher, it can also produce thick strands of smoke that are a level 1 material.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Glass or synth disk",
+    "Depletion": "1 in 1d20 (check each day of use)",
+    "Name": "Synchronized Orrery",
+    "Level": "1d6",
+    "Effect": "When activated, this device connects to the datasphere or directly to satellites in the night and creates an image or hologram of the solar system at that exact moment, showing the location of itself, the sun, Urvanas, Earth, the moon, Naharrai, and a band indicating the Phaeton Halo. If the artifact is level 4 or higher, it also shows smaller stellar objects (up to about half the size of the moon), and if it is level 6 or higher, it shows anything down to about a mile in diameter. Because of the scale involved, the artifact doesn’t show any surface details of the planets or moons (for example, it doesn’t show the shape of continents on Earth). It provides two assets to astronomy tasks and tasks to navigate through the void (such as flying a starcraft from Earth to Urvanas). Outside of Earth’s solar system, it displays only gibberish. If a synchronized orrery could be connected to another star system’s data network, presumably it could be reconfigured to show the local planets and moons. An advanced orrery might be configured for use in multiple systems and update itself automatically when it arrives.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Synth or glass stylus",
+    "Depletion": "1 in 1d100 (check each hour of use)",
+    "Name": "Synth Ink Pen",
+    "Level": "1d6",
+    "Effect": "When used like a pencil, the artifact creates lines of thin synth on surfaces, which can be built up like a lattice to create three-dimensional structures. A single strand of fabricated synth is flexible but sturdy for its thickness, and multiple strands together are about the equivalent strength and flexibility of soft wood (a level 1 material). Most of these pens can create three or four different colors of synth. If the artifact is level 4 or higher, it can also produce thin strands of soft metal, allowing a skilled user to create complex objects (like circuit boards) by mixing synth and metal strands. The artifact is an asset for appropriate crafting tasks.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Odd-fitting metallic helmet that has a metal box attachment with dial controls",
+    "Depletion": "1 in 1d10",
+    "Name": "Temporal Duplicator",
+    "Level": "1d6 + 2",
+    "Effect": "Two additional versions of the user appear at the beginning of the user’s next turn. The user and both duplicates can each take an action. The duplicates persist until the beginning of the user’s next turn, and then they disappear back into the timestream. If either of the two duplicates takes damage or is otherwise hurt, that same damage and any other condition transfers to the user when the duplicates disappear.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Sword, axe, or other medium or heavy weapon",
+    "Depletion": "1 in 1d100 (check each day the tools are used)",
+    "Name": "Toolbox Blade",
+    "Level": "1d6",
+    "Effect": "This weapon has a set of subtle controls that allow it to transform into or extrude any typical metal or synth tool from a bag of light tools (also from a bag of heavy tools if the artifact is level 4 or higher). Extruded tools remain connected to the artifact by a thin flexible cable about 10 feet (3 m) long. If the cable is destroyed, the artifact can still become or extrude that tool, but the first time it does so requires a depletion roll. If left alone for a few hours, the artifact returns to its weapon configuration. If the artifact depletes, it can still be used as a regular weapon.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Two disks that adhere to two different creatures’ heads",
+    "Depletion": "1 in 1d20",
+    "Name": "Vision Relayer",
+    "Level": "1d6 + 2",
+    "Effect": "One disk is affixed to the user, and one is affixed to another living creature. When activated, for the next ten minutes the wearer can see what the other creature is seeing. The wearer can switch between their own sight and the linked creature’s sight once per round (this is not an action).",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Form": "Metallic seven-sided box large enough to insert both hands",
+    "Depletion": "1 in 1d20",
+    "Name": "Augmentation Heptagon",
+    "Level": "1d6 + 1",
+    "Effect": "To activate, the user must insert both hands into the artifact and grasp the handles as an action. On the following round, an injection that inflicts 1 point of damage (ignores Armor) grants the user the capacity to apply one firee level of Effort to a specific task as long as the user first applies a level of Effort to that task normally. This augmentation lasts for a period of three days. Each augmentation heptagon is keyed to a different kind of skill, including the following.",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "1",
+          "Result": "Balancing"
+        },
+        {
+          "Roll": "2",
+          "Result": "Climbing"
+        },
+        {
+          "Roll": "3",
+          "Result": "Crafting numenera"
+        },
+        {
+          "Roll": "4",
+          "Result": "Deceiving"
+        },
+        {
+          "Roll": "5",
+          "Result": "Healing"
+        },
+        {
+          "Roll": "6",
+          "Result": "History"
+        },
+        {
+          "Roll": "7",
+          "Result": "Initiative"
+        },
+        {
+          "Roll": "8",
+          "Result": "Intimidation"
+        },
+        {
+          "Roll": "9",
+          "Result": "Jumping"
+        },
+        {
+          "Roll": "10",
+          "Result": "Leatherworking"
+        },
+        {
+          "Roll": "11",
+          "Result": "Lockpicking"
+        },
+        {
+          "Roll": "12",
+          "Result": "Perception"
+        },
+        {
+          "Roll": "13",
+          "Result": "Persuasion"
+        },
+        {
+          "Roll": "14",
+          "Result": "Pickpocketing"
+        },
+        {
+          "Roll": "15",
+          "Result": "Riding"
+        },
+        {
+          "Roll": "16",
+          "Result": "Salvaging numenera"
+        },
+        {
+          "Roll": "17",
+          "Result": "Sneaking"
+        },
+        {
+          "Roll": "18",
+          "Result": "Swimming"
+        },
+        {
+          "Roll": "19",
+          "Result": "Understanding numenera"
+        },
+        {
+          "Roll": "20",
+          "Result": "Woodworking"
+        }
+      ]
+    },
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Heavy pack-like device composed of metal and synth components",
+    "Depletion": "1 in 1d20",
+    "Name": "Backpack Guardian",
+    "Level": "1d6",
+    "Effect": "The device unfolds itself into a human-sized level 3 automaton for about an hour. The automaton follows the user, and if the user is physically threatened with violence, it provides an asset to the user’s Speed defense rolls. (Treat the automaton as a follower with only one modification, which is Speed defense.)",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Box with several controls and handles",
+    "Depletion": "1 in 1d20",
+    "Name": "Blurred Vista",
+    "Level": "1d6 + 3",
+    "Effect": "The area within long range of the box becomes hazed for about an hour. The effect moves with and stays centered on the artifact for that period. Creatures within the area are unaffected, but tasks related to noticing the movements of those within the area by those outside the area are hindered. (However, the overall hazed area is obvious once noticed.) If the use is coordinated with a ranked horde, the horde is treated as if a stealthy horde for that community action, in addition to any other benefits it might possess. (When a stealthy horde first attacks, it gets a firee one-sided community action in which it inflicts damage on its opponent and is not simultaneously attacked in return.)",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Multilayered cloak of various materials that seem to clash and contrast in a disharmonizing way",
+    "Depletion": "1 in 1d20",
+    "Name": "Cloak Of Unrest",
+    "Level": "1d6 + 2",
+    "Effect": "This cloak is woven of smart fibers and studded with small psychic emitters designed to engender disharmony in living creatures in the area. When the cloak is activated for periods of up to one hour, creatures within short range who can see the wearer become more disagreeable, more prone to angry reactions, and less willing to forgive and forget slights. To most creatures, it’s not immediately obvious that the cloak is the source of their unrest. Tasks to stem violence, promote peace, and reach compromise in the affected community are hindered. If a cloak of unrest is used for several days in a row in the same community, civil unrest is certain, which could eventually lead to citizenagainst-citizen violence.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Handheld device with multiple pronglike extensions",
+    "Depletion": "1 in 1d20",
+    "Name": "Detextilizer",
+    "Level": "1d6 + 2",
+    "Effect": "Commonplace clothing worn by a creature within long range dissipates in a puff of dust if its level is equal to or less than this artifact’s level. Creatures must be successfully targeted by the artifact for the effect to function.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Helmet, harness, gloves, and boots all connected by translucent synth tubing",
+    "Depletion": "1 in 1d00",
+    "Name": "Devitilizer",
+    "Level": "1d6 + 1",
+    "Effect": "To activate, the user must put on the equipment, which causes their fluids to drain rapidly from their body over the course of one minute, leaving behind a leathery, doll-like inert object. A humansized user leaves behind a dried doll that is about 1 foot (30 cm) tall and weighs only a few pounds. The user is in stasis and remains so indefinitely until submerged in water, at which time they are resuscitated over the course of one minute. While desiccated, the doll-like form of the user has +2 to Armor. A devitilizer may provide bad dreams to a user, but some have found it an ideal way to store excess population during mass migrations or while a ranked disaster has restricted resources to the extent that the people might otherwise starve.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Thick lenses built on a device worn on the upper face and eyes",
+    "Depletion": "1 in 1d20",
+    "Name": "Empath’s Lenses",
+    "Level": "1d6",
+    "Effect": "Informative images formed on the inner lenses help the user to identify microexpressions, body-language cues, mannerisms, and methods of speech of a target creature within immediate range, allowing the wearer a far deeper insight into what that entity thinks and feels for one minute. All interaction tasks made while the device is active gain two assets. Using a “lens overlay” device to provide a wearer with additional private information about a task is something crafters continue to explore-literally, in the case of explorer’s lenses.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Helm that projects illusory images, sounds, and scents",
+    "Depletion": "1 in 1d20",
+    "Name": "Exequy",
+    "Level": "1d6 + 1",
+    "Effect": "The wearer can trigger the helm as an action. On subsequent rounds, the helm produces a solemn atmosphere in an area up to a long distance around it, superimposing dark mourning clothes, candles, mournful music, and potentially additional visual and auditory effects (depending on the parameters set by the crafter). The atmosphere lasts for about an hour. If deployed in a ranked community or horde, the rank is increased by 1 for all tasks related to remembering those who have passed on, stirring up grief, and interrupting normal activities for the purpose of having a funeral procession.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Metallic staff with a hollow loop at the end whose inner edge bleeds darkness",
+    "Depletion": "1 in 1d20",
+    "Name": "Eye-eating Loop",
+    "Level": "1d6 + 3",
+    "Effect": "This artifact functions as a medium melee weapon. Unless covered, it also makes all bright light dim within immediate range. In addition, the wielder can call upon the following effects. Chill: If the wielder uses the artifact to strike a foe in melee, they can inflict additional damage to the target equal to the artifact level. Darken: The user greatly increases the light-draining effect of the loop, causing everything within long range to fall into complete darkness for about an hour. Ray: The wielder makes a long-range attack with a focused blast of chill darkness from the loop, inflicting damage equal to the artifact level and stunning the target for one round, causing it to lose its next turn. Terrify: If the darken function is used over the course of one community action to harass the enemy, the targeted community or horde inflicts 1 less point of damage during that interaction.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Narrow tube that can be sighted through",
+    "Depletion": "1 in 1d6",
+    "Name": "Eyepiece Of Understanding",
+    "Level": "1d6 + 2",
+    "Effect": "Over the course of a minute, the user gains knowledge of an object or creature viewed through the artifact that is within very long range, including a general understanding of its abilities, weaknesses (if any), level, and so on. The target’s level must be equal to or less than the artifact’s level.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Six-foot (2 m) tall collapsible metal tripod with a central tube that extends a spike into the earth when deployed",
+    "Depletion": "1 in 1d10",
+    "Name": "Flood Ward",
+    "Level": "1d6 + 3",
+    "Effect": "It takes two rounds to assemble and set up this device. Once set up, it requires an action to activate and then another round for the powered internal spike to penetrate the ground. (The spike can penetrate any surface whose level is less than or equal to its own, but it cannot penetrate force fields.) When activated, this device repels cohesive volumes of fluid in excess of about 1,000 gallons (3,800 l) for 28 hours. The fluid is pushed to the perimeter of a very long distance in diameter, effectively making the area proof from floods for a day. Smaller cohesive volumes are not repelled. If deployed to protect from a ranked flood or similar threat, the rank of that threat is decreased by 3.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Handheld device with a cone-like projection",
+    "Depletion": "1 in 1d20",
+    "Name": "Force Impaler",
+    "Level": "1d6 + 2",
+    "Effect": "The artifact collapses a force field in a manner designed to inflict damage on creatures sheltering on the opposite side of a force wall or inside a force dome. The device can target a force field within immediate range and collapse fields whose level is equal to or less than this artifact’s level. If successful, all creatures on the opposite side of (or inside) the force field and within short range of the field perimeter take damage equal to the level of the field just collapsed. If used against a ranked community that gains some benefit from force fields, the specific benefit provided by that field is removed during that community action.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Surplice-like cloak with bulky embedded devices",
+    "Depletion": "1 in 1d20",
+    "Name": "Golden Aura",
+    "Level": "1d6 + 1",
+    "Effect": "The wearer can trigger the cloak as an action. On subsequent rounds, the cloak radiates a calming golden glow for about ten hours that provides dim light within short range. Characters within the glow add 1 to recovery rolls made in the light, and they have an asset on tasks related to persuasion, pleasant interaction, and Intellect defense. If deployed in a ranked community or horde, the rank is increased by 1 for community actions related to diplomacy, easing social disquiet, and so on.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Thick lenses built on a device worn on the upper face and eyes",
+    "Depletion": "1 in 1d20",
+    "Name": "Gourmand’s Lenses",
+    "Level": "1d6",
+    "Effect": "Informative images formed on the inner lenses help the user to identify palatable ingredients, suggest interesting gastronomic pairings, and access a catalog of recipes for about 28 hours per activation. The meals the wearer makes while the device is active are generally considered to be amazing feats of culinary accomplishment. If actively deployed on behalf of a community for one day, the community’s rank is +1 for purposes related to overcoming food shortages, famine, and similar ranked disasters for that day. Tasks to persuade diners who have just eaten a fantastic meal prepared by someone wearing gourmand’s lenses gain an asset.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Heavy pack-like device composed of metal and synth components",
+    "Depletion": "1 in 1d20",
+    "Name": "Gravitevator",
+    "Level": "1d6 + 1",
+    "Effect": "The device unfolds itself into a fixed platform about 3 feet (1 m) on a side for about an hour. Thereafter, any user who steps onto the platform can trigger the device to lift them with invisible hands of gravity to any stated height, up to a long distance above the pad. If the artifact is set up next to a structure, a user can step off the gravitic lift effect and onto the structure. Alternatively, a user could step off a structure and into the hands of the gravity lift, if one has been deployed beneath that area.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Long, narrow handheld device with sighting lens at one end",
+    "Depletion": "1 in 1d20",
+    "Name": "Horde Replicator",
+    "Level": "1d6 + 2",
+    "Effect": "A flechette fired from the artifact targets a creature within short range, inflicting 1 point of damage. A humanoid target of level 2 or less that is damaged becomes infected with bioreplicative nanobots that remake it over the course of about a minute if it fails three Might defense rolls before succeeding on two during that period (making one defense roll every few rounds). If the effect goes to completion, the target loses all interest in anything but fighting and destroying (becoming a level 2 creature if it is not already level 2). It also becomes compliant to the verbal command of anyone carrying the artifact for a period of three days. The target is infectious. Each creature it damages via unarmed attacks must make Might defense rolls as if targeted by the artifact or become another target, which is also infectious and amenable to the artifact bearer’s verbal instructions. The nanobot infection constrains the total number of converts to about a hundred active creatures, creating a rank 2 horde if enough targets are converted within ten hours. Three days after the first target was converted to a mindless warrior, the effect ends for all surviving converts simultaneously. They have little memory of the events that brought them to whatever their current circumstances are.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Box with several controls and handles",
+    "Depletion": "1 in 1d20",
+    "Name": "Illusory Vista",
+    "Level": "1d6 + 4",
+    "Effect": "The area within long range of the box is replaced with an illusory scene crafted by the user. The effect moves with and stays centered on the artifact for that period. Creatures within the area are unaffected, but those outside the area might not notice anything unusual, or see a structure, community, or horde of creatures that isn’t really there.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Crystal square with embedded controls",
+    "Depletion": "1 in 1d20",
+    "Name": "Image Projector",
+    "Level": "1d6 + 1",
+    "Effect": "The user projects their image for up to a minute to a location they have previously visited. They see and hear what the projection does and can converse with creatures near it. The image is immaterial and can be dispersed with energy attacks. The projection can take no physical or mental actions other than observing, listening, and speaking.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Handheld device with three rod-like projections",
+    "Depletion": "1 in 1d10 or automatic",
+    "Name": "Instability Inducer",
+    "Level": "1d6 + 2",
+    "Effect": "When the device is activated, an object (or a portion of a large structure up to an immediate distance in diameter) within long range begins to vibrate and buzz for about an hour. If the object is soundly struck during this period, it detonates and inflicts damage equal to this artifact’s level on everything within immediate range (and is itself destroyed). If the device is used continuously for about an hour against a defensive structure in a ranked community, 3 additional points of damage are dealt to the community’s infrastructure if it takes damage during that community action. However, this use automatically depletes the artifact.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Fifteen-foot (5 m) tall collapsible tripod with a large directional crystal dish at the top and a control box in the center",
+    "Depletion": "1 in 1d6",
+    "Name": "Machine Stimulator",
+    "Level": "1d6 + 3",
+    "Effect": "It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. When activated, this device can affect an area up to a very long distance across that is up to 2 miles (3 km) away that the tripod has direct line of sight to. Within the affected area, energy-using devices whose level is less than or equal to the artifact’s level act as if 1 level higher for one hour. Thus, installations, artifacts, and many cyphers become more capable for the duration. If deployed within a ranked community or horde that gains a benefit to its rank from artifacts, cyphers, installations, and so on, the community’s rank is treated as if 1 higher for one hour.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Six-foot (2 m) tall collapsible metal tripod with a clarion-like cone extension on top",
+    "Depletion": "1 in 1d6",
+    "Name": "Margr Repulsor",
+    "Level": "1d6",
+    "Effect": "It takes two rounds to assemble and set up this device. Once set up, it requires an action to activate. When activated, this device sends out an audible signal for about an hour in a very long radius that most creatures hear as an annoying, low-pitched whine but that margr hear as a horrific, overwhelming scream that makes them want to flee. If deployed to protect from a ranked horde of margr, the conflict is delayed for at least one hour, if not entirely avoided, unless the margr manage to disable the device or devise a long-term method to stop up their ears.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Handheld device that always hums",
+    "Depletion": "1 in 1d6",
+    "Name": "Melding Projector",
+    "Level": "1d6",
+    "Effect": "The device emits a subtle bonding influence in a very long radius that causes all surfaces in contact with other surfaces to bond together for about an hour. The bond can be broken with a successful Might task with a difficulty equal to the melding projector’s level. If used on defensive structures in a ranked community, add 3 points to its infrastructure during that community action. If deployed against a ranked horde, confusion grows as the combatants realize they can’t put down their weapons, open their eyes if they happened to blink when the artifact was used, fire ranged weapons effectively, or even move because their feet are stuck to the ground. This confusion decreases the horde’s rank by 3 for that community action.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Depletion": "1 in 1d20",
+    "Name": "Memory Extractor",
+    "Level": "1d6 + 2 Wearable: Thick lenses built on a device worn on the upper face and eyes",
+    "Effect": "The user can selectively delete one specific memory from a target within immediate range. Memories most easily deleted are those of specific incidents whose duration was no more than about a minute. Memories that are interwoven into a target’s daily existence (like their name, how to speak, the names of ordinary things, and so on) can’t be deleted, though attempting to do so stuns the target, preventing them from taking their next turn.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Metallic pod about 3 inches (7.5 cm) in diameter that fuses to its host’s skin",
+    "Depletion": "1 in 1d20",
+    "Name": "Operon Reservoir",
+    "Level": "1d6 + 2",
+    "Effect": "The pod grafts onto a living host and extends filaments throughout their body. Thereafter, when the host spends points from a specific Pool (each operon reservoir is associated with Might, Speed, or Intellect), they can draw some or all of the points from the artifact instead. With each use, the artifact can transfer a number of points equal to its level. Operon reservoirs do not allow a user to avoid damage by directly spending points. Once grafted, a pod can’t be removed until it is depleted (and sometimes not even then).",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Depletion": "1 in 1d20",
+    "Name": "Perception Extender",
+    "Level": "1d6 + 2 Wearable: Handheld device mounted with transparent screen",
+    "Effect": "The user’s senses extend up to a mile (1.5 km) in any direction for one minute, allowing them to ask the GM very simple, general questions about that area, such as “Where is the margr camp?” or “Where did we leave the galloping gambado?” and receive simple, correct answers. If used to gather reconnaissance on a ranked horde or community, the process takes about an hour. At the end of that period, the user can confer an advantage to another group by providing the information learned, which modifires the effective rank of the second group by +1 during the next community action involving the target horde or community.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Heavy pack-like device composed of metal and synth components",
+    "Depletion": "1 in 1d20",
+    "Name": "Portable Feast",
+    "Level": "1d6",
+    "Effect": "The device unfolds itself into a small fixed box about 3 feet (1 m) on a side that produces-in continuous fashion over a one-hour period-enough food and water to nutritiously feed up to a hundred people. If provided to the defenders of a ranked community or horde immediately prior to a conflict, they have +2 health during the next community action that occurs within ten hours of the feast.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Heavy pack-like device composed of metal and synth components",
+    "Depletion": "1 in 1d20",
+    "Name": "Portable Trebuchet",
+    "Level": "1d6 + 2",
+    "Effect": "The device unfolds itself into a trebuchet-like device about as large as a human and remains that way for about an hour. The trebuchet provides its own ammunition, which takes the form of burning spheres of plasma. If a user spends their entire action each turn operating the device, they can fling one trebuchet shot every other round at a target within very long range; the shot inflicts 6 points of damage on the target and everything within immediate range.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Depletion": "1 in 1d20",
+    "Name": "Prevarication Exponent",
+    "Level": "1d6 + 1 Wearable: Helm with a rotating cone-shaped projection",
+    "Effect": "The wearer can trigger the helm as an action. On subsequent rounds, the helm exerts a subtle psychic influence that induces creatures within long range to lie rather than speak the truth on any given topic. Lies are usually the opposite of the truth. Attempts to tell the literal truth require a successful Intellect task on the part of each creature in range. If a creature successfully tells the truth in one instance, all additional attempts it makes to do so are eased by three steps. The helm’s effect lasts for about an hour. If deployed in a ranked community or horde, the rank is decreased by 1 for community actions related to diplomacy, easing social disquiet, and so on.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Handheld device with extensions pointing toward and away from user",
+    "Depletion": "1 in 1d20",
+    "Name": "Sacrilock",
+    "Level": "1d6 + 1",
+    "Effect": "Intense beam of focused psychic energy inflicts a number of points of Intellect damage equal to the artifact level, plus 1 additional point of damage for each point the wielder spends from their Intellect Pool. The user doesn’t choose the number of points spent; instead, roll a d6 to determine the number. The wielder may apply their Intellect Edge toward this cost.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Medium-length sword",
+    "Depletion": "1 in 1d20",
+    "Name": "Shadowpath Blade",
+    "Level": "1d6 + 2",
+    "Effect": "This sword is made from an extension of a flaw in the dimension held open by a power source in the hilt. As such, the cutting “edge” is actually the thin edge of another dimension, giving it nearly unequaled sharpness. The blade inflicts 2 additional points of damage. This use does not require a depletion roll. The blade can also be used to form a portal, which allows the user to travel from their current location to someplace else where they previously used this artifact ability (or to a place that a previous owner used it) through an artificial otherspace realm that connects these paths. The travel takes one action, and this use requires a depletion roll. Upon depletion, the sword loses its ability both to allow travel and to function as a weapon. A shadowpath blade falls into the category of otherspace devices, and as such, it may incur a rift result when it depletes.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Metallic wire on a spindle that can be rolled out to surround an area up to a very long distance in diameter",
+    "Depletion": "1 in 1d20",
+    "Name": "Soothing Perimeter",
+    "Level": "1d6 + 2",
+    "Effect": "It takes several minutes to deploy the wire, or longer if the user tries to do it without being obvious. Thereafter, all creatures in the surrounded area feel a soothing sense of calm for up to 28 hours. Becoming angry or violent requires a successful Intellect roll with a difficulty equal to the level of the artifact. If the wire is severed during this period, all creatures in the area suffer 1 point of Intellect damage (ignores Armor). If deployed to surround a ranked community or horde, conflict between it and another community or horde becomes almost impossible for one day.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Metallic staff with a hollow loop at the end whose inner edge always shines with bright light",
+    "Depletion": "1 in 1d20",
+    "Name": "Stellar Loop",
+    "Level": "1d6 + 3",
+    "Effect": "This artifact functions as a medium melee weapon. Unless covered, it also gives off bright light within immediate range. In addition, the wielder can call upon the following effects. Beacon: If the illuminate function is used over the course of one community action to rally defenders, the community or horde benefiting from the use inflicts +1 point of damage during that interaction. Combust: If the wielder uses the artifact to strike a foe in melee, they can inflict additional damage to the target equal to the artifact level. Illuminate: The user greatly increases the light from the loop, illuminating everything within long range in bright light (and dim light for an equal distance beyond that) for about an hour. Ray: The wielder makes a long-range attack with a focused blast of light from the loop, inflicting damage equal to the artifact level and blinding the target for one round.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Six-foot (2 m) tall collapsible metal tripod with a central tube on a swivel mount",
+    "Depletion": "1 in 1d6 or automatic",
+    "Name": "Tectonic Emitter",
+    "Level": "1d6 + 4",
+    "Effect": "It takes two rounds to assemble and set up this device. Once set up, it requires 1d6 + 1 rounds to activate and to allow the power to build to sufficient levels before it can be used. When used (another action), the device affects inert matter within very long range, causing the ground to tremble and shift in a way that damages structures (and installations) built there. The effect destroys structures of level 2 or less, inflicts major damage on level 3 structures, and inflicts minor damage on level 4 and 5 structures. Higher-level structures are not harmed. If used against a ranked community, the artifact inflicts 4 points of damage against the community’s infrastructure but is then automatically depleted.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Six-foot (2 m) tall collapsible metal tripod with a central barrel-shaped core",
+    "Depletion": "1 in 1d6",
+    "Name": "Teeth Of The Horde",
+    "Level": "1d6 + 2",
+    "Effect": "It takes two rounds to assemble and set up this device. Once set up and activated, the device sprays a fine rain of metallic particles, covering an area a long range in diameter. Over the course of the following hour, particles (which are nanite devices) that fell on inert ground reorganize the ground beneath them into level 1 combat automatons. When complete, a horde of about a hundred automatons emerges. They can be directed to attack or defend as the user wishes for one hour or until they are destroyed, whichever occurs first. If deployed against a ranked community or horde, treat the automatons as a rank 1 horde for that community action.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Two-foot (60 cm) diameter synth sphere with attached wires",
+    "Depletion": "1 in 1d20",
+    "Name": "Temporal Quickener",
+    "Level": "1d6 + 3",
+    "Effect": "It takes two rounds to assemble and set up this device in a fixed location. Once set up, it requires an action to activate. Thereafter, the device produces a temporal bubble a long distance in diameter centered on the artifact that lasts for 28 hours relative to those outside the bubble. Inside the bubble, time moves slightly faster so that about 38 hours seem to pass. Effectively, all creatures in the bubble gain one extra turn for every four turns they’d normally take, and they can take one extra tenhour recovery roll. If the device is used continuously over several days, crafting times relative to the outside world can be shortened by about 25 percent.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Bulky metallic harness with many dials and switches",
+    "Depletion": "1 in 1d10",
+    "Name": "Timeslip Duplicator",
+    "Level": "1d6 + 3",
+    "Effect": "For up to one hour, the user is joined by four duplicates of the user from four parallel timelines. The duplicates look and act similar to the user, but they take their direction from the user and act as level 3 followers. (A level 3 follower usually has three modifications that can benefit the subject they follow. In this case, a duplicate can ease the user’s attacks, Speed defense rolls, and one non-combat skill that the user is trained or specialized in.) The duplicates usually do not have access to any special abilities or equipment possessed by the user. At the end of the hour, all the duplicates (wherever they are, living or dead) merge with the user, who gains their memories. Duplicates from a parallel timeline often have minor differences in dress and style, but they are generally similar in outlook to the prime creature and wish to help it. However, exceptions are possible, and enmity could develop.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Synth helm with transparent eyepiece",
+    "Depletion": "1 in 1d20",
+    "Name": "Transposing Visor",
+    "Level": "1d6",
+    "Effect": "The user swaps position with a target of roughly similar size that the user can see within very long range. If the user of a transposing visor identifires an attacking horde’s leader (assuming there is one), trading places might be a way to cause the horde to disperse, though obviously at the cost of immediate personal danger to the user.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Large backpack-sized device with a metallic wand connected with hoses and wires",
+    "Depletion": "1 in 1d10 or automatic",
+    "Name": "Viscous Fogger",
+    "Level": "1d6 + 2",
+    "Effect": "When activated, the viscous fogger produces a prodigious amount of bluish-grey fog, which emerges in a stream that fills an area a short distance across (and up to a long distance away) within a round. On the following round, the fog solidifires into a mass of sticky strands that entangle targets in the area. Entangled victims can’t move or take actions that require movement. Targets remain caught until they escape. If deployed against a ranked community or horde, the target’s rank is reduced by 1 during that community action and the viscous fogger is automatically depleted.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Form": "Streamlined pack-like device of metal and synth components",
+    "Depletion": "1 in 1d20",
+    "Name": "Water Adapter",
+    "Level": "1d6 + 3",
+    "Effect": "When used in water, all creatures within long range that normally breathe only air can also breathe water for about an hour. The effect moves with and stays centered on the artifact for that period. If the use is coordinated with a ranked horde, the horde is treated as an aquatic horde for that community action, in addition to any other benefits the horde might possess. (An aquatic horde can attack communities and other hordes that are otherwise difficult or impossible to reach, on account of being located beneath the waves or using the water as a defensive feature.)",
+    "Source": "Building Tomorrow"
   }
 ]

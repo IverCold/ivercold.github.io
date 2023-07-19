@@ -6240,5 +6240,578 @@
     "Level": "1d6",
     "Effect": "This device of crystal and synth must be attached to a weapon to function; applying the nodule takes an action. The affected weapon then becomes a sentient item for the next day, with a personality and outlook similar to yours. It can speak, read, and understand one language in common with you, has hearing and normal vision out to long range. It can fly at a speed of immediate distance. It helps you in combat by moving itself toward your opponent’s vital spots, giving you asset on attack rolls while wielding it. If the astute weapon’s bearer has the ability to select an equal level follower, the GM may allow the character to select the weapon as a follower, in which case the weapon’s intelligence is permanent and it may have specific knowledge to be revealed later.",
     "Source": "Arcana of the Ancients"
+  },
+  {
+    "Wearable": "Temporary tattoo, amulet, headband, crystal worn on temple",
+    "Internal": "Pill, ingestible liquid, chewable resin",
+    "Name": "Alertness Stimulant",
+    "Level": "1d6",
+    "Effect": "Keeps the user awake and alert for a number of days equal to the cypher’s level, negating the need for sleep. The user can still choose to sleep while affected by this cypher. Defense rolls to resist being forced to sleep or rendered unconscious (such as from mental attacks or drugs) are eased by two steps. After the cypher’s effect ends, all of the user’s actions are hindered by one step for each night they didn’t sleep (each full night of sleep reduces this hindrance by one step).",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Temporary tattoo, adhesive patch, bracelet",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Arm Bifurcator",
+    "Level": "1d6 + 3",
+    "Effect": "Splits the user’s forearms lengthwise from the elbow through the hand, turning their two limbs and hands into four for one hour per cypher level. The divided limbs are complete (including thumbs) and function just like the original ones, although the user’s actions with the divided limbs are hindered until they can spend a few minutes practicing. If used in tandem, the extra limbs provide an asset on physical actions with the user’s other hands, but they don’t provide additional actions (although the GM may allow the user to do additional things in a round that aren’t actions, such as writing, giving hand signals, carrying something, and so on).",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Small handheld device",
+    "Internal": "Pill",
+    "Name": "Body Duplicator",
+    "Level": "1d6 + 1",
+    "Effect": "Synthesizes a duplicate of your body. This duplicate isn’t alive-it’s just inert tissue-but is based on your DNA, so any modifications you have (such as cybernetics, scars, and so on) are not present on the duplicate. Because it is genetically identical to you, its tissue can be grafted onto or swapped for yours (such as for an organ transplant) with no immune response. The duplicate takes about one hour to grow (or just a few minutes if the cypher level is 6 or higher). It decays at the normal rate for a dead body.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation, Soap",
+    "Level": "1d6 + 2",
+    "Effect": "Explodes in an immediate radius and fills the area with a slippery foam similar to soap bubbles. Vision in the area is obscured as if by a dense mist. PCs who try to stand in or move through the area must use a Speed-based action to do so, or they fall down or remain prone (crawling eases the task of moving through the foam). NPCs can stand in or escape the area if their level is higher than the cypher level; otherwise they must remain prone in the area. The foam is not flammable and will smother fires.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Explosive device or synth sphere (thrown, short range), handheld projector (long range)",
+    "Name": "Detonation, Sobriety",
+    "Level": "1d6",
+    "Effect": "Detonates in a short radius in a burst of green energy that neutralizes the effects of alcohol and similar intoxicants, as if the affected creatures had spent one hour per cypher level abstaining in order to sober up.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Explosive device or synth sphere (thrown, short range), handheld projector (long range)",
+    "Name": "Detonation, Sonic Decoy",
+    "Level": "1d6",
+    "Effect": "Plays a loud prerecorded sound upon impact. Most of these cyphers have two or three prerecorded sounds (such as beastly roars, machines grinding, and an explosion with roaring fire) and the user chooses which one to activate. Some also have the ability to record a new noise. The cypher repeats the chosen recording for one minute per cypher level. Prerecorded sounds are about as loud as a ravage bear, but a user-recorded sound is exactly as loud as what the user recorded.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Small handheld device, crystal nodule affixed to cypher",
+    "Name": "Device Stabilizer",
+    "Level": "1d6",
+    "Effect": "When attached to a cypher of its level or lower, the stabilizer prevents that cypher from being used up when activated if the user succeeds on an understanding numenera roll (difficulty equal to the level of the attached cypher). A successful roll uses up the device stabilizer instead of the cypher it is attached to; a failed roll means the cypher is spent and useless. Some cyphers (particularly pills and injections) cannot be stabilized in this way.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Small spherical or ovoid device",
+    "Internal": "Pill",
+    "Name": "Diagnostic Graft",
+    "Level": "1d6 + 1",
+    "Effect": "When swallowed, the cypher embeds itself in the user’s body cavity and unleashes microfilaments that connect to various organs. The cypher monitors the user’s body for diseases, parasites, poisons, and contaminants. When it detects such things, it indicates their presence with a pattern of lights (visible through the user’s skin), sounds, or vibrations that show the location of the problem and the nature of the threat. The user must make a level 3 Intellect defense roll to correctly interpret the signals (such as “brain parasite,” “lung cancer,” “blood venom,” or “stomach fungus”). The alarm repeats every hour unless the user acknowledges it with a firm tap, and it repeats each day until the threat is ended. Once the graft attaches, the effect is permanent, and this device no longer counts against the number of cyphers that a PC can bear. At level 6 and higher, the graft can also be activated to neutralize an internal threat if it is of a lower level than the cypher, but thereafter the graft works only as a detector, like the lower-level varieties.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Glove, boot, adhesive patch",
+    "Usable": "Injection",
+    "Name": "Extradimensional Limb",
+    "Level": "1d6",
+    "Effect": "For ten minutes per cypher level, the user’s affected limb becomes pandimensional (existing on multiple levels of reality at once), able to touch and affect extradimensional and out-of-phase creatures and objects as if they were completely solid or insubstantial (whichever the user prefers). For example, if the user’s hand is out of phase, they could punch an abykos (whether the creature is solid, partially solid, or insubstantial), reach through a solid wall, or pick up an extradimensional object. For cyphers of level 1 to 4, this pandimensional state extends just beyond the user’s flesh (including clothing and armor on that limb, a small object that can be held in a closed fist, and so on). For cyphers of level 5 or higher, the pandimensional field reaches about 6 inches (15 cm) farther, allowing the user to also affect a small weapon or tool held in that limb. A careful user with an extradimensional limb could attack an opponent with a phased weapon, turning the limb and weapon solid at just the right moment to bypass the foe’s Armor, but the attack would be hindered by two steps because the user would be harmed if their flesh turned solid inside the opponent.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Adhesive patch",
+    "Usable": "Small handheld device",
+    "Internal": "Pill",
+    "Name": "Fleshy Head Disguise",
+    "Level": "1d6 + 1",
+    "Effect": "Scans a creature designated by the user and creates a lifelike fleshy model of that creature’s head that can be worn as a full-head prosthetic mask. The model has muscles, nerves, and blood vessels that react to the wearer’s face and head movements, including speech, facial expressions, blushing, and blinking, but does so with the copied creature’s appearance (including scars and retinal scans). The worn model counts as two assets on disguise tasks to pretend to be the copied creature, although if the wearer has a very different shape than the copied creature, it is unlikely that anyone will believe it. The model lasts for one hour per cypher level, after which it melts into harmless goo. A human wearing a fleshy head disguise of a ravage bear makes for an interesting costume but won’t be mistaken for a natural ravage bear because the creatures are quadrupeds.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Ring, wristband, pair of gloves",
+    "Usable": "Handheld device",
+    "Internal": "Subdermal implant",
+    "Name": "Glue Emitter",
+    "Level": "1d6",
+    "Effect": "This cypher has two modes. The default mode produces a liquid glue that hardens after a preset time (anywhere from one round to one minute) into a hard, permanent synth bond. The hardened glue has a level equal to the cypher level. The glue won’t stick to or bond with the cypher itself. The cypher can produce a line of glue that is 1 inch (2.5 cm) in diameter and about 50 feet (15 m) long, enough to affix a 10-foot (3 m) square panel to a wall or seal shut a couple of human-sized doors. Ten minutes after the cypher is first activated, the remaining glue clogs it up and makes it unusable. In burst mode, the cypher acts much like a web detonation cypher, except the rapidly cured glue lasts only about ten minutes before degrading.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Temporary tattoo, amulet, headband, crystal worn on temple",
+    "Usable": "Small handheld device, crystal",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Iotum Tracker",
+    "Level": "1d6 + 2",
+    "Effect": "The user learns the direction and distance to the nearest unit of iotum of a specified kind. The user must have on hand at least 1 unit of the kind of iotum desired. If the user has no iotum, the cypher searches for the highest-level iotum within very long range.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Temporary tattoo, amulet",
+    "Usable": "Crystal nodule affixed to armor",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Midnight Field",
+    "Level": "1d6 + 1",
+    "Effect": "This cypher has two modes. In the default mode, it surrounds the user in a skintight field of absolute blackness, darker than black paint or a cloudy night under a new moon, that lasts ten minutes per cypher level. In dim light, the user is trained in stealth tasks. In very dim light or darkness, the user is specialized in stealth tasks. Because the user appears completely black (without any highlights), viewing them is slightly disorienting, and attacks against them are hindered. The field allows a small amount of light to reach the user’s eyes (otherwise, they’d be blind), and at best the user can see as if in dim light. In cloud mode, the cypher bursts in an immediate radius, creating a cloud of darkness that lasts one minute per cypher level. The darkness is enough to obscure bright lights brought into it, but very bright light sources (such as a miniaturized star or a portal to a dimension of light) are only slightly diminished.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Glove",
+    "Usable": "Small handheld device, crystal nodule",
+    "Name": "Object Micronizer",
+    "Level": "1d6 + 4",
+    "Effect": "Shrinks an object that the user can hold in one hand to about one-tenth its original size in all dimensions (length, width, height) and about a thousandth of its original mass. Most micronized commonplace items (weapons, tools, and so on) aren’t usable, but if the object is a cypher or artifact, it still functions, although wearable cyphers might pose a problem. If activating the normal-sized device requires manipulating switches or other controls, doing so for a micronized device is a difficulty 4 Speed roll (failure means the item doesn’t activate but isn’t used up or depleted). The shrinking lasts a number of hours equal to the micronizer’s level, after which the item returns to its normal size. A micronized cypher still counts toward a character’s cypher limit.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Temporary tattoo, amulet, headband, bracelet",
+    "Usable": "Small handheld device",
+    "Name": "Otherspace Stasis Chamber Skeleton Key",
+    "Level": "1d6 + 3",
+    "Effect": "Releases a creature imprisoned in an otherspace ( a small artificial dimension (and access to it) or a portal to a natural alternate dimension) linked to the cypher. The creature appears up to a short distance away and is hindered on the round it appears because it is recovering from the stasis effect. The creature is not under the user’s control, and the cypher does not grant any way to communicate with it or return it to the otherspace. Depending on the creature’s nature, it is likely to fight or flee. The level of the released creature is often equal to the cypher level, but about half of these cyphers release a creature whose level is equal to the cypher level minus 2. Most creatures trapped in otherspaces are dangerous beasts or people. A few otherspaces contain people wishing to leave the “past” behind and wait for a more interesting future, or those who have a fatal disease or injury that could not be cured at the time they were put into stasis.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Temporary tattoo, amulet, headband, crystal worn on temple",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Personal Telekinesis Field",
+    "Level": "1d6",
+    "Effect": "Surrounds the user with a thin cloud of nanites that respond to the user’s thoughts, allowing them to exert fine and precise force on objects within about 1 inch (2.5 cm). The user can move objects, push against objects, and so on, using their Intellect Pool as their Might Pool and Speed Pool, and using their Intellect Edge as Might Edge and Speed Edge. Although this power allows for very fine control (the user can tie or untie laces, activate a specific switch on a cypher, brush their hair, and so on), the limited reach of the field makes it difficult to use it directly as an attack- throwing a dagger with it would generate only as much strength as a short, quick flip with a hand. The user can’t use this telekinesis on their own body. The cloud of nanites lasts for ten minutes per cypher level. A personal telekinesis field is useful for moving small objects around under your clothes so they can’t be found, manipulating your equipment when your hands are being watched, and other subtle tasks.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Contact lenses, eyeglasses, or goggles",
+    "Usable": "Small handheld device, crystal",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Phasing Detector",
+    "Level": "1d6",
+    "Effect": "Enhances the user’s perception of extradimensional and out-of-phase creatures and objects. For the next 28 hours, the user has an asset (or two assets if the cypher is level 5 or higher) to perceive and interact with these creatures and objects, including attacking and defending against them.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Temporary tattoo, amulet, headband, crystal worn on temple",
+    "Usable": "Small handheld device, crystal",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Precognitive Focus Inducer",
+    "Level": "1d6",
+    "Effect": "This device interfaces with future versions of the user, granting them access to an ability the present user hasn’t learned yet. For the next hour, the user gains the focus ability from their next higher tier (up to a maximum tier equal to the cypher’s level), as if they had selected that ability as an advancement. If the ability costs Pool points to use, the character must spend them to activate the ability. If the next higher tier grants more than one ability, the user gains both abilities. If the tier allows a choice of different abilities, randomly determine which one it grants. If the user already has one of the abilities of that tier, the cypher grants the other ability from that tier, or an unselected ability from a lower tier. For example, a tier 2 Nano with the Commands Mental Powers focus who uses a level 3 version of this cypher would gain either the Psychic Burst ability or the Psychic Suggestion ability. If the GM is using alternative focus abilities from chapter 3, those may be options as well for a precognitive focus inducer. Because the future is changeable, it is possible for two different uses of a precognitive focus inducer to grant two different abilities from the same tier. In game terms, this cypher is a fun way to allow a player to test upcoming focus abilities and choose the ones they like the best.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Pair of sleeves, linked bands, or fine wire or mesh that encircles the wearer’s arms",
+    "Name": "Puppeteering Sleeves",
+    "Level": "1d6 + 4",
+    "Effect": "Allows the wearer to record physical actions for up to one minute per cypher level and perform those actions at will for up to one hour per cypher level. For example, the wearer could watch someone tie a complex knot, reassemble a dismantled device, stylishly flip a dagger from one hand to the other, and perform a complicated secret handshake, all within the recording period, then repeat any of those actions at will within the performance period. Because the repeated action is based on the wearer’s perception of the recorded task, it isn’t always perfect (the GM may decide that the task is hindered). Performing a recorded action costs as many Pool points as the original action does.  The GM may allow the wearer of puppeteering sleeves to copy fighting moves and other purely physical abilities if they don’t rely on nanotechnology, psychic ability, extradimensional power, and so on. Essentially, anything that a normal human could do with proper training can potentially be copied.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Wrist-mounted projector",
+    "Usable": "Handheld device",
+    "Internal": "Ingestible liquid",
+    "Name": "Synthrope Dispenser",
+    "Level": "1d6",
+    "Effect": "Creates a rope made of clear flexible synth, up to a total of 20 feet (6 m) per cypher level. (If the cypher is an ingestible liquid, the rope is pulled out of the drinker’s mouth.) The rope is actually a twisted hollow cylinder and, if cut, the ends can be sealed with heat to create clear synth bags that are about 1 foot (30 cm) wide and as long as desired.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Adhesive patch, amulet, bracelet, headband",
+    "Usable": "Small handheld device",
+    "Internal": "Pill",
+    "Name": "Time Skipper",
+    "Level": "1d6 + 4",
+    "Effect": "Skips the user forward in time in the same physical spot they left. To them, no time passes. To all others, the user vanishes in a flash and returns later in another flash. Most cyphers (levels 5 to 7) send the user forward a few minutes in time, some (levels 8 or 9) skip forward a couple of hours, and a few (level 10) skip multiple days. Because the timeskipping character reappears in the same spot despite the world orbiting through space, stellar and galactic movement, and so on, there must be something that compensates for these shifts. If a time skipper is used on a spacecraft, it may not be so reliable.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Small handheld device, canister",
+    "Name": "Troglit Creche",
+    "Level": "1d6 + 2",
+    "Effect": "Synthesizes and releases a batch of 1d6 pigeon-sized creatures called troglits (level 1) that wander the area in search of food. Troglits are slow, harmless, and omnivorous. They may have features of any kind of animal family (mammal, bird, reptile, fish, insect, and so on) and can subsist on scrub grass, bark, manure, and other organic materials that humans can’t eat. After one day of eating its fill, a troglit grows to twice its original size and gives birth to 1d6 immature troglits. Troglits are palatable and nutritious. They are genetically programmed to become sterile after a number of days equal to the cypher level after the initial batch, no matter what generation they are (so all troglits from a level 3 cypher become sterile three days after the cypher is activated). Aeon Priests believe that troglits were created to be temporary pets or emergency food sources. Troglit creche GM intrusion: The sterilization gene is faulty in this batch and they continue to reproduce.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Disk that adheres to throat, tiny nodule held in mouth",
+    "Usable": "Small handheld device, injector",
+    "Name": "Ventriloquist",
+    "Level": "1d6",
+    "Effect": "When activated, the cypher splits into two pieces. One is placed or thrown somewhere, and the other remains attached to the user. At any time, the user can speak normally, project their voice through the other piece of the cypher (up to very long range), or both. The remote piece sounds exactly like the user, and the sound is as loud as the user’s actual voice (twice as loud if the cypher is level 3 or higher). The effect lasts for one hour per cypher level.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Small metallic disk",
+    "Name": "Voicebox Graft",
+    "Level": "1d6 + 1",
+    "Effect": "When applied to a living creature’s head, the disk immediately unleashes microfilaments that enter the brain. Within five minutes, the device reacts to the creature’s ability to communicate and make concepts, translating those impulses into audible words in a specific language keyed to the graft. The graft gives the creature a vocabulary of ten words per cypher level, although very simple creatures might be able to use far fewer. Typical words in a creature’s vocabulary are: hunger, hunt, food, danger, predator, prey, left, right, up, down, move, stop, fast, slow, cold, hot, pain, fear. If a creature is capable of learning vocal commands or pet tricks, those words are suitable additions to its spoken vocabulary. At cypher level 4 and higher, the graft has a limited machine intelligence that adds some syntax to the creature’s words so it is easier to understand.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Fingertip-sized winged insect built of synth and biological elements",
+    "Name": "Wasp Drone",
+    "Level": "1d6",
+    "Effect": "This voice-controlled cyberbug travels to a designated area the user can see within a very long distance (if the user has line of sight to a particular creature, they can designate that creature as well). The bug flies to that area, moving a long distance each round, and makes a nuisance of itself, attacking creatures randomly (if the user designated a creature, it attacks only that creature). The cyberbug is a creature whose level equals the cypher’s level, and it inflicts 1 point of Speed damage. The bug dies after ten minutes of activity or after it makes one successful attack (two attacks if the cypher level is 5 or higher).",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Wearable": "Glove",
+    "Usable": "Handheld device",
+    "Name": "Water Spigot",
+    "Level": "1d6 + 2",
+    "Effect": "This cypher has two modes. In the default mode, it produces a constant stream of water, anywhere from 1 to 3 gallons (about 4 to 11 liters) per minute. This ends when it has released about 100 gallons (380 liters) of water per cypher level. A typical kitchen faucet with a standard aerator can release about 2.2 gallons (8.3 liters) per minute. The water may be firesh, salt, brackish, or contaminated with some other substance (such as sewage or pollutants).  In burst mode, the device sprays a jet of high-velocity water up to a long distance away, using about 100 gallons of the cypher’s capacity in one round. The jet inflicts 1 point of damage and may knock the target prone or move it away from the user. The jet can be used as a rapid-fire weapon, allowing characters with the Spray fighting move (or similar abilities) to make up to three attempts to hit a target. After the initial burst, the remainder of the cypher’s water pours out at the default mode rate. The water from a water spigot cypher might be pulled from a nearby source, fabricated by nanites, or diverted from another dimension.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Spray canister",
+    "Name": "Waterproofing Spray",
+    "Level": "1d6 + 4",
+    "Effect": "An object sprayed by this cypher repels water as if protected by an incredibly thin and specialized force field. The object has Armor against water-based attacks (such as acid, sprayed venom, or electricity conducted through water) equal to the cypher’s level for 28 hours.",
+    "Source": "Priests of the Aeons"
+  },
+  {
+    "Usable": "Nodule that connects to a cypher, artifact, installation, or similar device",
+    "Name": "Amber Amplifier",
+    "Level": "1d6 + 1",
+    "Effect": "The connected device’s next single use produces an effect as if the device were 4 levels higher (to a maximum of level 10).",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Nodule that affixes to a melee weapon",
+    "Name": "Astute Weapon Nodule",
+    "Level": "1d6 + 2",
+    "Effect": "When the cypher is attached to a weapon, the weapon gains limited intelligence, a semblance of a personality, and the ability to speak for 28 hours. During this period, attacks the wielder makes with the weapon are eased as long as the user maintains a good relationship with the temporary intelligence invested in the weapon. If the user has the ability to gain a follower, they could choose the newly imbued weapon to be that follower. If so, it retains its intelligence indefinitely as a level 3 automaton that provides two additional knowledge-based modifications (in addition to its ability to provide an asset to attacks using itself).",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky device that must be set on the ground as part of its activation",
+    "Name": "Beast Lure",
+    "Level": "1d6 + 2",
+    "Effect": "The nearest “savage beast” whose level is up to 1 less than the cypher’s level (such as a ravage bear or broken hound) within 3 miles (5 km) is lured by the cypher, makes its way to the cypher’s location, and calmly remains there for up to one hour. During this time, the user can impart a basic concept or question to the beast, and the beast can convey a simple answer in return. If the beast is attacked, the calming effect immediately ends. A beast lure cypher can also lure a rampaging beast whose rank is up to 4 less than the cypher’s level.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky handheld device",
+    "Name": "Bridge Builder",
+    "Level": "1d6 + 2",
+    "Effect": "When activated, the cypher splits into two pieces. If either piece is moved to a location up to a very long distance away and activated, a wave of nanobots sweeps out from the activated piece, moving at a rate of a short distance each round. In the wave’s wake is left a strip of solid grey material 10 feet (3 m) wide and 1 foot (30 cm) thick. Eventually the wave and the strip behind it connect to the other cypher piece endpoint, creating a stable road-like surface between them. The strip swerves around objects, terrain features, and structures, but it bridges ravines and other gaps in the landscape that are less than 300 feet (90 m) wide. The strip becomes a permanent fixture of the landscape.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Wearable": "Badge",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Calm Center",
+    "Level": "1d6",
+    "Effect": "The user becomes utterly calm, seeming to emanate peace and assurance. Merely being near the user provides a balm. All creatures in short range can retry one failed task, attack, or defense roll sometime during the next minute.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Metallic orb",
+    "Name": "Chiurgeon Orb",
+    "Level": "1d6 + 1",
+    "Effect": "When activated, the chiurgeon orb tumbles away in the direction the user throws it as if unaffected by gravity, moving at a rate of an immediate distance each round for about a minute. The orb’s surface becomes suffused with healing nanobots, and as it passes within 30 feet (6 m) of living creatures, they regain points to their Pools (or health) equal to the cypher’s level if they are hurt. The moving orb bounces off fixed surfaces, and thus might be set to bounce back and forth across a field of conflict for the duration of the effect. When a minute has passed, the orb tumbles to the ground, inert. If used during a conflict between ranked communities or hordes, the affected force regains health equal to one third the cypher’s level (minimum 1) for that community action.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky handheld device",
+    "Name": "City Shroud",
+    "Level": "1d6 + 4",
+    "Effect": "When activated, the cypher splits into two pieces. If either piece is moved to a location up to 1 mile (1.5 km) away from the other and activated, the area between them becomes the outermost diameter of a sphere of visual distortion. It hides any artificial structures within from anyone viewing the location from outside the area. The effect lasts for 28 hours. Outside viewers see only a continuation of the natural landscape around the affected area. The cypher can be used to hide a small community, ruins, or some other site, assuming it fits within an area no more than 1 mile across.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Handheld projector",
+    "Name": "Clean Bright",
+    "Level": "1d6",
+    "Effect": "Over the course of the next hour, scrubbing nanobots move across (and into) a nearby structure of up to 5,000 square feet (465 square m). The structure is cleaned and tidied as if subject to the expert attention of a reliable cleaning service.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Wearable": "Badge",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Cognitive Defender",
+    "Level": "1d6",
+    "Effect": "The user gains +3 Armor against effects that would inflict Intellect damage for 28 hours. During this same period, negative mental feelings related to anxiety, depression, inability to cope with frustrating experiences, feelings of incapacitating rage, and similar feelings are mollified. If any such effects are hindering the character’s actions, they are alleviated during this period as well. Tasks attempting to deal with emotional trauma are eased for up to a month after a character uses a cognitive defender.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Injection",
+    "Name": "Colossal Form",
+    "Level": "1d6 + 4",
+    "Effect": "Nanobot infusion slowly increases the user’s mass over the course of one hour. At the end of the hour, the user has reached a height of 30 feet (9 m), which lasts for about an hour. While colossal, the character adds 15 points to their Might Pool, adds 2 to their Might Edge, gains +1 to Armor, and deals 4 additional points of damage with melee attacks. However, their Speed defense tasks are hindered by three steps. If used as part of a conflict involving a ranked horde or community, treat the user as a rampaging beast with a rank of 2 during that community action.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Metallic orb",
+    "Name": "Corpse Likeness",
+    "Level": "1d6 + 1",
+    "Effect": "This cypher has a two-part activation. First, it must be placed on a humanoid corpse that has not decayed for more than a few days. After one minute, the cypher takes on a red glow, indicating that it’s ready. Whoever next picks up the orb takes on the likeness of the corpse, a likeness that persists for about 28 hours. In casual settings, the user can pass as whoever the corpse was before they died, and the user gains two assets to passing themselves off as the corpse if they come under active scrutiny.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Wearable": "Harness-like overwear",
+    "Name": "Death Protector",
+    "Level": "1d6 + 3",
+    "Effect": "If the wearer is debilitated or killed, the wearer’s body (assuming it remains mostly intact) is flushed with emergency nanobots that take control of the body so that it takes discrete steps to protect and repair itself. During the next minute, even if the user is dead, the body moves away from danger by the safest available route. At the end of this duration, the user makes a one-action recovery roll (again, even if dead; this returns the user to life). The roll does not count against the limit on recovery rolls that a character can make in a day.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Small sphere of flesh and metal",
+    "Name": "Deception Bud",
+    "Level": "1d6",
+    "Effect": "When applied to a creature’s head, the sphere immediately unleashes microfilaments that enter the brain. For the next 28 hours, the bud whispers helpful advice that grants two assets to any tasks related to running a con, picking a pocket, fooling or tricking someone, sneaking something by a guard, and so on. The bud dries up and falls off after it has provided its benefit, leaving only a tiny blemish.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Handheld projector (long range)",
+    "Name": "Detonation (peace)",
+    "Level": "1d6 + 4",
+    "Effect": "The cypher explodes and releases a massive burst of afferent particles that affect all living creatures within very long range, preventing creatures of up to level 4 from initiating attacks (though they can defend themselves). Each time an affected creature is attacked, it gains another opportunity to try to firee itself from the effect. If used during a conflict with a ranked community or horde, the conflict is stalled during that community action (unless extreme actions are taken to shake the combatants out of their peaceful trance).",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Wearable": "Wristband projector (long range) and associated handheld device",
+    "Usable": "Handheld projector (long range) and associated handheld device",
+    "Name": "Detonation (tracer)",
+    "Level": "1d6 + 1",
+    "Effect": "This detonation comes in two parts. One part explodes in an immediate radius, inflicting shrapnel damage equal to the cypher level. The other part allows a user to trace anyone caught in the detonation for up to one week; the user learns the direction and distance of the affected targets. A tracer detonation is useful not only for defending a community from abhuman raiders, but also for tracing them back to their hidden lair.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky device",
+    "Name": "Eclipse Projector",
+    "Level": "1d6 + 4",
+    "Effect": "If used while the sun is in the sky, the cypher creates a total eclipse in an area 10 miles (16 km) in diameter, centered on the location where the cypher was activated. The eclipse lasts for up to ten minutes. If used as part of a negotiation with a horde or a not particularly sophisticated community, the appearance of the darkness grants two assets to any negotiation or intimidation tasks.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Small metallic disc",
+    "Name": "Exploration Graft",
+    "Level": "1d6 + 2",
+    "Effect": "When applied to a creature’s head, the disc immediately unleashes microfilaments that enter the brain. Within five minutes, the creature is trained in tasks related to navigation. If the creature is already trained or specialized in such tasks, this graft has no effect. Once the graft attaches, the effect is permanent, and this device no longer counts against the number of cyphers that a PC can bear, but the disc remains. A creature with an exploration graft who attempts the long-term task Discover New Area of Interest accomplishes that task in half the normal time.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Wearable": "Badge",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Extroversion Revealer",
+    "Level": "1d6",
+    "Effect": "The user gains +2 Armor against effects that would inflict Intellect damage for 28 hours. During this same period, the user finds it easy to engage with large groups of people, even strangers, without becoming embarrassed or otherwise mentally conflicted, which provides an asset to all tasks related to positive social interaction.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Oblong metallic seed roughly 1 inch (2.5 cm) in diameter",
+    "Name": "Follower Seed",
+    "Level": "1d6",
+    "Effect": "When the seed is placed in drit and activated, a level 2 humanoid automaton grows from that spot. The automaton provides the effects of a follower for the user for up to ten hours. Different seeds grow different kinds of followers, including those presented on the Follower Seed Table. Some of these followers provide services rather than a modification to a PC’s tasks, as indicated on the table.",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "1",
+          "Result": "Chef. Provides the PC with one quality meal before ten hours elapses"
+        },
+        {
+          "Roll": "2",
+          "Result": "Admirer. Tells impressive stories about the PC and grants asset to any task to impress others"
+        },
+        {
+          "Roll": "3",
+          "Result": "Carpenter. Grants asset to any commonplace crafting task involving wood and structures"
+        },
+        {
+          "Roll": "4",
+          "Result": "Mender. Adds +1 to PC recovery rolls and grants asset to healing tasks"
+        },
+        {
+          "Roll": "5",
+          "Result": "Scholar. Provides answers to moderately difficult questions (up to level 4)"
+        },
+        {
+          "Roll": "6",
+          "Result": "Tailor. Provides the PC with one quality set of clothing before ten hours elapses"
+        },
+        {
+          "Roll": "7",
+          "Result": "Porter. Carries one additional cypher for the PC (increasing cypher limit) for ten hours"
+        },
+        {
+          "Roll": "8",
+          "Result": "Mason. Adds +1 Armor to an allied ranked community for ten hours"
+        },
+        {
+          "Roll": "9",
+          "Result": "Scout. Provides crucial intel on enemy horde or community that increases allied community’s rank by +1 during next community action"
+        },
+        {
+          "Roll": "10",
+          "Result": "Creature. Provides the benefit of one level 2 creature follower"
+        }
+      ]
+    },
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Device with hornlike speaker",
+    "Name": "Horde Horn (confusion)",
+    "Level": "1d6 + 2",
+    "Effect": "The cypher creates an audible effect a very long distance across centered on a location within 1 mile (1.5 km) that the user can see. Creatures in the area whose level is up to 3 less than the cypher’s level become confused and disperse. The effects last for up to 28 hours. If used during a conflict between ranked communities or hordes, the affected horde disbands, or the affected community’s fighting force does not take the field. The effect ends early if battle is still joined by an enemy force.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Device with hornlike speaker",
+    "Name": "Horde Horn (enervation)",
+    "Level": "1d6 + 2",
+    "Effect": "The cypher creates an audible effect a very long distance across centered on a location within 1 mile (1.5 km) that the user can see. Creatures in the area take 3 points of damage and their defense rolls are hindered for 28 hours. If used during a conflict between ranked communities or hordes, the affected force’s rank is reduced by 1 for the duration.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Device with hornlike speaker",
+    "Name": "Horde Horn (inspiration)",
+    "Level": "1d6 + 2",
+    "Effect": "The cypher creates an audible effect a very long distance across centered on a location within 1 mile (1.5 km) that the user can see. Creatures in the area regain 3 health and gain an asset to their attacks for one hour. If used during a conflict between ranked communities or hordes, the affected force’s rank is increased by 1 for the duration of that community action.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Metallic square with silvery tendrils",
+    "Name": "Infrastructure Mender",
+    "Level": "1d6 + 1",
+    "Effect": "The user attaches this cypher to a wall or other structure. On the following round, it extends its exposed tendrils into the object, and the tendrils spread beneath its surface and into any adjoining inert objects and structures, strengthening their integrity, a process that takes about an hour. Once complete, the effect adds 1 level to all commonplace structures connected to the initial structure within long range and repairs 3 points of damage to the infrastructure of a ranked community. (If a ranked community’s infrastructure isn’t damaged, it gains 3 points of infrastructure.)",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Handheld device",
+    "Name": "Instant Bioreactor",
+    "Level": "1d6 + 4",
+    "Effect": "This small device expands into a bioreactor that fixes itself in place. The bioreactor provides an asset to tasks related to crafting biologicals. The bioreactor and all its components are made from a form of shapemetal, and the bioreactor is permanent and immobile once created.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Boxy mechanism with dial",
+    "Name": "Instant Flood",
+    "Level": "1d6 + 2",
+    "Effect": "When the cypher is activated, sterile water begins to pour out of the mechanism at a prodigious rate, enough to fill a low-lying area a long distance across to a depth of about a foot (30 cm) within a minute. If collected, the water is potable. The water continues to pour out of the cypher for a number of minutes equal to the cypher level. If the terrain isn’t conducive to receiving so much water, this could create a dangerous situation. Treat a flood surge as a ranked disaster that persists for about an hour. The flood’s rank is equal to one third the cypher level (minimum rank 1).",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky device that must be set on the ground to use",
+    "Name": "Iron Tamer",
+    "Level": "1d6 + 4",
+    "Effect": "The cypher suppresses an instance of iron wind up to a long distance across for ten hours, which might be long enough for the larger storm (if there is one) to subside.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Handheld device filled with tiny, glowing blue vortices of concentrated force",
+    "Name": "Kaon Preserver",
+    "Level": "1d6",
+    "Effect": "The cypher preserves in perfect stasis one object or creature whose level is equal to or less than the cypher’s level. The stasis lasts for a specified period or until another kaon preserver-or a raw unit of kaon dot-is successfully applied to break it.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Small sphere of flesh and metal",
+    "Name": "Leadership Bud",
+    "Level": "1d6",
+    "Effect": "When applied to a creature’s head, the sphere immediately unleashes microfilaments that enter the brain. For the next 28 hours, the bud whispers helpful advice that grants two assets to any tasks related to persuasion, gaining insight into another creature’s true thoughts and feelings, detecting falsehoods, and inspiring others. The bud dries up and falls off after it has provided its benefit, leaving only a tiny blemish.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky backpack-like device with a connected tube",
+    "Name": "Matter Evaporator",
+    "Level": "1d6 + 2",
+    "Effect": "The cypher shoots a spray of thick, bubbling fluid that dissolves and erases an object about as large as a human within immediate range. The target’s level must be equal to or less than the cypher’s level.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Device containing translucent goo with attached handle and control",
+    "Name": "Mimetic Replicator",
+    "Level": "1d6 + 1",
+    "Effect": "The cypher duplicates an object no larger than something the user can easily hold in one hand. The object’s level must be equal to or less than the cypher’s level. A mimetic replicator can duplicate cyphers but not artifacts or other more complex objects.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Cylindrical device with red sphere on top",
+    "Name": "Morale Trauma",
+    "Level": "1d6 + 2",
+    "Effect": "The cypher broadcasts a deleterious psychic influence to creatures within immediate range that propagates outward to other nearby creatures, affecting each in turn in a spreading ripple that can reach up to a very long distance, assuming there are enough creatures to propagate the effect. An affected creature loses its will to fight and may bolt and run. The effect lasts for about a minute. If used as part of a conflict against a ranked community or horde, a community’s combat force or horde whose rank is equal to or less than half the cypher’s level leaves the field during that community action.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Metallic orb",
+    "Name": "Null Orb",
+    "Level": "1d6 + 1",
+    "Effect": "When activated, the null orb tumbles away in the direction the user throws it as if unaffected by gravity, moving at a rate of an immediate distance each round for about a minute. The orb’s surface becomes charged with entropic energy, and as it passes within 30 feet (6 m) of living creatures, damage equal to the cypher’s level is inflicted on them. The moving orb bounces off fixed surfaces, and thus might be set to bounce back and forth across a field of conflict for the duration of the effect. When a minute has passed, the orb tumbles to the ground, inert. If used during a conflict between ranked communities or hordes, the affected force suffers damage equal to one third the cypher’s level (minimum 1).",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Nodule that affixes to a melee weapon",
+    "Name": "Otherspace Weapon Nodule",
+    "Level": "1d6 + 1",
+    "Effect": "This nodule can be “keyed” so that it becomes associated with an otherspace location (an alternate dimension) that the user can reach. Otherwise the nodule is keyed to a random otherspace location. Once the cypher is attached to a melee weapon, at the weapon user’s option, targets struck by the weapon can be transferred to the keyed location instead of taking damage. The weapon retains this quality for up to 28 hours or until ten creatures have been transferred, whichever occurs first. Otherspace weapon nodules can also be attached to ranged weapons, but they confer the ability to transfer targets for only about an hour.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Device filled with glittering points of light with attached handle and control",
+    "Name": "Quantium Backtracker",
+    "Level": "1d6 + 2",
+    "Effect": "The cypher moves the user one round back in time, allowing them to relive the previous round and even change what action they took.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Device filled with glittering points of light with attached handle and control",
+    "Name": "Quantium Boost",
+    "Level": "1d6 + 1",
+    "Effect": "The cypher moves the user forward in time about a minute. For the user, no time passes, but for everyone else, the user is simply gone for about a minute.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky backpack-like device with a mast rising about a foot (30 cm)",
+    "Name": "Rally Beacon",
+    "Level": "1d6 + 1",
+    "Effect": "The cypher grants all creatures within short range at the time of activation +1 to Speed Effort and +1 Armor for one hour. If used as part of a conflict against a ranked community or horde, the affected combat force has +1 Armor during that community action.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Injection",
+    "Name": "Rampaging Form",
+    "Level": "1d6 + 4",
+    "Effect": "A nanobot infusion turns the user into an uncontrolled beast for one hour. While changed, they attack any and every living creature within short range. In addition, they gain +3 Armor, 10 points to their Might Pool, 3 to their Might Edge, 10 points to their Speed Pool, and 3 to their Speed Edge. While in beast form, they can’t spend Intellect points for any reason other than to try to change back to their normal form before the duration ends (a task with a difficulty equal to the cypher’s level). If used as part of a conflict involving a ranked horde or community, treat the user as a rampaging beast with a rank of 3 during that community action. Characters should think twice before using a rampaging form cypher, because while changed, they view even their closest friends as potential prey.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky handheld device",
+    "Name": "Road Builder",
+    "Level": "1d6 + 4",
+    "Effect": "When activated, the cypher splits into two pieces. If either piece is moved to a location up to 10 miles (16 km) away and activated, a wave of nanobots sweeps out from the activated piece, moving at a rate of 1 mile (1.5 km) per hour. In the wave’s wake is left a strip of solid grey stonelike material 10 feet (3 m) wide and 1 foot (30 cm) thick. Eventually the wave and the strip behind it connects to the other cypher piece endpoint, creating a stable road-like surface between them. Tunnels with a navigable space 30 feet (9 m) high are created through natural and artificial barriers, and bridge-like struts are extended to support the strip over ravines and other gaps. The strip swerves around objects and structures of level 4 and higher. The strip becomes a permanent fixture of the landscape.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Rod 1 foot (30 cm) long",
+    "Name": "Rodule Of Branding",
+    "Level": "1d6",
+    "Effect": "The user permanently marks the forehead (or other specified location that the user is able to touch) of a target with a simple symbol, glyph, or two or three words of the user’s choice. The brand could be punitive, could mark the target as a member of some society or group, or could be merely decorative. The context of a symbol etched by a rodule of branding determines whether it eases, hinders, or has no effect on interactions the target has with others.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Rod 1 foot (30 cm) long",
+    "Name": "Rodule Of Inquisition",
+    "Level": "1d6",
+    "Effect": "The user rapidly gains complete knowledge of an object or creature touched with the rodule if its level is equal to or less than the cypher’s level. Information includes the target’s special qualities, special abilities, weaknesses (if any), level, and so on. If the object is an artifact or a complex piece of equipment whose level is no higher than the rodule’s level + 4, the user understands how to use it.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky handheld device",
+    "Name": "Salvage Assistant",
+    "Level": "1d6 + 2",
+    "Effect": "When used as part of a salvage attempt to find shins, cyphers, artifacts, and iotum, this device grants two advantages. First, it provides an asset to the initial salvage task. If salvage is discovered, either it grants an asset to the user’s attempt to find a specific kind of iotum, or it gives the user one additional roll on the Random Salvage Result table.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Handheld device",
+    "Name": "Stealth Coating",
+    "Level": "1d6 + 1",
+    "Effect": "The cypher disperses stealth particles over the surface of an object (or several objects) that can fit in an area 10 feet (3 m) on a side. The object is no longer visible to casual observation, and tasks specifically made to find or perceive the treated object(s) are hindered by two steps. The effect lasts until the objects are moved or damaged.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Bulky backpack-like device with a connected tube",
+    "Name": "Structural Reinforcer",
+    "Level": "1d6 + 2",
+    "Effect": "When sprayed on a structure in immediate range, skin-like material reinforces the structure up to a short distance on a side, increasing its level by 1 per cypher level. Additional uses of this type of cypher on the structure provide no additional benefit.",
+    "Source": "Building Tomorrow"
+  },
+  {
+    "Usable": "Small metallic disc",
+    "Name": "Sustenance Graft",
+    "Level": "1d6 + 2",
+    "Effect": "When applied to a creature’s head, the disc immediately unleashes microfilaments that enter the brain. Within five minutes, the creature is trained in tasks related to living off the land, including finding sources of food and water. If the creature is already trained or specialized in such tasks, the graft has no effect. Once the graft attaches, the effect is permanent, and this device no longer counts against the number of cyphers that a PC can bear, but the disc remains. A creature with a sustenance graft who attempts the long-term task Build Up Food or Water Stores accomplishes that task in half the normal time.",
+    "Source": "Building Tomorrow"
   }
 ]
