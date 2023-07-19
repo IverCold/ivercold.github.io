@@ -80,6 +80,7 @@ function generateRandomCreature() {
             filteredCreatures = creaturesArray.filter(c => c.Water === true);
             break;
     }
+    filteredCreatures = filteredCreatures.filter(c => c.UsedInEndlessLegendCampaign === true);
     let filteredCount = filteredCreatures.length;
     if (filteredCount == 0) {
         $('#creature').html('No creatures found');
