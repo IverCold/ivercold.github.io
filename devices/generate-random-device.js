@@ -68,6 +68,7 @@ function generateRandomCypher() {
     if (randomDevice.RollTable != null)
         html += makeRollTable(randomDevice);
     
+    html += encloseDeviceProperty('Categories', randomDevice.Categories)
     html += encloseDeviceProperty("Source", randomDevice.Source);
     html += "</div>";
     $("#generated-items").prepend(html);
@@ -86,6 +87,7 @@ function generateRandomArtefact() {
         html += makeRollTable(randomDevice);
 
     html += encloseDeviceProperty("Depletion", randomDevice.Depletion);
+    html += encloseDeviceProperty('Categories', randomDevice.Categories)
     html += encloseDeviceProperty("Source", randomDevice.Source);
     html += "</div>";
     $("#generated-items").prepend(html);

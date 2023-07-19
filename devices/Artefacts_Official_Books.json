@@ -37,6 +37,7 @@
     "Name": "Automated Cook",
     "Level": "1d6",
     "Effect": "This automaton prepares food on command. It must be given raw materials (water and organic compounds), but with those it can prepare and serve a hot, nutritious, delicious meal. The amount of food is approximately equal to the amount of materials it is given (approximately 1 pound of materials are needed to create a meal for one person).",
+    "Categories": "Automatons, Automatons",
     "Source": "Discovery"
   },
   {
@@ -61,6 +62,7 @@
     "Name": "Bounding Boots",
     "Level": "1d6 + 1",
     "Effect": "The boots negate gravity enough to make jumping and running easier. The boots are an asset for jumping and running (easing by two steps for one of these skills if the artifact is level 6 or higher).",
+    "Categories": "Enhancements (Movement), Gravity Devices, Enhancements (Movement), Gravity Devices",
     "Source": "Discovery"
   },
   {
@@ -93,6 +95,7 @@
     "Name": "Chameleon Cloak",
     "Level": "1d6 + 4",
     "Effect": "When activated, the device takes on the colors and textures of everything around the wearer for ten minutes (one hour if the artifact is level 9 or higher). This eases hiding and sneaking tasks by two steps.",
+    "Categories": "Enhancements (Stealth), Protection (General), Enhancements (Stealth), Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -157,6 +160,7 @@
     "Name": "Exploding Arrow",
     "Level": "1d6",
     "Effect": "The arrow explodes when it strikes something, inflicting its level in damage to all within immediate range. One advantage of an exploding arrow over a detonation cypher is that the arrow doesn’t count toward your cypher limit.",
+    "Categories": "Detonations, Detonations",
     "Source": "Discovery"
   },
   {
@@ -189,6 +193,7 @@
     "Name": "Fiery Hellmaker",
     "Level": "1d6 + 4",
     "Effect": "It takes two rounds to assemble and set up this device, and then it takes an action to activate. When activated, the disk fires a barrage of fery long-range missiles in all directions. Everyone and everything within long range suffers damage equal to the artifact level, unless they are within 3 feet (1 m) of the device and keep their heads down.",
+    "Categories": "Weapons (Ranged), Weapons (Ranged)",
     "Source": "Discovery"
   },
   {
@@ -269,6 +274,7 @@
     "Name": "Instant Bridge",
     "Level": "1d6 + 1",
     "Effect": "This device fires a cable with a powerful magnet up to long range. When the magnet strikes a metal surface, it affixes itself, and the taut cable extends into a narrow bridge about 3 feet (1 m) wide. The device can then be affixed to another metallic surface to anchor the bridge. The bridge can support 1,000 pounds (450 kg), or 2,000 pounds (900 kg) if the artifact is level 6 or higher. When deactivated, the magnets let go and the cable retracts. An instant bridge could, in theory, be used to grab a metallic object and pull it toward the user. The object would need to weigh less than the user. The action would also be hindered by two steps because the device is not meant for such precision work.",
+    "Categories": "Magnetic Devices, Magnetic Devices",
     "Source": "Discovery"
   },
   {
@@ -277,6 +283,7 @@
     "Name": "Kinetic Shield",
     "Level": "1d6 + 1",
     "Effect": "When a physical projectile such as an arrow, a thrown knife, or a bullet-like missile comes within 4 inches (10 cm) of the wearer’s body, a powerful energy field activates automatically and attempts to slow down or deflect the projectile. The wearer’s Speed defense against such attacks is eased (eased by two steps if the artifact is level 6 or higher). If the projectile still hits the wearer, the field adds 1 to Armor against the attack.",
+    "Categories": "Enhancements (Speed), Magnetic Devices, Protection (General), Enhancements (Speed), Magnetic Devices, Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -325,6 +332,7 @@
     "Name": "Mephitic Staff",
     "Level": "1d6",
     "Effect": "When activated (which is not an action), the tip of the staff releases a concentrated, immediate-range blast of noxious fumes when it is struck against a solid creature or object. An affected creature loses its next turn to coughing and choking.",
+    "Categories": "Weapons (Melee), Weapons (Melee)",
     "Source": "Discovery"
   },
   {
@@ -333,6 +341,7 @@
     "Name": "Metabolism Bud",
     "Level": "1d6",
     "Effect": "The pod grafts onto any living host (usually near the brain or spine) and injects chemicals that boost the creature’s metabolism. This increases the host’s maximum Speed Pool by 5 (by 7 if the artifact is level 5 or higher).",
+    "Categories": "Enhancements (Speed), Enhancements (Speed)",
     "Source": "Discovery"
   },
   {
@@ -421,6 +430,7 @@
     "Name": "Psychic Helmet",
     "Level": "1d6 + 2",
     "Effect": "The wearer gains 3 Armor that protects against Intellect damage only. Further, attempts to affect the wearer’s mind are hindered (hindered by two steps if the artifact is level 7 or higher).",
+    "Categories": "Protection (Armor), Protection (Armor)",
     "Source": "Discovery"
   },
   {
@@ -429,6 +439,7 @@
     "Name": "Psychic Whistle",
     "Level": "1d6 + 2",
     "Effect": "When the device is activated, a whistlelike sound is heard by humans within very long range. The device doesn’t actually produce sound but instead stimulates the aural center of the human brain. It has no effect on nonhumans. There could easily be psychic whistles keyed to the brain patterns of creatures other than humans. A crafty specialist might even be able to fine-tune a psychic whistle so that it keys only to a few specific individuals’ brain patterns.",
+    "Categories": "Sound And Sonic Devices, Sound And Sonic Devices",
     "Source": "Discovery"
   },
   {
@@ -493,6 +504,7 @@
     "Name": "Shock Manacles",
     "Level": "1d6 + 1",
     "Effect": "Not only are these restraints binding, but they also inflict their level in damage whenever the wearer attempts to break firee. Once active, the manacles operate for 28 hours.",
+    "Categories": "Weapons (Melee), Weapons (Melee)",
     "Source": "Discovery"
   },
   {
@@ -541,6 +553,7 @@
     "Name": "Suspensor Belt",
     "Level": "1d6 + 1",
     "Effect": "This belt negates gravity enough to make all movement easier, granting the wearer a +1 bonus to their Speed Edge. Alternatively, a grossly obese creature could wear the belt simply to function normally. The belt supports up to 300 pounds (136 kg), or 500 pounds (227 kg) if the artifact is level 6 or higher.",
+    "Categories": "Enhancements (Movement), Enhancements (Speed), Enhancements (Movement), Enhancements (Speed)",
     "Source": "Discovery"
   },
   {
@@ -549,6 +562,7 @@
     "Name": "Telltale Glass",
     "Level": "1",
     "Effect": "This glass turns red if anything poisonous is put into it, even in very small quantities.",
+    "Categories": "Protection (General), Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -565,6 +579,7 @@
     "Name": "Thunder Cannon",
     "Level": "1d6 + 4",
     "Effect": "This massive device can barely be held or carried by a single person. When activated, it emits a 50-foot (15 m) wide cone of pure sonic force out to long range. Any creature in that area is knocked prone and stunned for one round, losing its action. Unfxed items the size of a human or smaller are toppled and/or moved at least 5 feet (1.5 m). Larger objects might also be toppled.",
+    "Categories": "Sound And Sonic Devices, Weapons (Ranged), Sound And Sonic Devices, Weapons (Ranged)",
     "Source": "Discovery"
   },
   {
@@ -613,6 +628,7 @@
     "Name": "Windslice Blade",
     "Level": "1d6 + 1",
     "Effect": "This sword is made from a material so durable and dense that the edge is sharper and lasts far longer than Ninth World smithing techniques could ever manage with steel. The blade inflicts 1 additional point of damage (2 points if the artifact is level 6 or higher). Its name comes from the idea that it can slice even the wind in half.",
+    "Categories": "Weapons (Melee), Weapons (Melee)",
     "Source": "Discovery"
   },
   {
@@ -941,6 +957,7 @@
     "Name": "Armoring Cloth",
     "Level": "1d6",
     "Effect": "If this clothing is struck, it hardens upon impact, providing +1 to Armor. It then immediately returns to its normal state (which is in no way encumbering). This clothing cannot be worn with armor of any kind.",
+    "Categories": "Protection (Armor), Protection (Armor)",
     "Source": "Compendium"
   },
   {
@@ -981,6 +998,7 @@
     "Name": "Biometric Patch",
     "Level": "1d6",
     "Effect": "The patch bonds to whatever it touches and prevents creatures other than the user from using the artifact. To use the artifact, the user must place his lips on the patch, which reads the biometric signature and activates the artifact.",
+    "Categories": "Numenera Enhancements, Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -1021,6 +1039,7 @@
     "Name": "Cacophony Blade",
     "Level": "1d6",
     "Effect": "This sword is unwieldy and heavy. The difficulty of attacks made with this weapon is increased by one step. However, if the user activates the artifact, the spiked chain begins to rock back and forth, creating an awful shrieking noise. When the weapon hits a target, the chain catches and rips through the target, inflicting 4 additional points of damage. The damage penetrates (ignores) 2 Armor.",
+    "Categories": "Weapons (Melee), Weapons (Melee)",
     "Source": "Compendium"
   },
   {
@@ -1149,6 +1168,7 @@
     "Name": "Crystal Helmet",
     "Level": "1d6",
     "Effect": "When a user activates the device while wearing it, the band surrounding the hole fuses with his skin to make the globe airtight. The globe creates a breathable atmosphere for him that lasts for up to four hours or until he deactivates it (not an action). In addition, the globe allows him to perceive his surroundings clearly to a distance of 500 feet (152 km). However, the device interferes with his ability to hear and increases the difficulty of any task that involves hearing by one step.",
+    "Categories": "Crystal Devices, Crystal Devices",
     "Source": "Compendium"
   },
   {
@@ -1693,6 +1713,7 @@
     "Name": "Lightning Whip",
     "Level": "1d6",
     "Effect": "When activated, energy crackles all along the length of the filament for one minute. While energized, the device can be used like a whip (a light weapon) that inflicts 4 points of damage. The damage ignores Armor.",
+    "Categories": "Weapons (Melee), Weapons (Melee)",
     "Source": "Compendium"
   },
   {
@@ -1965,6 +1986,7 @@
     "Name": "Periscopic Eye",
     "Level": "1d6",
     "Effect": "This device must be surgically implanted behind the user’s eyeball (a level 1d6 task that takes about one hour). Once it’s placed, the user can push on the inside of his eye and extend his eyeball out a number of feet equal to the artifact level. Doing this allows him to see around corners, down thin tunnels, and anywhere else he is willing to risk sending his eyeball.",
+    "Categories": "Artificial Body Parts And Implants, Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -2141,6 +2163,7 @@
     "Name": "Remnant Reader",
     "Level": "1d6",
     "Effect": "When activated and slowly passed over bones, skin, or some other bit of organic tissue, the device “reads” the material and compares its composition to information stored in the datasphere. After one minute, the device emits a tiny shimmering hologram that reveals what the creature looked like when it was alive. This image lasts for about a minute and then flickers before disappearing altogether.",
+    "Categories": "Datasphere Devices, Datasphere Devices",
     "Source": "Compendium"
   },
   {
@@ -2157,6 +2180,7 @@
     "Name": "Restoration Pod",
     "Level": "1d6 + 4",
     "Effect": "The artifact activates only when a creature climbs inside the device. When this happens, roll a d20. If you roll any number other than 1, the lid seals shut, the device replenishes the creature’s stat Pools up to their maximum, and it also removes any poisons, diseases, and contaminants that might be affecting the creature. However, if you roll a 1, the device malfunctions and takes the creature apart piece by piece, painting the interior with gore and killing the creature almost instantly.",
+    "Categories": "Healing Devices, Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -2341,6 +2365,7 @@
     "Name": "Sphere Thrower",
     "Level": "1d6 + 1",
     "Effect": "When activated, the clawlike end of the rod fills with a ball of roiling energy. If used as a melee weapon, this is a medium weapon that inflicts 2 additional points of damage from the energy, but this strike exhausts the energy and it must be reactivated. More devastatingly, the sphere can be hurled from the rod up to long range, where it bursts in an immediate radius and inflicts damage equal to the artifact level.",
+    "Categories": "Weapons (Melee), Weapons (Ranged), Weapons (Melee), Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -2365,6 +2390,7 @@
     "Name": "Spinneret Ring",
     "Level": "1d6",
     "Effect": "When the stronglass is lightly stroked, the spider inside reacts by releasing a thin, incredibly strong steel cord through a small hole in the stronglass. Each cord is about 20 feet (6 m) long. If firmly attached to something, the cord can hold up to 300 pounds (136 kg). Additionally, it can be used as a snare, a whip, or a similar device to cause damage equal to the artifact level + 2.",
+    "Categories": "Weapons (Melee), Weapons (Melee)",
     "Source": "Compendium"
   },
   {
@@ -2453,6 +2479,7 @@
     "Name": "Tentacle Helmet",
     "Level": "1d6 + 3",
     "Effect": "When activated, a 9-foot (3 m) tentacle comes out of the device. This tentacle resembles that of a very large living creature, but it’s also translucent, as it modulates between phase states. The tentacle can be used to pick up or manipulate small objects, push buttons, and so forth, but it has very little strength. It can’t pick up an object that weighs more than 10 pounds (5 kg) and could never be used to make an effective attack. However, its most remarkable feature is that because of its pandimensional nature, the tentacle can move through energy fields, including solid force fields, as if they were not there. Once activated, the tentacle lasts for ten minutes.",
+    "Categories": "Dimensional And Phase Devices, Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {

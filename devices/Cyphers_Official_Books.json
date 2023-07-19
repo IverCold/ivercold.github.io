@@ -5,6 +5,7 @@
     "Name": "Adhesion Clamps",
     "Level": "1d6",
     "Effect": "Allows for automatic climbing of any surface, even horizontal ones. Lasts for ten minutes per cypher level.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Discovery"
   },
   {
@@ -28,6 +29,7 @@
     "Name": "Banishing Nodule",
     "Level": "1d6",
     "Effect": "For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, it generates a burst of energy that teleports the creature or object struck an immediate distance in a random direction (not up or down). The teleported creature’s actions (including defense) are hindered on its next turn (hindered by two steps if the cypher is level 5 or higher).",
+    "Categories": "Crystal Devices, Nodules (Weapon)",
     "Source": "Discovery"
   },
   {
@@ -35,6 +37,7 @@
     "Name": "Blinking Nodule",
     "Level": "1d6",
     "Effect": "For the next 28 hours, each time (but not more than once per round) the wearer of the armor the nodule is attached to is struck hard enough to inflict damage, they teleport an immediate distance in a random direction (not up or down). Since the wearer is prepared for this effect and their foe is not, the wearer’s defenses are eased for one round after they teleport (eased by two steps if the cypher is level 5 or higher).",
+    "Categories": "Nodules (Armor), Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -43,6 +46,7 @@
     "Name": "Catholicon",
     "Level": "1d6 + 2",
     "Effect": "Cures any disease of the cypher level or lower.",
+    "Categories": "Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -123,6 +127,7 @@
         }
       ]
     },
+    "Categories": "Enhancements (Might), Enhancements (Speed), Enhancements (Intellect)",
     "Source": "Discovery"
   },
   {
@@ -130,6 +135,7 @@
     "Name": "Comprehension Graft",
     "Level": "1d6 + 1",
     "Effect": "When applied to a creature’s head, the disk immediately unleashes microfilaments that enter the brain. Within five minutes, the creature can understand the words of a specific language keyed to the graft (two languages if the cypher is level 5 or higher). This is true even of creatures that do not normally have a language. If the creature could already understand the language, the cypher has no effect. Once the graft attaches, the effect is permanent, and this device no longer counts against the number of cyphers that a PC can bear.",
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Discovery"
   },
   {
@@ -137,6 +143,7 @@
     "Name": "Controlled Blinking Nodule",
     "Level": "1d6 + 2",
     "Effect": "For the next 28 hours, each time the wearer of the armor the nodule is attached to is struck hard enough to inflict damage (but no more than once per round), they teleport to a spot they desire within immediate range. Since the wearer is prepared for this effect and their foe is not, the wearer’s defenses are eased for one round after they teleport (eased by two steps if the cypher is level 6 or higher).",
+    "Categories": "Nodules (Armor), Protection (General), Dimensional And Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -146,6 +153,7 @@
     "Name": "Datasphere Siphon",
     "Level": "1d6",
     "Effect": "Tapping into the datasphere’s knowledge, the user can learn the answer to one question (two questions if the cypher is level 4 or higher, three questions if the cypher is level 6 or higher).",
+    "Categories": "Crystal Devices, Datasphere Devices",
     "Source": "Discovery"
   },
   {
@@ -153,6 +161,7 @@
     "Name": "Density Nodule",
     "Level": "1d6",
     "Effect": "For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, the weapon suddenly increases dramatically in weight, causing the blow to inflict an additional 2 points of damage (3 points if the cypher is level 4 or higher).",
+    "Categories": "Crystal Devices, Nodules (Weapon)",
     "Source": "Discovery"
   },
   {
@@ -189,6 +198,7 @@
         }
       ]
     },
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -197,6 +207,7 @@
     "Name": "Detonation (desiccating)",
     "Level": "1d6 + 2",
     "Effect": "Bursts in an immediate radius, draining moisture from everything within it. Living creatures take damage equal to the cypher level. Water in the area is vaporized.",
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -205,6 +216,7 @@
     "Name": "Detonation (flash)",
     "Level": "1d6 + 2",
     "Effect": "Bursts in an immediate radius, blinding all within it for one minute (ten minutes if the cypher is level 4 or higher).",
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -213,6 +225,7 @@
     "Name": "Detonation (gravity)",
     "Level": "1d6 + 2",
     "Effect": "Bursts in an immediate radius, inflicting damage equal to the cypher level by increasing gravity tremendously for one second. All in the area are crushed to the ground for one round and cannot take physical actions.",
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -257,6 +270,7 @@
     "Name": "Detonation (matter Disruption)",
     "Level": "1d6 + 4",
     "Effect": "Explodes in an immediate radius, releasing nanites that rearrange matter in random ways. Inflicts damage equal to the cypher level.",
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -265,6 +279,7 @@
     "Name": "Detonation (pressure)",
     "Level": "1d6 + 2",
     "Effect": "Explodes in an immediate radius, inflicting impact damage equal to the cypher level. Also moves unattended objects out of the area if they weigh less than 20 pounds (9 kg) per cypher level.",
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -272,6 +287,7 @@
     "Name": "Detonation (singularity)",
     "Level": "10",
     "Effect": "Explodes and creates a momentary singularity that tears at the fabric of the universe. Inflicts 20 points of damage to all within short range, drawing them (or their remains) together to immediate range (if possible). Player characters in the radius move one step down the damage track if they fail a Might defense roll.",
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -280,6 +296,7 @@
     "Name": "Detonation (sonic)",
     "Level": "1d6 + 2",
     "Effect": "Explodes with terrifying sound, deafening all in an immediate radius for ten minutes per cypher level.",
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -316,6 +333,7 @@
         }
       ]
     },
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -324,6 +342,7 @@
     "Name": "Detonation (web)",
     "Level": "1d6 + 2",
     "Effect": "Explodes in an immediate radius and creates sticky strands of goo that last 1 hour. PCs caught in the area must use a Might-based action to get out, with the difficulty determined by the cypher level. NPCs break firee if their level is higher than the cypher level. Rather than strands of sticky goo, some web detonations fll the area with a mass of quick-hardening foam that accomplishes the same thing.",
+    "Categories": "Detonations",
     "Source": "Discovery"
   },
   {
@@ -331,6 +350,7 @@
     "Name": "Disrupting Nodule",
     "Level": "1d6",
     "Effect": "For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, it generates a burst of nanites that directly attack organic cells. The affected target takes 1 additional point of damage (2 points if the cypher is level 4 or higher, 3 points if the cypher is level 6 or higher) and loses its next action.",
+    "Categories": "Crystal Devices, Nodules (Weapon)",
     "Source": "Discovery"
   },
   {
@@ -339,6 +359,7 @@
     "Name": "Eagleseye",
     "Level": "1d6",
     "Effect": "Grants the ability to see ten times as far as normal for one hour per cypher level.",
+    "Categories": "Enhancements (Stealth)",
     "Source": "Discovery"
   },
   {
@@ -346,6 +367,7 @@
     "Name": "Fireproofing Spray",
     "Level": "1d6 + 4",
     "Effect": "An object sprayed by this cypher has Armor against fire damage equal to the cypher’s level for 28 hours.",
+    "Categories": "Protection (General), Protection (Armor)",
     "Source": "Discovery"
   },
   {
@@ -354,6 +376,7 @@
     "Name": "Flame-retardant Wall",
     "Level": "1d6",
     "Effect": "Creates an immobile plane of permeable energy up to 20 feet by 20 feet (6 m by 6 m) for one hour per cypher level. The plane conforms to the space available. Flames passing through the plane are extinguished.",
+    "Categories": "Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -369,6 +392,7 @@
     "Name": "Force Nodule",
     "Level": "1d6",
     "Effect": "For the next 28 hours, the armor the nodule is attached to is bolstered by a powerful force field, adding 2 to the Armor it provides (adding 3 to the Armor if the cypher is level 5 or higher).",
+    "Categories": "Nodules (Armor), Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -456,6 +480,7 @@
         }
       ]
     },
+    "Categories": "Detonations, Weapons (Ranged)",
     "Source": "Discovery"
   },
   {
@@ -465,6 +490,7 @@
     "Name": "Gravity Nullifier",
     "Level": "1d6 + 3",
     "Effect": "For one hour, the user can float into the air, moving vertically (but not horizontally without some other action, such as pushing along the ceiling) up to a short distance per round. The user must weigh less than 50 pounds (22 kg) per level of the cypher.",
+    "Categories": "Gravity Devices",
     "Source": "Discovery"
   },
   {
@@ -472,6 +498,7 @@
     "Name": "Gravity-nullifying Spray",
     "Level": "1d6 + 2",
     "Effect": "A nonliving object up to the size of a human (two humans if the cypher is level 6 or higher) sprayed by this cypher floats 1d20 feet in the air permanently and no longer has weight if carried, though it needs to be strapped down.",
+    "Categories": "Gravity Devices",
     "Source": "Discovery"
   },
   {
@@ -479,6 +506,7 @@
     "Name": "Heat Nodule",
     "Level": "1d6",
     "Effect": "For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, it generates a burst of heat, inflicting an additional 2 points of damage (3 points if the cypher is level 4 or higher, 4 points if the cypher is level 6 or higher).",
+    "Categories": "Crystal Devices, Nodules (Weapon)",
     "Source": "Discovery"
   },
   {
@@ -511,6 +539,7 @@
         }
       ]
     },
+    "Categories": "Weapons (Ranged)",
     "Source": "Discovery"
   },
   {
@@ -539,6 +568,7 @@
         }
       ]
     },
+    "Categories": "Ray Projectors",
     "Source": "Discovery"
   },
   {
@@ -546,6 +576,7 @@
     "Name": "Inferno Wall Projector",
     "Level": "1d6 + 2",
     "Effect": "Creates a wall of extreme heat up to 30 feet by 30 feet by 1 foot (9 m by 9 m by 30 cm) that inflicts damage equal to the cypher level on anything that passes through it. The wall conforms to the space available. It lasts for ten minutes.",
+    "Categories": "Ray Projectors",
     "Source": "Discovery"
   },
   {
@@ -562,6 +593,7 @@
     "Name": "Instant Servant",
     "Level": "1d6",
     "Effect": "Small device expands into a humanoid automaton that is roughly 2 feet (60 cm) tall. Its level is equal to the cypher level and it can understand the verbal commands of the character who activates it. Once the servant is activated, commanding it is not an action. It can make attacks or perform actions as ordered to the best of its abilities, but it cannot speak. The automaton has short-range movement but never goes farther than long range away from the character who activated it. At the GM’s discretion, the servant might have specialized knowledge, such as how to operate a particular device. Otherwise, it has no special knowledge. In any case, the servant is not artificially intelligent or capable of initiating action. It does only as commanded. The servant operates for one hour per cypher level.",
+    "Categories": "Automatons",
     "Source": "Discovery"
   },
   {
@@ -578,6 +610,7 @@
     "Name": "Intellect Enhancement",
     "Level": "1d6 + 2",
     "Effect": "Substance adds 1 to Intellect Edge for one hour (or adds 2 if the cypher is level 5 or higher).",
+    "Categories": "Enhancements (Intellect)",
     "Source": "Discovery"
   },
   {
@@ -585,6 +618,7 @@
     "Name": "Invisibility Nodule",
     "Level": "1d6",
     "Effect": "For the next ten hours per cypher level, the armor the nodule is attached to is invisible, making the wearer appear to be unarmored.",
+    "Categories": "Crystal Devices, Nodules (Armor)",
     "Source": "Discovery"
   },
   {
@@ -660,6 +694,7 @@
     "Name": "Living Solvent",
     "Level": "1d10",
     "Effect": "Once released, this organic slime dissolves 1 cubic foot of material each round. After one round per cypher level, the slime dies and becomes inert.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -676,6 +711,7 @@
     "Name": "Magnetic Attack Drill",
     "Level": "1d6 + 2",
     "Effect": "The user throws this cypher at a target within short range, and it drills into the target for one round, inflicting damage equal to the cypher level. If the target is made of metal or wearing metal (such as armor), the attack is eased.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Discovery"
   },
   {
@@ -684,6 +720,7 @@
     "Name": "Magnetic Master",
     "Level": "1d6 + 2",
     "Effect": "Establishes a connection with one metal object within short range that a human could hold in one hand. After this connection is established, the user can move or manipulate the object anywhere within short range (each movement or manipulation is an action). For example, the user could wield a weapon or drag a helm affixed to a foe’s head to and fro. The connection lasts for ten rounds per cypher level.",
+    "Categories": "Magnetic Devices",
     "Source": "Discovery"
   },
   {
@@ -692,6 +729,7 @@
     "Name": "Magnetic Shield",
     "Level": "1d6 + 2",
     "Effect": "For ten minutes per cypher level, metal objects cannot come within immediate range of the activated device. Metal items already in the area when the device is activated are slowly pushed out.",
+    "Categories": "Magnetic Devices",
     "Source": "Discovery"
   },
   {
@@ -750,6 +788,7 @@
         }
       ]
     },
+    "Categories": "Weapons (Ranged)",
     "Source": "Discovery"
   },
   {
@@ -767,6 +806,7 @@
     "Name": "Monoblade",
     "Level": "1d6 + 2",
     "Effect": "Produces a 6-inch (15 cm) blade that’s the same level as the cypher. The blade cuts through any material of a level lower than its own. If used as a weapon, it is a light weapon that ignores Armor of a level lower than its own. The blade lasts for ten minutes.",
+    "Categories": "Weapons (Melee)",
     "Source": "Discovery"
   },
   {
@@ -776,6 +816,7 @@
     "Name": "Motion Sensor",
     "Level": "1d6 + 2",
     "Effect": "Indicates when any movement occurs within short range, or when large creatures or objects move within long range (the cypher distinguishes between the two). It also indicates the number and size of the creatures or objects in motion. Once activated, it operates for one hour per cypher level.",
+    "Categories": "Enhancements (Intellect)",
     "Source": "Discovery"
   },
   {
@@ -784,6 +825,7 @@
     "Name": "Personal Environment Field",
     "Level": "1d6 + 2",
     "Effect": "Creates an aura of temperature and atmosphere that will sustain a human safely for 28 hours. The aura extends to 1 foot (30 cm) around the user (double that radius if the cypher is level 7 or higher). It does not protect against sudden flashes of temperature change (such as from a heat ray). A small number of these cyphers (1%) accommodate the preferred environment of a nonhuman, nonterrestrial creature.",
+    "Categories": "Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -792,6 +834,7 @@
     "Name": "Phase Changer",
     "Level": "1d6 + 1",
     "Effect": "Puts the user out of phase for one minute (two minutes if the cypher is level 6 or higher). During this time, the user can pass through solid objects as though they were entirely insubstantial, like a ghost. They cannot make physical attacks or be physically attacked.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -799,6 +842,7 @@
     "Name": "Phase Disruptor",
     "Level": "1d6 + 2",
     "Effect": "Puts a portion of a physical structure (like a wall or floor) out of phase for one hour. It affects an area equal to one 5-foot (1.5 m) cube per cypher level. While the area is out of phase, creatures and objects can pass fireely through it as if it were not there, although one cannot see through it, and it blocks light.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -840,6 +884,7 @@
         }
       ]
     },
+    "Categories": "Organic And Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -881,6 +926,7 @@
         }
       ]
     },
+    "Categories": "Detonations, Organic And Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -922,6 +968,7 @@
         }
       ]
     },
+    "Categories": "Organic And Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -931,6 +978,7 @@
     "Name": "Poison (mind-disrupting)",
     "Level": "1d6 + 2",
     "Effect": "The victim suffers Intellect damage equal to the cypher’s level and cannot take actions for a number of rounds equal to the cypher’s level.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -977,6 +1025,7 @@
         }
       ]
     },
+    "Categories": "Ray Projectors",
     "Source": "Discovery"
   },
   {
@@ -986,6 +1035,7 @@
     "Name": "Ray Emitter (numbing)",
     "Level": "1d6 + 2",
     "Effect": "Allows the user to project a ray of energy up to long range (very long range if the cypher is level 6 or higher) that numbs one limb of the target, making it useless for one minute. A small number of these devices (5%) induce numbing that lasts for one hour.",
+    "Categories": "Ray Projectors",
     "Source": "Discovery"
   },
   {
@@ -995,6 +1045,7 @@
     "Name": "Ray Emitter (paralysis)",
     "Level": "1d6 + 2",
     "Effect": "Allows the user to project a ray of energy up to very long range that paralyzes the target for one minute. A small number of these devices (5%) induce paralysis that lasts for one hour.",
+    "Categories": "Ray Projectors",
     "Source": "Discovery"
   },
   {
@@ -1002,6 +1053,7 @@
     "Name": "Reality Spike",
     "Level": "1d6 + 4",
     "Effect": "Once activated, the spike does not move—ever—even if activated in midair. A Might action will dislodge the spike, but then it is ruined.",
+    "Categories": "Gravity Devices, Dimensional And Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1027,6 +1079,7 @@
         }
       ]
     },
+    "Categories": "Healing Devices",
     "Source": "Discovery"
   },
   {
@@ -1034,6 +1087,7 @@
     "Name": "Remote Viewer",
     "Level": "1d6",
     "Effect": "For one hour per cypher level, the glass screen on one part shows everything going on in the vicinity of the other part, regardless of the distance between the two parts.",
+    "Categories": "Datasphere Devices",
     "Source": "Discovery"
   },
   {
@@ -1042,6 +1096,7 @@
     "Name": "Repair Unit",
     "Level": "1d10",
     "Effect": "Device becomes a multiarmed sphere that floats. It repairs one designated numenera device (of a level equal to or less than its own) that has been damaged but not destroyed. The repair unit can even create spare parts, unless the GM rules that the parts are too specialized or rare (in which case, the unit repairs the device entirely except for the specialized part). Repair time is 1d100 + 20 minutes.",
+    "Categories": "Automatons, Healing Devices",
     "Source": "Discovery"
   },
   {
@@ -1049,6 +1104,7 @@
     "Name": "Retaliation Nodule",
     "Level": "1d6",
     "Effect": "For the next 28 hours, anyone striking the armor the nodule is attached to triggers a small burst of electricity that inflicts 1 point of damage (2 points if the cypher is level 4 or higher, 3 points if the cypher is level 6 or higher). No action or roll is required by the armor’s wearer.",
+    "Categories": "Nodules (Armor)",
     "Source": "Discovery"
   },
   {
@@ -1057,6 +1113,7 @@
     "Name": "Sheen",
     "Level": "1d6",
     "Effect": "For one week, the user’s cells are coated with a protective veneer that resists damage (+1 to Armor, or +2 to Armor if the cypher is level 5 or higher) and eases Might defense rolls by two steps. However, healing is more difficult during this time; all recovery rolls suffer a –1 penalty.",
+    "Categories": "Enhancements (Might), Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -1064,6 +1121,7 @@
     "Name": "Shock Nodule",
     "Level": "1d6",
     "Effect": "For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, it generates a burst of electricity, inflicting 1 additional point of damage (2 points if the cypher is level 4 or higher, 3 points if the cypher is level 6 or higher).",
+    "Categories": "Nodules (Weapon)",
     "Source": "Discovery"
   },
   {
@@ -1073,6 +1131,7 @@
     "Name": "Shocker",
     "Level": "1d6 + 4",
     "Effect": "Delivers a powerful burst of electricity that shocks any creature touched, inflicting damage equal to the cypher’s level.",
+    "Categories": "Weapons (Melee)",
     "Source": "Discovery"
   },
   {
@@ -1141,6 +1200,7 @@
         }
       ]
     },
+    "Categories": "Organic And Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1150,6 +1210,7 @@
     "Name": "Sleep Inducer",
     "Level": "1d6",
     "Effect": "Touch or ingestion puts the victim to sleep for ten minutes or until awoken by a violent action or an extremely loud noise.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1158,6 +1219,7 @@
     "Name": "Sonic Hole",
     "Level": "1d6 + 2",
     "Effect": "Draws all sound within long range into the device for one round per cypher level. Within the affected area, no sound can be heard.",
+    "Categories": "Sound And Sonic Devices",
     "Source": "Discovery"
   },
   {
@@ -1167,6 +1229,7 @@
     "Name": "Sound Dampener",
     "Level": "1d6 + 2",
     "Effect": "Dampens all sound within immediate range for one minute per cypher level, providing an asset for all creatures in the area to attempt stealthy actions.",
+    "Categories": "Enhancements (Stealth), Sound And Sonic Devices",
     "Source": "Discovery"
   },
   {
@@ -1174,6 +1237,7 @@
     "Name": "Spatial Warp",
     "Level": "5",
     "Effect": "When affixed to another numenera device that affects a single target at range, that range is increased to 1 mile (1.5 km) with no penalties. Space is temporarily warped in terms of seeing and reaching the target. If direct line of sight is important to the device’s effect, it remains important. Creating the spatial warp functions as one use of the device.",
+    "Categories": "Numenera Enhancements",
     "Source": "Discovery"
   },
   {
@@ -1183,6 +1247,7 @@
     "Name": "Speed Boost",
     "Level": "1d6 + 2",
     "Effect": "Substance adds 1 to Speed Edge for one hour (or adds 2 if the cypher is level 5 or higher).",
+    "Categories": "Enhancements (Speed)",
     "Source": "Discovery"
   },
   {
@@ -1200,6 +1265,7 @@
     "Name": "Strength Boost",
     "Level": "1d6 + 2",
     "Effect": "Substance adds 1 to Might Edge for one hour (or adds 2 if the cypher is level 5 or higher).",
+    "Categories": "Enhancements (Might)",
     "Source": "Discovery"
   },
   {
@@ -1207,6 +1273,7 @@
     "Name": "Subdual Field",
     "Level": "1d6 + 3",
     "Effect": "Two rounds after being activated, the device creates an invisible field that fills a specified area (such as a cube of a certain size) within long range of the device. The field lasts for one minute. It affects the minds of thinking beings within the field, preventing them from taking hostile actions. The effect lasts as long as they remain in the field and for 1d6 rounds after, although an Intellect defense roll is allowed each round to act normally (both in the field and after leaving it).",
+    "Categories": "Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -1216,6 +1283,7 @@
     "Name": "Telepathy Implant",
     "Level": "1d6 + 2",
     "Effect": "The user activates the device and targets one creature within close range. For one hour per cypher level, the device enables two-way long-range mental communication between the user and the target. This lasts for one hour per cypher level. Sometimes multiple cyphers of this type are found together and allow communication between all of them.",
+    "Categories": "Artificial Body Parts And Implants, Datasphere Devices",
     "Source": "Discovery"
   },
   {
@@ -1224,6 +1292,7 @@
     "Name": "Teleporter (bounder)",
     "Level": "1d6 + 2",
     "Effect": "User teleports up to 100 × the cypher level in feet (30 × cypher level in m) to a location they can see. They arrive safely with their possessions but cannot take anything else with them.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1232,6 +1301,7 @@
     "Name": "Teleporter (traveler)",
     "Level": "1d6 + 4",
     "Effect": "User teleports up to 100 × the cypher level in miles (160 x the cypher level in km) to a location they have previously visited. They arrive safely with their possessions but cannot take anything else with them.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1240,6 +1310,7 @@
     "Name": "Temporal Viewer",
     "Level": "1d6 + 4",
     "Effect": "Displays moving images and sound, up to ten minutes per cypher level in length, depicting events that occurred at the current location up to one year prior. The user specifires the time period shown by the viewer.",
+    "Categories": "Datasphere Devices, Time Devices",
     "Source": "Discovery"
   },
   {
@@ -1247,6 +1318,7 @@
     "Name": "Time Dilation Nodule (defensive)",
     "Level": "1d6",
     "Effect": "For the next 28 hours, the wearer of the armor moves in seemingly random, rapid jumps, a few inches to one side or the other, when attacked. This is an asset that eases attacks by two steps (three steps if the cypher is level 6 or higher).",
+    "Categories": "Protection (General), Time Devices",
     "Source": "Discovery"
   },
   {
@@ -1254,6 +1326,7 @@
     "Name": "Time Dilation Nodule (offensive)",
     "Level": "1d6",
     "Effect": "For the next 28 hours, the attacker moves at almost instantaneous speeds when they swing the weapon, easing their attacks by two steps (three steps if the cypher is level 6 or higher).",
+    "Categories": "Time Devices",
     "Source": "Discovery"
   },
   {
@@ -1262,6 +1335,7 @@
     "Name": "Tracer",
     "Level": "1d6",
     "Effect": "Fires a microscopic tracer that clings to any surface within short range (long range if the cypher is level 4 or higher, very long range if the cypher is level 6 or higher). For the next 28 hours, the launcher shows the distance and direction to the tracer, as long as it is in the same dimension.",
+    "Categories": "Datasphere Devices",
     "Source": "Discovery"
   },
   {
@@ -1270,6 +1344,7 @@
     "Name": "Visage Changer",
     "Level": "1d6",
     "Effect": "Changes the appearance of one humansized creature, providing an asset to disguise tasks (easing them by two steps if the cypher is level 5 or higher). The change takes ten minutes to apply and lasts for 28 hours.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1278,6 +1353,7 @@
     "Name": "Visual Displacement Device",
     "Level": "1d6",
     "Effect": "Projects holographic images of the wearer to confuse attackers. The images appear around the wearer. This gives the wearer an asset to Speed defense actions for ten minutes per cypher level.",
+    "Categories": "Enhancements (Speed), Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -1296,6 +1372,7 @@
     "Name": "Warmth Projector",
     "Level": "1d6",
     "Effect": "Keeps the user warm and comfortable in the harshest cold temperatures for 28 hours. During this time, the user has Armor equal to the cypher level that protects against cold damage.",
+    "Categories": "Artificial Body Parts And Implants, Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -1733,6 +1810,7 @@
     "Name": "Access Token",
     "Level": "1d6",
     "Effect": "Automatically unlocks one locked door or container within short range.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -1747,6 +1825,7 @@
     "Name": "Airfins",
     "Level": "1d6",
     "Effect": "Through gravity manipulation, the wearer can swim through the air as if it were water for one hour. Training or specialization in swimming aids in movement.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -1770,6 +1849,7 @@
     "Name": "Analysis Daemon",
     "Level": "1",
     "Effect": "The user examines a cypher or an artifact and then taps into the datasphere. The user automatically identifires the device.",
+    "Categories": "Datasphere Devices",
     "Source": "Compendium"
   },
   {
@@ -1823,6 +1903,7 @@
         }
       ]
     },
+    "Categories": "Nodules (Armor)",
     "Source": "Compendium"
   },
   {
@@ -1830,6 +1911,7 @@
     "Name": "Artificial Leech",
     "Level": "1d6",
     "Effect": "When used at the site of an infected or poisoned wound, the device draws out as much of the infection or poison as it can without injuring the surrounding tissue. The device restores a number of points equal to the cypher level to the user’s Might Pool.",
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -1837,6 +1919,7 @@
     "Name": "Atmospheric Hyperskin",
     "Level": "1d6",
     "Effect": "When applied to any part of the body, nanowires penetrate the surface of the skin, allowing the user to sense a wider-thannormal range of atmospheric, geologic, and aqueous pressures, sensations, and vibrations. The user becomes trained in geology, biology, climatology, and perception for 28 hours.",
+    "Categories": "Enhancements (Intellect)",
     "Source": "Compendium"
   },
   {
@@ -1852,6 +1935,7 @@
     "Name": "Battle Vapor",
     "Level": "1d6",
     "Effect": "Releases faint red vapor that fills an area within long distance within two rounds. The vapor persists for ten minutes unless natural conditions (such as wind) suggest otherwise. All energy weapons used in the area inflict 2 additional points of damage as the vapor intensifires them.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -1866,6 +1950,7 @@
     "Name": "Bezoar Discharge",
     "Level": "1d6",
     "Effect": "Explodes in an immediate radius, giving everything and everyone within it a sticky, powdery coating that provides +1 to Armor against poison, chemical, and fire damage for 28 hours.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -1953,6 +2038,7 @@
     "Name": "Biometric Reference",
     "Level": "1",
     "Effect": "Activating the device allows the user to connect with the datasphere to identify one creature he can see. The user learns the creature’s level, motivations, health, damage inflicted, armor, and movement, plus a detail about how it fights in combat.",
+    "Categories": "Datasphere Devices",
     "Source": "Compendium"
   },
   {
@@ -1985,6 +2071,7 @@
         }
       ]
     },
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -2016,6 +2103,7 @@
         }
       ]
     },
+    "Categories": "Magnetic Devices",
     "Source": "Compendium"
   },
   {
@@ -2023,6 +2111,7 @@
     "Name": "Bloom (Fireflower)",
     "Level": "1d6 + 4",
     "Effect": "Ten seconds after the fuse is lit, the device explodes, sending shards of red-hot glass out into the pattern of a flower. Any living creature that comes into contact with falling or spraying shards suffers burn damage equal to the cypher level. Blooms are a special type of detonation that explodes into specific, often elaborate, shapes. Floristas—those who create blooms—take great pride in their craft, attempting to make not only the most beautiful, but also the most lethal, explosions.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2030,6 +2119,7 @@
     "Name": "Bloom (Serpent)",
     "Level": "1d6 + 2",
     "Effect": "Ten seconds after the fuse is lit, the device explodes, sending out electrified wireworms in the pattern of a long, gyrating snake. As the snake pattern slides through the air, it explodes a second time, sending the electrified wireworms out in a wider pattern. Any living creature that comes into contact with the wireworms is electrified, taking damage equal to the cypher level and becoming dazed for one round, during which time the difficulty of all tasks it performs is modified by one step to its detriment. Blooms are a special type of detonation that explodes into specific, often elaborate, shapes. Floristas—those who create blooms—take great pride in their craft, attempting to make not only the most beautiful, but also the most lethal, explosions.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2037,6 +2127,7 @@
     "Name": "Bloom (Spore)",
     "Level": "1d6 + 4",
     "Effect": "Ten seconds after the ball is firmly squeezed (to activate the detonator), the device explodes, sending spores out in foliage patterns. Any living creature that breathes in the falling or spraying spores takes damage equal to the cypher level. Blooms are a special type of detonation that explodes into specific, often elaborate, shapes. Floristas—those who create blooms—take great pride in their craft, attempting to make not only the most beautiful, but also the most lethal, explosions.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2044,6 +2135,7 @@
     "Name": "Blue Crystal",
     "Level": "1d6 + 1",
     "Effect": "When one gazes through a blue crystal, for a brief moment she can view a spot corresponding to her current position in a parallel universe. Moreover, the view is set a few moments in the future. However, since the crystal shows a parallel universe, the future seen may or may not be an accurate reflection of her reality. The user, then, sees a possible future. Normally, there is about a 30% chance that the glimpse is entirely accurate and a 30% chance that it is partially accurate, but these numbers depend on the circumstances. The GM should decide what a PC sees through a blue crystal based on what is most likely to happen, and then allow actual play to determine whether what was seen was entirely accurate, partially accurate, or inaccurate.",
+    "Categories": "Crystal Devices",
     "Source": "Compendium"
   },
   {
@@ -2058,6 +2150,7 @@
     "Name": "Bone Dress",
     "Level": "1d6",
     "Effect": "The material can be squeezed into a pattern of protection around anything, living or nonliving. Within a few seconds after application, the bone hardens in the established pattern, providing a cage of armor around the selected object or creature. The cage is malleable, allowing movement, and offers +1 to Armor for one hour. Application takes ten seconds or one round. Bone dresses are often used by those who wish to protect their companions in combat. It’s not uncommon to see seskii wearing intricate bone dresses before battle.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -2066,6 +2159,7 @@
     "Name": "Brain Lightning",
     "Level": "1d6",
     "Effect": "Provides a short, low-level burst of electrical stimulation directly to the brain, increasing awareness and cognitive function. As a result, the user moves one step up the damage track for ten minutes. This is a temporary effect that doesn’t change the status of her Pools. If she is hale (or becomes hale), the device has no effect.",
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -2073,6 +2167,7 @@
     "Name": "Breather Symbiote",
     "Level": "1d6 + 2",
     "Effect": "Activating the symbiote causes the device to forcefully inject a long tendril down the user’s throat until it reaches his lungs, where it lodges in the fleshy material. The symbiote provides him with breathable air for one hour, letting him breathe in the absence of air. However, while the symbiote is activated, the user can’t speak. If the symbiote is removed, the user takes 4 points of damage.",
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -2082,6 +2177,7 @@
     "Name": "Buoyancy",
     "Level": "1d6",
     "Effect": "For one hour, the user cannot become submerged in any liquid.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -2090,6 +2186,7 @@
     "Name": "Burrowing Bubble",
     "Level": "1d6 + 4",
     "Effect": "Upon activation, for ten minutes, the user is surrounded by a bubble of energy that projects incredible heat outward, but not inward. This bubble floats 1 foot (0.3 m) in the air, inflicts 6 points of damage to all within immediate range, and inflicts 3 points of damage to all within short range. Further, it instantly melts the material directly below (of lower level than the cypher), and the bubble sinks an immediate distance into the new hole it created. This continues for the duration of the effect, so a user who stands on the ground when activating this cypher ends up about 800 feet (244 m) underground when it finally stops. If the user concentrates, she can force the bubble to move an immediate distance in any direction she chooses as an action. The user cannot penetrate the bubble, and neither can forces from the outside. Not even ambient damage gets through. Dealing at least 50 points of damage to the bubble (which has no Armor) destroys it. Damaging the bubble does not harm the user inside until the bubble is destroyed, at which point she falls from whatever height the bubble was at, which is at least 1 foot (0.3 m) in the air.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -2097,6 +2194,7 @@
     "Name": "Butterfly Drone",
     "Level": "1d6",
     "Effect": "This voice-controlled cyberbug travels in a designated direction and distance. There, it holds its position, flying around in the area for ten minutes, recording sound and images. After that time, it returns to the user. To decipher the information, the user must ingest the bug, which then relays the recording via mechanical impulses to her brain. She sees and hears the recording only once.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -2119,6 +2217,7 @@
     "Name": "Camouflage Spray",
     "Level": "1d6 + 1",
     "Effect": "An inanimate object (or group of objects) small enough to fit into a cube that is 10 feet by 10 feet by 10 feet (3 m by 3 m by 3 m) can be quickly coated so that its color and texture blend into its surroundings perfectly.",
+    "Categories": "Enhancements (Stealth)",
     "Source": "Compendium"
   },
   {
@@ -2133,6 +2232,7 @@
     "Name": "Chitin Colony",
     "Level": "1d6",
     "Effect": "The shavings sprout sharp legs and rush out of the container to completely encase the user’s body. Each piece locks with another piece to form a flexible mesh. The user gains +1 to Armor for one hour.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -2140,6 +2240,7 @@
     "Name": "Cicerone",
     "Level": "1d6",
     "Effect": "The user activates the device, points the automaton’s face in the general direction he wishes to go, and states a general distance. The device suggests the easiest and quickest way to travel that route, taking into account terrain, weather, potential threats, and existing paths. It functions for 28 hours and then dies, speaking a single bit of useful information about the route ahead when it does so.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -2162,6 +2263,7 @@
     "Name": "Cloaking Pin",
     "Level": "1d6 + 2",
     "Effect": "When activated, this creates a cloaking field that effectively makes the user invisible and completely silent for one minute. While invisible, the user is specialized in stealth and Speed defense tasks. This effect ends if he does something to reveal his presence or position—attacking, performing an esotery, using an ability, moving a large object, and so on. If this occurs, he can regain the remaining invisibility effect by taking an action to focus on hiding his position.",
+    "Categories": "Enhancements (Stealth)",
     "Source": "Compendium"
   },
   {
@@ -2169,6 +2271,7 @@
     "Name": "Clone Tank",
     "Level": "10",
     "Effect": "To activate this device, the user must place a few drops of blood, strands of hair, nail clippings, or a piece of flesh in the slime. The slime hardens around the organic material to form a cyst. Over the next 3d6 months, the device rapidly grows a person from the material. At the end of this time, a full-grown creature, identical in every physical way to the donor creature, emerges from the tank, and the device deactivates. The clone is a level 1 creature. It can communicate in a language known to the user, but otherwise it understands nothing of the world. It becomes a unique character that develops a personality, objectives, and nature of its own.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -2182,6 +2285,7 @@
     "Name": "Cloudskimmer",
     "Level": "1d6 + 2",
     "Effect": "The lid of the box opens, and ten small bags rise from within and spend the next five minutes filling with a lighter-than-air gas. As they inflate, they rise above the box, revealing an empty compartment. A sturdy cord tethers each balloon to the box. When the balloons finish inflating, they lift the box and anything in it into the air at a rate of 100 feet (30 m) per minute until it reaches a maximum altitude of 1,000 feet (305 m). The device remains airborne for seven hours. After this time, it loses 100 feet (30 m) of altitude every ten minutes until it lands. The device moves in whatever direction the winds are blowing.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -2189,6 +2293,7 @@
     "Name": "Colorless Grease",
     "Level": "1d6 + 4",
     "Effect": "There’s enough grease in the container to cover a human-sized creature or an object that can fit inside a 5-foot (2 m) cube. Rubbing the grease onto the target causes it to reflect no color and become invisible for as long as the grease remains. The grease wears off after 1d6 hours. Heat can cause the grease to melt and run, revealing the concealed target early.",
+    "Categories": "Enhancements (Stealth)",
     "Source": "Compendium"
   },
   {
@@ -2196,6 +2301,7 @@
     "Name": "Communication Disks",
     "Level": "1d6 + 1",
     "Effect": "These cyphers usually come in pairs (although each is its own cypher). They allow verbal communication between their users at any distance. Both cyphers must be activated at the same time, and they function for 28 hours.",
+    "Categories": "Sound And Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -2210,6 +2316,7 @@
     "Name": "Concrete Casting",
     "Level": "1d6",
     "Effect": "When mixed with water, this compound turns into malleable paste. If molded around a piece of armor, a body part, or another object and allowed to harden for ten minutes, the paste gives it an additional layer of protection, granting +3 to Armor. The paste lasts for one hour before it begins to disintegrate.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -2218,6 +2325,7 @@
     "Name": "Conflict Advisor",
     "Level": "1d6 + 2",
     "Effect": "The device allows the user to access the datasphere to analyze opponents and anticipate their actions. For one hour, the user has an asset on all attack rolls and Speed defense rolls.",
+    "Categories": "Datasphere Devices",
     "Source": "Compendium"
   },
   {
@@ -2233,6 +2341,7 @@
     "Name": "Contingent Subroutine",
     "Level": "1d6",
     "Effect": "The device automatically activates if the user becomes debilitated or dies. The device downloads special instructions from the datasphere that cause the body to take steps to protect and repair itself. During the next minute, the user is under the GM’s control and on each of the user’s turns, even if he is dead, he takes an action to move away from danger by the safest available route. At the end of this time, he makes a recovery roll—again, even if he is dead. The recovery roll does not count against the limit on recovery rolls that he can make in a day.",
+    "Categories": "Datasphere Devices, Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -2240,6 +2349,7 @@
     "Name": "Countermeasure (Magnetic)",
     "Level": "1d6 + 2",
     "Effect": "This device creates an invisible field that fills an area within short range and lasts for one minute. The field scrambles magnetic fields, making any device or power involving magnetism unusable. The effect lasts as long as the device or power remains within the field.",
+    "Categories": "Magnetic Devices",
     "Source": "Compendium"
   },
   {
@@ -2247,6 +2357,7 @@
     "Name": "Countermeasure (Membrane)",
     "Level": "1d6 + 2",
     "Effect": "This device creates an invisible field around up to three living creatures that lasts for one minute. The field scrambles all effects of incoming technological devices, ricocheting the effect back toward the initiator. It has no effects on technological devices used inside the field.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -2254,6 +2365,7 @@
     "Name": "Countermeasure (Technological)",
     "Level": "1d6 + 2",
     "Effect": "Two rounds after being activated, the device creates an invisible field that fills an area within short range and lasts for one minute. The field scrambles the electronic processes of most technological devices and makes them inoperable. Intelligent devices cannot take actions during this time. The effect lasts as long as the devices remain within the field.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -2261,6 +2373,7 @@
     "Name": "Crystal Virus",
     "Level": "1d6 + 3",
     "Effect": "When placed on a human’s forehead, this cypher immediately takes effect by permanently grafting itself in place (no longer counting against the person’s cypher limit). Within 1d10 + 2 days, the wearer’s flesh begins to take on a crystalline appearance in patches. In three times that number of days, her entire body becomes organic crystal, flexible enough to move without hindrance, but hard and cold like crystal. She has +1 to Armor permanently but is no longer capable of sexual reproduction. Further, at the time of complete transformation, she produces a new crystal virus cypher, which can be used by another human. It’s possible to remove the crystal before complete transformation, but it requires surgery and the task difficulty is equal to the cypher level. Doing so ensures that the creature’s flesh returns to normal. This will not work after complete transformation occurs.",
+    "Categories": "Crystal Devices",
     "Source": "Compendium"
   },
   {
@@ -2269,6 +2382,7 @@
     "Name": "Cyberflesh",
     "Level": "1d6 + 2",
     "Effect": "A character covered in cyberflesh has many advantages. The metallic coating offers +1 to Armor. The character also can use an action to touch any numenera device and automatically learn its function and how to use it (if possible). Cyberflesh lasts for ten minutes.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -2276,6 +2390,7 @@
     "Name": "Cypher Replicator",
     "Level": "1d6",
     "Effect": "The user can dismantle the orb and use the individual blocks to replicate the shape of a weapon, bit of armor, or piece of equipment that is in her line of sight. Even if the duplicate is not identical, the finished object gives a viewer the sense that it is. In fact, for most people, it would be hard to tell the two objects apart. Creating the duplicate takes two actions. The replicated item works exactly as the original does, except that it disintegrates in one hour.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -2283,6 +2398,7 @@
     "Name": "Cypher Seed",
     "Level": "1d6",
     "Effect": "If affixed to another cypher that is a handheld device, it infuses that cypher with additional circuitry like roots from a plant. In 28 hours, it transforms the cypher into an artifact. The GM determines whether the new artifact retains the same ability (but now with potentially multiple uses) or whether it becomes a different artifact of the handhelddevice variety.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -2291,6 +2407,7 @@
     "Name": "Data Flood",
     "Level": "1d6 + 2",
     "Effect": "Activating the cypher enables the user to connect her mind to the datasphere for one hour. Until the connection is broken, the difficulty is reduced by one step for her Intellect defense rolls and Intellect tasks to identify objects, creatures, and places.",
+    "Categories": "Datasphere Devices",
     "Source": "Compendium"
   },
   {
@@ -2300,6 +2417,7 @@
     "Name": "Data Merge",
     "Level": "10",
     "Effect": "The user uploads his mind into the datasphere, where it becomes a being of pure thought. His body becomes catatonic and remains that way until he downloads his consciousness back into his body. If his body dies, he becomes trapped in the datasphere and is forever lost. While the user is merged with the datasphere, the difficulty of his Intellect rolls is reduced by two steps. In addition, the user can project a solid light hologram anywhere he chooses in the world. The hologram acts as a level 5 creature under the user’s control. He can perceive and communicate through the hologram and decide how it acts and moves. If the hologram is reduced to 0 health, the user must wait at least one hour before he can create a new one.",
+    "Categories": "Datasphere Devices, Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -2398,6 +2516,7 @@
         }
       ]
     },
+    "Categories": "Datasphere Devices",
     "Source": "Compendium"
   },
   {
@@ -2405,6 +2524,7 @@
     "Name": "Data Vault",
     "Level": "1d6 + 2",
     "Effect": "The device scans one object (chosen by the user) that can fit inside a 10-foot (3 m) cube and is within a short distance. The object then dissolves, its substance drawn into the device. Activating the device again causes it to create an identical copy of the object using solidified light at an open spot within a short distance.",
+    "Categories": "Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -2420,6 +2540,7 @@
     "Name": "Death Messenger",
     "Level": "1d6 + 2",
     "Effect": "To activate the device, the user places a bit of skin, hair, nail, or some other material from a living creature inside a compartment positioned between the wings. The wings begin to flap, causing the device to lift into the air and fly off toward the creature whose materials were used to activate it. The device uses the datasphere to locate the creature and speeds off toward it by the shortest and fastest available route. The device flies about 30 mph (48 kph) and maneuvers around obstacles. If blocked by a solid object, it goes out of phase, along with the cypher it carries, and moves through the object until it emerges into an open space. The device activates its detonation cypher when it reaches the target or after 28 hours, whichever comes first.",
+    "Categories": "Datasphere Devices, Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -2502,6 +2623,7 @@
         }
       ]
     },
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -2517,6 +2639,7 @@
     "Name": "Deployer (Hypersound)",
     "Level": "1d6",
     "Effect": "Once initiated, the device causes all audible sound waves within long range to gather in a single wave of inaudible hypersound. This wave then carries the sound directly to the ears of the user, allowing him to hear everything while at the same time creating absolute silence for everyone else in long range. Deployers are complex numenera devices that are almost always fashioned rather than cobbled or scavenged. Their main purpose is to simplify the process of arranging or moving things strategically for the user. Deployers can arrange everything from cells and light waves to sentient, living creatures into specific, complicated patterns and reactions. Think of them as a Ninth World equivalent of an app— someone else has done all the complicated coding for you, and all you have to do is push a button or pop a pill.",
+    "Categories": "Sound And Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -2525,6 +2648,7 @@
     "Name": "Deployer (Muscular)",
     "Level": "1d6",
     "Effect": "Once the material enters a living body, it begins to rearrange the skeletal muscle tissue of the creature in an orderly fashion to allow muscles to be used at their maximum capacity. For the next ten minutes, the difficulty of all Speed-based tasks (including Speed defense) is decreased by one step. Deployers are complex numenera devices that are almost always fashioned rather than cobbled or scavenged. Their main purpose is to simplify the process of arranging or moving things strategically for the user. Deployers can arrange everything from cells and light waves to sentient, living creatures into specific, complicated patterns and reactions. Think of them as a Ninth World equivalent of an app— someone else has done all the complicated coding for you, and all you have to do is push a button or pop a pill.",
+    "Categories": "Enhancements (Speed)",
     "Source": "Compendium"
   },
   {
@@ -2532,6 +2656,7 @@
     "Name": "Deployer (Optical)",
     "Level": "1d6",
     "Effect": "Once initiated, the device manipulates the path of electromagnetic radiation through specific parts of the light spectrum. In doing so, it shields the user from view, essentially rendering her invisible, for one hour. Deployers are complex numenera devices that are almost always fashioned rather than cobbled or scavenged. Their main purpose is to simplify the process of arranging or moving things strategically for the user. Deployers can arrange everything from cells and light waves to sentient, living creatures into specific, complicated patterns and reactions. Think of them as a Ninth World equivalent of an app— someone else has done all the complicated coding for you, and all you have to do is push a button or pop a pill.",
+    "Categories": "Enhancements (Stealth)",
     "Source": "Compendium"
   },
   {
@@ -2546,6 +2671,7 @@
     "Name": "Detonation (Coma)",
     "Level": "1d6 + 4",
     "Effect": "Explodes in a patterned flash of pale yellow gas in an immediate radius. Living creatures in the area fall unconscious for a number of rounds equal to the cypher level, or until violently slapped awake or damaged.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2553,6 +2679,7 @@
     "Name": "Detonation (Crystal)",
     "Level": "1d6 + 3",
     "Effect": "Explodes with wild energy and crystal shrapnel. The shrapnel strikes in a short radius, inflicting damage equal to the cypher level. The energy extends to a long radius and inflicts 4 points of damage that ignores Armor.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2560,6 +2687,7 @@
     "Name": "Detonation (Distress)",
     "Level": "1d6",
     "Effect": "Explodes in an immediate radius with blue vapors. Anyone in the area becomes nauseated and spends one round per cypher level vomiting and incapacitated in pain, unable to take actions.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2567,6 +2695,7 @@
     "Name": "Detonation (Electromagnetic)",
     "Level": "1d6 + 4",
     "Effect": "Explodes and releases a potent wave of electromagnetic energy in a short radius. Numenera devices in the area when it explodes do not function for one hour.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2574,6 +2703,7 @@
     "Name": "Detonation (Filament)",
     "Level": "1d6",
     "Effect": "Bursts into a swirling mass of hundreds of extremely thin metal filaments that slice through flesh and objects in an immediate radius, inflicting damage equal to the cypher level. Further, the razor-sharp filaments remain in the area, difficult to see but dangerous. Anyone entering the area suffers damage as if they were caught in the initial explosion. The area of filaments collapses after ten minutes.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2581,6 +2711,7 @@
     "Name": "Detonation (Flashfire)",
     "Level": "1d6 + 3",
     "Effect": "Explodes with radiation in an immediate area. The radiation burns so quickly that things affected by it char (taking damage equal to the cypher level) but never catch fire.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2588,6 +2719,7 @@
     "Name": "Detonation (Flesh Warping)",
     "Level": "1d6 + 3",
     "Effect": "Explodes in an immediate radius with strange energies. Those within the area suffer damage equal to the cypher level and are afflicted by a harmful mutation that fades after 1d6 + 1 weeks.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2595,6 +2727,7 @@
     "Name": "Detonation (Foam)",
     "Level": "1d6 + 2",
     "Effect": "Explodes with foam in an immediate area. The foam inflicts no damage but hardens immediately, filling the area with resilient, spongy matter. Those trapped in the foam can break firee only by using their Might or perhaps a cutting tool (which would take at least a minute). The foam disintegrates after one hour.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2602,6 +2735,7 @@
     "Name": "Detonation (Healing)",
     "Level": "1d6 + 4",
     "Effect": "Explodes to release a burst of warm energy in a short radius. The energy restores a number of points equal to the cypher level to the Pools (or health) of everyone in the area.",
+    "Categories": "Detonations, Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -2609,6 +2743,7 @@
     "Name": "Detonation (Living Metal)",
     "Level": "1d6 + 3",
     "Effect": "Explodes in a short radius, spraying shards of liquid metal that inflict damage equal to the cypher level. The shards then drop to the ground or other nearby surface and slither along toward the point of detonation, where they rejoin. This process takes about three rounds. If it is not somehow prevented, the detonation explodes again, inflicting 1 fewer point of damage than before.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2616,6 +2751,7 @@
     "Name": "Detonation (Plant Transformation)",
     "Level": "1d6 + 2",
     "Effect": "Explodes in an immediate radius with a grey mist. Living creatures affected in the area begin to transform into plants. Player characters exposed to the mist must attempt three Might defense rolls (any Effort used on one roll is applied to all three). The final result depends on the result of the rolls: No successes: Over the course of ten minutes, the character’s flesh turns green and begins to sprout shoots. He permanently turns into a human-shaped plant. One success: Over the course of ten minutes, the character’s flesh turns green and begins to sprout shoots. Her body stiffens and she cannot move for 28 hours as she takes root. At the end of that time, she becomes a humanshaped plant. However, if someone keeps her from taking root, she returns to normal over the course of another 28 hours, during which time she can take no actions. Two successes: Over the course of ten minutes, the character’s flesh turns green and begins to sprout shoots. This is a painful process. At the ten-minute mark, he moves one step down the damage track, and he remains that way until he returns to normal 28 hours later. Three successes: The character is not affected at all. NPCs in the area who are one level lower than the cypher are affected as if they had two successes. NPCs who are two or three levels lower are affected as if they had one success. NPCs who are four or more levels lower than the cypher are affected as if they had no successes. All plants in the area gain a permanent +1 level boost.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2624,6 +2760,7 @@
     "Name": "Detonation (Smoke)",
     "Level": "1d6 + 2",
     "Effect": "Bursts in a short radius, filling the area with thick smoke that lasts for one minute. A strong wind disperses it immediately. Treat the smoke as darkness, and the difficulty of melee attacks in the area is modified by one step in the defender’s favor.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2631,6 +2768,7 @@
     "Name": "Detonation (Spatial Warping)",
     "Level": "1d6 + 3",
     "Effect": "Explodes in an immediate radius with strange energies. All creatures within the area are teleported (safely) to a different spot within short range of the detonation.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2638,6 +2776,7 @@
     "Name": "Detonation (Stasis)",
     "Level": "1d6 + 4",
     "Effect": "Explodes in an immediate radius with strange energies. All creatures within the area are held in temporal stasis for one minute, during which time they cannot take actions or be affected in any manner.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2645,6 +2784,7 @@
     "Name": "Detonation (Suggestion)",
     "Level": "1d6 + 2",
     "Effect": "Explodes in a patterned flash of multicolored lights and gas in an immediate radius. For all sentient creatures in the area, the difficulty of Intellect defense rolls to resist reasonably worded suggestions is increased by a number of steps equal to half the cypher level (round down). The effect lasts for a number of rounds equal to the cypher level.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2652,6 +2792,7 @@
     "Name": "Detonation (Tendril)",
     "Level": "1d6 + 2",
     "Effect": "Bursts into a swirling mass of dozens of animate tendrils that emerge from the point of explosion. The tendrils attack every creature and unattended object within immediate range. If successful, they hold their victim fast for up to six rounds unless the victim can break firee (small or fragile objects are simply crushed and destroyed).",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2659,6 +2800,7 @@
     "Name": "Detonation Delay",
     "Level": "1d6",
     "Effect": "The device can be attached to almost any type of detonation cypher to delay its activation. The user can set the timer for one minute, ten minutes, or 28 hours. Provided that the delay or detonation is not found and dismantled ahead of time, the detonation explodes at the preset time.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -2666,6 +2808,7 @@
     "Name": "Detonation Trigger",
     "Level": "1d6",
     "Effect": "The nanowires can be attached to almost any type of detonation cypher. The user can then remotely trigger the device using the wristband transmitter. The detonation must be within long range, but it doesn’t need to be in the user’s vision.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -2697,6 +2840,7 @@
         }
       ]
     },
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -2754,6 +2898,7 @@
     "Name": "Displacement Cloak",
     "Level": "1d6 + 4",
     "Effect": "For the next ten minutes, the user disappears and an image of her appears somewhere within immediate range. The image is a perfect copy of the user and mimics her physical movements and actions. The difficulty of her Speed defense rolls is reduced by three steps until the effect ends.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -2761,6 +2906,7 @@
     "Name": "Dissonance Cube",
     "Level": "1d6 + 4",
     "Effect": "Activation causes the device to emit a subsonic noise for seven hours. At the end of each hour, any metal object within long range of the device takes 4 points of ambient damage.",
+    "Categories": "Sound And Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -2785,6 +2931,7 @@
     "Name": "Doomsday Device",
     "Level": "10",
     "Effect": "When activated, the user sets a timer for up to one year. When the time runs out, the device explodes out to a range of 1 mile (2 km). The explosion inflicts 20 points of damage to everything in the area and saturates the air and ground with radiation that lasts for 5d20 years. Until the radiation dissipates, it inflicts 1 point of ambient damage for each minute a creature remains in the area.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -2792,6 +2939,7 @@
     "Name": "Drastic Propulsion",
     "Level": "1d6",
     "Effect": "When activated, the device propels the user quickly in the direction he desires, allowing him to cover twice the usual amount of ground each round. If the user is holding tightly to another person or creature, that person or creature moves with him at the same speed. The effect lasts for one minute.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -2800,6 +2948,7 @@
     "Name": "Dreamachine",
     "Level": "1d6",
     "Effect": "The device creates pulsing light, sound, or some other combination of stimuli designed to alter the brain’s electrical oscillations. When the user sits within close range of the device for at least ten minutes with his eyes closed, he enters a hypnagogic state. This allows his mind to open to the wonders of the datasphere, granting him the answer to a single question. Using a dreamachine can have unexpected short-term side effects, including auditory and visual hallucinations, seizures, or nose bleeds.",
+    "Categories": "Datasphere Devices",
     "Source": "Compendium"
   },
   {
@@ -2828,6 +2977,7 @@
     "Name": "Ear Worm",
     "Level": "1d6 + 2",
     "Effect": "The cypher activates when placed on someone’s face. The worm crawls up the side of the user’s face and enters his ear canal (or the closest thing to an ear canal the user has). It then embeds the bristles coating its body into the canal. For the next 28 hours, the user can understand any language he hears and has an asset for any task that involves listening. When the effect ends, a fleshy moth flies out of his ear.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -2835,6 +2985,7 @@
     "Name": "Echo Crystal",
     "Level": "1d6 + 4",
     "Effect": "When the device is activated, the crystal projects a second weapon in the air formed from solidified light. It follows the weapon it copies, floating through the air and mimicking the original’s movements. Whenever the user takes an action to attack with the original weapon, he makes an additional attack with the copy as part of the same action. The second weapon inflicts the same damage as the original. After 28 hours, the copy dissipates into a cloud of sparkling motes.",
+    "Categories": "Crystal Devices, Hard Light Devices, Nodules (Weapon), Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -2843,6 +2994,7 @@
     "Name": "Ecstasy Glass",
     "Level": "1d6",
     "Effect": "The device takes over the user’s senses for one hour and floods them with profound pleasure. The user cannot see, hear, smell, taste, or feel anything in her surroundings during this time. Instead, she experiences whatever she most desires, and she believes that she is engaged in an activity that produces great and lasting pleasure. The experience might be eating a sumptuous meal, engaging in a sexual act with one or more people she desires, or simply sitting comfortably in a beautiful landscape. When the effect ends, she feels restored and may immediately make a recovery roll. This recovery roll does not count against the limits on the number of recovery rolls that she can make in a day.",
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -2892,6 +3044,7 @@
         }
       ]
     },
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -2900,6 +3053,7 @@
     "Name": "Emoacoustic Weapon",
     "Level": "1d6 + 2",
     "Effect": "This device allows the user to change the emotion of a single target in short range with a sonic burst that only the target will hear. The user can choose one of these emotions or states: anger, despair, fear, joy, calm, great hunger, and sexual arousal. This artificial state lasts for ten minutes (or as the situation afterward dictates).",
+    "Categories": "Sound And Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -2907,6 +3061,7 @@
     "Name": "Energy Module",
     "Level": "1d6 + 2",
     "Effect": "This cypher must be attached to another cypher or artifact (a level 4 task) that produces energy, such as a ray emitter or a force shield projector. Once attached, it no longer counts against a character’s cypher limit. The level of the device it is attached to is increased by 2. The module cannot be removed from the device without destroying both the module and the device.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -2975,6 +3130,7 @@
     "Name": "Erosion Ray",
     "Level": "1d6 + 4",
     "Effect": "Emits a beam at an object within short range. The beam weakens an amount of material that can fit inside a 10-foot (3 m) cube. The target does not appear to change, but it assumes the hardness of thin paper. A creature can easily tear chunks from the object or punch through it. If the user targets a section of floor, anything weighing at least 5 pounds (2 kg) that moves across that section falls through it. The effect can also weaken structures such as bridges, walls, and the like at the GM’s discretion.",
+    "Categories": "Ray Projectors",
     "Source": "Compendium"
   },
   {
@@ -2982,6 +3138,7 @@
     "Name": "Essence Transfer",
     "Level": "1d6 + 2",
     "Effect": "Allows one willing character to transfer points from his Pools to another character’s Pools. The transferring character can’t reduce a Pool below 1, and the receiving character can’t raise a Pool above its normal maximum.",
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -3006,6 +3163,7 @@
         }
       ]
     },
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -3013,6 +3171,7 @@
     "Name": "Explosive Nodule",
     "Level": "1d6 + 2",
     "Effect": "For the next 28 hours, each time the weapon the nodule is attached to strikes a solid creature or object, it releases a pulse of concussive force that throws the target a short distance away from the user. This force knocks the target and the user to the ground.",
+    "Categories": "Nodules (Weapon)",
     "Source": "Compendium"
   },
   {
@@ -3035,6 +3194,7 @@
     "Name": "Eyebug",
     "Level": "1d6 + 2",
     "Effect": "Once activated, this device moves on its own for one hour, following a single, simple verbal command with surprising intelligence. For example, if directed to find a way into the chamber to the south, it will search around, attempting to find the most direct path (if one exists), even one that is not known to the user. If told to find the nearest ithsyn, it will search around on its own until it finds the target (or until its hour is up). The device cannot be given multiple objectives, nor can it be given multistep directions. Most important, during the entire time, the user can see everything it can see through the eyepiece. The eyebug can see in the dark as easily as in the light.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -3042,6 +3202,7 @@
     "Name": "Eyestalk Graft",
     "Level": "1d6 + 1",
     "Effect": "This organic object grafts directly and immediately onto the flesh of the user’s head. The eyestalk functions for 28 hours, during which time the user has an asset for all perception tasks and can look surreptitiously around corners.",
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -3056,6 +3217,7 @@
     "Name": "Fallback Clone",
     "Level": "10",
     "Effect": "To activate this device, the user must place a few drops of blood, strands of hair, nail clippings, or a piece of flesh in a sealed, water-filled tank with one of the headbands and wear the other one. The headband in the tank facilitates the rapid growth of a clone in one month. The clone is a fully grown creature, identical in every physical way to the user. However, it has no consciousness and remains in a comatose state in the tank. Once the clone has matured, if at any time the user dies while wearing the headband, her consciousness is transferred into the clone, regardless of distance. All skills, abilities, and knowledge are transferred. The user does not need to wear the headband throughout the process (if, for example, she is worried about her cypher limit)—just at the beginning to spur the clone’s growth. However, if she dies while not wearing the headband, no transfer occurs.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3063,6 +3225,7 @@
     "Name": "Fangs of the Reaver",
     "Level": "1d6 + 1",
     "Effect": "Upon activation, the sphere opens to reveal nasty metal teeth. It flies at a single target within short range that the user chooses, and it attacks as a creature of a level equal to the cypher level. It continues to attack that target for a number of rounds equal to the cypher level or until the target is dead, whichever comes first.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -3078,6 +3241,7 @@
     "Name": "Fast Hail",
     "Level": "1d6",
     "Effect": "When firmly shaken and then projected via a ranged weapon of any kind, the capsule explodes, sending pressurized streams of large water droplets into the air. Within one minute, the droplets form hailstones about 2 inches (5 cm) in diameter. Everything within the hailstorm takes damage equal to the cypher level. The storm lasts for 10 minutes.",
+    "Categories": "Nodules (Weapon)",
     "Source": "Compendium"
   },
   {
@@ -3099,6 +3263,7 @@
     "Name": "Flame Catcher",
     "Level": "1d6 + 4",
     "Effect": "Causes all fire within a short distance to safely flow into the device. At any time within the next seven hours, anyone holding the device can release the stored flames in a stream about 1 foot (0.3 m) wide that extends out to short range. The flames inflict damage equal to the cypher level to one target within range. It is a task with a difficulty of 6 to turn a flame catcher that has absorbed flame into a massive detonation that explodes with fire that inflicts damage equal to the cypher level.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3106,6 +3271,7 @@
     "Name": "Flame Hand",
     "Level": "1d6 + 2",
     "Effect": "Although this cypher is a glove, the wearer cannot use his hand while wearing it—a heavy metal device with a long tube on the end fits over the glove, encompassing his entire hand. When activated, this device sprays a stream of flaming liquid up to short range that inflicts damage equal to the cypher level. The wearer can spray this stream around to affect multiple targets and hit as many as are next to each other in range. (If he need not worry about hitting friendly targets, he could potentially attack all foes within range.)",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3114,6 +3280,7 @@
     "Name": "Flesh Eater",
     "Level": "1d6",
     "Effect": "Bursts in an immediate radius, eating away any organic matter that it comes into contact with. Living creatures take damage equal to the cypher level.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3122,6 +3289,7 @@
     "Name": "Floating Bubble",
     "Level": "1d6",
     "Effect": "Upon activation, the user is encapsulated in a bubble of force for ten minutes. This bubble floats at least 1 foot (0.3 m) in the air at all times but moves as the user wishes (requiring an action to do so, just like normal movement) vertically or horizontally, up to a short distance each round. The user cannot penetrate the bubble, and neither can forces from the outside. Not even ambient damage gets through. Dealing at least 50 points of damage to the bubble (which has no Armor) destroys it. Damaging the bubble does not harm the user inside until the bubble is destroyed, at which point he falls from whatever height the bubble was at, which is at least 1 foot (0.3 m) in the air.",
+    "Categories": "Enhancements (Movement), Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3129,6 +3297,7 @@
     "Name": "Flow",
     "Level": "1d6 + 1",
     "Effect": "Enables the user to move more rapidly by harnessing momentum gained from movement. Once per round, when the user takes an action to move, she gains another action that she must use at once. She can use this action only to move. The effect wears off after one hour.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -3143,6 +3312,7 @@
     "Name": "Fluttering Recorder",
     "Level": "1d6",
     "Effect": "Activation causes the device to sprout tiny wings and flutter up into the air, waiting for instructions. The user can give the device specific directions to travel to a place within 3 miles (5 km) of where it was activated. The cypher follows the directions it was given, exactly as they were given, until it can travel no farther or it arrives at its destination. There, it waits for one hour, recording everything it sees and hears. At the end of this time, the cypher flies back to where it received the instructions and plays back the recording by projecting the images it witnessed onto a flat surface and playing the audio through the speakers in its body. It repeats the recording 1d6 times and deactivates.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -3150,6 +3320,7 @@
     "Name": "Flying Cap",
     "Level": "1d6 + 2",
     "Effect": "Three metal poles extend out from the top of the device, which clamps onto the user’s head and cannot be removed for the duration. Two poles fold down on either side of the user’s head, while the third rises straight up and sprouts four blades that begin spinning. The blades function as a propeller and lift the user into the air. She can control the direction of the movement by using the poles to either side. The device allows her to fly by making a Speed roll (level 2) each round. She can fly a short distance each round in combat or about 1 mile (2 km) each minute. The device operates for 3d20 minutes before breaking up and deactivating. If the user is still in the air when it stops working, she falls.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -3157,6 +3328,7 @@
     "Name": "Foam Limb",
     "Level": "1d6 + 1",
     "Effect": "If sprayed upon a creature, the foam builds an arm with a hand that mimics one of the creature’s existing limbs in appearance, if possible. (If not applicable, the default limb is a long, sinewy arm with a three-fingered hand.) The foam arm hardens to the consistency of the creature’s flesh and can be used by the creature as if it were its own. The new arm does not grant the creature additional actions or attacks in a round, but it can be useful for carrying things. If the arm is harmed, the creature suffers no ill effect. The arm lasts for 28 hours.",
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -3192,6 +3364,7 @@
         }
       ]
     },
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3199,6 +3372,7 @@
     "Name": "Fool Killer",
     "Level": "1d6 + 3",
     "Effect": "When activated, this crystal flies into the air and seeks the least intelligent sentient creature in long range, which takes one round. After finding its target, the crystal fires a bolt of energy similar to lightning at the creature. The bolt inflicts 10 points of Intellect damage (ignores Armor).",
+    "Categories": "Crystal Devices, Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3229,6 +3403,7 @@
         }
       ]
     },
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3236,6 +3411,7 @@
     "Name": "Gel Suit",
     "Level": "1d6 + 2",
     "Effect": "To activate the device, the user must place his hand or foot into the container. The gel flows over his appendage and spreads across his body until it completely encases him. The gel retains its semiliquid consistency for 28 hours. While the gel covers the user, it prevents him from taking damage from acid, cold, electricity, or fire. In addition, whenever he takes damage from being struck by an object, he temporarily gains +1 to Armor until the next round ends as the gel briefly hardens in response to the hit.",
+    "Categories": "Protection (General), Smart Fluid Devices",
     "Source": "Compendium"
   },
   {
@@ -3244,6 +3420,7 @@
     "Name": "Ghostly Duplicate",
     "Level": "1d6 + 1",
     "Effect": "When activated, an incorporeal duplicate of the user appears and remains for ten minutes. The duplicate does not have a mind of its own. Rather, the user controls both forms, but only one at a time. Switching consciousness between forms is an action. While the user’s consciousness focuses on one form, the other stands motionless. The duplicate moves at the same speed as the user’s normal form, but there is no limit to how far apart the two can be. The duplicate is ghostly and translucent. It can pass through solid matter and cannot be harmed except by special transdimensional weapons and effects. It likewise cannot affect normal matter in any way. While moving as the incorporeal duplicate, the user gains an asset for all stealth tasks. When the duplicate’s duration ends (or it is somehow destroyed), the user’s mind returns to his normal body. If the normal body is slain, the user stays in the duplicate, but only for the remaining duration.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -3251,6 +3428,7 @@
     "Name": "Ghostly Intruder",
     "Level": "1d6 + 3",
     "Effect": "Teleports the user to a location within sight and within long range. When she arrives, she is invisible for up to ten minutes. While invisible, she is specialized in stealth and Speed defense tasks. This effect ends if she does something to reveal her presence or position, such as attacking, performing an esotery, using an ability, moving a large object, and so on. If this occurs, she can regain the remaining invisibility effect by taking an action to focus on hiding her position.",
+    "Categories": "Enhancements (Stealth)",
     "Source": "Compendium"
   },
   {
@@ -3258,6 +3436,7 @@
     "Name": "Ghostly Veil",
     "Level": "1d6",
     "Effect": "When applied to armor or a weapon, the metamaterial refracts light around the object, rending it nearly invisible for one hour. For anyone wearing veiled armor or using a veiled weapon, the difficulty of all tasks involving sneaking, being stealthy, and hiding is decreased by one step.",
+    "Categories": "Enhancements (Stealth)",
     "Source": "Compendium"
   },
   {
@@ -3272,6 +3451,7 @@
     "Name": "Glass Scorpion",
     "Level": "1d6 + 1",
     "Effect": "When activated, the glass scorpion immediately moves in the direction it is pointed until it comes upon a living creature at least the size of a hound. It then attacks with the needlelike stinger in its tail as a creature of a level equal to the cypher level. The scorpion injects a poison that inflicts 3 points of damage per round for a number of rounds equal to the cypher level. If the GM wants to make the glass scorpion weaker, it can be a level 1 creature that has 3 health.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -3302,6 +3482,7 @@
     "Name": "Gravity Dampener",
     "Level": "1d6",
     "Effect": "The device automatically activates whenever its user falls 10 feet (3 m) or more. The user floats down until he lands safely, taking no damage from the fall.",
+    "Categories": "Gravity Devices",
     "Source": "Compendium"
   },
   {
@@ -3309,6 +3490,7 @@
     "Name": "Gravity Nodule",
     "Level": "1d6",
     "Effect": "For the next 28 hours, the weapon the nodule is attached to seems to defy some element of gravitational pull, sliding faster through the air to seek and strike its target. The nodule essentially turns a heavy weapon into a medium weapon (usable in one hand) or a medium weapon into a light weapon (lowering the difficulty of attacks by one step). If attached to a light weapon, the nodule reduces the difficulty of attacks by another step. Damage remains unchanged in all cases.",
+    "Categories": "Nodules (Weapon)",
     "Source": "Compendium"
   },
   {
@@ -3316,6 +3498,7 @@
     "Name": "Ground Orb",
     "Level": "1d6",
     "Effect": "Unfolds into a clear, padded synth orb about 8 feet (2 m) in diameter, with a large door that swings open. Once inside, the user can strap herself in and voice-program the orb with a location. The orb will roll to said location with the user inside, increasing travel speed along a road to about 5 miles (8 km) per hour and overland travel speed to about 4 miles (6 km) per hour during long-term movement. Unfolding the orb is an action. Getting inside and programming it is also an action.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -3330,6 +3513,7 @@
     "Name": "Growth Harness",
     "Level": "1d6 + 2",
     "Effect": "This device draws mass to the user from another dimension, allowing her to grow 50 percent larger for one hour. During this time, she gains 12 points to her Might Pool and deals 2 additional points of damage with all melee attacks.",
+    "Categories": "Enhancements (Might), Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -3337,6 +3521,7 @@
     "Name": "Growth Serum",
     "Level": "1d6",
     "Effect": "The user permanently grows a foot taller. This process is painful and takes 28 hours, during which time the affected character is impaired.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3344,6 +3529,7 @@
     "Name": "Growth Stimulator",
     "Level": "1d10",
     "Effect": "One plant touched by the liquid grows to ten times its normal, full-grown size in ten minutes. If conditions can’t support the plant, it soon dies.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3351,6 +3537,7 @@
     "Name": "Grub Armor",
     "Level": "1d6 + 1",
     "Effect": "This cypher requires a bit of water to activate the dried worms in the can. Once activated, the grubs grow to enormous size in 1d6 rounds and swarm over the user’s body, providing +2 to Armor for one hour. Further, if the user is targeted by an effect that specifically affects a single creature, such as something that controls or reads her mind, one of the grubs is affected instead, effectively rendering the user immune to such things for the duration. This does not apply to straightforward physical attacks of any kind.",
+    "Categories": "Organic And Biotech Devices, Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3372,6 +3559,7 @@
     "Name": "Hand of the Conqueror",
     "Level": "1d6 + 3",
     "Effect": "When activated, this thin glove becomes as tough as the hardest metal. Punch attacks made by the wearer inflict 1 additional point of damage. Further, the wearer’s hand can’t be harmed. He can handle hot lava or stick his hand into a grinder and suffer no ill effects (though the grinder might be wrecked). The effect lasts for 28 hours.",
+    "Categories": "Nodules (Weapon)",
     "Source": "Compendium"
   },
   {
@@ -3386,6 +3574,7 @@
     "Name": "Harassing Companion",
     "Level": "1d6 + 2",
     "Effect": "When activated, this cube becomes a small flying automaton that harasses a target for one minute. It flies at the target, getting in the way of his eyes, his movements, and so on. The difficulty of the target’s actions is increased by one step. At any time, the user can take an action to command the automaton to bother a different target within short range.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -3393,6 +3582,7 @@
     "Name": "Head Transference Collar",
     "Level": "8",
     "Effect": "This collar fits around the neck of most creatures the size of a human or so. When activated, it slices the head cleanly from the body and preserves the head (and mind) of the creature for up to ten minutes, during which time the creature is fully conscious. If the headless body of another creature that has been dead for less than one hour is available, the head preserved by the collar can be grafted onto that body. Henceforth, the head now controls its new body as if it had always been its own. This is very likely to alter Might and Speed Pools (but not Intellect Pool) and possibly other qualities as well. Head Transference Collar GM Intrusion: An intelligent creature that remains fully aware when its head is detached from its body may go mad for a time or suffer permanent mental damage.",
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -3400,6 +3590,7 @@
     "Name": "Healing Nodule",
     "Level": "1d6 + 1",
     "Effect": "Once activated, this nodule functions for ten minutes. Whenever the weapon that the nodule is affixed to strikes a foe (or any hard surface), 1 point is restored to the wielder’s Might Pool. The nodule cannot restore more than 1 point per round.",
+    "Categories": "Healing Devices, Nodules (Weapon)",
     "Source": "Compendium"
   },
   {
@@ -3408,6 +3599,7 @@
     "Name": "Health Symbiote",
     "Level": "1d6",
     "Effect": "Activation inflicts 1 point of ambient damage as the symbiote becomes established in the user’s system. For the next 28 hours, the user is immune to diseases, poisons, and other toxins.",
+    "Categories": "Organic And Biotech Devices, Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3416,6 +3608,7 @@
     "Name": "Health Viewer",
     "Level": "1d6",
     "Effect": "Allows the user to see through clothing and skin to view a creature’s insides. Lead blocks the special vision. The user can use this ability as an asset for any healing-related tasks. Once activated, the cypher functions for ten minutes.",
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -3431,6 +3624,7 @@
     "Name": "Heartburst",
     "Level": "1d6 + 4",
     "Effect": "This device is keyed to the heartbeat of the user. If he dies, the device explodes, inflicting damage equal to the cypher level to all within immediate range.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -3455,6 +3649,7 @@
     "Name": "Heat Sheath",
     "Level": "1d6 + 1",
     "Effect": "This spray can coat up to one melee weapon per cypher level, but all of the canister’s contents must be sprayed at once. Coated weapons inflict 1 additional point of damage from the heat they now generate. The coating wears off after 28 hours.",
+    "Categories": "Nodules (Weapon)",
     "Source": "Compendium"
   },
   {
@@ -3462,6 +3657,7 @@
     "Name": "Heat Stone",
     "Level": "1d6",
     "Effect": "The device activates when the user would take damage from heat or fire. The device reduces the damage to 0 and makes the user immune to heat and fire for one hour.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3477,6 +3673,7 @@
     "Name": "Heliolithic Halo",
     "Level": "1d6",
     "Effect": "When activated, the ring hovers about 3 inches (8 cm) over a living creature and creates a psychic shield of white light to protect that creature. For the protected creature, the difficulty of all Intellect defense tasks is decreased by one step for one hour. Requires a sun prayer to activate (activation is an action). Many numenera devices require the user to speak words to activate them. In the case of the heliolithic halo, those words must include something to do with the sun and the worship of it in the language of the Truth.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3491,6 +3688,7 @@
     "Name": "Hidden Reviver",
     "Level": "1d6",
     "Effect": "This device is always disguised as a wearable object. When worn, the device does not count against your cypher limit. To use the device, you must first dismantle the disguised object and then rebuild it into its proper form as a handheld device. Then it can revive a depleted artifact for a single additional use. One action to build the reviver from the parts, and one action to attempt to use it.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -3520,6 +3718,7 @@
     "Name": "Hover Module",
     "Level": "1d6 + 2",
     "Effect": "This cypher must be attached to another cypher or artifact (a level 4 task). Once attached, it no longer counts against a character’s cypher limit. The cypher or artifact it is attached to can be placed in the air and will remain there until someone grabs it and deactivates the hover property. The module cannot be removed from the device without destroying both the module and the device.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -3534,6 +3733,7 @@
     "Name": "Indestructible Oil",
     "Level": "1d6",
     "Effect": "If a character coats an inanimate object with this oil, the object becomes almost indestructible (treat as level 10 for durability). One dose is enough for a single object about the size of a sword, a shield, or a small case.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3541,6 +3741,7 @@
     "Name": "Inertia Shield",
     "Level": "1d6 + 4",
     "Effect": "An energy field surrounds the user for ten minutes. No physical object can penetrate the shield if that object is moving with any force that could be constituted as an attack. The field would deflect a strike from a broadsword or a bolt fired from a crossbow. Attacks using physical objects inflict no damage on the user until the effect ends.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3564,6 +3765,7 @@
         }
       ]
     },
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -3572,6 +3774,7 @@
     "Name": "Inflatable Suit",
     "Level": "1d6",
     "Effect": "Causes a number of bags to suddenly inflate all over the user’s body. The inflated bags protect him from damage sustained from impacts, such as one resulting from a fall or a great concussive force. The bags remain inflated for one minute and then deflate with a tremendous noise. While the bags are inflated, the difficulty of the user’s Might rolls and Speed rolls is increased by one step.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3586,6 +3789,7 @@
     "Name": "Instant Boat",
     "Level": "1d6 + 3",
     "Effect": "With the addition of water and air, this small device expands into a simple boat. The boat is 10 feet long by 4 feet wide (3 m by 1 m) and is made from a type of lightweight molded foam that begins to disintegrate after a day.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -3593,6 +3797,7 @@
     "Name": "Instant Companion",
     "Level": "1d6 + 1",
     "Effect": "If submerged in water, the pod grows quickly. In one minute, it grows into a houndlike beast of a level equal to the cypher level, with appropriate health, damage inflicted, and so on, plus 1 point of Armor. The hound obeys the user’s commands (as best as it can, with only animal-level intelligence) for 28 hours or until it is slain, whichever comes first, at which point it dissolves into thick liquid.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3600,6 +3805,7 @@
     "Name": "Instant Guardian",
     "Level": "1d6",
     "Effect": "If submerged in water, the pod grows quickly. In one minute, it grows into a batlike creature of a level equal to the cypher level. The creature sits on the user’s shoulder for 28 hours or until the user is attacked. The guardian moves to intercept the attack in its entirety. That is the only action it will take. If an echo crystal is affixed to an instant guardian before it is grown (task difficulty 5), two guardians are created by the pod.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3608,6 +3814,7 @@
     "Name": "Instant Shield",
     "Level": "1d6",
     "Effect": "When activated by a simple voice command, the device instantly sends out a spray of molecules that harden into a protective wall in the air. The wall is 4 feet by 4 feet (1 m by 1 m). It provides Armor equal to the cypher level for two rounds. Activation is an action.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3616,6 +3823,7 @@
     "Name": "Instant Weapon",
     "Level": "1d6 + 2",
     "Effect": "When activated by a simple voice command, the device instantly emits a temporary light beam. For one round, the beam does damage equal to the cypher level to a foe in close range. The weapon must be activated and used as a single combined action.",
+    "Categories": "Weapons (Melee)",
     "Source": "Compendium"
   },
   {
@@ -3631,6 +3839,7 @@
     "Name": "Interaction Advisor",
     "Level": "1d6 + 2",
     "Effect": "The device allows the user to access the datasphere to analyze other sentient creatures and anticipate their needs, motives, emotions, and so on. Wording, gestures, and even body language suggestions are offered. For one hour, the user has an asset for all interaction tasks.",
+    "Categories": "Datasphere Devices",
     "Source": "Compendium"
   },
   {
@@ -3638,6 +3847,7 @@
     "Name": "Internal Detector",
     "Level": "1d6",
     "Effect": "Injects a fluorescent protein gene into the user, causing her skin to glow with a bioluminescent color that reflects the conditions in the surrounding environment (within long range). Works in both air and water. Lasts for one hour. Blue: poison or other dangerous gasses Green: dangerous levels of radiation or chemical compound Yellow: unknown dangerous compound Orange: unknown safe or beneficial compound Purple: hallucinogenic compound No glow: nothing detected",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3646,6 +3856,7 @@
     "Name": "Invulnerable Mesh",
     "Level": "10",
     "Effect": "Grants +10 to Armor for one hour.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3653,6 +3864,7 @@
     "Name": "Jolter",
     "Level": "1d6 + 2",
     "Effect": "When activated, this cypher generates a bolt of wild electricity that extends to short range before arcing into the ground or a target on the ground chosen by the user. The bolt inflicts damage equal to the cypher level, but the jolter is difficult to aim or control. The difficulty for any attack with the device is increased by one step, and a roll of 1 or 2 on the die suggests that a different target (if any) was struck. The jolter emits the bolt for four rounds, each round inflicting the same damage, but using it each round is an action and requires a new roll. There is no way to turn the jolter off once activated, so activating it is a four-round commitment. A user that does not control a jolter in a round will be struck by the bolt of electricity herself.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3667,6 +3879,7 @@
     "Name": "Kinetic Rod",
     "Level": "1",
     "Effect": "The user strikes the device against a solid surface, and the device absorbs the kinetic energy from the impact. The next time the user hits a target with an attack using the rod, the device releases the kinetic energy and inflicts 2 additional points of damage. Thereafter, this device functions as an ordinary club.",
+    "Categories": "Weapons (Melee)",
     "Source": "Compendium"
   },
   {
@@ -3696,6 +3909,7 @@
     "Name": "Light Binder",
     "Level": "1d6 + 4",
     "Effect": "Two rounds after activation, the device explodes in a short radius. All light in the area (any place in the area illuminated by light or dim light) becomes solid, trapping everything in the area in place for one minute. Nothing in the area can move, and nothing from outside the area can enter it until the effect ends. Rendering any area dark, such as by blocking a source of light, firees anything in the darkness that was affected by the device.",
+    "Categories": "Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -3703,6 +3917,7 @@
     "Name": "Light Flyer",
     "Level": "1d6 + 1",
     "Effect": "Once activated, the rod creates a winged glider about 12 feet (4 m) across beneath the user’s feet. The flyer can move a long distance in a round, and it moves at the whim of the rider (requiring no action). It lasts for four hours, although if the user gets off the glider before then, it disappears, the effect ended.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -3711,6 +3926,7 @@
     "Name": "Light Shield",
     "Level": "1d6 + 2",
     "Effect": "Emits a field around the wearer for five minutes. While the wearer is in an area of light or dim light, he has additional Armor equal to the cypher level.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3719,6 +3935,7 @@
     "Name": "Light Steed",
     "Level": "1d6 + 1",
     "Effect": "Projects a holographic image of a powerful mammalian quadruped made of glowing light. For eight hours, the image takes on a solid form—still made of light—that moves as directed by the user. The steed is a level 3 creature that cannot make attacks but moves a long distance each round. It discorporates if “slain.”",
+    "Categories": "Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -3734,6 +3951,7 @@
     "Name": "Lightning Lance",
     "Level": "1d6 + 2",
     "Effect": "Shoots a jagged bolt of lightning at one target within range that inflicts electrical damage equal to half the cypher level. The lightning then leaps to strike a different target within a short distance of the first target and inflicts the same damage.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3741,6 +3959,7 @@
     "Name": "Living Weaponmaster Nodule",
     "Level": "10",
     "Effect": "When activated, this nodule allows the weapon to which it is affixed to float into the air and attack on its own. It attacks all creatures other than the user within immediate range, striking all that are lower than level 10 (it attacks PCs as a level 10 NPC) and inflicting damage appropriate to the type of weapon. The weapon fights on its own in this manner for ten rounds (it cannot be stopped by the user).",
+    "Categories": "Nodules (Weapon)",
     "Source": "Compendium"
   },
   {
@@ -3748,6 +3967,7 @@
     "Name": "Lobal Sheath",
     "Level": "1d6",
     "Effect": "Coats the user’s brain with a protective sheath, offering additional Armor against Intellect damage for one hour. Armor protection is equal to the cypher level.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3755,6 +3975,7 @@
     "Name": "Lotus Paste",
     "Level": "1d6",
     "Effect": "Covering an object with this paste renders it completely liquid- and fireproof. In addition, the object essentially becomes selfcleaning, repelling dirt from its surface. Action to apply paste. If someone is wearing armor or using a weapon or an artifact coated in lotus paste, he gains +2 to Armor against fire- and liquidbased attacks for 28 hours.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3779,6 +4000,7 @@
         }
       ]
     },
+    "Categories": "Organic And Biotech Devices, Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3803,6 +4025,7 @@
         }
       ]
     },
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3827,6 +4050,7 @@
         }
       ]
     },
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3851,6 +4075,7 @@
         }
       ]
     },
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3875,6 +4100,7 @@
         }
       ]
     },
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3899,6 +4125,7 @@
         }
       ]
     },
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -3927,6 +4154,7 @@
     "Name": "Malady Maker",
     "Level": "1d6 + 1",
     "Effect": "When a living creature of a level lower than the cypher is struck by this baton (a medium weapon), it is also afflicted by a sudden and powerful nausea, making it lose its action for the next three rounds. Even after the malady maker ability is used, the baton remains an effective medium weapon.",
+    "Categories": "Weapons (Melee)",
     "Source": "Compendium"
   },
   {
@@ -3970,6 +4198,7 @@
     "Name": "Memory Gel",
     "Level": "1d6 + 2",
     "Effect": "Pouring out the tube’s contents activates the device. The gel spreads over any object within immediate range that can fit inside a 10-foot (3 m) cube. Once the gel covers the object, it stays put for one minute, and then it withdraws and forms into a tiny, hard ball. At any time thereafter, a character can throw the ball a short distance. If it strikes a hard surface, the ball expands and takes the shape of the thing it covered. The material is as hard as metal and lasts until destroyed.",
+    "Categories": "Smart Fluid Devices",
     "Source": "Compendium"
   },
   {
@@ -3992,6 +4221,7 @@
     "Name": "Mental Thieves",
     "Level": "1d6 + 4",
     "Effect": "The user exhales a cloud of spores as he puts a question to a creature within immediate range. The spores infiltrate the target’s body, find the answer in its thoughts, and forcefully eject themselves from the body, inflicting 2 points of damage to the target. The spores fly through the air and reenter the user’s body, at which point he immediately learns the answer to the question, subject to the limits of the target’s knowledge.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -4077,6 +4307,7 @@
         }
       ]
     },
+    "Categories": "Magnetic Devices",
     "Source": "Compendium"
   },
   {
@@ -4093,6 +4324,7 @@
     "Name": "Mind Killer",
     "Level": "1d6 + 3",
     "Effect": "When activated, this crystal flies into the air and seeks the most intelligent creature in long range, which takes one round. After finding its target, the crystal fires a bolt of energy similar to lightning at the creature that inflicts 10 points of Intellect damage (ignores Armor).",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4100,6 +4332,7 @@
     "Name": "Mind Module",
     "Level": "1d6 + 2",
     "Effect": "This cypher must be attached to another cypher or artifact (a level 6 task). Once attached, it no longer counts against a character’s cypher limit. The cypher or artifact it is attached to is now possessed of its own telepathic machine intelligence and can function on its own, obeying verbal or telepathic commands. For example, a detonation can be told to explode whenever someone in a particular uniform comes near. A windrider can be commanded to fly to a location on its own. The module cannot be removed from the device without destroying both the module and the device.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -4129,6 +4362,7 @@
     "Name": "Miniaturized Weapon",
     "Level": "1",
     "Effect": "When activated, the device instantly grows into the full-sized weapon that it resembles.",
+    "Categories": "Weapons (Melee)",
     "Source": "Compendium"
   },
   {
@@ -4374,6 +4608,7 @@
     "Name": "Navigator Daemon",
     "Level": "1d6 + 2",
     "Effect": "The user names a location or the coordinates of a location. The device projects a beam of light that creates a tiny, flying level 1 creature. It takes a minute for the creature to form, and then it wings off to lead the user to the stated destination. After 28 hours, the creature dissipates into motes of light that fade away, whether or not the user has reached the destination.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -4395,6 +4630,7 @@
     "Name": "Needleburst",
     "Level": "1d6 + 4",
     "Effect": "This device is activated when the user plays a certain high-pitched note within long range of it. (This may require the user to have a pitch-pipe, flute, or other such instrument, but it’s possible to sing the note as well if one is talented.) When activated, the device explodes in a short radius with needlelike crystal shards, inflicting damage equal to the cypher level.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -4427,6 +4663,7 @@
     "Name": "Numenera Analyzer",
     "Level": "1d6",
     "Effect": "Automatically identifires all cyphers and artifacts within immediate range.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -4434,6 +4671,7 @@
     "Name": "Numenera Net",
     "Level": "1d6 + 2",
     "Effect": "Before this device can be activated, at least three cyphers must be activated within a short distance of it. Once this occurs, the net becomes charged for 28 hours. The next time the user uses an occultic cypher while in possession of the net, he can transfer energy from the net to the cypher so that the cypher can be used one additional time.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -4441,6 +4679,7 @@
     "Name": "One Perfect Cut",
     "Level": "1d6 + 4",
     "Effect": "A user can use the blade to cut through 5 feet (2 m) of any material it touches one time. If used as a weapon, the cypher deals damage equal to the cypher level and ignores Armor.",
+    "Categories": "Weapons (Melee)",
     "Source": "Compendium"
   },
   {
@@ -4448,6 +4687,7 @@
     "Name": "Orbital Armor",
     "Level": "1d6",
     "Effect": "When activated and thrown into the air, the balls set up an orbit around the user, protecting her from incoming piercing, striking, or other physical damage for ten minutes. The device provides Armor equal to the cypher level, but it doesn’t protect against Intellect damage. Activation is an action.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -4463,6 +4703,7 @@
     "Name": "Organ Patch",
     "Level": "1d6",
     "Effect": "The device is used to take a sample of the user’s skin. The user can set the control panel to choose a single organ he would like to regrow (typically something the size of an ear, a finger, a toe, or an eyeball). Shortly thereafter, the device produces a strip about 4 inches by 2 inches (10 cm by 5 cm) of a sticky, fleshlike substance that the user places on his arm or leg. In 28 hours, he has a newly grown organ. Once the organ is fully grown and properly placed, it self-sticks and begins to grow connections to the user’s body. If allowed to attach for 28 hours without taking damage, the new organ becomes permanent.",
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -4494,6 +4735,7 @@
     "Name": "Overwatch Defender",
     "Level": "1d6 + 4",
     "Effect": "Once activated, this device functions for 28 hours. If a creature with hostile intent comes within long range, the device creates a force field around itself (and anything nearby) that encapsulates an immediate radius. This force field has 100 health; anyone wishing to get in or out of the field must batter their way through. It lasts until destroyed or for one hour, whichever comes first. Once the force field is down, the device is no longer active.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -4501,6 +4743,7 @@
     "Name": "Overwatch Slayer",
     "Level": "1d6 + 3",
     "Effect": "Once activated, this device functions for 28 hours. If a creature with hostile intent comes within long range, the device immediately fires a blast of energy that inflicts damage equal to the cypher level. It continues to fire, once per round, for a number of rounds equal to the cypher level. Once the device is done firing, it is no longer active.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4523,6 +4766,7 @@
     "Name": "Parous Cypher Ball",
     "Level": "1d6",
     "Effect": "The parous ball can hold one cypher (as long as it is no larger than a typical handheld device). Once the cypher is sealed in the ball, it must remain there for 28 hours. At that point, the cypher is released. Thereafter, for a number of hours equal to the cypher level, the ball releases exact duplicates of the cypher, one per hour. While the original cypher is in the ball, it doesn’t count against the character’s cypher limit. The duplicates do not count against the character’s limit until all duplicates are expelled.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -4530,6 +4774,7 @@
     "Name": "Parous Oddity Box",
     "Level": "1d6",
     "Effect": "The parous box can hold one oddity (as long as it is no larger than a typical handheld device). Once the oddity is sealed in the box, it must remain there for 28 hours. At that point, the oddity is released. Thereafter, for a number of hours equal to the cypher level, the box releases a random oddity, one per hour. Each new oddity is different from the one that was originally put in the box.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -4537,6 +4782,7 @@
     "Name": "Perma-Damp",
     "Level": "1d6 + 4",
     "Effect": "Coats something that can fit within a 5-foot (2 m) cube with gel. The gel remains damp for 1d6 hours. Anything covered by the gel has Armor equal to the cypher level against corrosive, electrical, and fire damage. When the effect ends, the gel grows and becomes spongy, like cake. It provides bland nourishment for up three human-sized characters for one day.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -4552,6 +4798,7 @@
     "Name": "Photon Igniter",
     "Level": "1d6 + 4",
     "Effect": "Emits a beam at one target within long range. If the beam strikes the target, it changes how the target interacts with light energy for one minute. Until the effect wears off, it inflicts damage based on the level of light to which the target is exposed at the start of each round. Light inflicts 3 points of damage, dim light inflicts 2 points of damage, and very dim light inflicts 1 point of damage. If you cobble together a photon igniter with a mini gate (task difficulty 7), you create a cypher that emits a beam at one target within long range that inflicts 8 points of damage and teleports the target in a random direction up to 20 feet (6 m) away.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4559,6 +4806,7 @@
     "Name": "Photonic Fabricator",
     "Level": "1d6 + 2",
     "Effect": "Creates one item of solidified light (user’s choice) anywhere within immediate range. The item cannot have moving pieces and must normally be made from a rigid material. For example, a user could create a broadsword, ladder, or shield, but not a backpack, buzzer, or bow. The item emits dim light in a short radius and lasts for 28 days before fading away.",
+    "Categories": "Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -4567,6 +4815,7 @@
     "Name": "Photonic Hand",
     "Level": "1d6 + 2",
     "Effect": "Creates a glowing copy of the user’s hand at a spot within range. The hand is 10 feet (3 m) tall and made from solid light. When activated, the hand attacks a target within immediate range of it. The hand inflicts 4 points of damage and prevents the target from moving for one minute. While held in this way, the target has +2 to Armor.",
+    "Categories": "Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -4575,6 +4824,7 @@
     "Name": "Photonic Smasher",
     "Level": "1d10",
     "Effect": "Creates a glowing bludgeon about 5 feet (2 m) tall that floats in the air in an open space within range. When the bludgeon appears, it immediately attacks a target within short range of it and, if it hits, inflicts 4 points of damage. The bludgeon remains for one minute, and whenever the user takes an action, he can move the bludgeon a short distance and attack with it.",
+    "Categories": "Hard Light Devices, Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4590,6 +4840,7 @@
     "Name": "Pleasure Center",
     "Level": "1d6 + 1",
     "Effect": "When applied to a creature’s head, the disk immediately unleashes microfilaments that enter the brain. Within five minutes, the microfilaments release a chemical compound that provides an increased sensation of pleasure and a decreased sensation of pain or displeasure. Adds 1 to the creature’s Might Pool for one hour.",
+    "Categories": "Enhancements (Might)",
     "Source": "Compendium"
   },
   {
@@ -4625,6 +4876,7 @@
         }
       ]
     },
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -4632,6 +4884,7 @@
     "Name": "Portable Steed",
     "Level": "1d6 + 2",
     "Effect": "The box unfolds into a mechanical steed. The steed is a level 3 creature that is large enough to carry two human-sized riders. The steed serves for seven hours and then shatters into 1d6 oddities.",
+    "Categories": "Automatons, Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -4639,6 +4892,7 @@
     "Name": "Portable Vortex",
     "Level": "1d6 + 4",
     "Effect": "One round after activation, the device breaks apart and creates a cyclone. The cyclone is 30 feet (9 m) across at its base, 90 feet (27 m) tall, and 60 feet (18 m) across at the top. When it forms, it sets off in a direction away from the user, traveling a long distance before it dissipates. As it moves, the vortex inflicts damage equal to half its level to anything it touches. The vortex is strong enough to pick up creatures and objects not anchored in place that weigh up to 500 pounds (227 kg) and throw them a long distance away, which inflicts damage equal to half the vortex level when the target lands.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4660,6 +4914,7 @@
     "Name": "Prismatic Field Projector",
     "Level": "1d6 + 3",
     "Effect": "To be activated, this device must be placed on level ground. It creates a field of scintillating force around the user that provides Armor equal to the cypher level. However, the device can’t be moved once activated, which means the user can’t move from where she stands. The force field lasts for ten minutes.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -4667,6 +4922,7 @@
     "Name": "Projectile Module (Homing)",
     "Level": "1d6 + 1",
     "Effect": "This cypher must be attached to another cypher or artifact (a level 4 task) that fires solid projectiles, like a slugspitter or a compactor. Once attached, it no longer counts against a character’s cypher limit. The projectile(s) of the cypher or artifact it is attached to now hone in on the desired target, reducing the difficulty of the attack roll by one step. The module cannot be removed from the device without destroying both the module and the device.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -4681,6 +4937,7 @@
     "Name": "Projectile Module (Poison)",
     "Level": "1d6 + 1",
     "Effect": "This cypher must be attached to another cypher or artifact (a level 4 task) that fires solid projectiles, like a slugspitter or a compactor. Once attached, it no longer counts against a character’s cypher limit. The projectile(s) of the cypher or artifact it is attached to now also carry a poison that inflicts 4 points of Speed damage that ignores Armor. The module cannot be removed from the device without destroying both the module and the device.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -4688,6 +4945,7 @@
     "Name": "Projectile Module (Teleport)",
     "Level": "1d6 + 1",
     "Effect": "This cypher must be attached to another cypher or artifact (a level 4 task) that fires solid projectiles, like a slugspitter or a compactor. Once attached, it no longer counts against a character’s cypher limit. The projectile(s) of the cypher or artifact it is attached to now teleport through barriers to get to the target, but the target must be seen. The attack ignores Armor and can even pass through solid barriers. The module cannot be removed from the device without destroying both the module and the device.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -4704,6 +4962,7 @@
     "Name": "Purgspitter",
     "Level": "1d6 + 2",
     "Effect": "This device spits out a tentacled creature called a purg up to long range. The purg is a level 2 creature that adheres to whatever it strikes, producing a keening screech and a strong odor for 28 hours. Grasping with powerful tentacles and an even more powerful natural adhesive, the purg is difficult to remove. To do so, the purg must be slain and scraped away, a task with a difficulty equal to the level of the device. If the purg is slain but not removed, the screech ends, but the stench remains. The purgspitter can be used as a nuisance or as a warning or crude tracking device. A creature or an object with a purg attached can always be found easily.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -4711,6 +4970,7 @@
     "Name": "Purity",
     "Level": "1d6",
     "Effect": "Pouring the canister’s contents into another liquid or onto solid material instantly eradicates any toxins, poisons, diseases, or other contaminants in that liquid or material. The purity liquid also prevents the target from being contaminated by such things for 28 hours.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -4726,6 +4986,7 @@
     "Name": "Pyrolytic Pulser",
     "Level": "1d6 + 2",
     "Effect": "Sends out a series of rapid-fire encapsulated heat pellets up to 200 feet (61 m). The pellets burst into flame upon contact, causing disintegration damage equal to the cypher level to all creatures within immediate range of the explosion.",
+    "Categories": "Ray Projectors, Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4733,6 +4994,7 @@
     "Name": "Quadraturin",
     "Level": "1d6",
     "Effect": "This substance warps space, expanding it. When applied to a surface, it expands the space around that surface—for example, making an interior room larger. The tube has enough gel to cover an area of about 10 feet by 10 feet by 10 feet (3 m by 3 m by 3 m), expanding it into an area of about 50 feet by 50 feet by 50 feet (15 m by 15 m by 15 m). Quadraturin GM Intrusion: Imprecise application can bend space, making an area that expands in one dimension more than the others, or perhaps an area that never stops expanding.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -4740,6 +5002,7 @@
     "Name": "Radiant Web",
     "Level": "1d10",
     "Effect": "Creates a mesh of invisible light across a plane up to 10 feet (3 m) wide and tall. The paper-thin mesh inflicts damage equal to the cypher level to any creature that passes through it. (A target can take this damage only once per round regardless of how many times it passes through the mesh.) Anything reduced to 0 health by the mesh is sliced into pieces that are 1 inch (3 cm) wide and tall.",
+    "Categories": "Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -4747,6 +5010,7 @@
     "Name": "Ranged Protector",
     "Level": "1d6",
     "Effect": "This cypher comes as a pair of items, but one is the master of the other. When the master item is activated, the creature wearing the other item is surrounded by a force shield that provides Armor equal to the cypher level for ten minutes. While one character could wear both items, many people use ranged protectors to put a shield around a pet, a child, or a defenseless charge who cannot normally activate a cypher. The master item can be activated from any range to surround its counterpart with the protective shield.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -4754,6 +5018,7 @@
     "Name": "Ranged Retaliator",
     "Level": "1d6 + 2",
     "Effect": "This cypher comes as a pair of items, but one is the master of the other. When the master item is activated, the other item pulses with electricity that inflicts damage equal to the cypher level. The master item can be activated from any range to damage the wearer of the other item. Ray Emitter (Molecular",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4777,6 +5042,7 @@
     "Name": "Regrow",
     "Level": "1d6",
     "Effect": "When the entire contents of the canister are smeared on the stump of a missing limb or another body part, the ointment causes the body to regrow the missing part. The user must roll a d6: on a 1 or 2, the body part is half the normal size; on a 3 or 4, it’s normal size; on a 5 or 6, it’s twice the normal size. Regardless of the result, the body part is the same color as the ointment.",
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -4786,6 +5052,7 @@
     "Name": "Rejuvenating Shield",
     "Level": "1d6 + 2",
     "Effect": "When activated, the device surrounds the user with a field of white energy that remains for ten minutes. During this time, the user gains +2 to Armor. Further, during each of the first ten rounds, she regains 1 point to one of her stat Pools (her choice each round; cannot exceed normal Pool maximums).",
+    "Categories": "Healing Devices, Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -4809,6 +5076,7 @@
         }
       ]
     },
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -4818,6 +5086,7 @@
     "Name": "Remake",
     "Level": "1d6 + 2",
     "Effect": "The user can permanently move up to 4 points from one stat Pool to another.",
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -4825,6 +5094,7 @@
     "Name": "Remote Scarificator",
     "Level": "1d6 + 2",
     "Effect": "Shoots out a device that extends twelve blades upon hitting its target. If the scarificator hits a living creature, it does damage equal to the cypher level and causes the creature to bleed slowly for up to one hour. If it hits nonliving material, it shaves off strips of the material and creates a permanent mark.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4832,6 +5102,7 @@
     "Name": "Remote Sensorium",
     "Level": "1d6",
     "Effect": "Allows the user to create a replica of one of her sensory organs and place it in a remote location up to 1 mile (1.6 km) away, thus enhancing that particular sense. She can see, hear, touch, taste, or smell things that are within short range of the replicated organ as if she were also within short range.",
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -4839,6 +5110,7 @@
     "Name": "Reproductive Bud",
     "Level": "1d6 + 1",
     "Effect": "This organic device allows a character to reproduce asexually. First the sac is grafted onto a character for 28 hours. Then it is removed and placed in a warm, moist environment. Half a year later, it bursts open and reveals a living, infant clone of the character.",
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -4846,6 +5118,7 @@
     "Name": "Repulsion Field",
     "Level": "1d6 + 2",
     "Effect": "Emits a field around the user that lasts for one minute. Whenever he would take damage from a physical object such as a weapon or an arrow, the field emits a pulse of energy that inflicts 2 points of ambient damage to everything within immediate range, and then the user moves an immediate distance away from the source of the damage.",
+    "Categories": "Protection (General), Weapons (Melee)",
     "Source": "Compendium"
   },
   {
@@ -4854,6 +5127,7 @@
     "Name": "Reset",
     "Level": "10",
     "Effect": "Utterly erases the last five minutes of time. Everything goes back to the way it was and no one except the user remembers what happened during the lost five minutes.",
+    "Categories": "Time Devices",
     "Source": "Compendium"
   },
   {
@@ -4862,6 +5136,7 @@
     "Name": "Revealer Dart",
     "Level": "1d6",
     "Effect": "The device fires a metal dart at a single target within range. Upon striking the target, the device flashes bright red and issues a soft ringing that lasts for one hour. If the target tries to remove the dart, it delivers a current of electricity that inflicts 3 points of damage that ignores Armor. Until the effect ends, the user has an asset on all attack rolls against the target.",
+    "Categories": "Enhancements (Might), Enhancements (Speed)",
     "Source": "Compendium"
   },
   {
@@ -4877,6 +5152,7 @@
     "Name": "Root Spike",
     "Level": "1d6",
     "Effect": "Shoots a single thorn at a target within range. The thorn inflicts 2 points of damage and wraps the target in a mesh of roots and vines that anchor it in place for one minute or until it or another creature uses an action to firee it.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4884,6 +5160,7 @@
     "Name": "Rynrad Skin",
     "Level": "1d6",
     "Effect": "When fully enclosed in a rynrad skin, the wearer pushes the release button on the chemical bladder, and the suit begins to seep invisible streams of rynrad poison into the surrounding area. Rynrad poison does nerve damage (equal to the cypher level) to all living creatures in long range for two rounds. The suit protects the wearer from the effects of all poisons and grants +1 to Armor against piercing attacks for one hour. Rynrad poison is a concoction that is easy to find ingredients for but incredibly difficult to manufacture. The mixture of plants and chemicals must be wrapped in a synth balloon and fed to a dossi (a domesticated creature raised for its meat and scales). The concoction must churn in one of the creature’s stomach sections for at least two days and then get passed without breaking open and killing the animal.",
+    "Categories": "Protection (Armor), Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4928,6 +5205,7 @@
         }
       ]
     },
+    "Categories": "Sound And Sonic Devices, Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4936,6 +5214,7 @@
     "Name": "Second Sight Symbiote",
     "Level": "1d6",
     "Effect": "Activation inflicts 1 point of damage as the symbiote establishes itself in the user’s system. For the next hour, the user has an asset for all perception-based tasks.",
+    "Categories": "Enhancements (Intellect), Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -4945,6 +5224,7 @@
     "Name": "Secret Finder",
     "Level": "1d6 + 4",
     "Effect": "Tapping into the datasphere, the user names one place, creature, or object and immediately learns his distance from the thing named and the direction he must travel to reach it.",
+    "Categories": "Datasphere Devices",
     "Source": "Compendium"
   },
   {
@@ -4952,6 +5232,7 @@
     "Name": "Secret Pocket",
     "Level": "1d6",
     "Effect": "The article of clothing has a special pocket. The pocket’s opening connects to an extradimensional space that’s about the size of a 3-foot (1 m) cube. The opening appears to be a normal pocket, but it can stretch to permit entry by an object capable of fitting into the extradimensional space. Placing an object in the space causes the pocket to shut until the user takes an action to open it. While the pocket holds an object, it cannot be opened by anyone except the person who placed the object inside it. Anyone inspecting the clothing finds no sign that the pocket or object exists. Furthermore, the clothing’s weight is unchanged regardless of the weight of the object placed in the pocket. When the user removes the object from the pocket, the pocket closes behind it and the space collapses.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -4973,6 +5254,7 @@
     "Name": "Seed Boat",
     "Level": "1d6",
     "Effect": "Dropping the cypher into a pool of water at least 10 feet (3 m) in diameter causes the device to absorb the water and instantly grow into a flat-bottomed boat. The boat is large enough to hold ten human-sized creatures.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -4980,6 +5262,7 @@
     "Name": "Seed of Knowledge",
     "Level": "1d10",
     "Effect": "If planted, this seed blooms into a fullgrown plant in about a year, at which point it is about as tall as a human. At this time, it bears 1d6 pieces of fruit, all of which are telepathic, thinking creatures that know one fact keyed to the being that planted the seed. This fact might be some truth or bit of knowledge the planter seeks, the answer to a question he has, or something that will come in handy in the future, whether he knows it or not.",
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -5024,6 +5307,7 @@
         }
       ]
     },
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -5075,6 +5359,7 @@
     "Name": "Shrink Ray",
     "Level": "1d6 + 2",
     "Effect": "Shrinks one human-sized or smaller creature or object within range to onetwentieth of its normal size. It remains at this size for 1d20 hours. For an affected creature, the difficulty of all Might-related tasks is increased by two steps. If you cobble together a shrink ray with a device that produces any kind of force field or solid light (task difficulty 9), the resulting cypher creates a portal to another universe known to the activator that remains open for 28 hours.",
+    "Categories": "Ray Projectors",
     "Source": "Compendium"
   },
   {
@@ -5090,6 +5375,7 @@
     "Name": "Sidestep Portal",
     "Level": "1d6",
     "Effect": "The user steps sideways and disappears into an extradimensional space, where she can remain for as long as she wishes. The space is an empty void of pale grey light in which the user floats. She can perceive nothing outside this space, and nothing outside it can perceive her. She experiences the passage of time and may act normally while in the space, though it cannot connect to the datasphere or interact with the world outside in any way. When the user emerges from the space, she returns to the spot she left or an open space nearest to that spot, and the extradimensional space vanishes. Anything left in the space is lost.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5098,6 +5384,7 @@
     "Name": "Signal Detector",
     "Level": "1d6",
     "Effect": "Grants the user an asset on his Intellect roll to find cyphers and, on a success, allows him to roll a d6 and add the number to the total number of cyphers found.",
+    "Categories": "Enhancements (Intellect)",
     "Source": "Compendium"
   },
   {
@@ -5105,6 +5392,7 @@
     "Name": "Sleep Watch",
     "Level": "1d6",
     "Effect": "The insect sinks a dozen threads into the user’s skull until they reach his brain. The device remains active for 28 hours. During this time, the user perceives through the bug and has an asset for any task to perceive. If he sleeps during this time, he can wake up whenever he chooses.",
+    "Categories": "Artificial Body Parts And Implants",
     "Source": "Compendium"
   },
   {
@@ -5150,6 +5438,7 @@
     "Name": "Snake in the Grass",
     "Level": "1d6",
     "Effect": "The device can safely and secretly carry messages or other small objects across long distances and then return home undetected. Because snakes in the grass—typically known as sigs—are trained to return home no matter what, some armies use that to their advantage, trapping an enemy’s sigs and filling them with detonations or poisons before sending them back to their owners.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -5158,6 +5447,7 @@
     "Name": "Snow Lens",
     "Level": "1d6",
     "Effect": "Protects wearer from snowblindness, extremely bright light, and other light- or vision-based damage. User gains +1 to Armor against these types of attacks for 28 hours.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -5165,6 +5455,7 @@
     "Name": "Solar Reviver",
     "Level": "1d6",
     "Effect": "When applied to a device such as a cypher or an artifact during daylight hours, the patch increases the effect of the next use of the device (such as providing additional damage or healing equal to the patch’s level, increasing the distance from close range to long range, and so on). When applied to an expired device, the patch repowers it once, allowing it a single additional use.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -5172,6 +5463,7 @@
     "Name": "Solid Light Gloves",
     "Level": "1d6",
     "Effect": "The user’s hands are sheathed in gloves made of solid light for one hour. The user can touch or handle dangerous substances as though he had 12 Armor. This protection does not apply to combat situations.",
+    "Categories": "Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -5180,6 +5472,7 @@
     "Name": "Solid Light Retribution",
     "Level": "1d6 + 1",
     "Effect": "When activated, metal spheres fly into the air and project a large shield of solid light that protects the user as a normal shield (reducing the difficulty of Speed defense rolls by one step). Anyone who attacks the user and misses strikes the shield instead, creating a backlash of energy that inflicts 4 points of Intellect damage (ignores Armor). It lasts for one hour. A solid light retribution doesn’t need to be wielded; it protects the user while leaving both hands firee.",
+    "Categories": "Hard Light Devices, Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -5188,6 +5481,7 @@
     "Name": "Sound Amplifier",
     "Level": "1d6",
     "Effect": "Amplifires sounds within immediate range so they can be heard up to 1 mile (2 km) away. The amplified noise lasts for a few minutes. Until the effect ends, everyone within immediate range of the device becomes deafened while it emits sounds.",
+    "Categories": "Sound And Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -5195,6 +5489,7 @@
     "Name": "Sparkle",
     "Level": "1d6 + 4",
     "Effect": "Causes 1d6 glowing lights to shoot from the end of the device, travel a long distance, and explode in a flash of brilliant colors that blinds anyone in an immediate radius for one minute.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -5203,6 +5498,7 @@
     "Name": "Spatial Distorter",
     "Level": "1d6",
     "Effect": "Emits a field around the user that lasts for one minute. The field makes her appear to be far away to creatures that are more than an immediate distance from her. This distortion decreases the difficulty of her Speed defense rolls by one step when she is attacked by creatures at that distance.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -5211,6 +5507,7 @@
     "Name": "Speed Heal",
     "Level": "1d6 + 2",
     "Effect": "At the end of each minute for the next hour, the user adds 1 point to his Might Pool, up to the Pool’s maximum. This is especially useful for someone who is taking firequent or long-term damage. If a speed heal is combined with any pill, liquid, or injector cypher (task difficulty 9), the resulting cypher is a level 9 poison that inflicts 8 points of damage every minute over the course of five minutes.",
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -5233,6 +5530,7 @@
     "Name": "Standstill",
     "Level": "1d6",
     "Effect": "This device projects an electric shock that causes a living target’s muscles to seize up, rendering him immobile for one round.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -5241,6 +5539,7 @@
     "Name": "Stasis Field Emitter",
     "Level": "1d6 + 2",
     "Effect": "Emits a wave of energy at a target within short range. The energy inflicts 4 points of radiation damage and, if the target’s level is equal to or lower than the cypher level, the target cannot take actions for one round.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -5255,6 +5554,7 @@
     "Name": "Steel Sentinel",
     "Level": "1d6 + 4",
     "Effect": "The device activates and becomes a level 5 creature for one hour or until destroyed. The device accompanies you and follows your instructions until the effect ends. As a level 5 creature, it has a target number of 15 and a health of 15, and it inflicts 5 points of damage. If the device is reduced to 0 health, it is destroyed and the effect ends.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -5272,6 +5572,7 @@
     "Name": "Stone Form",
     "Level": "1d6 + 2",
     "Effect": "Causes the user’s body to become a stone statue for 28 hours. While in this form, he is immune to damage inflicted by energy and has 4 Armor. He is in a catatonic state until the effect wears off.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -5301,6 +5602,7 @@
     "Name": "Stronghold",
     "Level": "1d6",
     "Effect": "Allows the user to lift and carry twice as much weight as normal with minimal exertion for one hour.",
+    "Categories": "Enhancements (Might)",
     "Source": "Compendium"
   },
   {
@@ -5308,6 +5610,7 @@
     "Name": "Summoning Staff",
     "Level": "1d6 + 3",
     "Effect": "This device requires two separate actions to fully activate. The first action involves the small cylinder, which has a glass lens on one end. With the cylinder, the user locates a random ultraterrestrial being (whose level is equal to or less than the cypher level) dwelling somewhere other than the Ninth World. The being becomes visible in the lens. On the next action, the user can use the staff to open a portal and pull the ultraterrestrial into this world. The ultraterrestrial cannot resist, but once it arrives, it is not automatically compelled to do anything. Unless it can return under its own power or through some other means, it is in this world to stay.When the user finds an ultraterrestrial in the first step of this process, he can choose not to bring it into this world, but he cannot use the device to find another being.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5338,6 +5641,7 @@
     "Name": "Talio’s Compass",
     "Level": "1d6",
     "Effect": "Pinpoints a source of metal within living tissue and can draw it out. If used to remove a dangerous object (such as a projectile) from a living creature, the device restores a number of points equal to the cypher level to the creature’s Might Pool. If used to discover and remove a beneficial or benign object (such as an implant) from a living creature, the device does 2 points of damage. Talio’s compass is named after Sybil Talio, who is rumored to have created the first device of its kind. She died shortly after attempting to use it on herself, only to accidentally pull out one of her vital organs. Her grandsons continue her work to this day.",
+    "Categories": "Healing Devices, Magnetic Devices",
     "Source": "Compendium"
   },
   {
@@ -5352,6 +5656,7 @@
     "Name": "Task Drone",
     "Level": "1d6",
     "Effect": "When activated, this drone flies up to a long distance and performs one simple task with its tendril arm, such as pull a lever, open a door, lift an object, or push an object. Returning to the user can be a part of the task (so the drone can go get something and return with it). The drone has the strength of a normal human and is a creature of a level equal to the cypher level, with 1 Armor. It cannot make attacks and ceases to function after it performs its single task.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -5359,6 +5664,7 @@
     "Name": "Teleport Seal",
     "Level": "1d6 + 3",
     "Effect": "When activated, this device prevents all teleportation within 1 mile (2 km). No extradimensional gates function, and no phasing is possible in this area. The seal lasts for 28 hours.",
+    "Categories": "Protection (General), Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5366,6 +5672,7 @@
     "Name": "Teleport Trap",
     "Level": "1d6 + 2",
     "Effect": "When the device is activated, the next person to touch the disk is teleported to a spot designated by the user, up to a long distance away. The destination must be a place known to be open (the target cannot teleport into solid matter), but it could be 100 feet (30 m) in the air, at the bottom of a deep pool, or a similarly inhospitable place.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5374,6 +5681,7 @@
     "Name": "Teleporter (Mass)",
     "Level": "1d6 + 4",
     "Effect": "The user teleports herself and a number of other creatures equal to the cypher level. They can travel up to 100 × the cypher level in miles to a location she has previously visited. The group arrives safely with anything that they can carry, either individually or as a group.",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5382,6 +5690,7 @@
     "Name": "Temporal Sheath",
     "Level": "1d6 + 4",
     "Effect": "The user is enveloped by invisible energy for six hours. During this time, she has +1 to Armor against any type of energy attack (including those that normally ignore Armor) and is immune to any effect that would alter time, hold her in stasis, or do anything similar.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -5389,6 +5698,7 @@
     "Name": "Tendril Gloves",
     "Level": "1d6 + 2",
     "Effect": "When the device is activated, the wearer can produce a 10-foot (3 m) tendril of solid light from each of his palms. These tendrils are prehensile and dexterous and as strong as the wearer. They can manipulate objects; wrap around, lift, and move objects; or be used as medium weapons. The tendrils remain for ten minutes.",
+    "Categories": "Artificial Body Parts And Implants, Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -5396,6 +5706,7 @@
     "Name": "Tether",
     "Level": "1d6",
     "Effect": "Fires a metal spike at a target within range that inflicts 2 points of damage. Then, as part of the same action, the spike shoots a second metal spike at a different target within immediate range of it that inflicts the same damage. The spikes are connected by a tether. Until either target uses an action to remove the spike, neither target can move away from the other.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -5417,6 +5728,7 @@
     "Name": "Time Auger",
     "Level": "1d6",
     "Effect": "Allows the user to “drill” through time the way that one might drill through wood. The user doesn’t move through time, nor is he able to affect the past or the future. Instead, he creates a timehole that allows him to see thirty seconds into the future for the next ten minutes. As soon as he moves his eye away from the timehole, it collapses.",
+    "Categories": "Time Devices",
     "Source": "Compendium"
   },
   {
@@ -5424,6 +5736,7 @@
     "Name": "Time Capsule",
     "Level": "1d6",
     "Effect": "Anything placed inside the container does not experience time’s passage for 1d20 years. At the end of this period, or if the contents are removed before then, the cypher becomes inert.",
+    "Categories": "Time Devices",
     "Source": "Compendium"
   },
   {
@@ -5431,6 +5744,7 @@
     "Name": "Time Delay",
     "Level": "1d6",
     "Effect": "This device can be affixed to any other cypher and activate it by timer. The user can set the timer for up to one week.",
+    "Categories": "Numenera Enhancements",
     "Source": "Compendium"
   },
   {
@@ -5438,6 +5752,7 @@
     "Name": "Tranquility Pod",
     "Level": "1d6",
     "Effect": "This device wraps around the user’s head to provide a unique sensory experience, eliminating all external sounds, smells, and sights. Instead, the wearer experiences soothing sounds, soft light, and gentle vibrations. If he wears the pod for ten minutes, the experience restores a number of points equal to the cypher level to a single Pool of his choosing.",
+    "Categories": "Healing Devices",
     "Source": "Compendium"
   },
   {
@@ -5446,6 +5761,7 @@
     "Name": "Transdimensional Gate",
     "Level": "1d6 + 4",
     "Effect": "This device creates a portal that leads to a different dimension, level of existence, or reality. It is automatically keyed to a specific destination determined by the GM, but a character can attempt to reorient it to another extradimensional destination that she is aware of (task difficulty equal to the cypher level). The portal is about 5 feet (2 m) in diameter and remains open for one minute, unless the user wishes it to close earlier (closing the portal is an action).",
+    "Categories": "Dimensional And Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5484,6 +5800,7 @@
         }
       ]
     },
+    "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -5580,6 +5897,7 @@
     "Name": "Water Weapon",
     "Level": "1d6 + 2",
     "Effect": "Fires a bolt of energy through water at a target within long range, inflicting damage equal to the cypher level. The energy must have water to conduct it or the device will not function, so both weapon and target must be at least partially submerged.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -5594,6 +5912,7 @@
     "Name": "Weaver Drone",
     "Level": "1d6",
     "Effect": "Responding to simple voice commands, the weaver drone can climb almost any surface, releasing the strong synth cable out behind it as it travels in a simple or complex pattern. Once the cable runs out, the drone anchors itself (and the end of the cable) to a designated place and shuts down permanently. As long as the cable is anchored by the drone, it can sustain the weight of up to two average-sized people at a time.",
+    "Categories": "Automatons",
     "Source": "Compendium"
   },
   {
@@ -5601,6 +5920,7 @@
     "Name": "Wing Symbiote",
     "Level": "1d6 + 2",
     "Effect": "The device inflicts 2 points of damage to the user as it digs its claws into her spine and uses a tendril to burrow into her brain stem. For the next 28 hours, the user can fly by making a Speed roll (level 1) each round. In combat, she moves a short distance each round, but on extended trips, she can move up to 40 miles (64 km) per hour.",
+    "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
   {
@@ -5622,6 +5942,7 @@
     "Name": "Wrist Launcher",
     "Level": "1d6",
     "Effect": "Launches a small object (such as a dart, a stone, or a detonation cypher) up to long range. If the object is hard (preferably pointed), it inflicts 4 points of damage. A detonation inflicts its own explosive damage.",
+    "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
   {

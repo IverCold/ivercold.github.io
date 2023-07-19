@@ -1,0 +1,589 @@
+Category: Artificial Body Parts And Implants
+Biomorph Cypher SA 35
+Breather symbiote Cypher SA 37
+Comprehension graft Cypher CB 283
+Electronic nose Cypher SA 50
+Eyestalk graft Cypher SA 52
+Foam limb Cypher SA 55
+Head transference collar Cypher SA 60
+Organ patch Cypher SA 77
+Periscopic eye Artifact SA 126
+Pincer arm Artifact SA 127
+Poison brain implant Artifact CB 309
+Remote sensorium Cypher SA 83
+Replacement hand Artifact SA 130
+Reproductive bud Cypher SA 83
+Sleep watch Cypher SA 87
+Telepathy implant Cypher CB 296
+Tendril gloves Cypher SA 92
+Tendril graft Artifact CB 312
+Warmth projector Cypher CB 297
+Weapon graft Artifact CB 313
+
+Category: Automatons
+Access token Cypher SA 33
+Automated cook Artifact CB 300
+Chiurgeon sphere Artifact CB 302
+Cicerone Cypher SA 38
+Eyebug Cypher SA 52
+Fangs of the reaver Cypher SA 53
+Fluttering recorder Cypher SA 55
+Glass scorpion Cypher SA 57
+Harassing companion Cypher SA 60
+Inflatable companion Cypher SA 63
+Instant servant Cypher CB 288
+Navigator daemon Cypher SA 75
+Portable steed Cypher SA 80
+Projectile drone Artifact SA 128
+Remote clamp Artifact CB 310
+Repair sphere Artifact CB 310
+Repair unit Cypher CB 294
+Snake in the grass Cypher SA 87
+Steel sentinel Cypher SA 89
+Task drone Cypher SA 92
+Weaver drone Cypher SA 96
+
+Category: Crystal Devices
+Banishing nodule Cypher CB 282
+Blue crystal Cypher SA 37
+Crystal helmet Artifact SA 108
+Crystal virus Cypher SA 41
+Datasphere siphon Cypher CB 283
+Density nodule Cypher CB 283
+Disrupting nodule Cypher CB 285
+Echo crystal Cypher SA 49
+Fool killer Cypher SA 56
+Heat nodule Cypher CB 287
+Invisibility nodule Cypher CB 289
+Tracer nodule Artifact SA 139
+
+Category: Datasphere Devices
+Analysis daemon Cypher SA 33
+Biometric reference Cypher SA 35
+Cohesion stabilizer Artifact CB 303
+Conflict advisor Cypher SA 40
+Contingent subroutine Cypher SA 41
+Data armor Artifact SA 109
+Data flood Cypher SA 42
+Data merge Cypher SA 42
+Data spike Cypher SA 42
+Datasphere siphon Cypher CB 283
+Death messenger Cypher SA 43
+Dreamachine Cypher SA 49
+Interaction advisor Cypher SA 64
+Remnant reader Artifact SA 129
+Remote viewer Cypher CB 293
+Secret finder Cypher SA 85
+Silver ichor Artifact SA 131
+Telepathy implant Cypher CB 296
+Temporal viewer Cypher CB 296
+Tracer Cypher CB 297
+
+Category: Detonations
+Bloom (fireflower) Cypher SA 36
+Bloom (serpent) Cypher SA 36
+Bloom (spore) Cypher SA 36
+Detonation Cypher CB 284
+Detonation (coma) Cypher SA 44
+Detonation (crystal) Cypher SA 45
+Detonation (desiccating) Cypher CB 284
+Detonation (distress) Cypher SA 45
+Detonation (electromagnetic) Cypher SA 45
+Detonation (filament) Cypher SA 45
+Detonation (flash) Cypher CB 284
+Detonation (flashfire) Cypher SA 45
+Detonation (flesh warping) Cypher SA 45
+Detonation (foam) Cypher SA 45
+Detonation (gravity) Cypher CB 284
+Detonation (healing) Cypher SA 45
+Detonation (living metal) Cypher SA 45
+Detonation (matter disruption) Cypher CB 284
+Detonation (plant transformation) Cypher SA 46
+Detonation (pressure) Cypher CB 284
+Detonation (singularity) Cypher CB 285
+Detonation (smoke) Cypher SA 46
+Detonation (sonic) Cypher CB 285
+Detonation (spatial warping) Cypher SA 46
+Detonation (spawn) Cypher CB 285
+Detonation (stasis) Cypher SA 46
+Detonation (suggestion) Cypher SA 46
+Detonation (tendril) Cypher SA 46
+Detonation (web) Cypher CB 285
+Doomsday device Cypher SA 48
+Exploding arrow Artifact CB 304
+Gas bomb Cypher CB 287
+Heartburst Cypher SA 61
+Needleburst Cypher SA 76
+Poison (explosive) Cypher CB 292
+
+Category: Enhancements (Movement)
+Adhesion clamps Cypher CB 282
+Airfins Cypher SA 33
+Bounding boots Artifact CB 302
+Buoyancy Cypher SA 37
+Burrowing bubble Cypher SA 37
+Cloudskimmer Cypher SA 40
+Crawler tank Artifact SA 107
+Drastic propulsion Cypher SA 48
+Floating bubble Cypher SA 54
+Flow Cypher SA 54
+Flying cap Cypher SA 55
+Ground orb Cypher SA 58
+Instant boat Cypher SA 64
+Light flyer Cypher SA 67
+Lightwings Artifact SA 120
+Portable steed Cypher SA 80
+Seed boat Cypher SA 85
+Suspensor belt Artifact CB 312
+Windrider Artifact CB 313
+Wing symbiote Cypher SA 97
+
+Category: Enhancements (Stealth)
+Camouflage spray Cypher SA 38
+Chameleon cloak Artifact CB 302
+Cloaking pin Cypher SA 39
+Colorless grease Cypher SA 40
+Deployer (optical) Cypher SA 44
+Eagleseye Cypher CB 285
+Ghostly intruder Cypher SA 56
+Ghostly veil Cypher SA 57
+Sound dampener Cypher CB 295
+
+Category: Enhancements (Might)
+Armored flesh Artifact CB 300
+Augmenter harness Artifact SA 104
+Battlesuit Artifact CB 301
+Bone garden Artifact SA 105
+Chemical factory Cypher CB 283
+Growth harness Cypher SA 58
+Living armor sheath Artifact CB 307
+Pleasure center Cypher SA 79
+Revealer dart Cypher SA 83
+Second skin Artifact CB 310
+Sheen Cypher CB 294
+Silver ichor Artifact SA 131
+Strength boost Cypher CB 295
+Stronghold Cypher SA 90
+
+Category: Enhancements (Speed)
+Chemical factory Cypher CB 283
+Deployer (muscular) Cypher SA 44
+Kinetic shield Artifact CB 306
+Metabolism bud Artifact CB 307
+Revealer dart Cypher SA 83
+Speed boost Cypher CB 295
+Suspensor belt Artifact CB 312
+Visual displacement device Cypher CB 297
+
+Category: Enhancements (Intellect)
+Atmospheric hyperskin Cypher SA 34
+Brain bud Artifact CB 302
+Chemical factory Cypher CB 283
+Data armor Artifact SA 109
+Intellect enhancement Cypher CB 288
+Motion sensor Cypher CB 291
+Nightvision goggles Artifact CB 308
+Recorder headband Artifact CB 309
+Second sight symbiote Cypher SA 84
+Signal detector Cypher SA 87
+
+Category: Gravity Devices
+Bounding boots Artifact CB 302
+Gravity dampener Cypher SA 58
+Gravity nullifier Cypher CB 287
+Gravity-nullifying spray Cypher CB 287
+Hover belt Artifact CB 305
+Hover square Artifact CB 305
+Reality spike Cypher CB 293
+
+Category: Hard Light Devices
+Data merge Cypher SA 42
+Data vault Cypher SA 43
+Echo crystal Cypher SA 49
+Hard light cutter Artifact SA 118
+Hard light goggles Artifact SA 118
+Light binder Cypher SA 66
+Light spike Artifact CB 306
+Light steed Cypher SA 67
+Photonic fabricator Cypher SA 78
+Photonic hand Cypher SA 78
+Photonic smasher Cypher SA 78
+Radiant web Cypher SA 82
+Solid light bindings Artifact SA 134
+Solid light gloves Cypher SA 88
+Solid light helm Artifact SA 134
+Solid light retribution Cypher SA 88
+Tendril gloves Cypher SA 92
+
+Category: Healing Devices
+Artificial leech Cypher SA 34
+Brain lightning Cypher SA 37
+Chiurgeon sphere Artifact CB 302
+Detonation (healing) Cypher SA 45
+Ecstasy glass Cypher SA 50
+Essence transfer Cypher SA 51
+Exalted vapor Cypher SA 51
+Healing nodule Cypher SA 60
+Healing sword Artifact CB 305
+Health viewer Cypher SA 60
+Regrow Cypher SA 83
+Rejuvenating shield Cypher SA 83
+Rejuvenation field Cypher SA 83
+Rejuvenator Cypher CB 293
+Remake Cypher SA 83
+Repair sphere Artifact CB 310
+Repair unit Cypher CB 294
+Restoration pod Artifact SA 130
+Speed heal Cypher SA 89
+Stimulation stem Artifact SA 136
+Talio’s compass Cypher SA 92
+Tranquility pod Cypher SA 93
+
+Category: Magnetic Devices
+Blood magnet Cypher SA 36
+Countermeasure (magnetic) Cypher SA 41
+Instant bridge Artifact CB 306
+Kinetic shield Artifact CB 306
+Magnetic master Cypher CB 290
+Magnetic shield Cypher CB 290
+Metamagnetizer Cypher SA 72
+Talio’s compass Cypher SA 92
+
+Category: Nodules (Armor)
+Armor patch Cypher SA 34
+Blinking nodule Cypher CB 282
+Controlled blinking nodule Cypher CB 283
+Force nodule Cypher CB 286
+Invisibility nodule Cypher CB 289
+Retaliation nodule Cypher CB 294
+
+Category: Nodules (Weapon)
+Banishing nodule Cypher CB 282
+Density nodule Cypher CB 283
+Disrupting nodule Cypher CB 285
+Echo crystal Cypher SA 49
+Explosive nodule Cypher SA 52
+Fast hail Cypher SA 53
+Gravity nodule Cypher SA 58
+Hand of the conqueror Cypher SA 59
+Healing nodule Cypher SA 60
+Heat nodule Cypher CB 287
+Heat sheath Cypher SA 61
+Living weaponmaster nodule Cypher SA 67
+Shock nodule Cypher CB 294
+
+Category: Numenera Enhancements
+Amulet of safety Artifact CB 300
+Battle vapor Cypher SA 35
+Biometric patch Artifact SA 104
+Cypher replicator Cypher SA 41
+Cypher seed Cypher SA 42
+Death messenger Cypher SA 43
+Detonation delay Cypher SA 46
+Detonation trigger Cypher SA 47
+Device enhancer Cypher SA 47
+Echo crystal Cypher SA 49
+Energy module Cypher SA 50
+Hidden reviver Cypher SA 62
+Hover module Cypher SA 63
+Mind module Cypher SA 72
+Numenera analyzer Cypher SA 76
+Numenera net Cypher SA 76
+Parous cypher ball Cypher SA 78
+Parous oddity box Cypher SA 78
+Projectile module (homing) Cypher SA 80
+Projectile module (mind blasting) Cypher SA 81
+Projectile module (poison) Cypher SA 81
+Projectile module (teleport) Cypher SA 81
+Repair sphere Artifact CB 310
+Solar reviver Cypher SA 87
+Spatial warp Cypher CB 295
+Time delay Cypher SA 93
+Trigger trap Artifact CB 313
+
+Category: Organic And Biotech Devices
+Brain bud Artifact CB 302
+Butterfly drone Cypher SA 38
+Clone tank Cypher SA 39
+Ear worm Cypher SA 49
+Fallback clone Cypher SA 53
+Fungal garden Cypher SA 56
+Growth serum Cypher SA 59
+Growth stimulator Cypher SA 59
+Grub armor Cypher SA 59
+Health symbiote Cypher SA 60
+Instant companion Cypher SA 64
+Instant guardian Cypher SA 64
+Internal detector Cypher SA 65
+Living solvent Cypher CB 289
+Lutin (bioengineered insects) Cypher SA 68
+Mental thieves Cypher SA 71
+Poison (emotion) Cypher CB 291
+Poison (explosive) Cypher CB 292
+Poison (mind-controlling) Cypher CB 292
+Poison (mind-disrupting) Cypher CB 292
+Portable biolab Cypher SA 79
+Purgspitter Cypher SA 81
+Second sight symbiote Cypher SA 84
+Seed of knowledge Cypher SA 85
+Skill boost Cypher CB 294
+Skill bud Artifact CB 311
+Sleep inducer Cypher CB 295
+Transformation torque Cypher SA 94
+Visage changer Cypher CB 297
+
+Category: Protection (General)
+Armored flesh Artifact CB 300
+Battle armor Artifact CB 300
+Battlesuit Artifact CB 301
+Bezoar discharge Cypher SA 35
+Blinking nodule Cypher CB 282
+Bone dress Cypher SA 37
+Catholicon Cypher CB 282
+Chameleon cloak Artifact CB 302
+Chitin colony Cypher SA 38
+Concrete casting Cypher SA 40
+Contingent subroutine Cypher SA 41
+Controlled blinking nodule Cypher CB 283
+Countermeasure (membrane) Cypher SA 41
+Countermeasure (technological) Cypher SA 41
+Cyberflesh Cypher SA 41
+Dimensional armor Artifact CB 303
+Displacement cloak Cypher SA 48
+Filtration straw Artifact CB 304
+Fireproofing spray Cypher CB 285
+Flame catcher Cypher SA 53
+Flame-retardant wall Cypher CB 286
+Floating bubble Cypher SA 54
+Food scanner Artifact CB 305
+Force dome Artifact CB 305
+Force nodule Cypher CB 286
+Gel suit Cypher SA 56
+Grub armor Cypher SA 59
+Health symbiote Cypher SA 60
+Heat stone Cypher SA 61
+Heliolithic halo Cypher SA 61
+Hoop staff Artifact CB 305
+Indestructible oil Cypher SA 63
+Inertia shield Cypher SA 63
+Inflatable suit Cypher SA 63
+Instant shield Cypher SA 64
+Invulnerable mesh Cypher SA 65
+Kinetic shield Artifact CB 306
+Light shield Cypher SA 66
+Liquid armor Artifact CB 306
+Living armor sheath Artifact CB 307
+Lobal sheath Cypher SA 68
+Lotus paste Cypher SA 68
+Orbital armor Cypher SA 77
+Overwatch defender Cypher SA 77
+Perma-damp Cypher SA 78
+Personal environment field Cypher CB 291
+Plant jar Artifact CB 309
+Poison brain implant Artifact CB 309
+Prismatic field projector Cypher SA 80
+Protection amulet Artifact SA 128
+Psycap Artifact SA 128
+Purity Cypher SA 81
+Ranged protector Cypher SA 82
+Redlight clip Artifact CB 309
+Rejuvenating shield Cypher SA 83
+Repulsion field Cypher SA 83
+Ring of Iron Wind Artifact SA 130
+Safe corridor Artifact CB 310
+Sheen Cypher CB 294
+Skin of water breathing Artifact SA 131
+Snow lens Cypher SA 87
+Solid light retribution Cypher SA 88
+Spatial distorter Cypher SA 88
+Stasis projector Artifact SA 135
+Stone form Cypher SA 90
+Subdual field Cypher CB 296
+Teleport seal Cypher SA 92
+Telltale glass Artifact CB 312
+Temporal sheath Cypher SA 92
+Time dilation nodule (defensive) Cypher CB 296
+Visual displacement device Cypher CB 297
+Warmth projector Cypher CB 297
+
+Category: Protection (Armor)
+Armored flesh Artifact CB 300
+Armoring cloth Artifact SA 103
+Battle armor Artifact CB 300
+Battlesuit Artifact CB 301
+Crystal armor Artifact SA 108
+Dimensional armor Artifact CB 303
+Fireproofing spray Cypher CB 285
+Liquid armor Artifact CB 306
+Psychic helmet Artifact CB 309
+Rynrad skin Cypher SA 84
+Skin of fire sloughing Artifact SA 131
+Smart cape Artifact SA 133
+Spine armor Artifact SA 135
+Ultra armor Artifact SA 140
+
+Category: Ray Projectors
+Cellular disruptor Artifact CB 302
+Erosion ray Cypher SA 51
+Image projector Cypher CB 288
+Inferno wall projector Cypher CB 288
+Pyrolytic pulser Cypher SA 82
+Ray emitter Cypher CB 293
+Ray emitter (molecular rearrangement) Cypher SA 82
+Ray emitter (numbing) Cypher CB 293
+Ray emitter (paralysis) Cypher CB 293
+Shrink ray Cypher SA 86
+Terrorizer Artifact CB 390
+Transdimensional ray projector Artifact CB 313
+
+Category: Smart Fluid Devices
+Gel suit Cypher SA 56
+Liquid armor Artifact CB 306
+Liquid sword Artifact CB 307
+Memory gel Cypher SA 71
+
+Category: Sound And Sonic Devices
+Communication disks Cypher SA 40
+Deployer (hypersound) Cypher SA 44
+Dissonance cube Cypher SA 48
+Electromagnetic projector Artifact SA 111
+Emoacoustic weapon Cypher SA 50
+Psychic whistle Artifact CB 309
+Screaming madness Cypher SA 84
+Sonic blade Artifact SA 135
+Sonic hole Cypher CB 295
+Sound amplifier Cypher SA 88
+Sound dampener Cypher CB 295
+Thunder cannon Artifact CB 312
+
+Category: Time Devices
+Reset Cypher SA 83
+Temporal maul Cypher SA 136
+Temporal viewer Cypher CB 296
+Time auger Cypher SA 93
+Time capsule Cypher SA 93
+Time dilation nodule (defensive) Cypher CB 296
+Time dilation nodule (offensive) Cypher CB 296
+Time machine Artifact SA 138
+
+Category: Dimensional And Phase Devices
+Controlled blinking nodule Cypher CB 283
+Demonsphere Cypher SA 43
+Dimensional armor Artifact CB 303
+Ghostly duplicate Cypher SA 56
+Growth harness Cypher SA 58
+Multidimensional blade Artifact CB 308
+Phase changer Cypher CB 291
+Phase disruptor Cypher CB 291
+Phasing piton Artifact CB 309
+Quadraturin Cypher SA 82
+Reality spike Cypher CB 293
+Secret pocket Cypher SA 85
+Sidestep portal Cypher SA 86
+Summoning staff Cypher SA 90
+Teleport seal Cypher SA 92
+Teleport trap Cypher SA 92
+Teleporter (bounder) Cypher CB 296
+Teleporter (mass) Cypher SA 92
+Teleporter (traveler) Cypher CB 296
+Tentacle helmet Artifact SA 137
+Transdimensional gate Cypher SA 93
+Transdimensional ray projector Artifact CB 313
+
+Category: Weapons (Melee)
+Bloodblade Artifact SA 104
+Cacophony blade Artifact SA 105
+Despoiler, the Artifact CB 157
+Disruption blade Artifact CB 303
+Disruptive sword Artifact SA 110
+Drill spear Artifact CB 304
+Instant weapon Cypher SA 64
+Kinetic rod Cypher SA 66
+Light spike Artifact CB 306
+Lightning whip Artifact SA 120
+Malady maker Cypher SA 70
+Mephitic staff Artifact CB 307
+Miniaturized weapon Cypher SA 73
+Monoblade Cypher CB 291
+Multidimensional blade Artifact CB 308
+One perfect cut Cypher SA 76
+Phase axe Artifact SA 127
+Phasing piton Artifact CB 309
+Poisoner’s touch Artifact SA 127
+Power glove Artifact SA 128
+Pyroclastic staff Artifact SA 129
+Repulsion field Cypher SA 83
+Shock manacles Artifact CB 311
+Shocker Cypher CB 294
+Sonic blade Artifact SA 135
+Sphere thrower Artifact SA 135
+Spinneret ring Artifact SA 135
+Tendril graft Artifact CB 312
+Tentacle harness (bladed) Artifact SA 136
+Tongue snake Artifact SA 139
+Transdimensional blade Artifact SA 139
+Void knife Artifact SA 141
+Vuechi Artifact CB 313
+Weapon graft Artifact CB 313
+Windslice blade Artifact CB 313
+
+Category: Weapons (Ranged)
+Cellular disruptor Artifact CB 302
+Ecstasy paralyzer Artifact CB 304
+Fearmaker Artifact CB 304
+Fiery hellmaker Artifact CB 304
+Flame hand Cypher SA 53
+Flesh eater Cypher SA 54
+Foam sprayer Cypher SA 55
+Fool killer Cypher SA 56
+Gas bomb Cypher CB 287
+Hunter/Seeker Cypher CB 287
+Jolter Cypher SA 65
+Launcher Artifact CB 306
+Lightning lance Cypher SA 67
+Lutin (bioengineered insects) Cypher SA 68
+Lutin (combos) Cypher SA 68
+Lutin (engineered spores) Cypher SA 68
+Lutin (light drops) Cypher SA 69
+Lutin (metal shrapnel) Cypher SA 69
+Lutin (nanites) Cypher SA 69
+Magnetic attack drill Cypher CB 289
+Mental scrambler Cypher CB 290
+Mind killer Cypher SA 72
+Murder globe Artifact CB 308
+Nano-needler Artifact CB 308
+Needler Artifact CB 308
+Overwatch slayer Cypher SA 77
+Photon igniter Cypher SA 78
+Photonic smasher Cypher SA 78
+Portable vortex Cypher SA 80
+Pulse staff Artifact SA 128
+Pyroclastic staff Artifact SA 129
+Pyrolytic pulser Cypher SA 82
+Ranged retaliator Cypher SA 82
+Remote scarificator Cypher SA 83
+Root spike Cypher SA 84
+Rynrad skin Cypher SA 84
+Screaming madness Cypher SA 84
+Sensory disruptor Cypher SA 86
+Shatter wand Artifact CB 311
+Skull blaster Artifact CB 311
+Slug thrower Artifact CB 250
+Slugspitter Artifact CB 311
+Slugspitter (heat) Artifact SA 132
+Slugspitter (inorganic phasing) Artifact SA 132
+Slugspitter (mass increasing) Artifact SA 133
+Snipewand Artifact CB 311
+Sparkle Cypher SA 88
+Sphere thrower Artifact SA 135
+Standstill Cypher SA 89
+Stasis field emitter Cypher SA 89
+Stunner Artifact CB 312
+Terrorizer Artifact CB 390
+Tether Cypher SA 93
+The death by angles Artifact SA 137
+Thunder cannon Artifact CB 312
+Transdimensional ray projector Artifact CB 313
+Vuechi Artifact CB 313
+Water weapon Cypher SA 96
+Wrist launcher Cypher SA 97
