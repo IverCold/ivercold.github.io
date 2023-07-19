@@ -1,0 +1,1142 @@
+[
+  {
+    "Id": 1,
+    "Description": "Духи странных длинных гуманоидных существ передвигаются на поднимающихся под ними волнах. Монстры - спектральные змеи., 3 lvl, 9 hp, 4 dmg, poison 1 hp round",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 2,
+    "Description": "При нахождении в этой зоне голос персонажей изменяется случайным образом.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 3,
+    "Description": "Перелетающие равнины радуги. Столкновение с ними ослепляет и оглушают. Есть небольшой шанс, что зрение станет монохромным.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 4,
+    "Description": "Поле цветов между которыми перескакивают радуги волнами. Если попасть под одну из таких волн или попытаться схватить её, то это вызовет ослепление и головокружение.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 5,
+    "Description": "Стая гигантских мерцающих насекомых перелетают через равнину. У них множество пар блестящих крыльев.\nCaffa (Adult) (Discovery)",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 6,
+    "Description": "Растения (высокая трава) поют или воют в зависимости от ситуации. Здесь обитают Frilled Baul (p57 Bestiary) и его друг Ergovore Hound (p49 Bestiary)",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 7,
+    "Description": "Цветы излучают запах, знакомый каждому персонажу с детства - запах теплого и вкусного хлеба, сиропа или сладостей. На самом деле это 3-5 Jesanthum - p. 70 Bestiary",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 8,
+    "Description": "Белые \"тарелки\" с острыми краями нападают на персонажей. Pallone (p252 Corebook)",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 9,
+    "Description": "(соленое озеро) Из-под земли неожиданно вырывается громадный Cragworm",
+    "PlainsHills": false,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 10,
+    "Description": "Депрессивный Автоматон:\nПосреди пустыни виднеется автоматон гуманоидного типа. Слышно, что он разговаривает сам с собой. Среди разных языков, на которых он говорит, можно различить Общий. И основная тема его речи о том, что когда-то здесь было море, а теперь его нет. И это грустно. И ему грустно.",
+    "PlainsHills": false,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 11,
+    "Description": "В отдалении можно заметить животное, намертво зависшее в воздухе в странной позе. При приближении к нему время начинает замедлятся (мир за пределами кажется очень быстрым). Если подойти близко, то время для персонажа останавливается навсегда.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 12,
+    "Description": "Среди деревьев видны бутоны цветов (5-10) с человеческий рост. В них находятся гуманоиды, сохраненные тысячи или миллионы лет. Существа древесного вида, как-будто созданы из листьев сами.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 13,
+    "Description": "Персонажи встречают совершенно пустую деревню, но по виду кажется, что все исчезли только недавно. В центре деревни находится арка с серо-прозрачной вуалью внутри. Рядом с аркой можно найти осколки каких-то скрижалей с символами (Инт 8).\nВ реальности все жители прошли через арку и стали призраками. Второй свойство арки в том, что она может перемещать всю деревню целиком вместе с собой.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 14,
+    "Description": "Умирающий / недавно умеревший путешественник. Рядом с ним живой Thuman (Discovery 258), который ждет когда его хозяин проснется.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 15,
+    "Description": "Небольшой караван из двух семей, который направляется с юга на север в поисках нового прибежища, так как их поселение было уничтожено. Они под атакой Broken Hounds / Blood Barn",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 16,
+    "Description": "Персонажи видят как Sathosh (Discovery 253) загоняют копьями крупного зверя. Недалеко их логово.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 17,
+    "Description": "Персонажи замечают впереди группу Chirog (Discovery 231), которые пытаются сломать какую-то машину",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 18,
+    "Description": "Из-за ближайшего холма слышится звук, как-будто там играет музыкальный оркестр. На самом деле это стая Calyptor (Bestiary 27) предваряет своё появление еще и красочными расцветками на фоне звезд",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 19,
+    "Description": "В гексагональной зоне видно как горят деревья, но незаметно, чтобы пожар перекидывался на окружающее пространство",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 20,
+    "Description": "Одиноко стоящее огромное дерево. Персонажи решают заночевать недалеко от него. Дерево на самом деле целиком искусственное и меняет свою форму на ночь или в зависимости от окружающих условий. Является частью экосистемы и вытаскивает воду из-под земли, синтезируя нектар, таким образом кормя птиц и насекомых.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 21,
+    "Description": "Дыры в земле. Из них выпрыгивают и запрыгивают в другие проволочные существа. Персонажи могут попасть под их перелет случайно и зацепиться.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 22,
+    "Description": "Персонажи встречают одинокого путешественника, который просит еды и помощи. Заметно, что разумом он тоже слегка тронулся. На самом деле это человек-дупликат настоящего человека. Он является Mimetan (Destiny 270)",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 23,
+    "Description": "Персонажи встречают группу из двух-трёх торговцев, которые невероятно хороши в том, чтобы что-нибудь толкнуть. На самом же деле это замаскированные иллюзией Magathans (Bestiary)",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 24,
+    "Description": "Одного из персонажей хватает Magmid (Bestiary) (выбурившийся из дыры неподалеко) и уносит в новую дыру на несколько десятков миль вглубь. В глубине персонаж сталкивается с оживающим Nevari (Bestiary)",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 25,
+    "Description": "В болоте посреди кратера из деревьев видно ромбовидную штуковину. Если её исследовать, то она раскроется (как дроппод). Внутри окажутся останки разных механизмов, из которых можно понять, что она содержала в себе информацию о целой звездной системе.\nEndless Legend: Она нужна Неварину из звездного гекса.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 26,
+    "Description": "В лесу персонажи находят штуковину, большое похожую на голову огромного животного. Материал близок к кости. С ней можно взаимодействовать. Но её реакция будет совершенно случайной.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 27,
+    "Description": "Персонажи встречают Nychthemeron (Bestiary). Его действия зависят от времени суток.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 28,
+    "Description": "Неожиданный взрыв открывает близлежайшую пещеру, в которой оказываются Odlark (Bestiary)",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 29,
+    "Description": "Персонажи видят сцену как множество дронов атакуют одного Silver Orphan (Bestiary 117). После спасения он расскажет о странной сфере, которую он ищет.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 30,
+    "Description": "Посреди пространства находится небольшая куча из машин, на которых лежат артефакты и сайферы. Это ловушка Trawl (Bestiary 130). При прикосновении персонаж исчезает и сражается в одиночку.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 31,
+    "Description": "Персонажи встречают странную массу энергии, которая предлагает им свою помощь, но взамен выставляет странные требования. Varadimos (Bestiary 134).",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 32,
+    "Description": "На трёх столбах висят 3 автоматона. Они переговариваются на странном языке и не желают, чтобы их отсюда снимали.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 33,
+    "Description": "Посреди ничего стоит монумент, он изображает гуманоида с очень длинными конечностями, который воздевает руки к небу. Прикосновение к монументу заставляет персонажа следующие сутки находиться в паранойе или религиозном трепете.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 34,
+    "Description": "Посреди листвы находится кристалл с гуманоидом, который выглядит так, как будто попал туда случайно. Вокруг раскиданы множество линз и осколков кристалла.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 35,
+    "Description": "Феномен. Поле анти-гравитации подбрасывает персонажей в воздух. Распознать его можно по подвешенным повсюду камням.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 36,
+    "Description": "Внеземное существо (Varadimos? (Bestiary)) готово сторговать Нуменеру в обмен на воспоминания (опыт или навыки).",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 37,
+    "Description": "1д8 Оорголианских солдат охраняют обелиск, который передвигается вместе с ними к их базе.",
+    "PlainsHills": false,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 38,
+    "Description": "Статуя женщины-человека, на которой \"одето\" человеческое лицо, а с рук капает кровь.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 39,
+    "Description": "Ветки деревьев здесь покрыты множеством мешочков с газом, которые взрываются, если их задеть.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 40,
+    "Description": "Перед персонажами появляется столп света (ночью). Через некоторое время он исчезает, оставляя за собой тело, покрытое витиеватыми иероглифами. Они рассказывают о том, кто путешествует среди звезд. И о том, что он очнется, если его доставить обратно к звездам.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 41,
+    "Description": "Тела шести женщин лежат посреди дороги. Они абсолютно одинаковы во всех деталях.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 42,
+    "Description": "Недалеко от персонажей падает \"звезда\". При близком осмотре она выдает косметические мутации. При более серьезном осмотре она выдает powerful mutations. Через некоторое время она обрастает кристаллической оболочкой.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 43,
+    "Description": "Над персонажами пролетает \"дирижабль\" и осыпает их кучей светящихся штуковин - 2d6 oddities.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 44,
+    "Description": "С деревьев свисает странный Abhuman. Он просит одного из персонажей дать ему своё оружие, чтобы освободиться. И если получает его, то сматывается по деревьям.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 45,
+    "Description": "Супер-холодные, ледяные на прикосновение (2 ед урона мимо брони) насекомые появляются из ниоткуда и пытаются сожрать всю еду, что есть у персонажей.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 46,
+    "Description": "В болотах есть странные холмики, покрытые мхом. Шаг на них выпускает ядовитые споры (ур3, персонаж падает по Damage TracK). Персонажи, упавшие в мох, обнаруживают себя лицом к лицу с другими мертвыми путешественниками, которых можно полутать на шины (4д6) и сайферы (1д6)",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 47,
+    "Description": "Автоматон, который сидит на месте. При приближении он выдает сигнал. Расшифровав его можно понять, что ему требуются источники энергии.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 48,
+    "Description": "Тело человека в луже из жидкого метала. При ближайшем анализе оказывается, что это артефакт, который даёт +2 брони тем, кто его одевает. Но только на 10 минут, так как затем он становится невероятно горячим. (1 из д4)",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 49,
+    "Description": "Два человека лежат в руинах летательного аппарата (триплана, 6 ур). Всё можно посальваджить и полутать на 1д6+2 сайферов.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 50,
+    "Description": "Посреди ничего стоит цилиндр из метала и стекла. В нём есть небольшое отверстие. Если туда кинуть шин, то устройство выдаст вкусную еду и напиток для одного человека.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 51,
+    "Description": "Неожиданно вокруг персонажей возникает лабиринт из стен, которые показывают им сцены из их жизни.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 52,
+    "Description": "На дороге валяются множество предметов посуды из стекла. Если дотронуться до чего-нибудь, то оно рассыпается, и персонаж схватывает галлюцинацию.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 53,
+    "Description": "(Недалеко от деревни) Множество странных антенн воткнутых в землю недалеко друг от друга. По каждой из антенн можно  рассмотреть небольшой бугорок. Рядом находится пустая деревня.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 54,
+    "Description": "Персонажи натыкаются на монолит, который показывает детство любому, кто в него всмотрится",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 55,
+    "Description": "Местность, через которую персонажи проезжают несколько (1d6 + 1) раз.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 56,
+    "Description": "На дороге встречается путешественник, который просит о помощи, рассказывает, что двигался от поселения к поселению (их больше не существует) и рассыпается в прах. Прах развеевается ветром.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 57,
+    "Description": "Поле битвы. Остатки оружия - торчат различные копья, мечи и молоты. Всё энергетическое. Остатки деревянных стрелометов. Остатки чугунных пушек.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 58,
+    "Description": "Черные лужи (заметить 5), хватают и утаскивают (5)",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 59,
+    "Description": "Феномен. Небольшое облако, дающее кислотный дождь. Каждая минута под ним - 1 единица урона мимо брони ИЛИ повреждение доспехов",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 60,
+    "Description": "Феномен. Шторм из пепла с виду, который на самом деле оказывается мелкими режущими лезвиями. Продвижение сквозь него почти невозможно.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 61,
+    "Description": "Феномен. Пылевые торнадо, которые следуют друг за другом в каком-то безумном танце (вальс), формируя всё новые паттерны. Ловкость 5, чтобы от них уклониться и убежать. Иначе подхватывает в воздух и бросает о землю с 4-6 амбиент урона.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 62,
+    "Description": "Феномен. Электрический шторм. Воздух около земли накаляется и начинают проноситься разряды. Разряды парализуют на один раунд и наносят урон 4. По тем, кто в металле урон удваивается",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 63,
+    "Description": "Феномен. Вокруг возникают странные огоньки то тут, то там. Взаимодействовать с ними невозможно. Порой они начинают мигать как гирлянда мешая спать.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 64,
+    "Description": "Феномен. Поле вялости и сна. Персонажи валятся с ног от усталости и собираются засыпать. Навечно. 4 сложность Интеллект.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 65,
+    "Description": "Феномен. Сильное магнитное поле. Все металлические предметы на персонажах намертво приклеиваются к земле.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 67,
+    "Description": "Феномен. Мираж (либо больше деревьев, либо кустов, либо ориентиры - кольцо Кала - смещены)",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 68,
+    "Description": "Феномен. Резкое повышение температуры. К металлу невозможно прикоснуться. Чтобы двигаться нужно кинуть Силу 4 (Атлетика), иначе сдвиг на 1 шаг по Damage Track",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 69,
+    "Description": "Феномен. Неожиданно всё вокруг начинает взрываться. Раздаётся свист снарядов, вспышки. Каждый прилетающий снаряд 5 уровня и наносит урон 6.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 70,
+    "Description": "Феномен. Впереди мгла. И никто не знает что она таит. Но её нельзя обойти. Персонажи легко могут потеряться, сложность броска на поиск пути 7.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 71,
+    "Description": "Роща расколотых надвое почерневших деревьев. При ближайшем осмотре в них внутри оказывается органический металл.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 72,
+    "Description": "Феномен. Маслянистый густой дождь ночью. От него все растения вокруг начинают мгновенно гнить. Вонь стоит невыносимая. Приглядевшись, можно заметить пролетающий крупный объект.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 73,
+    "Description": "Феномен. Шторм из острозаточенных осколков синей субстанции. Попадая, разрывают кожу. Уровень 4.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 74,
+    "Description": "Феномен. Ливень теплой странной золотистой воды. Залечивает раны, убирает повреждения и яды. 4 хп в час.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 75,
+    "Description": "Феномен. Ливень красного цвета, после попадания под который персонажи видят цвета иначе несколько дней (возможно даже ультрафиолет)",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": false
+  },
+  {
+    "Id": 76,
+    "Description": "Минное поле. Заложенные здесь снаряды, когда над ними оказывается персонаж, притягивают его в точку, а затем отбрасывают в случайном направлении нанося урон 5. Вместе с ним выбрасывается и 1д6 малых снарядов, которые на поверхности действуют так же. Обнаружить мину заранее можно при помощи внимательного осмотра и Интеллект 5.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 77,
+    "Description": "Все окружающие камни и вытесанные монументы покрыты письменами. Эти письмена светятся в темноте. Среди них можно различить научные изыскания связи всего со всем (Интеллект 6), которое постепенно сводит с ума.",
+    "PlainsHills": false,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 78,
+    "Description": "Феномен. Вокруг множество бугорков, от которых исходит что-то похожее на пар. Под ними скрыты гейзеры с бьющей горячей водой. Аккуратный проход между ними требует Интеллект 4, а уклонение от вырвавшегося гейзера Ловкость 5",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 79,
+    "Description": "Феномен. Персонажи входят в поле, в котором гравитация сильнее в 10 раз, чем обычно.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 80,
+    "Description": "Неподалеку заметны кустики с цветами разного цвета. От них доносится слабая мелодия.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 81,
+    "Description": "На привале не чувствуется ветра, но крона одного дерева неподалеку шумит так, как будто бы сквозь неё дует ветер.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 82,
+    "Description": "Персонажи замечают, что часть цветов и деревьев вокруг как будто бы расплавлены. Хотя температура воздуха нормальная.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 83,
+    "Description": "Персонаж замечает неподалеку камни с небольшими кружочками. При нажатии они отодвигаются и внутри оказывается небольшой туннель. Если продолжать исследовать камни, то из одного из них выскочит стержень, который стремительно начнет краснеть.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 84,
+    "Description": "Неподалеку видно муравьиное гнездо. Через какое-то время привала персонажи замечают, что муравьи сформировали лицо одного из них.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 85,
+    "Description": "Феномен. Рядом с привалом появляется небольшое облако тумана - оно начинает тянуться к персонажам. Но ничего больше не происходит.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 86,
+    "Description": "К воде в небольшом озере невозможно прикоснуться - она отодвигается от любой попытки.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 87,
+    "Description": "На остановке ИИ машины сообщает, что грязь пытается поесть метал оболочки.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 88,
+    "Description": "Камни вокруг привала периодически сильно вибрируют.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 89,
+    "Description": "Среди деревьев возле привала можно заметить, что некоторые выглядят прямо как люди с лицами, руками, ногами.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 90,
+    "Description": "Большой камень рядом с привалом неожиданно открывает рот и начинает произносить незнакомые слова.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 91,
+    "Description": "Голос персонажей на привале идёт к камню и превращается в воздушную пену (сладкую вату).",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 92,
+    "Description": "Озеро неподалеку, в котором вместо воды силикон (синт).",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 93,
+    "Description": "На этом привале ощущение, что все говорят и действуют несколько быстрее, чем обычно.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 94,
+    "Description": "Рядом с привалом кусты с ягодами. Если их сорвать, то куст начинает издавать звуки плачущего младенца.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 95,
+    "Description": "В какой-то момент на привале персонаж наступает на гнездо с яйцами и из них вылетают маленькие комки света.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 96,
+    "Description": "Птицы рядом с привалом телепортируются вместо того, чтобы перелетать от ветке к ветке.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 97,
+    "Description": "Рядом с привалом есть грибы, у каждого из которых есть глаз.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 98,
+    "Description": "Растения вокруг плавают в пузырях.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 99,
+    "Description": "На открытой местности ветер неожиданно начинает резко изменять своё направление (туда-сюда).",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 100,
+    "Description": "На открытой местности видны торчащие остатки руин. Но при попытке прикоснуться к ним, они как бы отдаляются (оптический эффект).",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 101,
+    "Description": "Вокруг множество осколков металла и каких-то зданий. Всё заросло растениями, которые оплели руины.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 102,
+    "Description": "Дерево начинает разговаривать с персонажами на незнакомом языке. Но быстро приспосабливается к их языку. Оказывается что оно очень древнее, но слабо заинтересовано в окружающем мире.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 103,
+    "Description": "На привале можно обнаружить слегка закопанный небольшой случайный сайфер. Инт таск 5.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 104,
+    "Description": "Трава необычная острая по краям.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 105,
+    "Description": "Феномен. С неба падает рыба.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false,
+    "Camp": false
+  },
+  {
+    "Id": 106,
+    "Description": "Вокруг множество луж темно-красного цвета. Но ничего больше.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 107,
+    "Description": "На персонажей выходит небольшая стая лисиц. Все они голограммы.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 108,
+    "Description": "На персонажей выходит небольшое животное, которое начинает с ними разговаривать. Постепенно оказывается, что оно думает, что они нереальны и лишь проекция мозга",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 109,
+    "Description": "Мимо персонажей проплывает сфера со множеством глаз. Но ничего интересного.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 110,
+    "Description": "К вечеру оказывается, что деревья вокруг привала помигивают красным.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 111,
+    "Description": "Ручей/река рядом ускоряется и замедляется.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 112,
+    "Description": "Озеро неподалеку резко сливается в сток.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 113,
+    "Description": "Озеро показывает мысли всех, кто стоит рядом.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": true
+  },
+  {
+    "Id": 114,
+    "Description": "Автоматон с солнечными батареями поддерживает жизнь ребёнка в своём чреве.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false,
+    "Camp": true
+  },
+  {
+    "Id": 115,
+    "Description": "Желатиновый куб держит в себе голову и руки внутри, говоря, что именно они управляют им.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true,
+    "Camp": false
+  }
+]

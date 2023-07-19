@@ -1,12 +1,12 @@
-const pathToCreatures = "creatures.xml";
-const pathToEncounters = "encounters.xml";
+const pathToCreatures = "creatures.json";
+const pathToEncounters = "encounters.json";
 
-let creaturesXml;
-let encountersXml;
+let creaturesArray;
+let encountersArray;
 
 $(document).ready(function () {
-    loadXml(pathToCreatures, loadCreaturesXml);
-    loadXml(pathToEncounters, loadEncountersXml);
+    loadData(pathToCreatures, loadCreaturesData);
+    loadData(pathToEncounters, loadEncountersData);
 
     $("#rolld20_button").click(function () {
         $("#d20result").html(getRandomIntInclusive(1, 20));
@@ -29,23 +29,23 @@ $(document).ready(function () {
 });
 
 /* XML Loading */
-function loadXml(pathToXml, loadingFunction) {
+function loadData(pathToJson, loadingFunction) {
     $.get({
-        url: pathToXml,
+        url: pathToJson,
         type: 'get',
         async: false,
-        dataType: 'xml',
+        dataType: 'json',
         success: function (data) {
             loadingFunction(data);
         }
     })
 }
 
-function loadCreaturesXml(xmlData) {
-    creaturesXml = xmlData;
+function loadCreaturesData(data) {
+    creaturesArray = data;
 }
-function loadEncountersXml(xmlData) {
-    encountersXml = xmlData;
+function loadEncountersData(data) {
+    encountersArray = data;
 }
 
 /* Creature Generating */
@@ -53,18 +53,45 @@ function generateRandomCreature() {
     let selectedTerrain = $("#generate_creature_form input[type='radio']:checked").val();
     if (selectedTerrain == null) return;
 
-    var allCount = $(creaturesXml).find('Creature').length;
-
-    let selector = 'Creature > ' + selectedTerrain + ':contains("true")';
-    var filteredCreatures = $(creaturesXml).find(selector).parent();
+    let filteredCreatures;
+    switch(selectedTerrain){
+        case 'RuinsUnderground':
+            filteredCreatures = creaturesArray.filter(c => c.RuinsUnderground === true);
+            break;
+        case 'PlainsHills':
+            filteredCreatures = creaturesArray.filter(c => c.PlainsHills === true);
+            break;
+        case 'Desert':
+            filteredCreatures = creaturesArray.filter(c => c.Desert === true);
+            break;
+        case 'Woods':
+            filteredCreatures = creaturesArray.filter(c => c.Woods === true);
+            break;
+        case 'Mountains':
+            filteredCreatures = creaturesArray.filter(c => c.Mountains === true);
+            break;
+        case 'Swamp':
+            filteredCreatures = creaturesArray.filter(c => c.Swamp === true);
+            break;
+        case 'Dimensions':
+            filteredCreatures = creaturesArray.filter(c => c.Dimensions === true);
+            break;
+        case 'Water':
+            filteredCreatures = creaturesArray.filter(c => c.Water === true);
+            break;
+    }
     let filteredCount = filteredCreatures.length;
+    if (filteredCount == 0) {
+        $('#creature').html('No creatures found');
+        return;
+    }
     let randomIndex = getRandomInt(filteredCount);
-    let randomCreature = $(filteredCreatures).eq(randomIndex);
+    let randomCreature = filteredCreatures[randomIndex];
 
     let html = "";
-    html += "Name: " + randomCreature.find('Name').text() + '<br>';
-    html += "Source: " + randomCreature.find('Source').text() + '<br><br>';
-    html += "AllCreaturesCount: " + allCount + " creatures.<br>";
+    html += "Name: " + randomCreature.Name + '<br>';
+    html += "Source: " + randomCreature.Source + '<br><br>';
+    html += "AllCreaturesCount: " + creaturesArray.length + " creatures.<br>";
     html += "Choosen from: " + filteredCount + " creatures.<br>";
     $('#creature').html(html);
 }
@@ -74,18 +101,39 @@ function generateRandomEncounter() {
     let selectedTerrain = $("#generate_encounter_form input[type='radio']:checked").val();
     if (selectedTerrain == null) return;
 
-    var allCount = $(encountersXml).find('Encounter').length;
-
-    let selector = 'Encounter > ' + selectedTerrain + ':contains("true")';
-    var filteredEncounters = $(encountersXml).find(selector).parent();
+    let filteredEncounters;
+    switch(selectedTerrain){
+        case 'PlainsHills':
+            filteredEncounters = encountersArray.filter(c => c.PlainsHills === true);
+            break;
+        case 'Desert':
+            filteredEncounters = encountersArray.filter(c => c.Desert === true);
+            break;
+        case 'Woods':
+            filteredEncounters = encountersArray.filter(c => c.Woods === true);
+            break;
+        case 'Mountains':
+            filteredEncounters = encountersArray.filter(c => c.Mountains === true);
+            break;
+        case 'Swamp':
+            filteredEncounters = encountersArray.filter(c => c.Swamp === true);
+            break;
+        case 'Camp':
+            filteredEncounters = encountersArray.filter(c => c.Camp === true);
+            break;
+    }
     let filteredCount = filteredEncounters.length;
+    if (filteredCount == 0) {
+        $('#creature').html('No encounters found');
+        return;
+    }
     let randomIndex = getRandomInt(filteredCount);
-    let randomEncounter = $(filteredEncounters).eq(randomIndex);
+    let randomEncounter = filteredEncounters[randomIndex];
 
     let html = "";
-    html += "Description: " + randomEncounter.find('Description').text() + '<br>';
-    html += 'PictureId: ' + randomEncounter.find('Id').text() + '<br><br>';
-    html += "AllEncountersCount: " + allCount + " encounters.<br>";
+    html += "Description: " + randomEncounter.Description + '<br>';
+    html += 'PictureId: ' + randomEncounter.Id + '<br><br>';
+    html += "AllEncountersCount: " + encountersArray.length + " encounters.<br>";
     html += "Choosen from: " + filteredCount + " encounters.<br>";
     $('#encounter').html(html);
 }
