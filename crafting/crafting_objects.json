@@ -359,6 +359,9 @@
   {
     "Kind": "Automaton",
     "Name": "Warstriker",
+    "Specifications": "This plan produces a giant war machine about 40 feet (12 m) in diameter with hundreds of synthsteel legs ideal for running or clinging to almost any surface. Once created, warstrikers are difficult to control or influence. Built for destruction, even a newly constructed warstriker is likely to turn on its creator. Warstrikers can lob life-seeking detonations at targets up to 3 miles (5 km) away that inflict 15 points of damage on all targets within short range of the explosion targets who succeed on a Speed defense roll suffer 5 points of damage. At close range, the automaton can apply its nest of blade-tipped synthsteel legs to attack all creatures within immediate range simultaneously as one action, inflicting 10 points of damage per strike. Warstrikers automatically regain 3 points of health each round.",
+    "Modifications": "To modify a warstriker to be less belligerent toward its creator, add 1 Tamed iron. Doing so lessens the depletion chance from a check per week of use to a check per month of use.",
+    "Depletion": "1 in 1d20 (check per week of use on depletion it turns on creator and everything around it)",
     "MinCraftingLevel": 10,
     "Parts": 120,
     "Iotum": {
@@ -377,6 +380,9 @@
   {
     "Kind": "Installation",
     "Name": "Alarm Tower",
+    "Specifications": "This plan produces a 3-foot (1 m) diameter crystal sphere fixed atop a metallic mast that reaches 50 feet (15 m) into the air. It also produces a linked, handheld device with a control surface. The alarm tower monitors along a circumference up to a very long distance away from the tower in all directions. The tower notifes the holder of the handheld device if it detects unusual motion, behavior associated with attempts at stealth, or attempts at crossing the circumference that haven't been previously cleared by the builder (for example, normal traffic on a road or through a gate would probably be cleared by the builder). The alarm tower could be set to scan for different criteria, such as the appearance of a certain kind of creature or even a specific individual. Such a device modifes a community's rank by +1 for tasks related to perception. The wielder of an alarm tower's control device can cause the tower to emit an audible alarm either manually or as an automatic response to what it is set to watch for.",
+    "Modifications": "None",
+    "Depletion": "1 in 1d20 (check per year of use)",
     "MinCraftingLevel": 5,
     "Parts": 48,
     "Iotum": {
@@ -1844,6 +1850,9 @@
   {
     "Kind": "Installation",
     "Name": "Water Signal (destruction) Emitter",
+    "Specifications": "This plan produces a fixed solid about 10 feet (3 m) on a side with a crystalline extension to be placed in a body of water (a large body of water produces the best effect). The device emits a pulse that propagates and builds in the water, becoming a destructive signal. The destructive signal can punch a hole in the hull of a single ship of up to level 7 at the waterline, sinking the vessel. The device must recharge for one hour before it can be used again. This device modifes a community's damage inflicted by +2, as long as the enemy can be targeted on the water. A water signal emitter can sometimes be used to transmit information to craft at sea, but doing so takes a deft touch to avoid holing the vessel.",
+    "Modifications": "None",
+    "Depletion": "1 in 1d20 (check once after any week the device was used)",
     "MinCraftingLevel": 6,
     "Parts": 63,
     "Iotum": {
@@ -2525,6 +2534,27 @@
       "Pliable Metal": 6,
       "Mimetic Gel": 0,
       "Amber Crystal": 2,
+      "Psiranium": 0,
+      "Oraculum": 0,
+      "Tamed Iron": 0,
+      "Cosmic Foam": 0
+    }
+  },
+  {
+    "Kind": "Vehicle",
+    "Name": "Windrider",
+    "Specifications": "This plan produces an 8-foot (2.5 m) long metallic wing that can be ridden by someone who succeeds on a difficulty 1 Speed task each round. In combat, the windrider moves a long distance each round, but on extended trips, it can move up to 80 miles per hour (130 kph).",
+    "Modifications": "None",
+    "Depletion": "1-2 in 1d100 (check per day of use)",
+    "MinCraftingLevel": 4,
+    "Parts": 43,
+    "Iotum": {
+      "Io": 4,
+      "Responsive Synth": 22,
+      "Apt Clay": 0,
+      "Pliable Metal": 8,
+      "Mimetic Gel": 3,
+      "Amber Crystal": 3,
       "Psiranium": 0,
       "Oraculum": 0,
       "Tamed Iron": 0,
