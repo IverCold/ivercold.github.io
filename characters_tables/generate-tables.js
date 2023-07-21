@@ -9,13 +9,13 @@ let jsonArray;
 $(document).ready(function () {
     if ($(descriptorsTableSelector).length) {
         loadTableDataJsonSync(pathToDescriptors);
-        generateTableFromJSON(descriptorsTableSelector);
+        generateCostsTableFromJSON(descriptorsTableSelector);
         setTableStylesForDescriptors();
     }
 
     if ($(focusesTableSelector).length) {
         loadTableDataJsonSync(pathToFocuses);
-        generateTableFromJSON(focusesTableSelector);
+        generateCostsTableFromJSON(focusesTableSelector);
         setTableStylesForFocuses();
     }
 })
@@ -33,16 +33,16 @@ function loadTableDataJsonSync(pathToJSON) {
 }
 
 // Main unified function for Descriptors, Focuses and Types abilities
-function generateTableFromJSON(tableSelector) {
-    var columns = addColumnHeadersFromFirstElement(jsonArray, tableSelector);
+function generateCostsTableFromJSON(tableSelector) {
+    var columns = addHeaderRowForCostsTable(jsonArray, tableSelector);
     for (var i = 0; i < jsonArray.length; i++) {
-        addRowFromElement(tableSelector, jsonArray[i], columns);
+        addCostsRowFromElement(tableSelector, jsonArray[i], columns);
     }
 }
 
 // Add a header to the table and return the set of columns.
 // Uses only the first row for keys.
-function addColumnHeadersFromFirstElement(jsonArray, tableSelector) {
+function addHeaderRowForCostsTable(jsonArray, tableSelector) {
     var columnSet = [];
     var headerTr$ = $('<tr/>');
 
@@ -57,7 +57,7 @@ function addColumnHeadersFromFirstElement(jsonArray, tableSelector) {
     return columnSet;
 }
 
-function addRowFromElement(tableSelector, elem, columns) {
+function addCostsRowFromElement(tableSelector, elem, columns) {
     var row$ = $('<tr/>');
 
     for (var colIndex = 0; colIndex < columns.length; colIndex++) {
