@@ -1,7 +1,9 @@
 [
   {
-    "Wearable": "Gloves",
-    "Usable": "Handles with powerful suction cups",
+    "Forms": [
+      "Перчатки",
+      "Handles with powerful suction cups"
+    ],
     "Name": "Adhesion Clamps",
     "NameRu": "Прилипчивые лапы",
     "Level": "1d6",
@@ -10,8 +12,11 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Antivenom",
     "NameRu": "Противоядие",
     "Level": "1d6 + 3",
@@ -20,8 +25,10 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Glove of synth",
-    "Usable": "Small handheld device",
+    "Forms": [
+      "Синтетическая перчатка",
+      "Маленькое портативное устройство"
+    ],
     "Name": "Attractor",
     "NameRu": "Притягиватель",
     "Level": "1d6",
@@ -30,7 +37,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к оружию ближнего боя"
+    ],
     "Name": "Banishing Nodule",
     "NameRu": "Изгоняющая друза",
     "Level": "1d6",
@@ -39,7 +48,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to armor",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к броне"
+    ],
     "Name": "Blinking Nodule",
     "NameRu": "Мигающая друза",
     "Level": "1d6",
@@ -48,8 +59,11 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Catholicon",
     "NameRu": "Католикон",
     "Level": "1d6 + 3",
@@ -58,8 +72,11 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Catseye",
     "NameRu": "Кошачий глаз",
     "Level": "1d6",
@@ -68,8 +85,11 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Chemical Factory",
     "NameRu": "Химическая фабрика",
     "Level": "1d6",
@@ -142,7 +162,9 @@
     }
   },
   {
-    "Usable": "Small metallic disk",
+    "Forms": [
+      "Маленький металлический диск"
+    ],
     "Name": "Comprehension Graft",
     "NameRu": "Трансплантат понимания",
     "Level": "1d6 + 1",
@@ -151,7 +173,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to armor",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к броне"
+    ],
     "Name": "Controlled Blinking Nodule",
     "NameRu": "Управляемая мигающая друза",
     "Level": "1d6 + 2",
@@ -160,9 +184,16 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Temporary tattoo, amulet, headband, crystal worn on temple",
-    "Usable": "Small handheld device, crystal",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Временная татуировка",
+      "Амулет",
+      "Головная повязка",
+      "Кристалл закреплённый на виске",
+      "Маленькое портативное устройство",
+      "Кристалл",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Datasphere Siphon",
     "NameRu": "Датасферный сифон",
     "Level": "1d6",
@@ -171,7 +202,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к оружию ближнего боя"
+    ],
     "Name": "Density Nodule",
     "NameRu": "Плотностная друза",
     "Level": "1d6",
@@ -180,8 +213,11 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation",
     "NameRu": "Детонация",
     "Level": "1d6 + 1",
@@ -218,8 +254,12 @@
     }
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Керамическая сфера (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation (desiccating)",
     "NameRu": "Детонация (Иссушение)",
     "Level": "1d6 + 1",
@@ -228,8 +268,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Керамическая сфера (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation (flash)",
     "NameRu": "Детонация (Вспышка)",
     "Level": "1d6",
@@ -238,8 +282,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Керамическая сфера (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation (gravity)",
     "NameRu": "Детонация (Гравитация)",
     "Level": "1d6 + 1",
@@ -248,8 +296,10 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband projector (very long range)",
-    "Usable": "Handheld projector (very long range)",
+    "Forms": [
+      "Wristband projector (very long range)",
+      "Handheld projector (very long range)"
+    ],
     "Name": "Detonation (massive)",
     "NameRu": "Детонация (Дальнобойная)",
     "Level": "1d6 + 1",
@@ -286,8 +336,12 @@
     }
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Керамическая сфера (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation (matter Disruption)",
     "NameRu": "Детонация (Разрушение материи)",
     "Level": "1d6 + 3",
@@ -296,8 +350,11 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation (pressure)",
     "NameRu": "Детонация (Давление)",
     "Level": "1d6 + 1",
@@ -306,7 +363,11 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Керамическая сфера (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation (singularity)",
     "NameRu": "Детонация (Сингулярность)",
     "Level": "10",
@@ -315,8 +376,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Керамическая сфера (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation (sonic)",
     "NameRu": "Детонация (Звук)",
     "Level": "1d6 + 2",
@@ -325,8 +390,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Керамическая сфера (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation (spawn)",
     "NameRu": "Детонация (Каскадная)",
     "Level": "1d6 + 2",
@@ -363,8 +432,11 @@
     }
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Detonation (web)",
     "NameRu": "Детонация (Паутина)",
     "Level": "1d6 + 2",
@@ -373,7 +445,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к оружию ближнего боя"
+    ],
     "Name": "Disrupting Nodule",
     "NameRu": "Мешающая друза",
     "Level": "1d6",
@@ -382,8 +456,11 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Eagleseye",
     "NameRu": "Орлиный глаз",
     "Level": "1d6",
@@ -392,7 +469,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Spray canister",
+    "Forms": [
+      "Баллончик с распылителем"
+    ],
     "Name": "Fireproofing Spray",
     "NameRu": "Огнезащитный спрей",
     "Level": "1d6 + 4",
@@ -401,8 +480,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Belt, ring, bracelet",
-    "Usable": "Handheld device",
+    "Forms": [
+      "Пояс",
+      "Кольцо",
+      "Браслет",
+      "Портативное устройство"
+    ],
     "Name": "Flame-retardant Wall",
     "NameRu": "Огнезащитная стена",
     "Level": "1d6",
@@ -411,8 +494,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Belt, ring, bracelet",
-    "Usable": "Handheld device",
+    "Forms": [
+      "Пояс",
+      "Кольцо",
+      "Браслет",
+      "Портативное устройство"
+    ],
     "Name": "Force Cube Projector",
     "NameRu": "Проектор силового куба",
     "Level": "1d6 + 1",
@@ -421,7 +508,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to armor",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к броне"
+    ],
     "Name": "Force Nodule",
     "NameRu": "Силовая друза",
     "Level": "1d6",
@@ -430,8 +519,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Belt, ring, bracelet",
-    "Usable": "Handheld device",
+    "Forms": [
+      "Пояс",
+      "Кольцо",
+      "Браслет",
+      "Портативное устройство"
+    ],
     "Name": "Force Screen Projector",
     "NameRu": "Проектор силового экрана",
     "Level": "1d6 + 2",
@@ -440,9 +533,13 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Belt, ring, bracelet",
-    "Usable": "Handheld device",
-    "Internal": "Subdermal injection",
+    "Forms": [
+      "Пояс",
+      "Кольцо",
+      "Браслет",
+      "Портативное устройство",
+      "Подкожный инжектор"
+    ],
     "Name": "Force Shield Projector",
     "NameRu": "Проектор силового щита",
     "Level": "1d6 + 2",
@@ -451,7 +548,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Spray canister",
+    "Forms": [
+      "Баллончик с распылителем"
+    ],
     "Name": "Friction-reducing Gel",
     "NameRu": "Уменьшитель трения",
     "Level": "1d6",
@@ -460,7 +559,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Complex device",
+    "Forms": [
+      "Сложное устройство"
+    ],
     "Name": "Frigid Wall Projector",
     "NameRu": "Проектор охлаждающей стены",
     "Level": "1d6 + 2",
@@ -469,8 +570,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband projector (long range)",
-    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Forms": [
+      "Браслет-проектор",
+      "Взрывное устройство (метательное, ближняя дистанция)",
+      "Керамическая сфера (метательное, ближняя дистанция)",
+      "Портативный проектор (средняя дистанция)"
+    ],
     "Name": "Gas Bomb",
     "NameRu": "Газовая бомба",
     "Level": "1d6",
@@ -527,9 +632,11 @@
     }
   },
   {
-    "Wearable": "Belt, boots, ring, bracelet",
-    "Usable": "Small platform on which the user must stand",
-    "Internal": "Subdermal injection",
+    "Forms": [
+      "Belt, boots, ring, bracelet",
+      "Small platform on which the user must stand",
+      "Подкожный инжектор"
+    ],
     "Name": "Gravity Nullifier",
     "NameRu": "Нейтрализатор гравитации",
     "Level": "1d6 + 3",
@@ -538,7 +645,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Spray canister",
+    "Forms": [
+      "Баллончик с распылителем"
+    ],
     "Name": "Gravity-nullifying Spray",
     "NameRu": "Нейтрализующий гравитацию спрей",
     "Level": "1d6 + 2",
@@ -547,7 +656,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к оружию ближнего боя"
+    ],
     "Name": "Heat Nodule",
     "NameRu": "Тепловая друза",
     "Level": "1d6",
@@ -556,8 +667,11 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Arm- or shoulder-mounted launcher",
-    "Usable": "Complex device, handheld device",
+    "Forms": [
+      "Arm- or shoulder-mounted launcher",
+      "Сложное устройство",
+      "Портативное устройство"
+    ],
     "Name": "Hunter/seeker",
     "NameRu": "Охотник/Ищейка",
     "Level": "1d6 + 1",
@@ -590,8 +704,10 @@
     }
   },
   {
-    "Wearable": "Headband with device on forehead",
-    "Usable": "Handheld device with glass panel",
+    "Forms": [
+      "Headband with device on forehead",
+      "Handheld device with glass panel"
+    ],
     "Name": "Image Projector",
     "NameRu": "Проектор изображений",
     "Level": "1d6",
@@ -624,7 +740,9 @@
     }
   },
   {
-    "Usable": "Complex device",
+    "Forms": [
+      "Сложное устройство"
+    ],
     "Name": "Inferno Wall Projector",
     "NameRu": "Проектор огненной стены",
     "Level": "1d6 + 2",
@@ -633,9 +751,11 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Adheres to temple and launches projectile",
-    "Usable": "Handheld device that launches projectile",
-    "Internal": "Phases into eye, phases out when used",
+    "Forms": [
+      "Прилипает к виску и запускает снаряд",
+      "Портативное устройство запускающее снаряд",
+      "Phases into eye, phases out when used"
+    ],
     "Name": "Infiltrator",
     "NameRu": "Лазутчик",
     "Level": "1d6 + 4",
@@ -644,7 +764,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Handheld device",
+    "Forms": [
+      "Портативное устройство"
+    ],
     "Name": "Instant Servant",
     "NameRu": "Мгновенный слуга",
     "Level": "1d6 + 1",
@@ -653,17 +775,23 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Handheld device",
+    "Forms": [
+      "Портативное устройство"
+    ],
     "Name": "Instant Shelter",
     "NameRu": "Мгновенное укрытие",
     "Level": "1d6 + 3",
     "Effect": "При добавлении воды и воздуха небольшое устройство расширяется до простой конструкции {с одной комнатой с дверью и прозрачным окном|с двумя комнатами, внешней и внутренней дверью}. Размеры сооружения составляют 3 метра на 3 метра на 6 метров. Оно сделано из переменчивого камня и после создания остаётся постоянным и неподвижным.",
+    "Categories": "Utility",
     "Source": "Discovery"
   },
   {
-    "Wearable": "Adhesive patch that activates when slapped",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Пластырь, который активируется при прилипании",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Intellect Enhancement",
     "NameRu": "Усилитель Разума",
     "Level": "1d6",
@@ -672,7 +800,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to armor",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к броне"
+    ],
     "Name": "Invisibility Nodule",
     "NameRu": "Друза невидимости",
     "Level": "1d6",
@@ -681,9 +811,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Adhesive patch that activates when slapped",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Пластырь, который активируется при прилипании",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Knowledge Enhancement",
     "NameRu": "Даритель знаний",
     "Level": "1d6",
@@ -744,7 +877,9 @@
     }
   },
   {
-    "Usable": "Complex device",
+    "Forms": [
+      "Сложное устройство"
+    ],
     "Name": "Lightning Wall Projector",
     "NameRu": "Проектор стены молний",
     "Level": "1d6 + 2",
@@ -753,7 +888,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Canister containing slime",
+    "Forms": [
+      "Canister containing slime"
+    ],
     "Name": "Living Solvent",
     "NameRu": "Живой растворитель",
     "Level": "1d6 + 2",
@@ -762,17 +899,23 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Disk that adheres to forehead, temporary tattoo",
-    "Usable": "Injector",
-    "Internal": "Pill",
+    "Forms": [
+      "Диск, который прилипает ко лбу",
+      "Временная татуировка",
+      "Инжектор",
+      "Таблетка"
+    ],
     "Name": "Machine Control Implant",
     "NameRu": "Имплантат управления машинами",
     "Level": "1d6 + 2",
     "Effect": "При активации сайфер распадается на две части. Одна прикрепляется к нуменере, а другая – к персонажу. Затем персонаж может использовать свой разум для управления устройством на большой дистанции, приказывая ему также, как если бы находился рядом. Устройство не должно быть враждебным. Таким образом, можно управлять транспортными средствами и, например, включать или отключать устройства. Эффект длится [CypherLevel x 10] минут, но как только сайфер активирован, устройство нельзя изменить.",
+    "Categories": "Utility",
     "Source": "Discovery"
   },
   {
-    "Usable": "Small sphere with a thick screw protrusion",
+    "Forms": [
+      "Small sphere with a thick screw protrusion"
+    ],
     "Name": "Magnetic Attack Drill",
     "NameRu": "Магнитный дротик",
     "Level": "1d6 + 2",
@@ -781,8 +924,10 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Gloves with metal plates",
-    "Usable": "Small pyramid-shaped metallic device",
+    "Forms": [
+      "Перчатки с металлическими пластинами",
+      "Маленькое металлическое устройство в виде пирамиды"
+    ],
     "Name": "Magnetic Master",
     "NameRu": "Мастер магнетизма",
     "Level": "1d6 + 2",
@@ -791,8 +936,10 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Gloves with metal plates",
-    "Usable": "Small pyramid-shaped metallic device",
+    "Forms": [
+      "Перчатки с металлическими пластинами",
+      "Маленькое металлическое устройство в виде пирамиды"
+    ],
     "Name": "Magnetic Shield",
     "NameRu": "Магнитный экран",
     "Level": "1d6 + 2",
@@ -801,15 +948,22 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Contact lenses, eyeglasses, or goggles",
+    "Forms": [
+      "Контактные линзы",
+      "Очки",
+      "Защитные очки"
+    ],
     "Name": "Memory Lenses",
     "NameRu": "Запоминающие линзы",
     "Level": "1d6",
     "Effect": "Позволяет владельцу мысленно записывать всё, что он видит, в течение [CypherLevel x 30] секунд и постоянно сохранять запись в своей долговременной памяти. Этот сайфер полезен для наблюдения за тем, как кто-то открывает определённый замок, вводит сложный код или действует особенно быстро.",
+    "Categories": "Utility",
     "Source": "Discovery"
   },
   {
-    "Usable": "Complex metal and glass device",
+    "Forms": [
+      "Complex metal and glass device"
+    ],
     "Name": "Mental Scrambler",
     "NameRu": "Ментальный скремблер",
     "Level": "1d6 + 2",
@@ -862,18 +1016,23 @@
     }
   },
   {
-    "Wearable": "Wrist-mounted sprayer",
-    "Usable": "Canister with hose",
+    "Forms": [
+      "Распылитель устанавливаемый на запястье",
+      "Canister with hose"
+    ],
     "Name": "Metal Death",
     "NameRu": "Убийца металла",
     "Level": "1d6",
     "Effect": "Создаёт поток пены, который покрывает площадь примерно 1 квадратный метр и превращает любой металл, к которому прикасается, в вещество, хрупкое, как тонкое стекло. Пена воздействует на глубину [CypherLevel x 5] сантиметров.",
+    "Categories": "Utility",
     "Source": "Discovery"
   },
   {
-    "Wearable": "Glove",
-    "Usable": "Device similar to hilt",
-    "Internal": "Injection into fingertip",
+    "Forms": [
+      "Перчатка",
+      "Device similar to hilt",
+      "Injection into fingertip"
+    ],
     "Name": "Monoblade",
     "NameRu": "Моноклинок",
     "Level": "1d6",
@@ -882,9 +1041,11 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Amulet",
-    "Usable": "Disk that can be affixed to the floor or another surface",
-    "Internal": "Injection into spine",
+    "Forms": [
+      "Amulet",
+      "Disk that can be affixed to the floor or another surface",
+      "Injection into spine"
+    ],
     "Name": "Motion Sensor",
     "NameRu": "Датчик движения",
     "Level": "1d6 + 2",
@@ -893,8 +1054,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Belt, medallion, ring",
-    "Usable": "Handheld device",
+    "Forms": [
+      "Пояс",
+      "Медальон",
+      "Кольцо",
+      "Портативное устройство"
+    ],
     "Name": "Personal Environment Field",
     "NameRu": "Поле личного пространства",
     "Level": "1d6 + 2",
@@ -903,8 +1068,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Belt, medallion, ring",
-    "Usable": "Handheld device",
+    "Forms": [
+      "Пояс",
+      "Медальон",
+      "Кольцо",
+      "Портативное устройство"
+    ],
     "Name": "Phase Changer",
     "NameRu": "Фазоменятель",
     "Level": "1d6 + 1",
@@ -913,7 +1082,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Complex device, plate that affixes to surface, elaborate spray atomizer",
+    "Forms": [
+      "Complex device, plate that affixes to surface, elaborate spray atomizer"
+    ],
     "Name": "Phase Disruptor",
     "NameRu": "Фазовый вырыватель",
     "Level": "1d6 + 2",
@@ -922,9 +1093,14 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Lipstick, false fingertip, ring with needle",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible or injectable liquid",
+    "Forms": [
+      "Помада",
+      "Фальшивый отпечаток",
+      "Кольцо с иглой",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Poison (emotion)",
     "NameRu": "Яд (Эмоция)",
     "Level": "1d6 + 2",
@@ -965,9 +1141,14 @@
     }
   },
   {
-    "Wearable": "Lipstick, false fingertip, ring with needle",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible or injectable liquid",
+    "Forms": [
+      "Помада",
+      "Фальшивый отпечаток",
+      "Кольцо с иглой",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Poison (explosive)",
     "NameRu": "Яд (Взрывающийся)",
     "Level": "1d6 + 1",
@@ -1008,9 +1189,14 @@
     }
   },
   {
-    "Wearable": "Lipstick, false fingertip, ring with needle",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible or injectable liquid",
+    "Forms": [
+      "Помада",
+      "Фальшивый отпечаток",
+      "Кольцо с иглой",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Poison (mind-controlling)",
     "NameRu": "Яд (Контролирующий разум)",
     "Level": "1d6 + 2",
@@ -1051,9 +1237,14 @@
     }
   },
   {
-    "Wearable": "Lipstick, false fingertip, ring with needle",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible or injectable liquid",
+    "Forms": [
+      "Помада",
+      "Фальшивый отпечаток",
+      "Кольцо с иглой",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Poison (mind-disrupting)",
     "NameRu": "Яд (Разрушающий разум)",
     "Level": "1d6",
@@ -1062,19 +1253,30 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Device that adheres to temple",
-    "Usable": "Metallic disk",
-    "Internal": "Pill",
+    "Forms": [
+      "Device that adheres to temple",
+      "Metallic disk",
+      "Таблетка"
+    ],
     "Name": "Psychic Communique",
     "NameRu": "Психический передатчик",
     "Level": "1d6 + 2",
     "Effect": "Позволяет пользователю передать одно телепатическое сообщение объемом до [CypherLevel x 10] слов на неограниченном расстоянии любому знакомому лицу.",
+    "Categories": "Utility",
     "Source": "Discovery"
   },
   {
-    "Wearable": "Contact lens, glove, ring, wristband, headband, belt buckle, shoulder-mounted device",
-    "Usable": "Handheld device",
-    "Internal": "Subdermal implant",
+    "Forms": [
+      "Контактные линзы",
+      "Перчатка",
+      "Кольцо",
+      "Браслет",
+      "Головная повязка",
+      "Пряжка ремня",
+      "Устройство установленное на плече",
+      "Портативное устройство",
+      "Подкожный имплантат"
+    ],
     "Name": "Ray Emitter",
     "NameRu": "Излучатель",
     "Level": "1d6 + 2",
@@ -1111,9 +1313,17 @@
     }
   },
   {
-    "Wearable": "Contact lens, glove, ring, wristband, headband, belt buckle, shoulder-mounted device",
-    "Usable": "Handheld device",
-    "Internal": "Subdermal implant",
+    "Forms": [
+      "Контактные линзы",
+      "Перчатка",
+      "Кольцо",
+      "Браслет",
+      "Головная повязка",
+      "Пряжка ремня",
+      "Устройство установленное на плече",
+      "Портативное устройство",
+      "Подкожный имплантат"
+    ],
     "Name": "Ray Emitter (numbing)",
     "NameRu": "Излучатель (Оцепеняющий)",
     "Level": "1d6 + 2",
@@ -1122,9 +1332,17 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Contact lens, glove, ring, wristband, headband, belt buckle, shoulder-mounted device",
-    "Usable": "Handheld device",
-    "Internal": "Subdermal implant",
+    "Forms": [
+      "Контактные линзы",
+      "Перчатка",
+      "Кольцо",
+      "Браслет",
+      "Головная повязка",
+      "Пряжка ремня",
+      "Устройство установленное на плече",
+      "Портативное устройство",
+      "Подкожный имплантат"
+    ],
     "Name": "Ray Emitter (paralysis)",
     "NameRu": "Излучатель (Парализующий)",
     "Level": "1d6 + 2",
@@ -1133,7 +1351,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Metallic spike",
+    "Forms": [
+      "Metallic spike"
+    ],
     "Name": "Reality Spike",
     "NameRu": "Реальностный клин",
     "Level": "1d6 + 4",
@@ -1142,9 +1362,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Adhesive patch that activates when slapped",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Пластырь, который активируется при прилипании",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Rejuvenator",
     "NameRu": "Омолаживатель",
     "Level": "1d6",
@@ -1165,7 +1388,9 @@
     }
   },
   {
-    "Usable": "Device that splits into two parts when activated, one with a glass screen",
+    "Forms": [
+      "Device that splits into two parts when activated, one with a glass screen"
+    ],
     "Name": "Remote Viewer",
     "NameRu": "Удалённый обзорщик",
     "Level": "1d6",
@@ -1174,8 +1399,10 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Shoulder- or arm-mounted launcher, belt-mounted device",
-    "Usable": "Handheld device",
+    "Forms": [
+      "Shoulder- or arm-mounted launcher, belt-mounted device",
+      "Портативное устройство"
+    ],
     "Name": "Repair Unit",
     "NameRu": "Ремонтник",
     "Level": "1d6 + 1",
@@ -1184,7 +1411,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to armor",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к броне"
+    ],
     "Name": "Retaliation Nodule",
     "NameRu": "Друза возмездия",
     "Level": "1d6",
@@ -1193,8 +1422,11 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Sheen",
     "NameRu": "Глянец",
     "Level": "1d6",
@@ -1203,7 +1435,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к оружию ближнего боя"
+    ],
     "Name": "Shock Nodule",
     "NameRu": "Шоковая друза",
     "Level": "1d6",
@@ -1212,9 +1446,11 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Ring, palm disk",
-    "Usable": "Short rod",
-    "Internal": "Subdermal implant",
+    "Forms": [
+      "Ring, palm disk",
+      "Short rod",
+      "Подкожный имплантат"
+    ],
     "Name": "Shocker",
     "NameRu": "Шокер",
     "Level": "1d6 + 2",
@@ -1223,8 +1459,11 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Skill Boost",
     "NameRu": "Усилитель умения",
     "Level": "1d6",
@@ -1273,9 +1512,12 @@
     }
   },
   {
-    "Wearable": "Fingertip cusp, ring, glove",
-    "Usable": "Injector, gas sprayer",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Fingertip cusp, ring, glove",
+      "Injector, gas sprayer",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Sleep Inducer",
     "NameRu": "Стимулятор сна",
     "Level": "1d6",
@@ -1284,8 +1526,10 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband, ring, belt-mounted device",
-    "Usable": "Small handheld device",
+    "Forms": [
+      "Wristband, ring, belt-mounted device",
+      "Маленькое портативное устройство"
+    ],
     "Name": "Sonic Hole",
     "NameRu": "Звуковая дыра",
     "Level": "1d6 + 2",
@@ -1294,9 +1538,11 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband, ring, belt-mounted device, boots",
-    "Usable": "Small handheld device",
-    "Internal": "Implant",
+    "Forms": [
+      "Wristband, ring, belt-mounted device, boots",
+      "Маленькое портативное устройство",
+      "Implant"
+    ],
     "Name": "Sound Dampener",
     "NameRu": "Шумодав",
     "Level": "1d6 + 2",
@@ -1305,7 +1551,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Small metal ring",
+    "Forms": [
+      "Small metal ring"
+    ],
     "Name": "Spatial Warp",
     "NameRu": "Пространственный деформатор",
     "Level": "5",
@@ -1314,9 +1562,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Adhesive patch that activates when slapped",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Пластырь, который активируется при прилипании",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Speed Boost",
     "NameRu": "Ускоритель",
     "Level": "1d6",
@@ -1325,18 +1576,25 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Stim",
     "NameRu": "Стимулятор",
     "Level": "6",
     "Effect": "Следующее действие получают +д12.",
+    "Categories": "Utility",
     "Source": "Discovery"
   },
   {
-    "Wearable": "Adhesive patch that activates when slapped",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Пластырь, который активируется при прилипании",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Strength Boost",
     "NameRu": "Усилитель",
     "Level": "1d6",
@@ -1345,7 +1603,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Complex device",
+    "Forms": [
+      "Сложное устройство"
+    ],
     "Name": "Subdual Field",
     "NameRu": "Успокаивающее поле",
     "Level": "1d6 + 3",
@@ -1354,9 +1614,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Disk that adheres to forehead, temporary tattoo",
-    "Usable": "Injector",
-    "Internal": "Pill",
+    "Forms": [
+      "Диск, который прилипает ко лбу",
+      "Временная татуировка",
+      "Инжектор",
+      "Таблетка"
+    ],
     "Name": "Telepathy Implant",
     "NameRu": "Телепатический имплантат",
     "Level": "1d6 + 2",
@@ -1365,8 +1628,14 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Belt, wristband, ring, full bodysuit",
-    "Usable": "Complex device, handheld device",
+    "Forms": [
+      "Пояс",
+      "Браслет",
+      "Кольцо",
+      "Полный комбинезон",
+      "Сложное устройство",
+      "Портативное устройство"
+    ],
     "Name": "Teleporter (bounder)",
     "NameRu": "Телепортер (ограниченный)",
     "Level": "1d6 + 2",
@@ -1375,8 +1644,14 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Belt, wristband, ring, full bodysuit",
-    "Usable": "Complex device, handheld device",
+    "Forms": [
+      "Пояс",
+      "Браслет",
+      "Кольцо",
+      "Полный комбинезон",
+      "Сложное устройство",
+      "Портативное устройство"
+    ],
     "Name": "Teleporter (traveler)",
     "NameRu": "Телепортер (путешественный)",
     "Level": "1d6 + 4",
@@ -1385,8 +1660,11 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband",
-    "Usable": "Complex device, handheld device",
+    "Forms": [
+      "Браслет",
+      "Сложное устройство",
+      "Портативное устройство"
+    ],
     "Name": "Temporal Viewer",
     "NameRu": "Темпоральное окно",
     "Level": "1d6 + 4",
@@ -1395,7 +1673,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to armor",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к броне"
+    ],
     "Name": "Time Dilation Nodule (defensive)",
     "NameRu": "Замедляющая время друза (защитная)",
     "Level": "1d6",
@@ -1404,7 +1684,9 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Forms": [
+      "Кристаллическая друза прикрепляемая к оружию ближнего боя"
+    ],
     "Name": "Time Dilation Nodule (offensive)",
     "NameRu": "Друза замедляющая время (атакующая)",
     "Level": "1d6",
@@ -1413,8 +1695,10 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Wristband",
-    "Usable": "Handheld device",
+    "Forms": [
+      "Браслет",
+      "Портативное устройство"
+    ],
     "Name": "Tracer",
     "NameRu": "Отслеживатель",
     "Level": "1d6",
@@ -1423,8 +1707,10 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Tube of moldable paste",
-    "Internal": "Pill or injection that produces temporary subdermal, malleable implants",
+    "Forms": [
+      "Tube of moldable paste",
+      "Pill or injection that produces temporary subdermal, malleable implants"
+    ],
     "Name": "Visage Changer",
     "NameRu": "Гримёр",
     "Level": "1d6",
@@ -1433,8 +1719,10 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Belt or bracelet",
-    "Usable": "Handheld device",
+    "Forms": [
+      "Belt or bracelet",
+      "Портативное устройство"
+    ],
     "Name": "Visual Displacement Device",
     "NameRu": "Устройство визуального перемещения",
     "Level": "1d6 + 2",
@@ -1443,19 +1731,25 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Headband",
-    "Usable": "Disk that must be held to forehead",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Повязка на голову",
+      "Disk that must be held to forehead",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Vocal Translator",
     "NameRu": "Звуковой переводчик",
     "Level": "1d6",
     "Effect": "В течении [CypherLevel] суток переводит всё сказанное пользователем на язык, понятный любому.",
+    "Categories": "Utility",
     "Source": "Discovery"
   },
   {
-    "Wearable": "Bodysuit, belt",
-    "Usable": "Injector",
-    "Internal": "Subdermal implant",
+    "Forms": [
+      "Bodysuit, belt",
+      "Инжектор",
+      "Подкожный имплантат"
+    ],
     "Name": "Warmth Projector",
     "NameRu": "Проектор тепла",
     "Level": "1d6",
@@ -1464,26 +1758,36 @@
     "Source": "Discovery"
   },
   {
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Water Breather",
     "NameRu": "Водяное дыхало",
     "Level": "1d6",
     "Effect": "В течении следующих [CypherLevel x 5] часов позволяет пользователю извлекать кислород из воды, т.е. дышать под водой.",
+    "Categories": "Utility",
     "Source": "Discovery"
   },
   {
-    "Usable": "Glass panel",
+    "Forms": [
+      "Glass panel"
+    ],
     "Name": "X-ray Viewer",
     "NameRu": "Просмотрщик",
     "Level": "1d6 + 4",
     "Effect": "Будучи прижата к твёрдой поверхности позволяет пользователю видеть сквозь материал на расстоянии до 60 сантиметров. Панель работает только в том случае, если уровень сайфера выше прочности материала. Эффект длится [CypherLevel] минут.",
+    "Categories": "Utility",
     "Source": "Discovery"
   },
   {
-    "Wearable": "Adhesive patch that activates when slapped",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Пластырь, который активируется при прилипании",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Empathy Boost",
     "NameRu": "Усилитель Эмпатии",
     "Level": "1d6",
@@ -1492,9 +1796,12 @@
     "Source": "Discovery"
   },
   {
-    "Wearable": "Adhesive patch that activates when slapped",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Пластырь, который активируется при прилипании",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Health Augment",
     "NameRu": "Аугмент Здоровья",
     "Level": "1d6",
@@ -1515,9 +1822,12 @@
     }
   },
   {
-    "Wearable": "Adhesive patch that activates when slapped",
-    "Usable": "Injector",
-    "Internal": "Pill, ingestible liquid",
+    "Forms": [
+      "Пластырь, который активируется при прилипании",
+      "Инжектор",
+      "Таблетка",
+      "Капсула"
+    ],
     "Name": "Refresher",
     "NameRu": "Освежитель",
     "Level": "1d6",
