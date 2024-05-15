@@ -68,8 +68,14 @@ function generateRandomCypher() {
 
     let parsedEffect = parseEffect(randomDevice.Effect, deviceLevel, baseDiceResult);
     html += encloseDeviceProperty("Эффект", parsedEffect);
-    if (randomDevice.RollTable != null)
-        html += makeRollTable(randomDevice);
+
+    if (randomDevice.RollTable != null) {
+        let rollTableRows = randomDevice.RollTable.RollTableRows;
+        if (rollTableRows[rollTableRows.length - 1].Roll.includes("–00")) {
+            html += encloseDeviceProperty("RollTable d100", getRandomInt(100) + 1);
+        }
+        html += makeRollTable(rollTableRows);
+    }
     
     html += encloseDeviceProperty('Категории', randomDevice.Categories)
     html += encloseDeviceProperty("Источник", randomDevice.Source);
@@ -181,10 +187,10 @@ function encloseDeviceProperty(name, value) {
     else return `<div><b>${name}:</b> ${value}</div>`;
 }
 
-function makeRollTable(randomDevice) {
+function makeRollTable(rollTableRows) {
     let resultList = '<b>RollTable</b>:'
     resultList += '<ul>';
-    randomDevice.RollTable.RollTableRows.forEach(function(element) {
+    rollTableRows.forEach(function(element) {
         resultList += '<li>' + element.Roll + ': ' + element.Result + '</li>';
     });
     resultList += '</ul>';
