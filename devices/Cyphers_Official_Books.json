@@ -692,7 +692,7 @@
   {
     "Usable": "Canister containing slime",
     "Name": "Living Solvent",
-    "Level": "1d10",
+    "Level": "1d6 + 4",
     "Effect": "Once released, this organic slime dissolves 1 cubic foot of material each round. After one round per cypher level, the slime dies and becomes inert.",
     "Categories": "Organic And Biotech Devices",
     "Source": "Discovery"
@@ -1094,7 +1094,7 @@
     "Wearable": "Shoulder- or arm-mounted launcher, belt-mounted device",
     "Usable": "Handheld device",
     "Name": "Repair Unit",
-    "Level": "1d10",
+    "Level": "1d6 + 4",
     "Effect": "Device becomes a multiarmed sphere that floats. It repairs one designated numenera device (of a level equal to or less than its own) that has been damaged but not destroyed. The repair unit can even create spare parts, unless the GM rules that the parts are too specialized or rare (in which case, the unit repairs the device entirely except for the specialized part). Repair time is 1d100 + 20 minutes.",
     "Categories": "Automatons, Healing Devices",
     "Source": "Discovery"
@@ -1856,7 +1856,7 @@
     "Wearable": "Bracelet",
     "Usable": "Handheld device",
     "Name": "Analysis Scanner",
-    "Level": "1d10",
+    "Level": "1d6",
     "Effect": "This device scans and records everything within short range for one round and then conveys the level and nature of all creatures, objects, and energy sources it scanned. This information can be accessed for 28 hours after the scan.",
     "Source": "Compendium"
   },
@@ -2275,8 +2275,9 @@
     "Source": "Compendium"
   },
   {
-    "Usable": "Handheld projector (5 miles or 8 km) ffect: This device can be activated only outdoors and with a clear and unobstructed path to the sky. Once activated, a bright white mote flies up from the device into the sky and explodes, throwing grey tendrils out for 1 mile (2 km) in all directions. After one minute, the tendrils become dark clouds, and after another minute, the skies open up and drench the ground below with heavy rains. In fireezing temperatures, the precipitation is sleet, ice, or snow. With the rain comes lightning and thunder. The storm moves with the prevailing winds and dissipates 1d6 hours later.",
+    "Usable": "Handheld projector (5 miles or 8 km)",
     "Name": "Cloud Seed",
+    "Effect": "This device can be activated only outdoors and with a clear and unobstructed path to the sky. Once activated, a bright white mote flies up from the device into the sky and explodes, throwing grey tendrils out for 1 mile (2 km) in all directions. After one minute, the tendrils become dark clouds, and after another minute, the skies open up and drench the ground below with heavy rains. In fireezing temperatures, the precipitation is sleet, ice, or snow. With the rain comes lightning and thunder. The storm moves with the prevailing winds and dissipates 1d6 hours later.",
     "Level": "1d6 + 4",
     "Source": "Compendium"
   },
@@ -3074,7 +3075,7 @@
   {
     "Usable": "Glowing ball of energy",
     "Name": "Energy Token",
-    "Level": "1d10",
+    "Level": "1d6",
     "Effect": "This cypher functions when it is touched by a living creature (perhaps even before it can be identified), although it can be manipulated by tools such as tongs and safely stored if well away from a creature. Normal gloves or a leather bag is not enough to keep it from activating. The ball bathes a living creature touching it with energy of a type and effect depending on its color (roll a d20):",
     "RollTable": {
       "RollTableRows": [
@@ -3527,7 +3528,7 @@
   {
     "Usable": "Spray bottle, aerosol projector",
     "Name": "Growth Stimulator",
-    "Level": "1d10",
+    "Level": "1d6",
     "Effect": "One plant touched by the liquid grows to ten times its normal, full-grown size in ten minutes. If conditions can’t support the plant, it soon dies.",
     "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
@@ -4822,7 +4823,7 @@
     "Wearable": "Wristband projector (short range)",
     "Usable": "Handheld projector (short range)",
     "Name": "Photonic Smasher",
-    "Level": "1d10",
+    "Level": "1d6 + 2",
     "Effect": "Creates a glowing bludgeon about 5 feet (2 m) tall that floats in the air in an open space within range. When the bludgeon appears, it immediately attacks a target within short range of it and, if it hits, inflicts 4 points of damage. The bludgeon remains for one minute, and whenever the user takes an action, he can move the bludgeon a short distance and attack with it.",
     "Categories": "Hard Light Devices, Weapons (Ranged)",
     "Source": "Compendium"
@@ -4927,7 +4928,7 @@
   },
   {
     "Usable": "Small metal and synth plate",
-    "Name": "Projectile Module (MindBlasting)",
+    "Name": "Projectile Module (Mind-Blasting)",
     "Level": "1d6 + 1",
     "Effect": "This cypher must be attached to another cypher or artifact (a level 4 task) that fires solid projectiles, like a slugspitter or a compactor. Once attached, it no longer counts against a character’s cypher limit. The projectile(s) of the cypher or artifact it is attached to now are ghostly psychic missiles that inflict Intellect damage rather than normal damage, and they ignore Armor. The module cannot be removed from the device without destroying both the module and the device.",
     "Source": "Compendium"
@@ -5000,7 +5001,7 @@
   {
     "Usable": "Handheld projector (short range)",
     "Name": "Radiant Web",
-    "Level": "1d10",
+    "Level": "1d6 + 2",
     "Effect": "Creates a mesh of invisible light across a plane up to 10 feet (3 m) wide and tall. The paper-thin mesh inflicts damage equal to the cypher level to any creature that passes through it. (A target can take this damage only once per round regardless of how many times it passes through the mesh.) Anything reduced to 0 health by the mesh is sliced into pieces that are 1 inch (3 cm) wide and tall.",
     "Categories": "Hard Light Devices",
     "Source": "Compendium"
@@ -5023,7 +5024,7 @@
   },
   {
     "Wearable": "Wristband projector, shoulder- or arm-mounted launcher (long range)",
-    "Name": "Rearrangement)",
+    "Name": "Ray Emitter (Molecular Rearrangement)",
     "Level": "1d6 + 3",
     "Effect": "Emits a ray that causes random molecular rearrangement on a small scale. The ray inflicts damage equal to the cypher level at a range of 200 feet (61 m). Wounds inflicted on living creatures are twisted and bizarre, with tissue literally turned into another substance, another state (liquid or gas), or even energy. Damage to inorganic objects is similarly strange.",
     "Source": "Compendium"
@@ -5260,7 +5261,7 @@
   {
     "Usable": "Large organic seed",
     "Name": "Seed of Knowledge",
-    "Level": "1d10",
+    "Level": "1d6",
     "Effect": "If planted, this seed blooms into a fullgrown plant in about a year, at which point it is about as tall as a human. At this time, it bears 1d6 pieces of fruit, all of which are telepathic, thinking creatures that know one fact keyed to the being that planted the seed. This fact might be some truth or bit of knowledge the planter seeks, the answer to a question he has, or something that will come in handy in the future, whether he knows it or not.",
     "Categories": "Organic And Biotech Devices",
     "Source": "Compendium"
