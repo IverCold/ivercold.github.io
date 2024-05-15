@@ -1,0 +1,1540 @@
+[
+  {
+    "Wearable": "Gloves",
+    "Usable": "Handles with powerful suction cups",
+    "Name": "Adhesion Clamps",
+    "NameRu": "Прилипчивые лапы",
+    "Level": "1d6",
+    "Effect": "Позволяет автоматически взбираться на любую, даже вертикальную, поверхность. Действует [CypherLevel x 10] минут.",
+    "Categories": "Enhancements (Movement)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Antivenom",
+    "NameRu": "Противоядие",
+    "Level": "1d6 + 3",
+    "Effect": "Делает пользователя невосприимчивым к ядам силой равной [CypherLevel] или ниже на [CypherLevel] часов и прекращает любые длительные эффекты яда, уже действующего в организме пользователя.",
+    "Categories": "Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Glove of synth",
+    "Usable": "Small handheld device",
+    "Name": "Attractor",
+    "NameRu": "Притягиватель",
+    "Level": "1d6",
+    "Effect": "Один незакрепленный предмет вашего размера или меньше в пределах {средней|дальней} дистанции немедленно притягивается к устройству. Перемещение занимает один раунд. После притягивания предмет не имеет инерции.",
+    "Categories": "Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Name": "Banishing Nodule",
+    "NameRu": "Изгоняющая друза",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов каждый раз, когда оружие, к которому прикреплёна друза, поражает материальное существо или объект, оно генерирует всплеск энергии, который телепортирует поражённое существо или объект в случайном направлении (но, не вверх или вниз) на дистанции шага. Физические действия телепортированного существа в следующем ходу получают {-2|-3}.",
+    "Categories": "Crystal Devices, Nodules (Weapon)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to armor",
+    "Name": "Blinking Nodule",
+    "NameRu": "Мигающая друза",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов каждый раз (но не более одного раза за раунд), когда владелец брони, к которой прикреплёна друза, получает достаточно сильный удар, чтобы получить урон, владелец телепортируется в случайном направлении (но не вверх или вниз) на расстояние шаговой доступности. Поскольку владелец готов к этому эффекту, а его противник нет, уклонения и блокирования владельца получают {+д8|+д10}.",
+    "Categories": "Nodules (Armor), Protection (General)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Catholicon",
+    "NameRu": "Католикон",
+    "Level": "1d6 + 3",
+    "Effect": "Излечивает любую болезнь уровня [CypherLevel] или ниже. Даёт +д8 на броски против болезней выше своего уровня.",
+    "Categories": "Protection (General), Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Catseye",
+    "NameRu": "Кошачий глаз",
+    "Level": "1d6",
+    "Effect": "Дает способность видеть в темноте в течение [CypherLevel x 5] часов.",
+    "Categories": "Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Chemical Factory",
+    "NameRu": "Химическая фабрика",
+    "Level": "1d6",
+    "Effect": "Через один час пот пользователя вырабатывает 1д6 доз ценной жидкости (которые не считаются сайферами). Они должны быть использованы в течение одной недели. Эффекты различаются:",
+    "Categories": "Enhancements (Attributes), Utility",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–04",
+          "Result": "Эйфория в течение 1д6 часов"
+        },
+        {
+          "Roll": "05–08",
+          "Result": "Галлюцинации в течение 1д6 часов"
+        },
+        {
+          "Roll": "09–12",
+          "Result": "Стимулятор на 1д6 часов"
+        },
+        {
+          "Roll": "13–16",
+          "Result": "Депрессант на 1д6 часов"
+        },
+        {
+          "Roll": "17–20",
+          "Result": "Заменяет суточное питание"
+        },
+        {
+          "Roll": "21–25",
+          "Result": "Противоядие от ядов уровня сайфера и ниже"
+        },
+        {
+          "Roll": "26–30",
+          "Result": "Излечивает болезнь уровня сайфера и ниже"
+        },
+        {
+          "Roll": "31–35",
+          "Result": "Позволяет видеть в темноте в течение [CypherLevel] часов"
+        },
+        {
+          "Roll": "36–45",
+          "Result": "Восстанавливает Здоровье равное половине уровня сайфера"
+        },
+        {
+          "Roll": "46–55",
+          "Result": "Восстанавливает Волю равную половине уровня сайфера"
+        },
+        {
+          "Roll": "56–65",
+          "Result": "Даёт +1 к проверкам Телосложения на один час"
+        },
+        {
+          "Roll": "66–75",
+          "Result": "Дает +1 к проверкам Ловкости на один час"
+        },
+        {
+          "Roll": "76–85",
+          "Result": "Дает +1 к проверкам Разума и Нуменеры на один час"
+        },
+        {
+          "Roll": "86–95",
+          "Result": "Дает +1 к проверкам Эмпатии на один час"
+        },
+        {
+          "Roll": "96–00",
+          "Result": "Восстанавливает Здоровье и Волю полностью"
+        }
+      ]
+    }
+  },
+  {
+    "Usable": "Small metallic disk",
+    "Name": "Comprehension Graft",
+    "NameRu": "Трансплантат понимания",
+    "Level": "1d6 + 1",
+    "Effect": "При прикладывании к голове существа диск немедленно высвобождает микрофиламенты, моментально проникающие в мозг. В течение пяти минут существо начинает понимать слова {определённого языка, изначально заложенного|двух определённых языков, изначально заложенных} в трансплантат. Эффект действует даже на тех существ, которые не имеют языка. Если существо уже могло понимать язык, сайфер не имеет никакого эффекта. Как только трансплантат прикрепляется, эффект становится постоянным, и данный сайфер больше не учитывается в количестве сайферов, которые может нести персонаж.",
+    "Categories": "Artificial Body Parts And Implants",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to armor",
+    "Name": "Controlled Blinking Nodule",
+    "NameRu": "Управляемая мигающая друза",
+    "Level": "1d6 + 2",
+    "Effect": "В течение следующих 28 часов каждый раз (но не более одного раза за раунд), когда владелец брони, к которой прикреплена друза, получает достаточно сильный удар, чтобы получить урон, владелец телепортируется в желаемую точку на расстояние шаговой доступности. Поскольку владелец готов к этому эффекту, а его противник нет, владелец может выбрать получить {+d8|+d10} на следующую атаку или на следующее уклонение/блокирование.",
+    "Categories": "Nodules (Armor), Protection (General), Dimensional And Phase Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Temporary tattoo, amulet, headband, crystal worn on temple",
+    "Usable": "Small handheld device, crystal",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Datasphere Siphon",
+    "NameRu": "Датасферный сифон",
+    "Level": "1d6",
+    "Effect": "Используя информацию из датасферы, пользователь может узнать ответ на {один вопрос|два вопроса}.",
+    "Categories": "Crystal Devices, Datasphere Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Name": "Density Nodule",
+    "NameRu": "Плотностная друза",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов каждый раз, когда оружие, к которому прикреплена друза, поражает материальное существо или предмет, вес оружия внезапно увеличивается, в результате чего удар наносит {дополнительный 1 пункт|дополнительные 2 пункта} урона.",
+    "Categories": "Crystal Devices, Nodules (Weapon)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation",
+    "NameRu": "Детонация",
+    "Level": "1d6 + 1",
+    "Effect": "При попадании производит взрыв силой [CypherLevel x 2] с уроном 2 у цели и в шаговой доступности от неё. Бросок на тип урона:",
+    "Categories": "Detonations",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–10",
+          "Result": "Разрушение клеток (наносит урон только плоти, резаные раны)"
+        },
+        {
+          "Roll": "11–30",
+          "Result": "Коррозивный (энергия)"
+        },
+        {
+          "Roll": "31–40",
+          "Result": "Электрический (энергия)"
+        },
+        {
+          "Roll": "41–50",
+          "Result": "Высасывание тепла (холод)"
+        },
+        {
+          "Roll": "51–75",
+          "Result": "Огонь (огонь)"
+        },
+        {
+          "Roll": "76–00",
+          "Result": "Шрапнель (колотые раны)"
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation (desiccating)",
+    "NameRu": "Детонация (Иссушение)",
+    "Level": "1d6 + 1",
+    "Effect": "При попадании вытягивает влагу из цели и всего в пределах нулевой дистанции. Живые существа терпят взрыв силой [CypherLevel x 2], урон 2 (холод). Вода в области испаряется.",
+    "Categories": "Detonations",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation (flash)",
+    "NameRu": "Детонация (Вспышка)",
+    "Level": "1d6",
+    "Effect": "При попадании ослепляет всех в нулевой дистанции от точки взрыва на [CypherLevel] минут.",
+    "Categories": "Detonations",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation (gravity)",
+    "NameRu": "Детонация (Гравитация)",
+    "Level": "1d6 + 1",
+    "Effect": "При попадании цели в нулевой дистанции терпят взрыв силой [CypherLevel x 2] с уроном 2 (тупая травма) из-за значительного увеличения гравитации на одну секунду. Все в области взрыва падают на землю на один раунд и не могут совершать физических действий.",
+    "Categories": "Detonations",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband projector (very long range)",
+    "Usable": "Handheld projector (very long range)",
+    "Name": "Detonation (massive)",
+    "NameRu": "Детонация (Дальнобойная)",
+    "Level": "1d6 + 1",
+    "Effect": "При попадании производит взрыв силой [CypherLevel x 2] с уроном 2 у цели и на ближней дистанции от неё. Бросок на тип урона:",
+    "Categories": "Detonations",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–10",
+          "Result": "Разрушение клеток (наносит урон только плоти, резаные раны)"
+        },
+        {
+          "Roll": "11–30",
+          "Result": "Коррозивный (энергия)"
+        },
+        {
+          "Roll": "31–40",
+          "Result": "Электрический (энергия)"
+        },
+        {
+          "Roll": "41–50",
+          "Result": "Высасывание тепла (холод)"
+        },
+        {
+          "Roll": "51–75",
+          "Result": "Огонь (огонь)"
+        },
+        {
+          "Roll": "76–00",
+          "Result": "Шрапнель (колотые раны)"
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation (matter Disruption)",
+    "NameRu": "Детонация (Разрушение материи)",
+    "Level": "1d6 + 3",
+    "Effect": "Высвобождает наниты, которые случайным образом перестраивают всю материю в точке взрыва. При попадании цель и все в шаговой доступности от неё терпят взрыв силой [CypherLevel x 2] с уроном 2 (резаная рана).",
+    "Categories": "Detonations",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation (pressure)",
+    "NameRu": "Детонация (Давление)",
+    "Level": "1d6 + 1",
+    "Effect": "Цели в пределах ближней дистанции от точки попвдания терпят взрыв силой [CypherLevel x 2] с уроном 2. Также выкидывает незакреплённые предметы из зоны, если они весят менее [CypherLevel x 10] килограмм.",
+    "Categories": "Detonations",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation (singularity)",
+    "NameRu": "Детонация (Сингулярность)",
+    "Level": "10",
+    "Effect": "Взрывается и создаёт сингулярность, которая на одно мгновение разрывает ткань вселенной. Цели в пределах ближней дистанции терпят взрыв силой 20 с уроном 5 (энергия, смертельная). Сингулярность стаскивает их (или их останки) в пределы нулевой дистанции от центра зоны (если возможно). Если находящиеся в радиусе действия не-монстры оказываются небоеспособны, то они должны пройти проверку Выносливости. В случае провала они умирают без получения травмы.",
+    "Categories": "Detonations",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation (sonic)",
+    "NameRu": "Детонация (Звук)",
+    "Level": "1d6 + 2",
+    "Effect": "Взрывается с ужасающим грохотом, оглушая всех в ближнем радиусе на  [CypherLevel x 10] минут.",
+    "Categories": "Detonations",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation (spawn)",
+    "NameRu": "Детонация (Каскадная)",
+    "Level": "1d6 + 2",
+    "Effect": "При попадании производит взрыв силой [CypherLevel x 2] с уроном 2 у цели и в шаговой доступности от неё. Взрыв порождает 1д6 дополнительных взрывов; в следующем раунде каждый дополнительный взрыв летит в случайный сектор в пределах близкой дистанции и взрывается на первом препятствии.",
+    "Categories": "Detonations",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–10",
+          "Result": "Разрушение клеток (наносит урон только плоти, резаные раны)"
+        },
+        {
+          "Roll": "11–30",
+          "Result": "Коррозивный (энергия)"
+        },
+        {
+          "Roll": "31–40",
+          "Result": "Электрический (энергия)"
+        },
+        {
+          "Roll": "41–50",
+          "Result": "Высасывание тепла (холод)"
+        },
+        {
+          "Roll": "51–75",
+          "Result": "Огонь (огонь)"
+        },
+        {
+          "Roll": "76–00",
+          "Result": "Шрапнель (колотые раны)"
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device (thrown, short range) or handheld projector (long range)",
+    "Name": "Detonation (web)",
+    "NameRu": "Детонация (Паутина)",
+    "Level": "1d6 + 2",
+    "Effect": "Производит взрыв равный двукратному уровню сайфера с уроном 2 у цели и в шаговой доступности от неё. Также создает липкие нити слизи, которые существуют 1 час. Чтобы вырваться из слизи персонажи должны пройти проверку Выносливости. Монстры вырываются автоматически, но за стандартное действие.",
+    "Categories": "Detonations",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Name": "Disrupting Nodule",
+    "NameRu": "Мешающая друза",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов каждый раз, когда оружие, к которому прикреплена друза, поражает материальное существо или объект, оружие создаёт взрыв нанитов, которые атакуют органические клетки. Поражённая органическая цель получает {1 дополнительный пункт|2 дополнительных пункта} урона. Не-монстры должны пройти проверку Выносливости или потеряют следующее стандартное действие.",
+    "Categories": "Crystal Devices, Nodules (Weapon)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Eagleseye",
+    "NameRu": "Орлиный глаз",
+    "Level": "1d6",
+    "Effect": "Даёт возможность видеть в десять раз дальше обычного в течение [CypherLevel] часов.",
+    "Categories": "Enhancements (Skills)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Spray canister",
+    "Name": "Fireproofing Spray",
+    "NameRu": "Огнезащитный спрей",
+    "Level": "1d6 + 4",
+    "Effect": "Объект, покрытый этим сайфером, на следующие 28 часов получает броню против урона от огня, равную уровню сайфера. Эта броня добавляется к основной и её нельзя уменьшить.",
+    "Categories": "Protection (General), Protection (Armor)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Belt, ring, bracelet",
+    "Usable": "Handheld device",
+    "Name": "Flame-retardant Wall",
+    "NameRu": "Огнезащитная стена",
+    "Level": "1d6",
+    "Effect": "Создаёт неподвижную воздухопроницаемую плоскость энергии размером до 5 на 5 метров, которая существует [CypherLevel] часов. Плоскость подстраивается к доступному пространству. Пламя, проходящее через плоскость, гаснет. Прочность и броня плоскости равна [CypherLevel].",
+    "Categories": "Protection (General)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Belt, ring, bracelet",
+    "Usable": "Handheld device",
+    "Name": "Force Cube Projector",
+    "NameRu": "Проектор силового куба",
+    "Level": "1d6 + 1",
+    "Effect": "Создаёт неподвижный куб с гранями в 5 метров, состоящий из шести плоскостей чистой силы и существующий один час. Плоскость подстраивается к доступному пространству. Прочность и броня полей равна [CypherLevel].",
+    "Categories": "Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to armor",
+    "Name": "Force Nodule",
+    "NameRu": "Силовая друза",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов броня, к которой прикреплёна друза, укрепляется мощным силовым полем, которое добавляет {2|3} к броне. Эта броня не может быть уменьшена.",
+    "Categories": "Nodules (Armor), Protection (General)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Belt, ring, bracelet",
+    "Usable": "Handheld device",
+    "Name": "Force Screen Projector",
+    "NameRu": "Проектор силового экрана",
+    "Level": "1d6 + 2",
+    "Effect": "Создаёт неподвижную плоскость материальной энергии размером до 5 на 5 метров, которая существует [CypherLevel] часов. Плоскость подстраивается к доступному пространству. Прочность и броня плоскости равна [CypherLevel].",
+    "Categories": "Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Belt, ring, bracelet",
+    "Usable": "Handheld device",
+    "Internal": "Subdermal injection",
+    "Name": "Force Shield Projector",
+    "NameRu": "Проектор силового щита",
+    "Level": "1d6 + 2",
+    "Effect": "Создаёт вокруг пользователя мерцающий энергетический щит с модификатором {+2|+3}. Щит может быть использован для блокирования по обычным правилам, но так же он даёт одно свободное блокирование в раунд. Щит существует один час.",
+    "Categories": "Protection (General)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Spray canister",
+    "Name": "Friction-reducing Gel",
+    "NameRu": "Уменьшитель трения",
+    "Level": "1d6",
+    "Effect": "Распыляемый на площади до 3 метров, этот гель делает предметы чрезвычайно скользкими. В течение [CypherLevel] часов перемещение в этой области требует проверки Проворства с модификатором в -2.",
+    "Categories": "Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Complex device",
+    "Name": "Frigid Wall Projector",
+    "NameRu": "Проектор охлаждающей стены",
+    "Level": "1d6 + 2",
+    "Effect": "Создаёт стену сверх-охлаждённого воздуха размером до 5 на 5 метров и глубиной в 30 сантиметров, которая наносит всем проходящим сквозь себя урон. Это атака силой [CypherLevel x 2] с уроном 2 (холод). Плоскость подстраивается к доступному пространству. Существует 10 минут.",
+    "Categories": "Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband projector (long range)",
+    "Usable": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "Name": "Gas Bomb",
+    "NameRu": "Газовая бомба",
+    "Level": "1d6",
+    "Effect": "Взрывается ядовитым облаком в зоне. Облако существует 1д6 раундов, если условия не диктуют иного. Эффект:",
+    "Categories": "Detonations, Weapons (Ranged)",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–10",
+          "Result": "Густой дым: загораживает обзор, пока держится облако."
+        },
+        {
+          "Roll": "11–20",
+          "Result": "Удушающий газ: живые и дышащие существа, теряют свои действия из-за удушья и кашля на [CypherLevel] раундов. Каждый раунд они могут пройти проверку Выносливости, чтобы прекратить этот эффект."
+        },
+        {
+          "Roll": "21–50",
+          "Result": "Ядовитый газ: живые и дышащие существа получают атаку силой [CypherLevel x 2] (урон 1, холод)."
+        },
+        {
+          "Roll": "51–60",
+          "Result": "Коррозийный газ: все получают атаку [CypherLevel x 2] (урон 1, энергия)."
+        },
+        {
+          "Roll": "61–65",
+          "Result": "Галлюциногенный газ: живые и дышащие существа теряют свои действия из-за галлюцинаций и видений на [CypherLevel] раундов. Каждый раунд они могут пройти проверку Проницательности, чтобы прекратить этот эффект."
+        },
+        {
+          "Roll": "66–70",
+          "Result": "Газ повреждающий нервы: живые и дышащие существа получают атаку [CypherLevel x 2] (урон 1, резаные раны)."
+        },
+        {
+          "Roll": "71–80",
+          "Result": "Газ подавляющий мозговую деятельность: живые и дышащие существа получают атаку по Волю силой [CypherLevel x 2] (урон 1, страх)."
+        },
+        {
+          "Roll": "81–83",
+          "Result": "Устрашающий газ: живые, разумные и дышащие существа, в страхе убегают в случайном направлении (или парализованы страхом) на [CypherLevel] раундов. Каждый раунд они могут пройти проверку Проницательности, чтобы прекратить этот эффект."
+        },
+        {
+          "Roll": "84–86",
+          "Result": "Газ-амнезиак: живые, разумные и дышащие существа навсегда теряют память о последней минуте."
+        },
+        {
+          "Roll": "87–96",
+          "Result": "Усыпляющий газ: живые и дышащие существа должны пройти проверку Выносливости, иначе они засыпают на [CypherLevel] раундов, или до тех пор, пока их не разбудит насильственное действие или чрезвычайно громкий шум."
+        },
+        {
+          "Roll": "97–00",
+          "Result": "Озверяющий газ: живые, разумные и дышащие существа атакуют в ближнем бою ближайшее существо и продолжают это делать в течение [CypherLevel] раундов. Каждый раунд они могут пройти проверку Проницательности, чтобы прекратить этот эффект."
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Belt, boots, ring, bracelet",
+    "Usable": "Small platform on which the user must stand",
+    "Internal": "Subdermal injection",
+    "Name": "Gravity Nullifier",
+    "NameRu": "Нейтрализатор гравитации",
+    "Level": "1d6 + 3",
+    "Effect": "В течение одного часа пользователь может парить в воздухе, перемещаясь вертикально (но для горизонтального передвижения требуются дополнительные действия, например, отталкивание от стен) со скоростью 1. Пользователь должен весить менее [CypherLevel x 20] килограмм.",
+    "Categories": "Gravity Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Spray canister",
+    "Name": "Gravity-nullifying Spray",
+    "NameRu": "Нейтрализующий гравитацию спрей",
+    "Level": "1d6 + 2",
+    "Effect": "Неживой объект размером с {человека|двух человек}, покрытый этим сайфером, постоянно парит в воздухе на высоте 1д6 метров и не имеет веса при переноске, хотя его нужно привязывать.",
+    "Categories": "Gravity Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Name": "Heat Nodule",
+    "NameRu": "Тепловая друза",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов каждый раз, когда оружие, к которому прикреплена друза, поражает материальное существо или объект, оружие генерирует тепловой взрыв, нанося {1 дополнительный пункт|2 дополнительных пункта} урона.",
+    "Categories": "Crystal Devices, Nodules (Weapon)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Arm- or shoulder-mounted launcher",
+    "Usable": "Complex device, handheld device",
+    "Name": "Hunter/seeker",
+    "NameRu": "Охотник/Ищейка",
+    "Level": "1d6 + 1",
+    "Effect": "Эта разумная ракета отслеживает и атакует заданную цель (которая также должна находиться в пределах видимости). Ракета двигается со скоростью 2. Различные охотники/ищейки имеют разные эффекты:",
+    "Categories": "Weapons (Ranged)",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–50",
+          "Result": "Производит атаку силой 12, урон 2 (тупая травма)."
+        },
+        {
+          "Roll": "51–80",
+          "Result": "Производит атаку силой 10, урон 1 (колотые раны). Если урон был нанесён, то также в органическое тело проникает яд силой 6."
+        },
+        {
+          "Roll": "81–90",
+          "Result": "Взрывается силой [CypherLevel x 2] (урон 1, тупая травма) у цели и в шаговой доступности от неё."
+        },
+        {
+          "Roll": "91–95",
+          "Result": "Бьёт цель электричеством силой 8, урон 1 (энергия). Данная атака игнорирует броню и заставляет цель потерять стандартное действие на количество раундов, равное уровню сайфера."
+        },
+        {
+          "Roll": "96–00",
+          "Result": "Покрывает цель липкой слизью, которая моментально затвердевает. Это удерживает цель на месте, пока цель не пройдёт проверку {Силы|Силы с модификатором -2}."
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Headband with device on forehead",
+    "Usable": "Handheld device with glass panel",
+    "Name": "Image Projector",
+    "NameRu": "Проектор изображений",
+    "Level": "1d6",
+    "Effect": "Проецирование одного из следующих неподвижных изображений в указанной области в течение одного часа. Изображение создаётся в {соседней зоне|пределах 4-х зон}. Изображение может двигаться, а также сопровождаться звуками и запахами.",
+    "Categories": "Ray Projectors",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–20",
+          "Result": "Ужасающее существо неизвестного вида, которого, возможно, больше нет в живых (3 метровый куб)"
+        },
+        {
+          "Roll": "21–40",
+          "Result": "Огромная машина, которая закрывает обзор (3 метровый куб)"
+        },
+        {
+          "Roll": "41-50",
+          "Result": "Красивая пасторальная сцена (10 метровый куб)"
+        },
+        {
+          "Roll": "51–60",
+          "Result": "Еда, которая выглядит вкусной, но может быть незнакомой (3 метровый куб)"
+        },
+        {
+          "Roll": "81–00",
+          "Result": "Непонятная сцена, тревожащая и странная (10 метровый куб)"
+        }
+      ]
+    }
+  },
+  {
+    "Usable": "Complex device",
+    "Name": "Inferno Wall Projector",
+    "NameRu": "Проектор огненной стены",
+    "Level": "1d6 + 2",
+    "Effect": "Создаёт стену экстремального жара размером до 5 на 5 метров глубиной в 30 сантиметров, которая наносит всем проходящим сквозь себя урон, атакуя силой [CypherLevel x 2] с уроном 2 (огонь). Плоскость подстраивается к доступному пространству. Существует 10 минут.",
+    "Categories": "Ray Projectors",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Adheres to temple and launches projectile",
+    "Usable": "Handheld device that launches projectile",
+    "Internal": "Phases into eye, phases out when used",
+    "Name": "Infiltrator",
+    "NameRu": "Лазутчик",
+    "Level": "1d6 + 4",
+    "Effect": "Снаряд представляет собой крошечную капсулу, которая движется с большой скоростью, сканируя окружающее пространство и составляя карту. Он перемещается на [CypherLevel x 100] метров, сканируя местность на расстоянии до [CypherLevel x 10] метров от себя. Он распознаёт базовые структуры, существ и источники энергии. Его движение блокируется любым физическим или энергетическим барьером.",
+    "Categories": "Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Handheld device",
+    "Name": "Instant Servant",
+    "NameRu": "Мгновенный слуга",
+    "Level": "1d6 + 1",
+    "Effect": "Маленькое устройство превращается в гуманоидный автоматон высотой примерно 60 сантиметров. Его характеристики равны [CypherLevel]/3/3/0, и он может понимать словесные команды персонажа, который его активировал. Как только слуга активирован, для управления им не требуется действие. Он может совершать атаки или выполнять действия в меру своих способностей, но он не может говорить.",
+    "Categories": "Automatons",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Handheld device",
+    "Name": "Instant Shelter",
+    "NameRu": "Мгновенное укрытие",
+    "Level": "1d6 + 3",
+    "Effect": "При добавлении воды и воздуха небольшое устройство расширяется до простой конструкции {с одной комнатой с дверью и прозрачным окном|с двумя комнатами, внешней и внутренней дверью}. Размеры сооружения составляют 3 метра на 3 метра на 6 метров. Оно сделано из переменчивого камня и после создания остаётся постоянным и неподвижным.",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Adhesive patch that activates when slapped",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Intellect Enhancement",
+    "NameRu": "Усилитель Разума",
+    "Level": "1d6",
+    "Effect": "На один час даёт {+1|+2} к Разуму и Нуменере.",
+    "Categories": "Enhancements (Attributes)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to armor",
+    "Name": "Invisibility Nodule",
+    "NameRu": "Друза невидимости",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов броня, к которой прикреплёна друза, невидима, таким образом, носящий броню персонаж визуально кажется лишённым брони.",
+    "Categories": "Crystal Devices, Nodules (Armor)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Adhesive patch that activates when slapped",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Knowledge Enhancement",
+    "NameRu": "Даритель знаний",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов персонаж получает {+1|+2} в один из навыков. Суммарный бонус не может превысить 5. Навык:",
+    "Categories": "Utility",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–10",
+          "Result": "Ближний бой"
+        },
+        {
+          "Roll": "11–20",
+          "Result": "Дальний бой"
+        },
+        {
+          "Roll": "21–30",
+          "Result": "Медицина"
+        },
+        {
+          "Roll": "31–40",
+          "Result": "Знание Нуменеры"
+        },
+        {
+          "Roll": "41–50",
+          "Result": "Контроль Нуменеры"
+        },
+        {
+          "Roll": "51–60",
+          "Result": "Создание Нуменеры"
+        },
+        {
+          "Roll": "71–75",
+          "Result": "Извлечение Нуменеры"
+        },
+        {
+          "Roll": "76–80",
+          "Result": "Ремесло"
+        },
+        {
+          "Roll": "81–85",
+          "Result": "Выживание"
+        },
+        {
+          "Roll": "86–90",
+          "Result": "Проворство"
+        },
+        {
+          "Roll": "91–95",
+          "Result": "Вождение"
+        },
+        {
+          "Roll": "96–00",
+          "Result": "Скрытность"
+        }
+      ]
+    }
+  },
+  {
+    "Usable": "Complex device",
+    "Name": "Lightning Wall Projector",
+    "NameRu": "Проектор стены молний",
+    "Level": "1d6 + 2",
+    "Effect": "Создаёт стену из электрических разрядов размером до 5 на 5 метров глубиной в 30 сантиметров, которая наносит всем проходящим сквозь себя урон. Это атака силой [CypherLevel x 2] с уроном 2 (энергия). Плоскость подстраивается к доступному пространству. Существует 10 минут.",
+    "Categories": "Utility",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Canister containing slime",
+    "Name": "Living Solvent",
+    "NameRu": "Живой растворитель",
+    "Level": "1d6 + 2",
+    "Effect": "После высвобождения эта органическая слизь растворяет 1 кубический фут материала каждый раунд. После [CypherLevel] раундов слизь умирает и становится инертной.",
+    "Categories": "Organic And Biotech Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Disk that adheres to forehead, temporary tattoo",
+    "Usable": "Injector",
+    "Internal": "Pill",
+    "Name": "Machine Control Implant",
+    "NameRu": "Имплантат управления машинами",
+    "Level": "1d6 + 2",
+    "Effect": "При активации сайфер распадается на две части. Одна прикрепляется к нуменере, а другая – к персонажу. Затем персонаж может использовать свой разум для управления устройством на большой дистанции, приказывая ему также, как если бы находился рядом. Устройство не должно быть враждебным. Таким образом, можно управлять транспортными средствами и, например, включать или отключать устройства. Эффект длится [CypherLevel x 10] минут, но как только сайфер активирован, устройство нельзя изменить.",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Small sphere with a thick screw protrusion",
+    "Name": "Magnetic Attack Drill",
+    "NameRu": "Магнитный дротик",
+    "Level": "1d6 + 2",
+    "Effect": "Пользователь бросает этот сайфер в цель на близкой дистанции, и в течение одного раунда он проникает в цель, нанося удар силой [CypherLevel x 2] с уроном 2 (колотые раны). Если цель сделана из металла или одета в металл (например, в броню), атака получает модификатор +д8.",
+    "Categories": "Weapons (Ranged)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Gloves with metal plates",
+    "Usable": "Small pyramid-shaped metallic device",
+    "Name": "Magnetic Master",
+    "NameRu": "Мастер магнетизма",
+    "Level": "1d6 + 2",
+    "Effect": "Позволяет на близкой дистанции установить связь с одним металлическим предметом, который человек мог бы держать одной рукой. После установления соединения пользователь может перемещать или манипулировать объектом в любом месте в пределах близкой дистанции (каждое движение или манипуляция требует действия). Например, пользователь может пользоваться оружием или перемещать надетый на противника шлем. Соединение поддерживается в течении [CypherLevel x 10] раундов.",
+    "Categories": "Magnetic Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Gloves with metal plates",
+    "Usable": "Small pyramid-shaped metallic device",
+    "Name": "Magnetic Shield",
+    "NameRu": "Магнитный экран",
+    "Level": "1d6 + 2",
+    "Effect": "В течение следующих [CypherLevel x 10] минут металлические предметы не могут находиться в шаговой доступности от активированного устройства. Металлические предметы, уже находящиеся в этой области при активации устройства, медленно выталкиваются наружу.",
+    "Categories": "Magnetic Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Contact lenses, eyeglasses, or goggles",
+    "Name": "Memory Lenses",
+    "NameRu": "Запоминающие линзы",
+    "Level": "1d6",
+    "Effect": "Позволяет владельцу мысленно записывать всё, что он видит, в течение [CypherLevel x 30] секунд и постоянно сохранять запись в своей долговременной памяти. Этот сайфер полезен для наблюдения за тем, как кто-то открывает определённый замок, вводит сложный код или действует особенно быстро.",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Complex metal and glass device",
+    "Name": "Mental Scrambler",
+    "NameRu": "Ментальный скремблер",
+    "Level": "1d6 + 2",
+    "Effect": "Через два раунда после активации устройство создаёт невидимое поле, которое заполняет область в пределах ближней дистанции и действует в течение [CypherLevel] минут. Поле искажает ментальные процессы всех мыслящих существ. Эффект длится до тех пор, пока они остаются на поле, и в течение 1д6 раундов после этого, хотя успешный бросок Проницательности позволяет один раунд действовать нормально (как в поле, так и вне его). Каждый ментальный скремблер настроен на определённый эффект, сделайте бросок:",
+    "Categories": "Weapons (Ranged)",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–30",
+          "Result": "Жертвы теряют свои действия."
+        },
+        {
+          "Roll": "31–40",
+          "Result": "Жертвы не могут говорить."
+        },
+        {
+          "Roll": "41–50",
+          "Result": "Жертвы не могут передвигаться быстрее чем на одну зону."
+        },
+        {
+          "Roll": "51–60",
+          "Result": "Жертвы теряют возможность видеть и слышать."
+        },
+        {
+          "Roll": "61–70",
+          "Result": "Жертвы теряют чувство направления, глубины и пропорций."
+        },
+        {
+          "Roll": "71–80",
+          "Result": "Жертвы не узнают тех, кого они знал."
+        },
+        {
+          "Roll": "81–88",
+          "Result": "Жертвы страдают частичной амнезией (последние [CypherLevel] дней)."
+        },
+        {
+          "Roll": "89–94",
+          "Result": "Жертвы полностью теряют память."
+        },
+        {
+          "Roll": "95–98",
+          "Result": "Жертвы отбрасывают все запреты, раскрывая секреты и совершая неожиданные поступки."
+        },
+        {
+          "Roll": "99–00",
+          "Result": "Этика жертв инвертируется."
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Wrist-mounted sprayer",
+    "Usable": "Canister with hose",
+    "Name": "Metal Death",
+    "NameRu": "Убийца металла",
+    "Level": "1d6",
+    "Effect": "Создаёт поток пены, который покрывает площадь примерно 1 квадратный метр и превращает любой металл, к которому прикасается, в вещество, хрупкое, как тонкое стекло. Пена воздействует на глубину [CypherLevel x 5] сантиметров.",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Glove",
+    "Usable": "Device similar to hilt",
+    "Internal": "Injection into fingertip",
+    "Name": "Monoblade",
+    "NameRu": "Моноклинок",
+    "Level": "1d6",
+    "Effect": "Формирует лезвие длиной 15 сантиметров, чей модификатор равен [CypherLevel / 2] с уроном 2. Лезвие игнорирует броню объектов. При использовании в качестве оружия сайфер считается лёгким (режущим, колющим) оружием, которое игнорирует броню. Лезвие существует десять минут.",
+    "Categories": "Weapons (Melee)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Amulet",
+    "Usable": "Disk that can be affixed to the floor or another surface",
+    "Internal": "Injection into spine",
+    "Name": "Motion Sensor",
+    "NameRu": "Датчик движения",
+    "Level": "1d6 + 2",
+    "Effect": "Сообщает когда в пределах ближней дистанции происходит какое-либо движение или когда крупные существа/объекты перемещаются в пределах средней дистанции (причём, по сигналу расстояние очевидно). Сайфер также сообщает количество и размер движущихся существ/объектов. После активации сайфер работает [CypherLevel] часов.",
+    "Categories": "Enhancements (Attributes)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Belt, medallion, ring",
+    "Usable": "Handheld device",
+    "Name": "Personal Environment Field",
+    "NameRu": "Поле личного пространства",
+    "Level": "1d6 + 2",
+    "Effect": "Создает ауру температуры и атмосферы, в которой человек может безопасно провести 28 часов. Аура распространяется на {30|60} сантиметров вокруг пользователя. сайфер не защищает от резкого и внезапного изменения температуры (например, от теплового луча). Небольшое количество этих сайферов (1%) предназначено для поддержания условий, подходящих для нечеловеческих ультра- и экстратерриториальных существ.",
+    "Categories": "Protection (General)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Belt, medallion, ring",
+    "Usable": "Handheld device",
+    "Name": "Phase Changer",
+    "NameRu": "Фазоменятель",
+    "Level": "1d6 + 1",
+    "Effect": "Выводит пользователя из фазы на {одну минуту|две минуты}. В течение этого времени пользователь может проходить сквозь твёрдые объекты, как если бы был совершенно нематериальным, как призрак. Пользователь не может совершать физические нападения или быть целью таковых.",
+    "Categories": "Dimensional And Phase Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Complex device, plate that affixes to surface, elaborate spray atomizer",
+    "Name": "Phase Disruptor",
+    "NameRu": "Фазовый вырыватель",
+    "Level": "1d6 + 2",
+    "Effect": "Выводит часть физической структуры (например, стену или пол) из фазы на один час. Cайфер воздействует на площадь, равную [CypherLevel] кубическим метров. Пока область находится вне фазы, существа и объекты могут свободно проходить через неё, как если бы её там не было, хотя сквозь неё нельзя видеть, и она блокирует свет.",
+    "Categories": "Dimensional And Phase Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Lipstick, false fingertip, ring with needle",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible or injectable liquid",
+    "Name": "Poison (emotion)",
+    "NameRu": "Яд (Эмоция)",
+    "Level": "1d6 + 2",
+    "Effect": "В течение [CypherLevel x 10] минут жертва испытывает определённую эмоцию.",
+    "Categories": "Organic And Biotech Devices",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–20",
+          "Result": "Гнев. Вероятно, нападёт на любого, кто с ней не согласен. С жертвой очень сложно взаимодействовать; все проверки Влияния получают -3."
+        },
+        {
+          "Roll": "21–40",
+          "Result": "Страх. При угрозе убегает в ужасе на одну минуту."
+        },
+        {
+          "Roll": "41–60",
+          "Result": "Похоть. Не может сосредоточиться на какой-либо несексуальной деятельности."
+        },
+        {
+          "Roll": "61–75",
+          "Result": "Печаль. Все проверки получают -2."
+        },
+        {
+          "Roll": "76–85",
+          "Result": "Самодовольство. Не имеет никакой мотивации. Все проверки получают -3."
+        },
+        {
+          "Roll": "86–95",
+          "Result": "Радость. С удовольствием общается; все приятные взаимодействия получают +д8."
+        },
+        {
+          "Roll": "96–00",
+          "Result": "Любовь. С жертвой гораздо проще взаимодействовать; все задачи взаимодействия получают +д10, но вероятна временная привязанность."
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Lipstick, false fingertip, ring with needle",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible or injectable liquid",
+    "Name": "Poison (explosive)",
+    "NameRu": "Яд (Взрывающийся)",
+    "Level": "1d6 + 1",
+    "Effect": "При попадании этого вещества в кровоток, оно перемещается в мозг и преобразуется во взрывчатку, которая детонирует при активации, нанося удар силой [CypherLevel x 2] (урон 3, автосмерть для немонстров). Сделайте бросок для определения нюансов детонации:",
+    "Categories": "Detonations, Organic And Biotech Devices",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–25",
+          "Result": "Активация детонатором (должен находиться в пределах средней дистанции)."
+        },
+        {
+          "Roll": "26–40",
+          "Result": "Таймер."
+        },
+        {
+          "Roll": "41–50",
+          "Result": "Определённое действие жертвы."
+        },
+        {
+          "Roll": "51–55",
+          "Result": "В пределах ближней дистанции звучит определённая нота."
+        },
+        {
+          "Roll": "56–60",
+          "Result": "Специфический запах в нулевой дистанции от жертвы."
+        },
+        {
+          "Roll": "61–80",
+          "Result": "Жертва оказывается в пределах средней дальности от детонатора."
+        },
+        {
+          "Roll": "81–00",
+          "Result": "Жертва удаляется от детонатора дальше средней дистанции."
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Lipstick, false fingertip, ring with needle",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible or injectable liquid",
+    "Name": "Poison (mind-controlling)",
+    "NameRu": "Яд (Контролирующий разум)",
+    "Level": "1d6 + 2",
+    "Effect": "Жертва должна выполнить определённое действие в ответ на конкретный триггер:",
+    "Categories": "Organic And Biotech Devices",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–20",
+          "Result": "После приказа ложится на одну минуту с закрытыми глазами."
+        },
+        {
+          "Roll": "21–40",
+          "Result": "При угрозе убегает в ужасе в течение минуты."
+        },
+        {
+          "Roll": "41–60",
+          "Result": "В течении одной минуты правдиво отвечает на вопросы."
+        },
+        {
+          "Roll": "61–75",
+          "Result": "В течении одного раунда атакует близкого друга, который находится в пределах шаговой доступности."
+        },
+        {
+          "Roll": "76–85",
+          "Result": "Подчиняется следующей устной команде (если она понята)."
+        },
+        {
+          "Roll": "86–95",
+          "Result": "В течение 28 часов испытывает сексуальное влечение к следующему существу своего вида, которое видит."
+        },
+        {
+          "Roll": "96–00",
+          "Result": "В течение одной минуты движется к следующему замеченному красному объекту вместо всех других действий, даже игнорируя инстинкт самосохранения."
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Lipstick, false fingertip, ring with needle",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible or injectable liquid",
+    "Name": "Poison (mind-disrupting)",
+    "NameRu": "Яд (Разрушающий разум)",
+    "Level": "1d6",
+    "Effect": "Жертва получает удар силой [CypherLevel x 2], который наносит урон в Волю. Также жертва не может предпринимать действия в течение [CypherLevel] раундов.",
+    "Categories": "Organic And Biotech Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Device that adheres to temple",
+    "Usable": "Metallic disk",
+    "Internal": "Pill",
+    "Name": "Psychic Communique",
+    "NameRu": "Психический передатчик",
+    "Level": "1d6 + 2",
+    "Effect": "Позволяет пользователю передать одно телепатическое сообщение объемом до [CypherLevel x 10] слов на неограниченном расстоянии любому знакомому лицу.",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Contact lens, glove, ring, wristband, headband, belt buckle, shoulder-mounted device",
+    "Usable": "Handheld device",
+    "Internal": "Subdermal implant",
+    "Name": "Ray Emitter",
+    "NameRu": "Излучатель",
+    "Level": "1d6 + 2",
+    "Effect": "Позволяет пользователю выпускать луч разрушительной энергии на расстоянии 500 метров, который наносит удар силой [CypherLevel x 2] (урон 2). Тип урона:",
+    "Categories": "Ray Projectors",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–50",
+          "Result": "Жар, фокусированный свет (энергия)"
+        },
+        {
+          "Roll": "51–60",
+          "Result": "Радиация, уничтожающая клетки (резаные раны)"
+        },
+        {
+          "Roll": "61–80",
+          "Result": "Сила (тупая травма)"
+        },
+        {
+          "Roll": "81–87",
+          "Result": "Магнитная волна (наносит урон в Волю)"
+        },
+        {
+          "Roll": "88–93",
+          "Result": "Разрушение молекулярных связей (резаные раны)"
+        },
+        {
+          "Roll": "94–00",
+          "Result": "Концентрированный холод (холод)"
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Contact lens, glove, ring, wristband, headband, belt buckle, shoulder-mounted device",
+    "Usable": "Handheld device",
+    "Internal": "Subdermal implant",
+    "Name": "Ray Emitter (numbing)",
+    "NameRu": "Излучатель (Оцепеняющий)",
+    "Level": "1d6 + 2",
+    "Effect": "Позволяет пользователю выпускать луч энергии на {среднюю|дальнюю} дистанцию, который парализует одну конечность цели, делая её бесполезной в течение одной минуты. Цель может использовать своё сопротивление. Небольшое количество этих устройств (5%) вызывает оцепенение, которое длится один час.",
+    "Categories": "Ray Projectors",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Contact lens, glove, ring, wristband, headband, belt buckle, shoulder-mounted device",
+    "Usable": "Handheld device",
+    "Internal": "Subdermal implant",
+    "Name": "Ray Emitter (paralysis)",
+    "NameRu": "Излучатель (Парализующий)",
+    "Level": "1d6 + 2",
+    "Effect": "Позволяет пользователю выпускать луч энергии на {среднюю|дальнюю} дистанцию, который парализует цель на одну минуту. Цель может использовать своё Сопротивление. Небольшое количество этих устройств (5%) вызывает паралич, который длится один час.",
+    "Categories": "Ray Projectors",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Metallic spike",
+    "Name": "Reality Spike",
+    "NameRu": "Реальностный клин",
+    "Level": "1d6 + 4",
+    "Effect": "После активации клин не перемещается, даже если при активации висел в воздухе. Проверка Силы с тремя успехами сместит клин, но тогда он будет разрушен.",
+    "Categories": "Gravity Devices, Dimensional And Phase Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Adhesive patch that activates when slapped",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Rejuvenator",
+    "NameRu": "Омолаживатель",
+    "Level": "1d6",
+    "Effect": "Вещество восстанавливает [CypherLevel / 2] пунктов Здоровья или Воли (определяется случайно в момент генерации сайфера).",
+    "Categories": "Healing Devices",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–50",
+          "Result": "Здоровье"
+        },
+        {
+          "Roll": "51–00",
+          "Result": "Воля"
+        }
+      ]
+    }
+  },
+  {
+    "Usable": "Device that splits into two parts when activated, one with a glass screen",
+    "Name": "Remote Viewer",
+    "NameRu": "Удалённый обзорщик",
+    "Level": "1d6",
+    "Effect": "В течение [CypherLevel] часов стеклянный экран на одной части показывает всё, что происходит поблизости от другой части, независимо от расстояния между двумя частями.",
+    "Categories": "Datasphere Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Shoulder- or arm-mounted launcher, belt-mounted device",
+    "Usable": "Handheld device",
+    "Name": "Repair Unit",
+    "NameRu": "Ремонтник",
+    "Level": "1d6 + 1",
+    "Effect": "Устройство превращается в парящую многорукую сферу. Она ремонтирует одну указанную нуменеру (чей уровень не должен превышать уровень сайфера), которая была повреждена, но не уничтожена. Ремонтник может даже создавать запасные части, если только мастер не решит, что детали являются слишком специализированными или редкими (в этом случае сайфер полностью ремонтирует устройство, за исключением специализированной детали). Время ремонта составляет 1д100 + 20 минут.",
+    "Categories": "Automatons, Healing Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to armor",
+    "Name": "Retaliation Nodule",
+    "NameRu": "Друза возмездия",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов любой, кто ударит по броне (броня должна поглотить хотя бы 1 урон), к которой прикреплена друза, получает небольшую вспышку электричества, которая наносит {1 пункт|2 пункта} урона (энергия). Броня не имеет эффекта. От владельца брони не требуется никаких действий или бросков.",
+    "Categories": "Nodules (Armor)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Sheen",
+    "NameRu": "Глянец",
+    "Level": "1d6",
+    "Effect": "В течение следующей недели клетки пользователя покрываются защитным слоем, который сопротивляется урону. Это даёт {+2|+3} к броне и +д8 на броски Выносливости. Однако сайфер затрудняет исцеление; на восстановление 1 пункта Здоровья и Воли нужно два часа.",
+    "Categories": "Protection (General)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Name": "Shock Nodule",
+    "NameRu": "Шоковая друза",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов каждый раз, когда оружие, к которому прикреплена друза, поражает материальное существо или объект, оружие генерирует электрический разряд, нанося {1 дополнительное очко|2 дополнительных очка} урона.",
+    "Categories": "Nodules (Weapon)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Ring, palm disk",
+    "Usable": "Short rod",
+    "Internal": "Subdermal implant",
+    "Name": "Shocker",
+    "NameRu": "Шокер",
+    "Level": "1d6 + 2",
+    "Effect": "Производит мощный электрический разряд, который поражает любое существо, к которому прикасается, производя атаку силой [CypherLevel x 2] (урон 1, энергия). Против этой атаки не работает броня.",
+    "Categories": "Weapons (Melee)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Skill Boost",
+    "NameRu": "Усилитель умения",
+    "Level": "1d6",
+    "Effect": "Сильно, но временно, изменяет сознание и тело пользователя, так что одно конкретное физическое действие, которое он может выполнить, получает +д10. После активации сайфера эта способность может быть использована [CypherLevel] раз, но только в течение 28-часового периода. Способность автоматически применяется при каждом действии указанного типа, поэтому сайфер 3-го уровня усиливает первые три попытки выполнения действия. Действие может быть одним из следующих:",
+    "Categories": "Organic And Biotech Devices",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–15",
+          "Result": "Атака ближнего боя"
+        },
+        {
+          "Roll": "16–30",
+          "Result": "Атака дальнего боя"
+        },
+        {
+          "Roll": "31–40",
+          "Result": "Проверка Проворства"
+        },
+        {
+          "Roll": "41–50",
+          "Result": "Проверка Выносливости"
+        },
+        {
+          "Roll": "51–60",
+          "Result": "Проверка Силы"
+        },
+        {
+          "Roll": "61–70",
+          "Result": "Проверка Скрытности"
+        },
+        {
+          "Roll": "71–80",
+          "Result": "Проверка Вождения"
+        },
+        {
+          "Roll": "81–90",
+          "Result": "Проверка Восприятия"
+        },
+        {
+          "Roll": "91–00",
+          "Result": "Проверка Выживания"
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Fingertip cusp, ring, glove",
+    "Usable": "Injector, gas sprayer",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Sleep Inducer",
+    "NameRu": "Стимулятор сна",
+    "Level": "1d6",
+    "Effect": "Прикосновение или проглатывание погружает жертву в сон на [CypherLevel x 10] минут или до тех пор, пока она не проснётся от насильственных действий или чрезвычайно громкого шума.",
+    "Categories": "Organic And Biotech Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband, ring, belt-mounted device",
+    "Usable": "Small handheld device",
+    "Name": "Sonic Hole",
+    "NameRu": "Звуковая дыра",
+    "Level": "1d6 + 2",
+    "Effect": "В течении [CypherLevel] раундов втягивает в устройство весь звук в пределах радиуса {средней|дальней} дистанции. В пределах этой зоны не слышно ни звука.",
+    "Categories": "Sound And Sonic Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband, ring, belt-mounted device, boots",
+    "Usable": "Small handheld device",
+    "Internal": "Implant",
+    "Name": "Sound Dampener",
+    "NameRu": "Шумодав",
+    "Level": "1d6 + 2",
+    "Effect": "В течении [CypherLevel] минут гасит все звуки в пределах шаговой доступности, давая +д10 к Скрытности.",
+    "Categories": "Enhancements (Skills), Sound And Sonic Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Small metal ring",
+    "Name": "Spatial Warp",
+    "NameRu": "Пространственный деформатор",
+    "Level": "5",
+    "Effect": "При подключении к другому устройству, которое дистанционно воздействует на одиночную цель, увеличивает дальность её воздействия до 1 километра. С точки зрения видимости и дальности пространство временно искажается. Если для эффекта устройства важна прямая видимость, она также сохраняется. Создание пространственной деформации считается одним из применений устройства.",
+    "Categories": "Numenera Enhancements",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Adhesive patch that activates when slapped",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Speed Boost",
+    "NameRu": "Ускоритель",
+    "Level": "1d6",
+    "Effect": "На один час даёт {+1|+2} к Ловкости.",
+    "Categories": "Enhancements (Attributes)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Stim",
+    "NameRu": "Стимулятор",
+    "Level": "6",
+    "Effect": "Следующее действие получают +д12.",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Adhesive patch that activates when slapped",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Strength Boost",
+    "NameRu": "Усилитель",
+    "Level": "1d6",
+    "Effect": "На один час даёт {+1|+2} к Телосложению.",
+    "Categories": "Enhancements (Attributes)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Complex device",
+    "Name": "Subdual Field",
+    "NameRu": "Успокаивающее поле",
+    "Level": "1d6 + 3",
+    "Effect": "Через два раунда после активации устройство создает невидимое поле, которое заполняет одну зону в пределах {средней|дальней} дистанции. Поле действует в течение одной минуты. Оно действует на разум мыслящих существ так, что предотвращает их от насильственных действий. Эффект действует пока они находятся в поля и 1д6 раундов после выхода из него. Проверка Проницательности каждый раунд позволяет действовать как обычно.",
+    "Categories": "Protection (General)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Disk that adheres to forehead, temporary tattoo",
+    "Usable": "Injector",
+    "Internal": "Pill",
+    "Name": "Telepathy Implant",
+    "NameRu": "Телепатический имплантат",
+    "Level": "1d6 + 2",
+    "Effect": "Пользователь активирует устройство и выбирает одно существо в пределах близкой дистанции. В течение [CypherLevel] часов устройство обеспечивает двустороннюю мысленную связь в пределах дальней дистанции между пользователем и целью. Иногда несколько сайферов этого типа встречаются вместе и позволяют осуществлять связь между ними всеми.",
+    "Categories": "Artificial Body Parts And Implants, Datasphere Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Belt, wristband, ring, full bodysuit",
+    "Usable": "Complex device, handheld device",
+    "Name": "Teleporter (bounder)",
+    "NameRu": "Телепортер (ограниченный)",
+    "Level": "1d6 + 2",
+    "Effect": "Пользователь телепортируется в видимое ему место на расстояние до [CypherLevel x 20] метров. Пользователь перемещается со всем снаряжением, но не может больше ничего с собой взять.",
+    "Categories": "Dimensional And Phase Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Belt, wristband, ring, full bodysuit",
+    "Usable": "Complex device, handheld device",
+    "Name": "Teleporter (traveler)",
+    "NameRu": "Телепортер (путешественный)",
+    "Level": "1d6 + 4",
+    "Effect": "Пользователь телепортируется в посещённое им ранее место на расстояние до [CypherLevel x 100] километров. Пользователь перемещается со всем снаряжением, но не может больше ничего с собой взять.",
+    "Categories": "Dimensional And Phase Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband",
+    "Usable": "Complex device, handheld device",
+    "Name": "Temporal Viewer",
+    "NameRu": "Темпоральное окно",
+    "Level": "1d6 + 4",
+    "Effect": "Показывает движущиеся изображения и звуки событий, произошедших в текущем местоположении до одного года назад. Эффект длится до [CypherLevel x 10] минут. Показываемый период выбирается пользователем.",
+    "Categories": "Datasphere Devices, Time Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to armor",
+    "Name": "Time Dilation Nodule (defensive)",
+    "NameRu": "Замедляющая время друза (защитная)",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов владелец брони при защите перемещается, казалось бы, быстрыми прыжками на несколько сантиметров в случайную сторону. Это актив, который даёт {+д8|+д10} на уклонения и блокирования.",
+    "Categories": "Protection (General), Time Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Crystal nodule affixed to a melee weapon",
+    "Name": "Time Dilation Nodule (offensive)",
+    "NameRu": "Друза замедляющая время (атакующая)",
+    "Level": "1d6",
+    "Effect": "В течение следующих 28 часов атакующий движется с огромной скоростью, получая {+д8|+д10} на свои физические атаки.",
+    "Categories": "Time Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Wristband",
+    "Usable": "Handheld device",
+    "Name": "Tracer",
+    "NameRu": "Отслеживатель",
+    "Level": "1d6",
+    "Effect": "Запускает микроскопический дрон, который цепляется за любую поверхность в пределах {средней|дальней} дистанции. В течение следующих 28 часов основная часть устройства показывает расстояние и направление до дрона, но только если он находится в том же измерении.",
+    "Categories": "Datasphere Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Tube of moldable paste",
+    "Internal": "Pill or injection that produces temporary subdermal, malleable implants",
+    "Name": "Visage Changer",
+    "NameRu": "Гримёр",
+    "Level": "1d6",
+    "Effect": "Изменяет внешний вид одного существа размером с человека, добавляя {д8|д10} к проверкам маскировки. Внесение изменений занимает десять минут, эффект длится 28 часов.",
+    "Categories": "Organic And Biotech Devices",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Belt or bracelet",
+    "Usable": "Handheld device",
+    "Name": "Visual Displacement Device",
+    "NameRu": "Устройство визуального перемещения",
+    "Level": "1d6 + 2",
+    "Effect": "Проецирует голографические изображения владельца, чтобы сбить с толку нападающих. Изображения появляются вокруг владельца в количестве [CypherLevel / 2]. В течении [CypherLevel x 10] минут после активации атаки по владельцу могут попасть по его копии. Попадание выбирается случайным образом после броска атаки. При ударе копия исчезает.",
+    "Categories": "Protection (General)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Headband",
+    "Usable": "Disk that must be held to forehead",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Vocal Translator",
+    "NameRu": "Звуковой переводчик",
+    "Level": "1d6",
+    "Effect": "В течении [CypherLevel] суток переводит всё сказанное пользователем на язык, понятный любому.",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Bodysuit, belt",
+    "Usable": "Injector",
+    "Internal": "Subdermal implant",
+    "Name": "Warmth Projector",
+    "NameRu": "Проектор тепла",
+    "Level": "1d6",
+    "Effect": "В течении 28 часов после активации обеспечивает пользователя теплом при самых суровых холодах. Владелец получает +д8 к Выносливости при противостоянии эффектам холода. Владелец не может получить состояние Переохлаждения. Травмы холода получают +1 ранг в таланте Счастливчик.",
+    "Categories": "Artificial Body Parts And Implants, Protection (General)",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Water Breather",
+    "NameRu": "Водяное дыхало",
+    "Level": "1d6",
+    "Effect": "В течении следующих [CypherLevel x 5] часов позволяет пользователю извлекать кислород из воды, т.е. дышать под водой.",
+    "Source": "Discovery"
+  },
+  {
+    "Usable": "Glass panel",
+    "Name": "X-ray Viewer",
+    "NameRu": "Просмотрщик",
+    "Level": "1d6 + 4",
+    "Effect": "Будучи прижата к твёрдой поверхности позволяет пользователю видеть сквозь материал на расстоянии до 60 сантиметров. Панель работает только в том случае, если уровень сайфера выше прочности материала. Эффект длится [CypherLevel] минут.",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Adhesive patch that activates when slapped",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Empathy Boost",
+    "NameRu": "Усилитель Эмпатии",
+    "Level": "1d6",
+    "Effect": "На один час даёт {+1|+2} к Эмпатии.",
+    "Categories": "Enhancements (Attributes)",
+    "Source": "Discovery"
+  },
+  {
+    "Wearable": "Adhesive patch that activates when slapped",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Health Augment",
+    "NameRu": "Аугмент Здоровья",
+    "Level": "1d6",
+    "Effect": "Вещество увеличивает текущее и максимальное значение Здоровья или Воли на {1|2} на один час. Бросок на что именно:",
+    "Categories": "Enhancements (Attributes)",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–50",
+          "Result": "Здоровье"
+        },
+        {
+          "Roll": "51–00",
+          "Result": "Воля"
+        }
+      ]
+    }
+  },
+  {
+    "Wearable": "Adhesive patch that activates when slapped",
+    "Usable": "Injector",
+    "Internal": "Pill, ingestible liquid",
+    "Name": "Refresher",
+    "NameRu": "Освежитель",
+    "Level": "1d6",
+    "Effect": "Вещество сбрасывает текущую физическую или ментальную усталость. Предел усталости остаётся тем же. Бросок какую именно усталость:",
+    "Categories": "Healing Devices",
+    "Source": "Discovery",
+    "RollTable": {
+      "RollTableRows": [
+        {
+          "Roll": "01–50",
+          "Result": "Физическую"
+        },
+        {
+          "Roll": "51–00",
+          "Result": "Ментальную"
+        }
+      ]
+    }
+  }
+]
