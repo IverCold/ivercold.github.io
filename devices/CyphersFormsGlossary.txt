@@ -34,8 +34,8 @@ Usable: Sphere on a tripod: 2 : Сфера на треноге
 Wearable: Wristband projector (short range): 2 : Браслет-проектор (ближняя дистанция)
 Wearable: Two rings, circlets, bracelets, or belts: 2 : Два кольца;Два круга;Два браслета;Два пояса
 Wearable: Wristband projector, shoulder- or arm-mounted launcher (long range): 2 : Браслет-проектор (средняя дистанция);Пусковая установка, установленная на руке или плече (средняя дистанция)
-Usable: Handheld projector (close range): 2 : Портативный проектор
-Wearable: Wristband projector (close range): 2 : Браслет-проектор
+Usable: Handheld projector (close range): 2 : Портативный проектор (ближняя дистанция)
+Wearable: Wristband projector (close range): 2 : Браслет-проектор (ближняя дистанция)
 Wearable: Belt with device, amulet, or ring: 2 : Пояс с устройством;Амулет;Кольцо
 Internal: Ingestible liquid: 2 : Капсула
 Wearable: Wrist-mounted device: 2 : Прикреплённое к браслету устройство
@@ -83,7 +83,7 @@ Usable: Spray canister: 12 : Баллончик с распылителем
 Usable: Crystal nodule affixed to a melee weapon: 13 : Кристаллическая друза прикрепляемая к оружию ближнего боя
 Usable: Explosive device or ceramic sphere (thrown, short range), handheld projector (long range): 14 : Взрывное устройство (метательное, ближняя дистанция);Керамическая сфера (метательное, ближняя дистанция);Портативный проектор (средняя дистанция)
 Usable: Small handheld device: 15 : Маленькое портативное устройство
-Wearable: Wristband projector (long range): 23 : Браслет-проектор
+Wearable: Wristband projector (long range): 23 : Браслет-проектор (средняя дистанция)
 Usable: Injector: 42 : Инжектор
 Internal: Pill, ingestible liquid: 50 : Таблетка;Капсула
 Usable: Handheld device: 76 : Портативное устройство
