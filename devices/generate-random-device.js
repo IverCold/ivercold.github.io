@@ -1,6 +1,6 @@
 const pathToCyphers = "Cyphers_Ru.json";
-const pathToArtefacts = "Artefacts_Official_Books.json";
-const pathToOddities = "Oddities_Official_Books.json";
+const pathToArtefacts = "Artefacts_Ru.json";
+const pathToOddities = "Oddities_Ru.json";
 const improvedEdge = 5;
 
 let cyphersJson;
@@ -82,11 +82,16 @@ function generateRandomArtefact() {
 
     let html = "<div class=\"device-block\">";
     html += encloseDeviceProperty("НазваниеEng", randomDevice.Name);
-    html += encloseDeviceProperty("Название", randomDevice.Name);
+    html += encloseDeviceProperty("Название", randomDevice.NameRu);
+    
+    let baseDiceResult = getRandomInt(6) + 1;
+    let deviceLevel = getDeviceLevel(randomDevice.Level, baseDiceResult);
+    html += encloseDeviceProperty("Уровень", `${deviceLevel} [${randomDevice.Level}]`);
     html += encloseDeviceProperty("Форма", randomDevice.Form);
-    html += combineLevelProperty(randomDevice);
 
-    html += encloseDeviceProperty("Effect", randomDevice.Effect);
+    let parsedEffect = parseEffect(randomDevice.Effect, deviceLevel, baseDiceResult);
+    html += encloseDeviceProperty("Эффект", parsedEffect);
+    
     if (randomDevice.RollTable != null)
         html += makeRollTable(randomDevice);
 
@@ -125,34 +130,10 @@ function getDeviceLevel(levelFormula, baseDiceResult) {
     return baseDiceResult + Number(termString);
 }
 
-function combineLevelProperty(randomDevice, baseDiceResult){
-    let levelFormula = randomDevice.Level;
-
-    if (levelFormula.indexOf("d") == -1)
-        return `<div><b>Уровень:</b> ${levelFormula}</div>`;
-
-    let baseDice = 6;   
-    let iteratorStart = 3;
-    
-    if (iteratorStart == levelFormula.length){
-        return `<div><b>Уровень:</b> ${baseDiceResult} [${levelFormula}]</div>`;
-    }
-
-    let termString = "";
-    for(let i = iteratorStart; i < levelFormula.length; i++){
-        if (levelFormula[i] == "+" || levelFormula[i] == " ")
-            continue;
-        else termString += levelFormula[i];
-    }
-
-    var term = Number(termString);
-    return `<div><b>Уровень:</b> ${baseDiceResult + term} [${levelFormula}]</div>`;
-}
-
 function parseEffect(effectString, deviceLevel, baseDiceResult) {
-    effectString = effectString.replace("[CypherLevel]", deviceLevel);
+    effectString = effectString.replace("[DeviceLevel]", deviceLevel);
 
-    let multiplyMatches = effectString.match(/\[CypherLevel [x]+ \d+\]/g);
+    let multiplyMatches = effectString.match(/\[DeviceLevel [x]+ \d+\]/g);
     if (multiplyMatches != null) {
         for (let i = 0; i < multiplyMatches.length; i++) {
             const element = multiplyMatches[i];
@@ -162,7 +143,7 @@ function parseEffect(effectString, deviceLevel, baseDiceResult) {
         }
     }
 
-    let divisionMatches = effectString.match(/\[CypherLevel [\/]+ \d+\]/g);
+    let divisionMatches = effectString.match(/\[DeviceLevel [\/]+ \d+\]/g);
     if (divisionMatches != null) {
         for (let i = 0; i < divisionMatches.length; i++) {
             const element = divisionMatches[i];
