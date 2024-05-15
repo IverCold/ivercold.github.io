@@ -1,6 +1,7 @@
-const pathToCyphers = "Cyphers_Official_Books.json";
+const pathToCyphers = "Cyphers_Ru.json";
 const pathToArtefacts = "Artefacts_Official_Books.json";
 const pathToOddities = "Oddities_Official_Books.json";
+const improvedEdge = 5;
 
 let cyphersJson;
 let artefactsJson;
@@ -56,20 +57,22 @@ function generateRandomCypher() {
     let randomDevice = getRandomDevice(cyphersJson);
 
     let html = "<div class=\"device-block\">";
-    html += encloseDeviceProperty("Name", randomDevice.Name);
+    html += encloseDeviceProperty("НазваниеEng", randomDevice.Name);
+    html += encloseDeviceProperty("Название", randomDevice.NameRu);
 
-    html += combineLevelProperty(randomDevice);
+    let baseDiceResult = getRandomInt(6) + 1;
+    let deviceLevel = getDeviceLevel(randomDevice.Level, baseDiceResult);
+    html += encloseDeviceProperty("Уровень", `${deviceLevel} [${randomDevice.Level}]`);
 
-    html += encloseDeviceProperty("Usable", randomDevice.Usable);
-    html += encloseDeviceProperty("Wearable", randomDevice.Wearable);
-    html += encloseDeviceProperty("Internal", randomDevice.Internal);
+    html += encloseDeviceProperty("Форма", randomDevice.Forms[getRandomInt(randomDevice.Forms.length)]);
 
-    html += encloseDeviceProperty("Effect", randomDevice.Effect);
+    let parsedEffect = parseEffect(randomDevice.Effect, deviceLevel, baseDiceResult);
+    html += encloseDeviceProperty("Эффект", parsedEffect);
     if (randomDevice.RollTable != null)
         html += makeRollTable(randomDevice);
     
-    html += encloseDeviceProperty('Categories', randomDevice.Categories)
-    html += encloseDeviceProperty("Source", randomDevice.Source);
+    html += encloseDeviceProperty('Категории', randomDevice.Categories)
+    html += encloseDeviceProperty("Источник", randomDevice.Source);
     html += "</div>";
     $("#generated-items").prepend(html);
 }
@@ -78,17 +81,18 @@ function generateRandomArtefact() {
     let randomDevice = getRandomDevice(artefactsJson);
 
     let html = "<div class=\"device-block\">";
-    html += encloseDeviceProperty("Name", randomDevice.Name);
-    html += encloseDeviceProperty("Form", randomDevice.Form);
+    html += encloseDeviceProperty("НазваниеEng", randomDevice.Name);
+    html += encloseDeviceProperty("Название", randomDevice.Name);
+    html += encloseDeviceProperty("Форма", randomDevice.Form);
     html += combineLevelProperty(randomDevice);
 
     html += encloseDeviceProperty("Effect", randomDevice.Effect);
     if (randomDevice.RollTable != null)
         html += makeRollTable(randomDevice);
 
-    html += encloseDeviceProperty("Depletion", randomDevice.Depletion);
-    html += encloseDeviceProperty('Categories', randomDevice.Categories)
-    html += encloseDeviceProperty("Source", randomDevice.Source);
+    html += encloseDeviceProperty("Истощение", randomDevice.Depletion);
+    html += encloseDeviceProperty('Категории', randomDevice.Categories)
+    html += encloseDeviceProperty("Источник", randomDevice.Source);
     html += "</div>";
     $("#generated-items").prepend(html);
 }
@@ -97,26 +101,41 @@ function generateRandomOddity() {
     let randomDevice = getRandomDevice(odditiesJson);
 
     let html = "<div class=\"device-block\">";
-    html += encloseDeviceProperty("Description", randomDevice.Description);
-    html += encloseDeviceProperty("Source", randomDevice.Source);
+    html += encloseDeviceProperty("Описание", randomDevice.Description);
+    html += encloseDeviceProperty("Источник", randomDevice.Source);
     html += "</div>";
     $("#generated-items").prepend(html);
 }
 
-function combineLevelProperty(randomDevice){
+function getDeviceLevel(levelFormula, baseDiceResult) {
+    if (levelFormula.indexOf("d") == -1)
+        return levelFormula;
+    let iteratorStart = 3;
+
+    if (iteratorStart == levelFormula.length)
+        return baseDiceResult;
+
+    let termString = "";
+    for(let i = iteratorStart; i < levelFormula.length; i++){
+        if (levelFormula[i] == "+" || levelFormula[i] == " ")
+            continue;
+        else termString += levelFormula[i];
+    }
+
+    return baseDiceResult + Number(termString);
+}
+
+function combineLevelProperty(randomDevice, baseDiceResult){
     let levelFormula = randomDevice.Level;
 
     if (levelFormula.indexOf("d") == -1)
-        return `<div><b>Level:</b> ${levelFormula}</div>`;
+        return `<div><b>Уровень:</b> ${levelFormula}</div>`;
 
-    let baseDice = 6;
-    if (levelFormula[2] != '6') baseDice = 10;
-    
+    let baseDice = 6;   
     let iteratorStart = 3;
-    if (baseDice == 10) iteratorStart = 4;
     
     if (iteratorStart == levelFormula.length){
-        return `<div><b>Level:</b> ${getRandomInt(baseDice) + 1} [${levelFormula}]</div>`;
+        return `<div><b>Уровень:</b> ${baseDiceResult} [${levelFormula}]</div>`;
     }
 
     let termString = "";
@@ -127,7 +146,48 @@ function combineLevelProperty(randomDevice){
     }
 
     var term = Number(termString);
-    return `<div><b>Level:</b> ${getRandomInt(baseDice) + 1 + term} [${levelFormula}]</div>`;
+    return `<div><b>Уровень:</b> ${baseDiceResult + term} [${levelFormula}]</div>`;
+}
+
+function parseEffect(effectString, deviceLevel, baseDiceResult) {
+    effectString = effectString.replace("[CypherLevel]", deviceLevel);
+
+    let multiplyMatches = effectString.match(/\[CypherLevel [x]+ \d+\]/g);
+    if (multiplyMatches != null) {
+        for (let i = 0; i < multiplyMatches.length; i++) {
+            const element = multiplyMatches[i];
+            let numberStr = element.substring(element.indexOf("x") + 1, element.length - 1);
+            let result = Number(numberStr) * deviceLevel;
+            effectString = effectString.replace(element, result);
+        }
+    }
+
+    let divisionMatches = effectString.match(/\[CypherLevel [\/]+ \d+\]/g);
+    if (divisionMatches != null) {
+        for (let i = 0; i < divisionMatches.length; i++) {
+            const element = divisionMatches[i];
+            let numberStr = element.substring(element.indexOf("/") + 1, element.length - 1);
+            let result = deviceLevel / Number(numberStr);
+            effectString = effectString.replace(element, Math.ceil(result));
+        }
+    }
+
+    let enpoweredMatches = effectString.match(/{[^|]+\|[^}]+}/g);
+    if (enpoweredMatches != null) {
+        for (let i = 0; i < enpoweredMatches.length; i++) {
+            const element = enpoweredMatches[i];
+            let result = "";
+            if (baseDiceResult < improvedEdge) {
+                result = element.substring(1, element.indexOf("|"));
+            }
+            else {
+                result = element.substring(element.indexOf("|") + 1, element.length - 1);
+            }
+            effectString = effectString.replace(element, result);
+        }
+    }
+
+    return effectString;
 }
 
 function getRandomDevice(jsonData) {
