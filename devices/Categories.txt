@@ -1,0 +1,26 @@
+Artificial Body Parts/Implants
+Automatons
+Crystal Devices
+Datasphere Devices
+Detonations
+Enhancements (Attributes)
+Enhancements (Skills)
+Enhancements (Movement)
+Gravity Devices
+Hard Light Devices
+Healing Devices
+Magnetic Devices
+Nodules (Armor)
+Nodules (Weapon)
+Numenera Enhancements
+Organic/Biotech Devices
+Protection (General)
+Protection (Armor)
+Ray Projectors
+Smart Fluid Devices
+Sound/Sonic Devices
+Time Devices
+Dimensional/Phase Devices
+Weapons (Melee)
+Weapons (Ranged)
+Utility
