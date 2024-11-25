@@ -1,6 +1,6 @@
-const pathToCyphers = "Cyphers_Ru.json";
-const pathToArtefacts = "Artefacts_Ru.json";
-const pathToOddities = "Oddities_Ru.json";
+const pathToCyphers = "cyphers/Cyphers_YZE_Discovery.json";
+const pathToArtefacts = "artefacts/Artefacts_YZE_Discovery.json";
+const pathToOddities = "oddities/Oddities_YZE_Discovery.json";
 const improvedEdge = 5;
 
 let cyphersJson;

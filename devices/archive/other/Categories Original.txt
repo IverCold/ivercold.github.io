@@ -3,8 +3,6 @@ Automatons
 Crystal Devices
 Datasphere Devices
 Detonations
-Enhancements (Attributes)
-Enhancements (Skills)
 Enhancements (Movement)
 Enhancements (Stealth)
 Enhancements (Might)

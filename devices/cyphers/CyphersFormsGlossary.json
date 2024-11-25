@@ -1,0 +1,536 @@
+[
+  {
+    "FormEng": "Adheres to temple and launches projectile",
+    "FormRu": "Прилипает к виску и запускает снаряд",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Adhesive patch that activates when slapped",
+    "FormRu": "Пластырь, который активируется при прилипании",
+    "Type": "Wearable",
+    "Count": 8
+  },
+  {
+    "FormEng": "Badge",
+    "FormRu": "Значок",
+    "Type": "Wearable",
+    "Count": 4
+  },
+  {
+    "FormEng": "Belt with device, amulet, or ring",
+    "FormRu": "Пояс с устройством;Амулет;Кольцо",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Belt, headband, bracelet",
+    "FormRu": "Пояс;Головная повязка;Браслет",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Belt, medallion, ring",
+    "FormRu": "Пояс;Медальон;Кольцо",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Belt, ring, bracelet",
+    "FormRu": "Пояс;Кольцо;Браслет",
+    "Type": "Wearable",
+    "Count": 4
+  },
+  {
+    "FormEng": "Belt, wristband, ring, full bodysuit",
+    "FormRu": "Пояс;Браслет;Кольцо;Полный комбинезон",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Bulky backpack-like device with a connected tube",
+    "FormRu": "Громоздкое устройство-рюкзак с присоединённой трубкой",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Bulky device and several metal plates",
+    "FormRu": "Громоздкое устройство",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Bulky handheld device",
+    "FormRu": "Громоздкое портативное устройство",
+    "Type": "Usable",
+    "Count": 8
+  },
+  {
+    "FormEng": "Bulky handheld device attached to large tanks and a wide hose",
+    "FormRu": "Громоздкое устройство прикрепляемое к большим ёмкостям с широкой трубкой",
+    "Type": "Usable",
+    "Count": 4
+  },
+  {
+    "FormEng": "Canister",
+    "FormRu": "Канистра",
+    "Type": "Usable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Complex device",
+    "FormRu": "Сложное устройство",
+    "Type": "Usable",
+    "Count": 11
+  },
+  {
+    "FormEng": "Complex device, handheld device",
+    "FormRu": "Сложное устройство;Портативное устройство",
+    "Type": "Usable",
+    "Count": 8
+  },
+  {
+    "FormEng": "Contact lens, glove, ring, wristband, headband, belt buckle, shoulder-mounted device",
+    "FormRu": "Контактные линзы;Перчатка;Кольцо;Браслет;Головная повязка;Пряжка ремня;Устройство установленное на плече",
+    "Type": "Wearable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Contact lenses, eyeglasses, or goggles",
+    "FormRu": "Контактные линзы; Очки; Защитные очки",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Crystal nodule affixed to a melee weapon",
+    "FormRu": "Кристаллическая друза прикрепляемая к оружию ближнего боя",
+    "Type": "Usable",
+    "Count": 13
+  },
+  {
+    "FormEng": "Crystal nodule affixed to armor",
+    "FormRu": "Кристаллическая друза прикрепляемая к броне",
+    "Type": "Usable",
+    "Count": 7
+  },
+  {
+    "FormEng": "Crystal nodule affixed to installation",
+    "FormRu": "Кристаллическая друза прикрепляемая к инсталляции",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Device filled with glittering points of light with attached handle and control",
+    "FormRu": "Устройство наполненное мерцающими частицами света с прикреплённой ручкой управления",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Device with hornlike speaker",
+    "FormRu": "Устройство с динамиком в виде рога",
+    "Type": "Usable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Disk that adheres to forehead, temporary tattoo",
+    "FormRu": "Диск, который прилипает ко лбу; Временная татуировка",
+    "Type": "Wearable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Explosive device",
+    "FormRu": "Взрывное устройство",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Explosive device (thrown, short range) or handheld projector (long range)",
+    "FormRu": "Взрывное устройство (метательное, ближняя дистанция);Портативный проектор (средняя дистанция)",
+    "Type": "Usable",
+    "Count": 5
+  },
+  {
+    "FormEng": "Explosive device or ceramic sphere (thrown, short range) or handheld projector (long range)",
+    "FormRu": "Взрывное устройство (метательное, ближняя дистанция);Керамическая сфера (метательное, ближняя дистанция);Портативный проектор (средняя дистанция)",
+    "Type": "Usable",
+    "Count": 8
+  },
+  {
+    "FormEng": "Explosive device or ceramic sphere (thrown, short range), handheld projector (long range)",
+    "FormRu": "Взрывное устройство (метательное, ближняя дистанция);Керамическая сфера (метательное, ближняя дистанция);Портативный проектор (средняя дистанция)",
+    "Type": "Usable",
+    "Count": 14
+  },
+  {
+    "FormEng": "Explosive device or synth sphere (thrown, short range), handheld projector (long range)",
+    "FormRu": "Взрывное устройство (метательное, ближняя дистанция);Синт сфера (метательное, ближняя дистанция);Портативный проектор (средняя дистанция)",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Fingertip-sized winged insect built of synth and biological elements",
+    "FormRu": "Крылатое насекомое размером с палец, состоящее из синта и биологических элементов",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Fist-sized organic pod",
+    "FormRu": "Органический стручок размером с кулак",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Glove",
+    "FormRu": "Перчатка",
+    "Type": "Wearable",
+    "Count": 4
+  },
+  {
+    "FormEng": "Glove of synth",
+    "FormRu": "Синтетическая перчатка",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Glove, wristband",
+    "FormRu": "Перчатка;Браслет",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Gloves",
+    "FormRu": "Перчатки",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Gloves with metal plates",
+    "FormRu": "Перчатки с металлическими пластинами",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Handheld device",
+    "FormRu": "Портативное устройство",
+    "Type": "Usable",
+    "Count": 76
+  },
+  {
+    "FormEng": "Handheld device that launches projectile",
+    "FormRu": "Портативное устройство запускающее снаряд",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Handheld projector",
+    "FormRu": "Портативный проектор",
+    "Type": "Usable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Handheld projector (close range)",
+    "FormRu": "Портативный проектор (ближняя дистанция)",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Handheld projector (long range)",
+    "FormRu": "Портативный проектор (средняя дистанция)",
+    "Type": "Usable",
+    "Count": 7
+  },
+  {
+    "FormEng": "Handheld projector (long range). Can also be thrown against the ground or other hard object in short range.",
+    "FormRu": "Портативный проектор (средняя дистанция);Взрывное устройство (метательное, ближняя дистанция)",
+    "Type": "Usable",
+    "Count": 6
+  },
+  {
+    "FormEng": "Handheld projector (short range)",
+    "FormRu": "Портативный проектр (ближняя дистанция)",
+    "Type": "Usable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Headband",
+    "FormRu": "Повязка на голову",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Ingestible liquid",
+    "FormRu": "Капсула",
+    "Type": "Internal",
+    "Count": 2
+  },
+  {
+    "FormEng": "Inhalable powder",
+    "FormRu": "Вдыхаемый порошок",
+    "Type": "Internal",
+    "Count": 2
+  },
+  {
+    "FormEng": "Injection",
+    "FormRu": "Инжектор",
+    "Type": "Usable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Injector",
+    "FormRu": "Инжектор",
+    "Type": "Usable",
+    "Count": 42
+  },
+  {
+    "FormEng": "Lipstick, false fingertip, ring with needle",
+    "FormRu": "Помада;Фальшивый отпечаток;Кольцо с иглой",
+    "Type": "Wearable",
+    "Count": 5
+  },
+  {
+    "FormEng": "Metallic orb",
+    "FormRu": "Металлическая сфера",
+    "Type": "Usable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Nodule that affixes to a melee weapon",
+    "FormRu": "Друза прикрепляемая к оружию ближнего боя",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Pill",
+    "FormRu": "Таблетка",
+    "Type": "Internal",
+    "Count": 9
+  },
+  {
+    "FormEng": "Pill, implant",
+    "FormRu": "Таблетка;Имплантат",
+    "Type": "Internal",
+    "Count": 2
+  },
+  {
+    "FormEng": "Pill, ingestible liquid",
+    "FormRu": "Таблетка;Капсула",
+    "Type": "Internal",
+    "Count": 50
+  },
+  {
+    "FormEng": "Pill, ingestible liquid, inhalable powder",
+    "FormRu": "Таблетка;Капсула;Вдыхаемый порошок",
+    "Type": "Internal",
+    "Count": 2
+  },
+  {
+    "FormEng": "Pill, ingestible or injectable liquid",
+    "FormRu": "Таблетка;Капсула",
+    "Type": "Internal",
+    "Count": 6
+  },
+  {
+    "FormEng": "Pill, injection",
+    "FormRu": "Таблетка;Инжектор",
+    "Type": "Internal",
+    "Count": 3
+  },
+  {
+    "FormEng": "Pill, injector",
+    "FormRu": "Таблетка;Инжектор",
+    "Type": "Internal",
+    "Count": 2
+  },
+  {
+    "FormEng": "Ring, bracelet",
+    "FormRu": "Кольцо;Браслет",
+    "Type": "Wearable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Ring, bracelet, pendant",
+    "FormRu": "Кольцо;Браслет;Кулон",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Ring, earring, hair pin, wristband, lapel pin",
+    "FormRu": "Кольцо;Серьга;Заколка;Браслет;Значок",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Rod 1 foot (30 cm) long",
+    "FormRu": "Жезл длиной 30 см",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Small handheld device",
+    "FormRu": "Маленькое портативное устройство",
+    "Type": "Usable",
+    "Count": 15
+  },
+  {
+    "FormEng": "Small handheld device, crystal",
+    "FormRu": "Маленькое портативное устройство;Кристалл",
+    "Type": "Usable",
+    "Count": 8
+  },
+  {
+    "FormEng": "Small mechanical device",
+    "FormRu": "Маленькое механическое устройство",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Small metal and synth plate",
+    "FormRu": "Маленькая пластина из метала и синта",
+    "Type": "Usable",
+    "Count": 7
+  },
+  {
+    "FormEng": "Small metallic disc",
+    "FormRu": "Маленький металлический диск",
+    "Type": "Usable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Small metallic disk",
+    "FormRu": "Маленький металлический диск",
+    "Type": "Usable",
+    "Count": 3
+  },
+  {
+    "FormEng": "Small pyramid-shaped metallic device",
+    "FormRu": "Маленькое металлическое устройство в виде пирамиды",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Small sphere of flesh and metal",
+    "FormRu": "Маленькая сфера из плоти и метала",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Smoking mask",
+    "FormRu": "Маска с бонгом",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Spectacles, goggles, helmet with visor",
+    "FormRu": "Солнечные очки;Защитные очки;Шлем с визором",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Sphere on a tripod",
+    "FormRu": "Сфера на треноге",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Spray canister",
+    "FormRu": "Баллончик с распылителем",
+    "Type": "Usable",
+    "Count": 12
+  },
+  {
+    "FormEng": "Subdermal implant",
+    "FormRu": "Подкожный имплантат",
+    "Type": "Internal",
+    "Count": 6
+  },
+  {
+    "FormEng": "Subdermal injection",
+    "FormRu": "Подкожный инжектор",
+    "Type": "Internal",
+    "Count": 5
+  },
+  {
+    "FormEng": "Synth cylinder about 1 foot (0.3 m) in length",
+    "FormRu": "Синтетический цилиндр 30 см в длину",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Synth glove",
+    "FormRu": "Синтетическая перчатка",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Syringe, pill, ingestible liquid",
+    "FormRu": "Шприц;Таблетка;Капсула",
+    "Type": "Internal",
+    "Count": 2
+  },
+  {
+    "FormEng": "Temporary tattoo, amulet, headband, crystal worn on temple",
+    "FormRu": "Временная татуировка;Амулет;Головная повязка;Кристалл закреплённый на виске",
+    "Type": "Wearable",
+    "Count": 11
+  },
+  {
+    "FormEng": "Tiny metal and synth chip",
+    "FormRu": "Крохотный металический и синтетический чип",
+    "Type": "Usable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Two rings, circlets, bracelets, or belts",
+    "FormRu": "Два кольца;Два круга;Два браслета;Два пояса",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Wrist-mounted device",
+    "FormRu": "Прикреплённое к браслету устройство",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Wrist-mounted projector",
+    "FormRu": "Прикреплённый к браслету проектор",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Wrist-mounted sprayer",
+    "FormRu": "Распылитель устанавливаемый на запястье",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Wristband",
+    "FormRu": "Браслет",
+    "Type": "Wearable",
+    "Count": 4
+  },
+  {
+    "FormEng": "Wristband projector (close range)",
+    "FormRu": "Браслет-проектор (ближняя дистанция)",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Wristband projector (long range)",
+    "FormRu": "Браслет-проектор (средняя дистанция)",
+    "Type": "Wearable",
+    "Count": 23
+  },
+  {
+    "FormEng": "Wristband projector (short range)",
+    "FormRu": "Браслет-проектор (ближняя дистанция)",
+    "Type": "Wearable",
+    "Count": 2
+  },
+  {
+    "FormEng": "Wristband projector, shoulder- or arm-mounted launcher (long range)",
+    "FormRu": "Браслет-проектор (средняя дистанция);Пусковая установка, установленная на руке или плече (средняя дистанция)",
+    "Type": "Wearable",
+    "Count": 2
+  }
+]

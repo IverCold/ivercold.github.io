@@ -1,4 +1,4 @@
-Category: Artificial Body Parts And Implants
+Category: Artificial Body Parts/Implants
 Biomorph Cypher SA 35
 Breather symbiote Cypher SA 37
 Comprehension graft Cypher CB 283
@@ -301,7 +301,7 @@ Spatial warp Cypher CB 295
 Time delay Cypher SA 93
 Trigger trap Artifact CB 313
 
-Category: Organic And Biotech Devices
+Category: Organic/Biotech Devices
 Brain bud Artifact CB 302
 Butterfly drone Cypher SA 38
 Clone tank Cypher SA 39
@@ -442,7 +442,7 @@ Liquid armor Artifact CB 306
 Liquid sword Artifact CB 307
 Memory gel Cypher SA 71
 
-Category: Sound And Sonic Devices
+Category: Sound/Sonic Devices
 Communication disks Cypher SA 40
 Deployer (hypersound) Cypher SA 44
 Dissonance cube Cypher SA 48
@@ -466,7 +466,7 @@ Time dilation nodule (defensive) Cypher CB 296
 Time dilation nodule (offensive) Cypher CB 296
 Time machine Artifact SA 138
 
-Category: Dimensional And Phase Devices
+Category: Dimensional/Phase Devices
 Controlled blinking nodule Cypher CB 283
 Demonsphere Cypher SA 43
 Dimensional armor Artifact CB 303

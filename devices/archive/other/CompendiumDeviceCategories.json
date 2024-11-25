@@ -1,0 +1,3220 @@
+[
+  {
+    "Name": "biomorph",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "breather symbiote",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "comprehension graft",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "electronic nose",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "eyestalk graft",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "foam limb",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "head transference collar",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "organ patch",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "periscopic eye",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "pincer arm",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "poison brain implant",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Artificial Body Parts/Implants",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "remote sensorium",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "replacement hand",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "reproductive bud",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "sleep watch",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants"
+    ]
+  },
+  {
+    "Name": "telepathy implant",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants",
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "tendril gloves",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants",
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "tendril graft",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Artificial Body Parts/Implants",
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "warmth projector",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Artificial Body Parts/Implants",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "weapon graft",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Artificial Body Parts/Implants",
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "access token",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "automated cook",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "chiurgeon sphere",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Automatons",
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "cicerone",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "eyebug",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "fangs of the reaver",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "fluttering recorder",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "glass scorpion",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "harassing companion",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "inflatable companion",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "instant servant",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "navigator daemon",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "portable steed",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons",
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "projectile drone",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "remote clamp",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "repair sphere",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Automatons",
+      "Healing Devices",
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "repair unit",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons",
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "snake in the grass",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "steel sentinel",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "task drone",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "weaver drone",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Automatons"
+    ]
+  },
+  {
+    "Name": "banishing nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices",
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "blue crystal",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices"
+    ]
+  },
+  {
+    "Name": "crystal helmet",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Crystal Devices"
+    ]
+  },
+  {
+    "Name": "crystal virus",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices"
+    ]
+  },
+  {
+    "Name": "datasphere siphon",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices",
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "density nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices",
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "disrupting nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices",
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "echo crystal",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices",
+      "Hard Light Devices",
+      "Nodules (Weapon)",
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "fool killer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "heat nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices",
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "invisibility nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Crystal Devices",
+      "Nodules (Armor)"
+    ]
+  },
+  {
+    "Name": "tracer nodule",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Crystal Devices"
+    ]
+  },
+  {
+    "Name": "analysis daemon",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "biometric reference",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "cohesion stabilizer",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "conflict advisor",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "contingent subroutine",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "data armor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Datasphere Devices",
+      "Enhancements (Intellect)"
+    ]
+  },
+  {
+    "Name": "data flood",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "data merge",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices",
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "data spike",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "death messenger",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices",
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "dreamachine",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "interaction advisor",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "remnant reader",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "remote viewer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "secret finder",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "silver ichor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Datasphere Devices",
+      "Enhancements (Might)"
+    ]
+  },
+  {
+    "Name": "temporal viewer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices",
+      "Time Devices"
+    ]
+  },
+  {
+    "Name": "tracer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Datasphere Devices"
+    ]
+  },
+  {
+    "Name": "bloom (fireflower)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "bloom (serpent)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "bloom (spore)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (coma)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (crystal)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (desiccating)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (distress)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (electromagnetic)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (filament)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (flash)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (flashfire)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (flesh warping)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (foam)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (gravity)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (healing)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations",
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "detonation (living metal)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (matter disruption)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (plant transformation)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (pressure)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (singularity)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (smoke)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (sonic)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (spatial warping)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (spawn)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (stasis)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (suggestion)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (tendril)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "detonation (web)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "doomsday device",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "exploding arrow",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "gas bomb",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "heartburst",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "needleburst",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations"
+    ]
+  },
+  {
+    "Name": "poison (explosive)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Detonations",
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "adhesion clamps",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "airfins",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "bounding boots",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Movement)",
+      "Gravity Devices"
+    ]
+  },
+  {
+    "Name": "buoyancy",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "burrowing bubble",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "cloudskimmer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "crawler tank",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "drastic propulsion",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "floating bubble",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "flow",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "flying cap",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "ground orb",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "instant boat",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "light flyer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "lightwings",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "seed boat",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "suspensor belt",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Movement)",
+      "Enhancements (Speed)"
+    ]
+  },
+  {
+    "Name": "windrider",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "wing symbiote",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Movement)"
+    ]
+  },
+  {
+    "Name": "camouflage spray",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Stealth)"
+    ]
+  },
+  {
+    "Name": "chameleon cloak",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Stealth)",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "cloaking pin",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Stealth)"
+    ]
+  },
+  {
+    "Name": "colorless grease",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Stealth)"
+    ]
+  },
+  {
+    "Name": "deployer (optical)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Stealth)"
+    ]
+  },
+  {
+    "Name": "eagleseye",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Stealth)"
+    ]
+  },
+  {
+    "Name": "ghostly intruder",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Stealth)"
+    ]
+  },
+  {
+    "Name": "ghostly veil",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Stealth)"
+    ]
+  },
+  {
+    "Name": "sound dampener",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Stealth)",
+      "Sound/Sonic Devices"
+    ]
+  },
+  {
+    "Name": "armored flesh",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Might)",
+      "Protection (General)",
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "augmenter harness",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Might)"
+    ]
+  },
+  {
+    "Name": "battlesuit",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Might)",
+      "Protection (General)",
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "bone garden",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Might)"
+    ]
+  },
+  {
+    "Name": "chemical factory",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Might)",
+      "Enhancements (Speed)",
+      "Enhancements (Intellect)"
+    ]
+  },
+  {
+    "Name": "growth harness",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Might)",
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "living armor sheath",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Might)",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "pleasure center",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Might)"
+    ]
+  },
+  {
+    "Name": "revealer dart",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Might)",
+      "Enhancements (Speed)"
+    ]
+  },
+  {
+    "Name": "second skin",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Might)"
+    ]
+  },
+  {
+    "Name": "sheen",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Might)",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "strength boost",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Might)"
+    ]
+  },
+  {
+    "Name": "stronghold",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Might)"
+    ]
+  },
+  {
+    "Name": "deployer (muscular)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Speed)"
+    ]
+  },
+  {
+    "Name": "kinetic shield",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Speed)",
+      "Magnetic Devices",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "metabolism bud",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Speed)"
+    ]
+  },
+  {
+    "Name": "speed boost",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Speed)"
+    ]
+  },
+  {
+    "Name": "visual displacement device",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Speed)",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "atmospheric hyperskin",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Intellect)"
+    ]
+  },
+  {
+    "Name": "brain bud",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Intellect)",
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "intellect enhancement",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Intellect)"
+    ]
+  },
+  {
+    "Name": "motion sensor",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Intellect)"
+    ]
+  },
+  {
+    "Name": "nightvision goggles",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Intellect)"
+    ]
+  },
+  {
+    "Name": "recorder headband",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Enhancements (Intellect)"
+    ]
+  },
+  {
+    "Name": "second sight symbiote",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Intellect)",
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "signal detector",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Enhancements (Intellect)"
+    ]
+  },
+  {
+    "Name": "gravity dampener",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Gravity Devices"
+    ]
+  },
+  {
+    "Name": "gravity nullifier",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Gravity Devices"
+    ]
+  },
+  {
+    "Name": "gravity-nullifying spray",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Gravity Devices"
+    ]
+  },
+  {
+    "Name": "hover belt",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Gravity Devices"
+    ]
+  },
+  {
+    "Name": "hover square",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Gravity Devices"
+    ]
+  },
+  {
+    "Name": "reality spike",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Gravity Devices",
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "data vault",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "hard light cutter",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "hard light goggles",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "light binder",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "light spike",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Hard Light Devices",
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "light steed",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "photonic fabricator",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "photonic hand",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "photonic smasher",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Hard Light Devices",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "radiant web",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "solid light bindings",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "solid light gloves",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "solid light helm",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Hard Light Devices"
+    ]
+  },
+  {
+    "Name": "solid light retribution",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Hard Light Devices",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "artificial leech",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "brain lightning",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "ecstasy glass",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "essence transfer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "exalted vapor",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "healing nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices",
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "healing sword",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "health viewer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "regrow",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "rejuvenating shield",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "rejuvenation field",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "rejuvenator",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "remake",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "restoration pod",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "speed heal",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "stimulation stem",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "talio’s compass",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices",
+      "Magnetic Devices"
+    ]
+  },
+  {
+    "Name": "tranquility pod",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Healing Devices"
+    ]
+  },
+  {
+    "Name": "blood magnet",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Magnetic Devices"
+    ]
+  },
+  {
+    "Name": "countermeasure (magnetic)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Magnetic Devices"
+    ]
+  },
+  {
+    "Name": "instant bridge",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Magnetic Devices"
+    ]
+  },
+  {
+    "Name": "magnetic master",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Magnetic Devices"
+    ]
+  },
+  {
+    "Name": "magnetic shield",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Magnetic Devices"
+    ]
+  },
+  {
+    "Name": "metamagnetizer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Magnetic Devices"
+    ]
+  },
+  {
+    "Name": "armor patch",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Armor)"
+    ]
+  },
+  {
+    "Name": "blinking nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Armor)",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "controlled blinking nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Armor)",
+      "Protection (General)",
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "force nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Armor)",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "retaliation nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Armor)"
+    ]
+  },
+  {
+    "Name": "explosive nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "fast hail",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "gravity nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "hand of the conqueror",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "heat sheath",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "living weaponmaster nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "shock nodule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Nodules (Weapon)"
+    ]
+  },
+  {
+    "Name": "amulet of safety",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "battle vapor",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "biometric patch",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements",
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "detonation delay",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "detonation trigger",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "device enhancer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "energy module",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "hidden reviver",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "hover module",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "mind module",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "numenera analyzer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "numenera net",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "parous cypher ball",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "parous oddity box",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "projectile module (homing)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "projectile module (mind blasting)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "projectile module (poison)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "projectile module (teleport)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "solar reviver",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "spatial warp",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "time delay",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "trigger trap",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Numenera Enhancements"
+    ]
+  },
+  {
+    "Name": "butterfly drone",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "clone tank",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "ear worm",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "fallback clone",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "fungal garden",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "growth serum",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "growth stimulator",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "grub armor",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "health symbiote",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices",
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "instant companion",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "instant guardian",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "internal detector",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "living solvent",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "lutin (bioengineered insects)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "mental thieves",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "poison (emotion)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "poison (mind-controlling)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "poison (mind-disrupting)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "portable biolab",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "purgspitter",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "seed of knowledge",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "skill boost",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "skill bud",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "sleep inducer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "transformation torque",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "visage changer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Organic/Biotech Devices"
+    ]
+  },
+  {
+    "Name": "battle armor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)",
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "bezoar discharge",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "bone dress",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "catholicon",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "chitin colony",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "concrete casting",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "countermeasure (membrane)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "countermeasure (technological)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "cyberflesh",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "dimensional armor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)",
+      "Protection (Armor)",
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "displacement cloak",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "filtration straw",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "fireproofing spray",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)",
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "flame catcher",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "flame-retardant wall",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "food scanner",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "force dome",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "gel suit",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)",
+      "Smart Fluid Devices"
+    ]
+  },
+  {
+    "Name": "heat stone",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "heliolithic halo",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "hoop staff",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "indestructible oil",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "inertia shield",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "inflatable suit",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "instant shield",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "invulnerable mesh",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "light shield",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "liquid armor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)",
+      "Protection (Armor)",
+      "Smart Fluid Devices"
+    ]
+  },
+  {
+    "Name": "lobal sheath",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "lotus paste",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "orbital armor",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "overwatch defender",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "perma-damp",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "personal environment field",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "plant jar",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "prismatic field projector",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "protection amulet",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "psycap",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "purity",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "ranged protector",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "redlight clip",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "repulsion field",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)",
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "ring of iron wind",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "safe corridor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "skin of water breathing",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "snow lens",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "spatial distorter",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "stasis projector",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "stone form",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "subdual field",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "teleport seal",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)",
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "telltale glass",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "temporal sheath",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)"
+    ]
+  },
+  {
+    "Name": "time dilation nodule (defensive)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (General)",
+      "Time Devices"
+    ]
+  },
+  {
+    "Name": "armoring cloth",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "crystal armor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "psychic helmet",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "rynrad skin",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Protection (Armor)",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "skin of fire sloughing",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "smart cape",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "spine armor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "ultra armor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Protection (Armor)"
+    ]
+  },
+  {
+    "Name": "cellular disruptor",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Ray Projectors",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "erosion ray",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Ray Projectors"
+    ]
+  },
+  {
+    "Name": "image projector",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Ray Projectors"
+    ]
+  },
+  {
+    "Name": "inferno wall projector",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Ray Projectors"
+    ]
+  },
+  {
+    "Name": "pyrolytic pulser",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Ray Projectors",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "ray emitter",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Ray Projectors"
+    ]
+  },
+  {
+    "Name": "ray emitter (molecular rearrangement)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Ray Projectors"
+    ]
+  },
+  {
+    "Name": "ray emitter (numbing)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Ray Projectors"
+    ]
+  },
+  {
+    "Name": "ray emitter (paralysis)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Ray Projectors"
+    ]
+  },
+  {
+    "Name": "shrink ray",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Ray Projectors"
+    ]
+  },
+  {
+    "Name": "terrorizer",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Ray Projectors",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "transdimensional ray projector",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Ray Projectors",
+      "Dimensional/Phase Devices",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "liquid sword",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Smart Fluid Devices"
+    ]
+  },
+  {
+    "Name": "memory gel",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Smart Fluid Devices"
+    ]
+  },
+  {
+    "Name": "communication disks",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Sound/Sonic Devices"
+    ]
+  },
+  {
+    "Name": "deployer (hypersound)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Sound/Sonic Devices"
+    ]
+  },
+  {
+    "Name": "dissonance cube",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Sound/Sonic Devices"
+    ]
+  },
+  {
+    "Name": "electromagnetic projector",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Sound/Sonic Devices"
+    ]
+  },
+  {
+    "Name": "emoacoustic weapon",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Sound/Sonic Devices"
+    ]
+  },
+  {
+    "Name": "psychic whistle",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Sound/Sonic Devices"
+    ]
+  },
+  {
+    "Name": "screaming madness",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Sound/Sonic Devices",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "sonic blade",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Sound/Sonic Devices",
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "sonic hole",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Sound/Sonic Devices"
+    ]
+  },
+  {
+    "Name": "sound amplifier",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Sound/Sonic Devices"
+    ]
+  },
+  {
+    "Name": "thunder cannon",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Sound/Sonic Devices",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "reset",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Time Devices"
+    ]
+  },
+  {
+    "Name": "temporal maul",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Time Devices"
+    ]
+  },
+  {
+    "Name": "time auger",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Time Devices"
+    ]
+  },
+  {
+    "Name": "time capsule",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Time Devices"
+    ]
+  },
+  {
+    "Name": "time dilation nodule (offensive)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Time Devices"
+    ]
+  },
+  {
+    "Name": "time machine",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Time Devices"
+    ]
+  },
+  {
+    "Name": "demonsphere",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "ghostly duplicate",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "multidimensional blade",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Dimensional/Phase Devices",
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "phase changer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "phase disruptor",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "phasing piton",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Dimensional/Phase Devices",
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "quadraturin",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "secret pocket",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "sidestep portal",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "summoning staff",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "teleport trap",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "teleporter (bounder)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "teleporter (mass)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "teleporter (traveler)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "tentacle helmet",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "transdimensional gate",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Dimensional/Phase Devices"
+    ]
+  },
+  {
+    "Name": "bloodblade",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "cacophony blade",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "despoiler, the",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "disruption blade",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "disruptive sword",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "drill spear",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "instant weapon",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "kinetic rod",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "lightning whip",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "malady maker",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "mephitic staff",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "miniaturized weapon",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "monoblade",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "one perfect cut",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "phase axe",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "poisoner’s touch",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "power glove",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "pyroclastic staff",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "shock manacles",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "shocker",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "sphere thrower",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "spinneret ring",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "tentacle harness (bladed)",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "tongue snake",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "transdimensional blade",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "void knife",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "vuechi",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)",
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "windslice blade",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Melee)"
+    ]
+  },
+  {
+    "Name": "ecstasy paralyzer",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "fearmaker",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "fiery hellmaker",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "flame hand",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "flesh eater",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "foam sprayer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "hunter/seeker",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "jolter",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "launcher",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "lightning lance",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "lutin (combos)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "lutin (engineered spores)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "lutin (light drops)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "lutin (metal shrapnel)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "lutin (nanites)",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "magnetic attack drill",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "mental scrambler",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "mind killer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "murder globe",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "nano-needler",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "needler",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "overwatch slayer",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "photon igniter",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "portable vortex",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "pulse staff",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "ranged retaliator",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "remote scarificator",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "root spike",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "sensory disruptor",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "shatter wand",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "skull blaster",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "slug thrower",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "slugspitter",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "slugspitter (heat)",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "slugspitter (inorganic phasing)",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "slugspitter (mass increasing)",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "snipewand",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "sparkle",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "standstill",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "stasis field emitter",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "stunner",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "tether",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "the death by angles",
+    "DeviceType": "Artifact",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "water weapon",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  },
+  {
+    "Name": "wrist launcher",
+    "DeviceType": "Cypher",
+    "Categories": [
+      "Weapons (Ranged)"
+    ]
+  }
+]

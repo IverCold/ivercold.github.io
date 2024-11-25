@@ -135,7 +135,7 @@
     "Name": "Comprehension Graft",
     "Level": "1d6 + 1",
     "Effect": "When applied to a creature’s head, the disk immediately unleashes microfilaments that enter the brain. Within five minutes, the creature can understand the words of a specific language keyed to the graft (two languages if the cypher is level 5 or higher). This is true even of creatures that do not normally have a language. If the creature could already understand the language, the cypher has no effect. Once the graft attaches, the effect is permanent, and this device no longer counts against the number of cyphers that a PC can bear.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Discovery"
   },
   {
@@ -143,7 +143,7 @@
     "Name": "Controlled Blinking Nodule",
     "Level": "1d6 + 2",
     "Effect": "For the next 28 hours, each time the wearer of the armor the nodule is attached to is struck hard enough to inflict damage (but no more than once per round), they teleport to a spot they desire within immediate range. Since the wearer is prepared for this effect and their foe is not, the wearer’s defenses are eased for one round after they teleport (eased by two steps if the cypher is level 6 or higher).",
-    "Categories": "Nodules (Armor), Protection (General), Dimensional And Phase Devices",
+    "Categories": "Nodules (Armor), Protection (General), Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -694,7 +694,7 @@
     "Name": "Living Solvent",
     "Level": "1d6 + 4",
     "Effect": "Once released, this organic slime dissolves 1 cubic foot of material each round. After one round per cypher level, the slime dies and becomes inert.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -834,7 +834,7 @@
     "Name": "Phase Changer",
     "Level": "1d6 + 1",
     "Effect": "Puts the user out of phase for one minute (two minutes if the cypher is level 6 or higher). During this time, the user can pass through solid objects as though they were entirely insubstantial, like a ghost. They cannot make physical attacks or be physically attacked.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -842,7 +842,7 @@
     "Name": "Phase Disruptor",
     "Level": "1d6 + 2",
     "Effect": "Puts a portion of a physical structure (like a wall or floor) out of phase for one hour. It affects an area equal to one 5-foot (1.5 m) cube per cypher level. While the area is out of phase, creatures and objects can pass fireely through it as if it were not there, although one cannot see through it, and it blocks light.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -884,7 +884,7 @@
         }
       ]
     },
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -926,7 +926,7 @@
         }
       ]
     },
-    "Categories": "Detonations, Organic And Biotech Devices",
+    "Categories": "Detonations, Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -968,7 +968,7 @@
         }
       ]
     },
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -978,7 +978,7 @@
     "Name": "Poison (mind-disrupting)",
     "Level": "1d6 + 2",
     "Effect": "The victim suffers Intellect damage equal to the cypher’s level and cannot take actions for a number of rounds equal to the cypher’s level.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1053,7 +1053,7 @@
     "Name": "Reality Spike",
     "Level": "1d6 + 4",
     "Effect": "Once activated, the spike does not move—ever—even if activated in midair. A Might action will dislodge the spike, but then it is ruined.",
-    "Categories": "Gravity Devices, Dimensional And Phase Devices",
+    "Categories": "Gravity Devices, Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1200,7 +1200,7 @@
         }
       ]
     },
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1210,7 +1210,7 @@
     "Name": "Sleep Inducer",
     "Level": "1d6",
     "Effect": "Touch or ingestion puts the victim to sleep for ten minutes or until awoken by a violent action or an extremely loud noise.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1219,7 +1219,7 @@
     "Name": "Sonic Hole",
     "Level": "1d6 + 2",
     "Effect": "Draws all sound within long range into the device for one round per cypher level. Within the affected area, no sound can be heard.",
-    "Categories": "Sound And Sonic Devices",
+    "Categories": "Sound/Sonic Devices",
     "Source": "Discovery"
   },
   {
@@ -1229,7 +1229,7 @@
     "Name": "Sound Dampener",
     "Level": "1d6 + 2",
     "Effect": "Dampens all sound within immediate range for one minute per cypher level, providing an asset for all creatures in the area to attempt stealthy actions.",
-    "Categories": "Enhancements (Stealth), Sound And Sonic Devices",
+    "Categories": "Enhancements (Stealth), Sound/Sonic Devices",
     "Source": "Discovery"
   },
   {
@@ -1283,7 +1283,7 @@
     "Name": "Telepathy Implant",
     "Level": "1d6 + 2",
     "Effect": "The user activates the device and targets one creature within close range. For one hour per cypher level, the device enables two-way long-range mental communication between the user and the target. This lasts for one hour per cypher level. Sometimes multiple cyphers of this type are found together and allow communication between all of them.",
-    "Categories": "Artificial Body Parts And Implants, Datasphere Devices",
+    "Categories": "Artificial Body Parts/Implants, Datasphere Devices",
     "Source": "Discovery"
   },
   {
@@ -1292,7 +1292,7 @@
     "Name": "Teleporter (bounder)",
     "Level": "1d6 + 2",
     "Effect": "User teleports up to 100 × the cypher level in feet (30 × cypher level in m) to a location they can see. They arrive safely with their possessions but cannot take anything else with them.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1301,7 +1301,7 @@
     "Name": "Teleporter (traveler)",
     "Level": "1d6 + 4",
     "Effect": "User teleports up to 100 × the cypher level in miles (160 x the cypher level in km) to a location they have previously visited. They arrive safely with their possessions but cannot take anything else with them.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1344,7 +1344,7 @@
     "Name": "Visage Changer",
     "Level": "1d6",
     "Effect": "Changes the appearance of one humansized creature, providing an asset to disguise tasks (easing them by two steps if the cypher is level 5 or higher). The change takes ten minutes to apply and lasts for 28 hours.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1372,7 +1372,7 @@
     "Name": "Warmth Projector",
     "Level": "1d6",
     "Effect": "Keeps the user warm and comfortable in the harshest cold temperatures for 28 hours. During this time, the user has Armor equal to the cypher level that protects against cold damage.",
-    "Categories": "Artificial Body Parts And Implants, Protection (General)",
+    "Categories": "Artificial Body Parts/Implants, Protection (General)",
     "Source": "Discovery"
   },
   {
@@ -2071,7 +2071,7 @@
         }
       ]
     },
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -2167,7 +2167,7 @@
     "Name": "Breather Symbiote",
     "Level": "1d6 + 2",
     "Effect": "Activating the symbiote causes the device to forcefully inject a long tendril down the user’s throat until it reaches his lungs, where it lodges in the fleshy material. The symbiote provides him with breathable air for one hour, letting him breathe in the absence of air. However, while the symbiote is activated, the user can’t speak. If the symbiote is removed, the user takes 4 points of damage.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -2194,7 +2194,7 @@
     "Name": "Butterfly Drone",
     "Level": "1d6",
     "Effect": "This voice-controlled cyberbug travels in a designated direction and distance. There, it holds its position, flying around in the area for ten minutes, recording sound and images. After that time, it returns to the user. To decipher the information, the user must ingest the bug, which then relays the recording via mechanical impulses to her brain. She sees and hears the recording only once.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -2271,7 +2271,7 @@
     "Name": "Clone Tank",
     "Level": "10",
     "Effect": "To activate this device, the user must place a few drops of blood, strands of hair, nail clippings, or a piece of flesh in the slime. The slime hardens around the organic material to form a cyst. Over the next 3d6 months, the device rapidly grows a person from the material. At the end of this time, a full-grown creature, identical in every physical way to the donor creature, emerges from the tank, and the device deactivates. The clone is a level 1 creature. It can communicate in a language known to the user, but otherwise it understands nothing of the world. It becomes a unique character that develops a personality, objectives, and nature of its own.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -2302,7 +2302,7 @@
     "Name": "Communication Disks",
     "Level": "1d6 + 1",
     "Effect": "These cyphers usually come in pairs (although each is its own cypher). They allow verbal communication between their users at any distance. Both cyphers must be activated at the same time, and they function for 28 hours.",
-    "Categories": "Sound And Sonic Devices",
+    "Categories": "Sound/Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -2624,7 +2624,7 @@
         }
       ]
     },
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -2640,7 +2640,7 @@
     "Name": "Deployer (Hypersound)",
     "Level": "1d6",
     "Effect": "Once initiated, the device causes all audible sound waves within long range to gather in a single wave of inaudible hypersound. This wave then carries the sound directly to the ears of the user, allowing him to hear everything while at the same time creating absolute silence for everyone else in long range. Deployers are complex numenera devices that are almost always fashioned rather than cobbled or scavenged. Their main purpose is to simplify the process of arranging or moving things strategically for the user. Deployers can arrange everything from cells and light waves to sentient, living creatures into specific, complicated patterns and reactions. Think of them as a Ninth World equivalent of an app— someone else has done all the complicated coding for you, and all you have to do is push a button or pop a pill.",
-    "Categories": "Sound And Sonic Devices",
+    "Categories": "Sound/Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -2907,7 +2907,7 @@
     "Name": "Dissonance Cube",
     "Level": "1d6 + 4",
     "Effect": "Activation causes the device to emit a subsonic noise for seven hours. At the end of each hour, any metal object within long range of the device takes 4 points of ambient damage.",
-    "Categories": "Sound And Sonic Devices",
+    "Categories": "Sound/Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -2978,7 +2978,7 @@
     "Name": "Ear Worm",
     "Level": "1d6 + 2",
     "Effect": "The cypher activates when placed on someone’s face. The worm crawls up the side of the user’s face and enters his ear canal (or the closest thing to an ear canal the user has). It then embeds the bristles coating its body into the canal. For the next 28 hours, the user can understand any language he hears and has an asset for any task that involves listening. When the effect ends, a fleshy moth flies out of his ear.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3045,7 +3045,7 @@
         }
       ]
     },
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -3054,7 +3054,7 @@
     "Name": "Emoacoustic Weapon",
     "Level": "1d6 + 2",
     "Effect": "This device allows the user to change the emotion of a single target in short range with a sonic burst that only the target will hear. The user can choose one of these emotions or states: anger, despair, fear, joy, calm, great hunger, and sexual arousal. This artificial state lasts for ten minutes (or as the situation afterward dictates).",
-    "Categories": "Sound And Sonic Devices",
+    "Categories": "Sound/Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -3203,7 +3203,7 @@
     "Name": "Eyestalk Graft",
     "Level": "1d6 + 1",
     "Effect": "This organic object grafts directly and immediately onto the flesh of the user’s head. The eyestalk functions for 28 hours, during which time the user has an asset for all perception tasks and can look surreptitiously around corners.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -3218,7 +3218,7 @@
     "Name": "Fallback Clone",
     "Level": "10",
     "Effect": "To activate this device, the user must place a few drops of blood, strands of hair, nail clippings, or a piece of flesh in a sealed, water-filled tank with one of the headbands and wear the other one. The headband in the tank facilitates the rapid growth of a clone in one month. The clone is a fully grown creature, identical in every physical way to the user. However, it has no consciousness and remains in a comatose state in the tank. Once the clone has matured, if at any time the user dies while wearing the headband, her consciousness is transferred into the clone, regardless of distance. All skills, abilities, and knowledge are transferred. The user does not need to wear the headband throughout the process (if, for example, she is worried about her cypher limit)—just at the beginning to spur the clone’s growth. However, if she dies while not wearing the headband, no transfer occurs.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3329,7 +3329,7 @@
     "Name": "Foam Limb",
     "Level": "1d6 + 1",
     "Effect": "If sprayed upon a creature, the foam builds an arm with a hand that mimics one of the creature’s existing limbs in appearance, if possible. (If not applicable, the default limb is a long, sinewy arm with a three-fingered hand.) The foam arm hardens to the consistency of the creature’s flesh and can be used by the creature as if it were its own. The new arm does not grant the creature additional actions or attacks in a round, but it can be useful for carrying things. If the arm is harmed, the creature suffers no ill effect. The arm lasts for 28 hours.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -3404,7 +3404,7 @@
         }
       ]
     },
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3421,7 +3421,7 @@
     "Name": "Ghostly Duplicate",
     "Level": "1d6 + 1",
     "Effect": "When activated, an incorporeal duplicate of the user appears and remains for ten minutes. The duplicate does not have a mind of its own. Rather, the user controls both forms, but only one at a time. Switching consciousness between forms is an action. While the user’s consciousness focuses on one form, the other stands motionless. The duplicate moves at the same speed as the user’s normal form, but there is no limit to how far apart the two can be. The duplicate is ghostly and translucent. It can pass through solid matter and cannot be harmed except by special transdimensional weapons and effects. It likewise cannot affect normal matter in any way. While moving as the incorporeal duplicate, the user gains an asset for all stealth tasks. When the duplicate’s duration ends (or it is somehow destroyed), the user’s mind returns to his normal body. If the normal body is slain, the user stays in the duplicate, but only for the remaining duration.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -3514,7 +3514,7 @@
     "Name": "Growth Harness",
     "Level": "1d6 + 2",
     "Effect": "This device draws mass to the user from another dimension, allowing her to grow 50 percent larger for one hour. During this time, she gains 12 points to her Might Pool and deals 2 additional points of damage with all melee attacks.",
-    "Categories": "Enhancements (Might), Dimensional And Phase Devices",
+    "Categories": "Enhancements (Might), Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -3522,7 +3522,7 @@
     "Name": "Growth Serum",
     "Level": "1d6",
     "Effect": "The user permanently grows a foot taller. This process is painful and takes 28 hours, during which time the affected character is impaired.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3530,7 +3530,7 @@
     "Name": "Growth Stimulator",
     "Level": "1d6",
     "Effect": "One plant touched by the liquid grows to ten times its normal, full-grown size in ten minutes. If conditions can’t support the plant, it soon dies.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3538,7 +3538,7 @@
     "Name": "Grub Armor",
     "Level": "1d6 + 1",
     "Effect": "This cypher requires a bit of water to activate the dried worms in the can. Once activated, the grubs grow to enormous size in 1d6 rounds and swarm over the user’s body, providing +2 to Armor for one hour. Further, if the user is targeted by an effect that specifically affects a single creature, such as something that controls or reads her mind, one of the grubs is affected instead, effectively rendering the user immune to such things for the duration. This does not apply to straightforward physical attacks of any kind.",
-    "Categories": "Organic And Biotech Devices, Protection (General)",
+    "Categories": "Organic/Biotech Devices, Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3583,7 +3583,7 @@
     "Name": "Head Transference Collar",
     "Level": "8",
     "Effect": "This collar fits around the neck of most creatures the size of a human or so. When activated, it slices the head cleanly from the body and preserves the head (and mind) of the creature for up to ten minutes, during which time the creature is fully conscious. If the headless body of another creature that has been dead for less than one hour is available, the head preserved by the collar can be grafted onto that body. Henceforth, the head now controls its new body as if it had always been its own. This is very likely to alter Might and Speed Pools (but not Intellect Pool) and possibly other qualities as well. Head Transference Collar GM Intrusion: An intelligent creature that remains fully aware when its head is detached from its body may go mad for a time or suffer permanent mental damage.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -3600,7 +3600,7 @@
     "Name": "Health Symbiote",
     "Level": "1d6",
     "Effect": "Activation inflicts 1 point of ambient damage as the symbiote becomes established in the user’s system. For the next 28 hours, the user is immune to diseases, poisons, and other toxins.",
-    "Categories": "Organic And Biotech Devices, Protection (General)",
+    "Categories": "Organic/Biotech Devices, Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -3798,7 +3798,7 @@
     "Name": "Instant Companion",
     "Level": "1d6 + 1",
     "Effect": "If submerged in water, the pod grows quickly. In one minute, it grows into a houndlike beast of a level equal to the cypher level, with appropriate health, damage inflicted, and so on, plus 1 point of Armor. The hound obeys the user’s commands (as best as it can, with only animal-level intelligence) for 28 hours or until it is slain, whichever comes first, at which point it dissolves into thick liquid.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3806,7 +3806,7 @@
     "Name": "Instant Guardian",
     "Level": "1d6",
     "Effect": "If submerged in water, the pod grows quickly. In one minute, it grows into a batlike creature of a level equal to the cypher level. The creature sits on the user’s shoulder for 28 hours or until the user is attacked. The guardian moves to intercept the attack in its entirety. That is the only action it will take. If an echo crystal is affixed to an instant guardian before it is grown (task difficulty 5), two guardians are created by the pod.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -3848,7 +3848,7 @@
     "Name": "Internal Detector",
     "Level": "1d6",
     "Effect": "Injects a fluorescent protein gene into the user, causing her skin to glow with a bioluminescent color that reflects the conditions in the surrounding environment (within long range). Works in both air and water. Lasts for one hour. Blue: poison or other dangerous gasses Green: dangerous levels of radiation or chemical compound Yellow: unknown dangerous compound Orange: unknown safe or beneficial compound Purple: hallucinogenic compound No glow: nothing detected",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -4001,7 +4001,7 @@
         }
       ]
     },
-    "Categories": "Organic And Biotech Devices, Weapons (Ranged)",
+    "Categories": "Organic/Biotech Devices, Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -4222,7 +4222,7 @@
     "Name": "Mental Thieves",
     "Level": "1d6 + 4",
     "Effect": "The user exhales a cloud of spores as he puts a question to a creature within immediate range. The spores infiltrate the target’s body, find the answer in its thoughts, and forcefully eject themselves from the body, inflicting 2 points of damage to the target. The spores fly through the air and reenter the user’s body, at which point he immediately learns the answer to the question, subject to the limits of the target’s knowledge.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -4704,7 +4704,7 @@
     "Name": "Organ Patch",
     "Level": "1d6",
     "Effect": "The device is used to take a sample of the user’s skin. The user can set the control panel to choose a single organ he would like to regrow (typically something the size of an ear, a finger, a toe, or an eyeball). Shortly thereafter, the device produces a strip about 4 inches by 2 inches (10 cm by 5 cm) of a sticky, fleshlike substance that the user places on his arm or leg. In 28 hours, he has a newly grown organ. Once the organ is fully grown and properly placed, it self-sticks and begins to grow connections to the user’s body. If allowed to attach for 28 hours without taking damage, the new organ becomes permanent.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -4877,7 +4877,7 @@
         }
       ]
     },
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -4963,7 +4963,7 @@
     "Name": "Purgspitter",
     "Level": "1d6 + 2",
     "Effect": "This device spits out a tentacled creature called a purg up to long range. The purg is a level 2 creature that adheres to whatever it strikes, producing a keening screech and a strong odor for 28 hours. Grasping with powerful tentacles and an even more powerful natural adhesive, the purg is difficult to remove. To do so, the purg must be slain and scraped away, a task with a difficulty equal to the level of the device. If the purg is slain but not removed, the screech ends, but the stench remains. The purgspitter can be used as a nuisance or as a warning or crude tracking device. A creature or an object with a purg attached can always be found easily.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -4995,7 +4995,7 @@
     "Name": "Quadraturin",
     "Level": "1d6",
     "Effect": "This substance warps space, expanding it. When applied to a surface, it expands the space around that surface—for example, making an interior room larger. The tube has enough gel to cover an area of about 10 feet by 10 feet by 10 feet (3 m by 3 m by 3 m), expanding it into an area of about 50 feet by 50 feet by 50 feet (15 m by 15 m by 15 m). Quadraturin GM Intrusion: Imprecise application can bend space, making an area that expands in one dimension more than the others, or perhaps an area that never stops expanding.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5103,7 +5103,7 @@
     "Name": "Remote Sensorium",
     "Level": "1d6",
     "Effect": "Allows the user to create a replica of one of her sensory organs and place it in a remote location up to 1 mile (1.6 km) away, thus enhancing that particular sense. She can see, hear, touch, taste, or smell things that are within short range of the replicated organ as if she were also within short range.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -5111,7 +5111,7 @@
     "Name": "Reproductive Bud",
     "Level": "1d6 + 1",
     "Effect": "This organic device allows a character to reproduce asexually. First the sac is grafted onto a character for 28 hours. Then it is removed and placed in a warm, moist environment. Half a year later, it bursts open and reveals a living, infant clone of the character.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -5206,7 +5206,7 @@
         }
       ]
     },
-    "Categories": "Sound And Sonic Devices, Weapons (Ranged)",
+    "Categories": "Sound/Sonic Devices, Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -5215,7 +5215,7 @@
     "Name": "Second Sight Symbiote",
     "Level": "1d6",
     "Effect": "Activation inflicts 1 point of damage as the symbiote establishes itself in the user’s system. For the next hour, the user has an asset for all perception-based tasks.",
-    "Categories": "Enhancements (Intellect), Organic And Biotech Devices",
+    "Categories": "Enhancements (Intellect), Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -5233,7 +5233,7 @@
     "Name": "Secret Pocket",
     "Level": "1d6",
     "Effect": "The article of clothing has a special pocket. The pocket’s opening connects to an extradimensional space that’s about the size of a 3-foot (1 m) cube. The opening appears to be a normal pocket, but it can stretch to permit entry by an object capable of fitting into the extradimensional space. Placing an object in the space causes the pocket to shut until the user takes an action to open it. While the pocket holds an object, it cannot be opened by anyone except the person who placed the object inside it. Anyone inspecting the clothing finds no sign that the pocket or object exists. Furthermore, the clothing’s weight is unchanged regardless of the weight of the object placed in the pocket. When the user removes the object from the pocket, the pocket closes behind it and the space collapses.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5263,7 +5263,7 @@
     "Name": "Seed of Knowledge",
     "Level": "1d6",
     "Effect": "If planted, this seed blooms into a fullgrown plant in about a year, at which point it is about as tall as a human. At this time, it bears 1d6 pieces of fruit, all of which are telepathic, thinking creatures that know one fact keyed to the being that planted the seed. This fact might be some truth or bit of knowledge the planter seeks, the answer to a question he has, or something that will come in handy in the future, whether he knows it or not.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {
@@ -5376,7 +5376,7 @@
     "Name": "Sidestep Portal",
     "Level": "1d6",
     "Effect": "The user steps sideways and disappears into an extradimensional space, where she can remain for as long as she wishes. The space is an empty void of pale grey light in which the user floats. She can perceive nothing outside this space, and nothing outside it can perceive her. She experiences the passage of time and may act normally while in the space, though it cannot connect to the datasphere or interact with the world outside in any way. When the user emerges from the space, she returns to the spot she left or an open space nearest to that spot, and the extradimensional space vanishes. Anything left in the space is lost.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5393,7 +5393,7 @@
     "Name": "Sleep Watch",
     "Level": "1d6",
     "Effect": "The insect sinks a dozen threads into the user’s skull until they reach his brain. The device remains active for 28 hours. During this time, the user perceives through the bug and has an asset for any task to perceive. If he sleeps during this time, he can wake up whenever he chooses.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Compendium"
   },
   {
@@ -5482,7 +5482,7 @@
     "Name": "Sound Amplifier",
     "Level": "1d6",
     "Effect": "Amplifires sounds within immediate range so they can be heard up to 1 mile (2 km) away. The amplified noise lasts for a few minutes. Until the effect ends, everyone within immediate range of the device becomes deafened while it emits sounds.",
-    "Categories": "Sound And Sonic Devices",
+    "Categories": "Sound/Sonic Devices",
     "Source": "Compendium"
   },
   {
@@ -5611,7 +5611,7 @@
     "Name": "Summoning Staff",
     "Level": "1d6 + 3",
     "Effect": "This device requires two separate actions to fully activate. The first action involves the small cylinder, which has a glass lens on one end. With the cylinder, the user locates a random ultraterrestrial being (whose level is equal to or less than the cypher level) dwelling somewhere other than the Ninth World. The being becomes visible in the lens. On the next action, the user can use the staff to open a portal and pull the ultraterrestrial into this world. The ultraterrestrial cannot resist, but once it arrives, it is not automatically compelled to do anything. Unless it can return under its own power or through some other means, it is in this world to stay.When the user finds an ultraterrestrial in the first step of this process, he can choose not to bring it into this world, but he cannot use the device to find another being.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5665,7 +5665,7 @@
     "Name": "Teleport Seal",
     "Level": "1d6 + 3",
     "Effect": "When activated, this device prevents all teleportation within 1 mile (2 km). No extradimensional gates function, and no phasing is possible in this area. The seal lasts for 28 hours.",
-    "Categories": "Protection (General), Dimensional And Phase Devices",
+    "Categories": "Protection (General), Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5673,7 +5673,7 @@
     "Name": "Teleport Trap",
     "Level": "1d6 + 2",
     "Effect": "When the device is activated, the next person to touch the disk is teleported to a spot designated by the user, up to a long distance away. The destination must be a place known to be open (the target cannot teleport into solid matter), but it could be 100 feet (30 m) in the air, at the bottom of a deep pool, or a similarly inhospitable place.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5682,7 +5682,7 @@
     "Name": "Teleporter (Mass)",
     "Level": "1d6 + 4",
     "Effect": "The user teleports herself and a number of other creatures equal to the cypher level. They can travel up to 100 × the cypher level in miles to a location she has previously visited. The group arrives safely with anything that they can carry, either individually or as a group.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5699,7 +5699,7 @@
     "Name": "Tendril Gloves",
     "Level": "1d6 + 2",
     "Effect": "When the device is activated, the wearer can produce a 10-foot (3 m) tendril of solid light from each of his palms. These tendrils are prehensile and dexterous and as strong as the wearer. They can manipulate objects; wrap around, lift, and move objects; or be used as medium weapons. The tendrils remain for ten minutes.",
-    "Categories": "Artificial Body Parts And Implants, Hard Light Devices",
+    "Categories": "Artificial Body Parts/Implants, Hard Light Devices",
     "Source": "Compendium"
   },
   {
@@ -5762,7 +5762,7 @@
     "Name": "Transdimensional Gate",
     "Level": "1d6 + 4",
     "Effect": "This device creates a portal that leads to a different dimension, level of existence, or reality. It is automatically keyed to a specific destination determined by the GM, but a character can attempt to reorient it to another extradimensional destination that she is aware of (task difficulty equal to the cypher level). The portal is about 5 feet (2 m) in diameter and remains open for one minute, unless the user wishes it to close earlier (closing the portal is an action).",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Compendium"
   },
   {
@@ -5801,7 +5801,7 @@
         }
       ]
     },
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Compendium"
   },
   {

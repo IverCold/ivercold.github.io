@@ -169,7 +169,7 @@
     "NameRu": "Трансплантат понимания",
     "Level": "1d6 + 1",
     "Effect": "При прикладывании к голове существа диск немедленно высвобождает микрофиламенты, моментально проникающие в мозг. В течение пяти минут существо начинает понимать слова {определённого языка, изначально заложенного|двух определённых языков, изначально заложенных} в трансплантат. Эффект действует даже на тех существ, которые не имеют языка. Если существо уже могло понимать язык, сайфер не имеет никакого эффекта. Как только трансплантат прикрепляется, эффект становится постоянным, и данный сайфер больше не учитывается в количестве сайферов, которые может нести персонаж.",
-    "Categories": "Artificial Body Parts And Implants",
+    "Categories": "Artificial Body Parts/Implants",
     "Source": "Discovery"
   },
   {
@@ -180,7 +180,7 @@
     "NameRu": "Управляемая мигающая друза",
     "Level": "1d6 + 2",
     "Effect": "В течение следующих 28 часов каждый раз (но не более одного раза за раунд), когда владелец брони, к которой прикреплена друза, получает достаточно сильный удар, чтобы получить урон, владелец телепортируется в желаемую точку на расстояние шаговой доступности. Поскольку владелец готов к этому эффекту, а его противник нет, владелец может выбрать получить {+d8|+d10} на следующую атаку или на следующее уклонение/блокирование.",
-    "Categories": "Nodules (Armor), Protection (General), Dimensional And Phase Devices",
+    "Categories": "Nodules (Armor), Protection (General), Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -465,7 +465,7 @@
     "NameRu": "Орлиный глаз",
     "Level": "1d6",
     "Effect": "Даёт возможность видеть в десять раз дальше обычного в течение [DeviceLevel] часов.",
-    "Categories": "Enhancements (Skills)",
+    "Categories": "Enhancements (Stealth)",
     "Source": "Discovery"
   },
   {
@@ -565,7 +565,7 @@
     "Name": "Frigid Wall Projector",
     "NameRu": "Проектор охлаждающей стены",
     "Level": "1d6 + 2",
-    "Effect": "Создаёт стену сверх-охлаждённого воздуха размером до 5 на 5 метров и глубиной в 30 сантиметров, которая наносит всем проходящим сквозь себя урон. Это атака силой [DeviceLevel x 2] с уроном 2 (холод). Плоскость подстраивается к доступному пространству. Существует 10 минут.",
+    "Effect": "Создаёт стену сверх-охлаждённого воздуха размером до 6 на 6 метров и глубиной в 30 сантиметров, которая наносит всем проходящим сквозь себя урон. Это атака силой [DeviceLevel x 2] с уроном 2 (холод). Плоскость подстраивается к доступному пространству. Существует 10 минут.",
     "Categories": "Utility",
     "Source": "Discovery"
   },
@@ -898,7 +898,7 @@
     "NameRu": "Живой растворитель",
     "Level": "1d6 + 2",
     "Effect": "После высвобождения эта органическая слизь растворяет 1 кубический фут материала каждый раунд. После [DeviceLevel] раундов слизь умирает и становится инертной.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1081,7 +1081,7 @@
     "NameRu": "Фазоменятель",
     "Level": "1d6 + 1",
     "Effect": "Выводит пользователя из фазы на {одну минуту|две минуты}. В течение этого времени пользователь может проходить сквозь твёрдые объекты, как если бы был совершенно нематериальным, как призрак. Пользователь не может совершать физические нападения или быть целью таковых.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1094,7 +1094,7 @@
     "NameRu": "Фазовый вырыватель",
     "Level": "1d6 + 2",
     "Effect": "Выводит часть физической структуры (например, стену или пол) из фазы на один час. Cайфер воздействует на площадь, равную [DeviceLevel] кубическим метров. Пока область находится вне фазы, существа и объекты могут свободно проходить через неё, как если бы её там не было, хотя сквозь неё нельзя видеть, и она блокирует свет.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1110,7 +1110,7 @@
     "NameRu": "Яд (Эмоция)",
     "Level": "1d6 + 2",
     "Effect": "В течение [DeviceLevel x 10] минут жертва испытывает определённую эмоцию.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery",
     "RollTable": {
       "RollTableRows": [
@@ -1158,7 +1158,7 @@
     "NameRu": "Яд (Взрывающийся)",
     "Level": "1d6 + 1",
     "Effect": "При попадании этого вещества в кровоток, оно перемещается в мозг и преобразуется во взрывчатку, которая детонирует при активации, нанося удар силой [DeviceLevel x 2] (урон 3, автосмерть для немонстров). Сделайте бросок для определения нюансов детонации:",
-    "Categories": "Detonations, Organic And Biotech Devices",
+    "Categories": "Detonations, Organic/Biotech Devices",
     "Source": "Discovery",
     "RollTable": {
       "RollTableRows": [
@@ -1206,7 +1206,7 @@
     "NameRu": "Яд (Контролирующий разум)",
     "Level": "1d6 + 2",
     "Effect": "Жертва должна выполнить определённое действие в ответ на конкретный триггер:",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery",
     "RollTable": {
       "RollTableRows": [
@@ -1254,7 +1254,7 @@
     "NameRu": "Яд (Разрушающий разум)",
     "Level": "1d6",
     "Effect": "Жертва получает удар силой [DeviceLevel x 2], который наносит урон в Волю. Также жертва не может предпринимать действия в течение [DeviceLevel] раундов.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1363,7 +1363,7 @@
     "NameRu": "Реальностный клин",
     "Level": "1d6 + 4",
     "Effect": "После активации клин не перемещается, даже если при активации висел в воздухе. Проверка Силы с тремя успехами сместит клин, но тогда он будет разрушен.",
-    "Categories": "Gravity Devices, Dimensional And Phase Devices",
+    "Categories": "Gravity Devices, Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1475,7 +1475,7 @@
     "NameRu": "Усилитель умения",
     "Level": "1d6",
     "Effect": "Сильно, но временно, изменяет сознание и тело пользователя, так что одно конкретное физическое действие, которое он может выполнить, получает +д10. После активации сайфера эта способность может быть использована [DeviceLevel] раз, но только в течение 28-часового периода. Способность автоматически применяется при каждом действии указанного типа, поэтому сайфер 3-го уровня усиливает первые три попытки выполнения действия. Действие может быть одним из следующих:",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery",
     "RollTable": {
       "RollTableRows": [
@@ -1532,7 +1532,7 @@
     "NameRu": "Стимулятор сна",
     "Level": "1d6",
     "Effect": "Прикосновение или проглатывание погружает жертву в сон на [DeviceLevel x 10] минут или до тех пор, пока она не проснётся от насильственных действий или чрезвычайно громкого шума.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1546,7 +1546,7 @@
     "NameRu": "Звуковая дыра",
     "Level": "1d6 + 2",
     "Effect": "В течении [DeviceLevel] раундов втягивает в устройство весь звук в пределах радиуса {средней|дальней} дистанции. В пределах этой зоны не слышно ни звука.",
-    "Categories": "Sound And Sonic Devices",
+    "Categories": "Sound/Sonic Devices",
     "Source": "Discovery"
   },
   {
@@ -1562,7 +1562,7 @@
     "NameRu": "Шумодав",
     "Level": "1d6 + 2",
     "Effect": "В течении [DeviceLevel] минут гасит все звуки в пределах шаговой доступности, давая +д10 к Скрытности.",
-    "Categories": "Enhancements (Skills), Sound And Sonic Devices",
+    "Categories": "Enhancements (Stealth), Sound/Sonic Devices",
     "Source": "Discovery"
   },
   {
@@ -1639,7 +1639,7 @@
     "NameRu": "Телепатический имплантат",
     "Level": "1d6 + 2",
     "Effect": "Пользователь активирует устройство и выбирает одно существо в пределах близкой дистанции. В течение [DeviceLevel] часов устройство обеспечивает двустороннюю мысленную связь в пределах дальней дистанции между пользователем и целью. Иногда несколько сайферов этого типа встречаются вместе и позволяют осуществлять связь между ними всеми.",
-    "Categories": "Artificial Body Parts And Implants, Datasphere Devices",
+    "Categories": "Artificial Body Parts/Implants, Datasphere Devices",
     "Source": "Discovery"
   },
   {
@@ -1655,7 +1655,7 @@
     "NameRu": "Телепортер (ограниченный)",
     "Level": "1d6 + 2",
     "Effect": "Пользователь телепортируется в видимое ему место на расстояние до [DeviceLevel x 20] метров. Пользователь перемещается со всем снаряжением, но не может больше ничего с собой взять.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1671,7 +1671,7 @@
     "NameRu": "Телепортер (путешественный)",
     "Level": "1d6 + 4",
     "Effect": "Пользователь телепортируется в посещённое им ранее место на расстояние до [DeviceLevel x 100] километров. Пользователь перемещается со всем снаряжением, но не может больше ничего с собой взять.",
-    "Categories": "Dimensional And Phase Devices",
+    "Categories": "Dimensional/Phase Devices",
     "Source": "Discovery"
   },
   {
@@ -1730,7 +1730,7 @@
     "NameRu": "Гримёр",
     "Level": "1d6",
     "Effect": "Изменяет внешний вид одного существа размером с человека, добавляя {д8|д10} к проверкам маскировки. Внесение изменений занимает десять минут, эффект длится 28 часов.",
-    "Categories": "Organic And Biotech Devices",
+    "Categories": "Organic/Biotech Devices",
     "Source": "Discovery"
   },
   {
@@ -1771,7 +1771,7 @@
     "NameRu": "Проектор тепла",
     "Level": "1d6",
     "Effect": "В течении 28 часов после активации обеспечивает пользователя теплом при самых суровых холодах. Владелец получает +д8 к Выносливости при противостоянии эффектам холода. Владелец не может получить состояние Переохлаждения. Травмы холода получают +1 ранг в таланте Счастливчик.",
-    "Categories": "Artificial Body Parts And Implants, Protection (General)",
+    "Categories": "Artificial Body Parts/Implants, Protection (General)",
     "Source": "Discovery"
   },
   {
