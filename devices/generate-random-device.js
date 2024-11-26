@@ -1,5 +1,5 @@
-const pathToCyphers = "cyphers/Cyphers_YZE_Discovery.json";
-const pathToArtefacts = "artefacts/Artefacts_YZE_Discovery.json";
+const pathToCyphers = "cyphers/Cyphers_Official_Books_YZE.json";
+const pathToArtefacts = "artefacts/Artefacts_Official_Books_YZE.json";
 const pathToOddities = "oddities/Oddities_YZE_Discovery.json";
 const improvedEdge = 5;
 
@@ -54,7 +54,12 @@ function loadArtefacts(data) {
 
 
 function generateRandomCypher() {
-    let randomDevice = getRandomDevice(cyphersJson);
+    var filteredArray = cyphersJson.filter(function(x) {
+        return x.Source === "Discovery";
+        //return x.Categories === "Healing Devices";
+        //return /Healing Devices/.test(x.Categories);
+    });
+    let randomDevice = getRandomDevice(filteredArray);
 
     let html = "<div class=\"device-block\">";
     html += encloseDeviceProperty("НазваниеEng", randomDevice.Name);
@@ -84,7 +89,10 @@ function generateRandomCypher() {
 }
 
 function generateRandomArtefact() {
-    let randomDevice = getRandomDevice(artefactsJson);
+    var filteredArray = artefactsJson.filter(function(x) {
+        return x.Source === "Discovery";
+    });
+    let randomDevice = getRandomDevice(filteredArray);
 
     let html = "<div class=\"device-block\">";
     html += encloseDeviceProperty("НазваниеEng", randomDevice.Name);
@@ -139,6 +147,7 @@ function getDeviceLevel(levelFormula, baseDiceResult) {
 function parseEffect(effectString, deviceLevel, baseDiceResult) {
     effectString = effectString.replace("[DeviceLevel]", deviceLevel);
 
+    // строка вида [DeviceLevel x 2]
     let multiplyMatches = effectString.match(/\[DeviceLevel [x]+ \d+\]/g);
     if (multiplyMatches != null) {
         for (let i = 0; i < multiplyMatches.length; i++) {
@@ -149,6 +158,7 @@ function parseEffect(effectString, deviceLevel, baseDiceResult) {
         }
     }
 
+    // строка вида [DeviceLevel / 2]
     let divisionMatches = effectString.match(/\[DeviceLevel [\/]+ \d+\]/g);
     if (divisionMatches != null) {
         for (let i = 0; i < divisionMatches.length; i++) {
@@ -159,6 +169,7 @@ function parseEffect(effectString, deviceLevel, baseDiceResult) {
         }
     }
 
+    // строка вида {+2|+3} или {ближней|средней}
     let enpoweredMatches = effectString.match(/{[^|]+\|[^}]+}/g);
     if (enpoweredMatches != null) {
         for (let i = 0; i < enpoweredMatches.length; i++) {
@@ -177,9 +188,8 @@ function parseEffect(effectString, deviceLevel, baseDiceResult) {
     return effectString;
 }
 
-function getRandomDevice(jsonData) {
-    var index = getRandomInt(jsonData.length);
-    return jsonData[index];
+function getRandomDevice(devicesArray) {
+    return devicesArray[getRandomInt(devicesArray.length)];
 }
 
 function encloseDeviceProperty(name, value) {
