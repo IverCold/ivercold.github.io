@@ -67,7 +67,8 @@ function generateRandomCypher() {
 
     let baseDiceResult = getRandomInt(6) + 1;
     let deviceLevel = getDeviceLevel(randomDevice.Level, baseDiceResult);
-    html += encloseDeviceProperty("Уровень", `${deviceLevel} [${randomDevice.Level}]`);
+    let levelString = `${deviceLevel} [${randomDevice.Level}]` + (baseDiceResult >= 5 ? " (улучшенный)" : "");
+    html += encloseDeviceProperty("Уровень", levelString);
 
     html += encloseDeviceProperty("Форма", randomDevice.Forms[getRandomInt(randomDevice.Forms.length)]);
 
@@ -100,7 +101,8 @@ function generateRandomArtefact() {
     
     let baseDiceResult = getRandomInt(6) + 1;
     let deviceLevel = getDeviceLevel(randomDevice.Level, baseDiceResult);
-    html += encloseDeviceProperty("Уровень", `${deviceLevel} [${randomDevice.Level}]`);
+    let levelString = `${deviceLevel} [${randomDevice.Level}]` + (baseDiceResult >= 5 ? " (улучшенный)" : "");
+    html += encloseDeviceProperty("Уровень", levelString);
     html += encloseDeviceProperty("Форма", randomDevice.Form);
 
     let parsedEffect = parseEffect(randomDevice.Effect, deviceLevel, baseDiceResult);
