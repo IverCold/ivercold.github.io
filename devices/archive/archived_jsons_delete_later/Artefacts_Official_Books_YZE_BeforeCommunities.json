@@ -782,7 +782,7 @@
     "NameRu": "",
     "Level": "1d6",
     "Effect": "Once the amulet is keyed to a specific numenera installation, the installation cannot be used by anyone except the amulet’s wearer.",
-    "Categories": "Installations",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -802,8 +802,7 @@
     "NameRu": "",
     "Level": "1d6 + 1",
     "Effect": "When pointed at a solid surface within short range and activated, a cavity is immediately bored in the surface but only if the material composing it is less than or equal to the artifact’s level. The cavity is an immediate distance across and up to a short distance deep. If the surface being bored isn’t at least a short distance thick, the lance doesn’t continue into a different kind of material or into open air—it just stops (but it could be activated again to bore through that material). If the boring lance is used against a community’s outer walls in a coordinated fashion by attackers over the course of one hour, the community suffers a number of points of damage equal to the level of the artifact, and the artifact is depleted (damage occurs at the end of the hour in which the lance is used).",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -813,8 +812,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "When activated, the brain fogger produces a prodigious amount of fog that moves with the prevailing air in a cloud a very long distance across. Attacks attempted by creatures within the fog are hindered. If deployed against a ranked community or horde, the target is treated as if one rank lower than normal during that community action.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -884,7 +882,7 @@
     "NameRu": "",
     "Level": "1d6 + 1",
     "Effect": "It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. The device affects an area a very long distance across that's less than 2 miles (3 km) away and in its direct line of sight. Energy-using devices whose levels are less than or equal to the artifact’s lose power for about one hour. This renders installations, artifacts, and many cyphers unusable for the duration. If deployed against a ranked community or horde that is reliant to even a small degree on artifacts and installations, the target is treated as if one rank lower for one hour.",
-    "Categories": "Installations",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -954,8 +952,7 @@
     "NameRu": "",
     "Level": "1d6 + 4",
     "Effect": "It takes about a minute to activate this device. When activated, it projects a 30- foot (9 m) diameter circular portal on a hard surface within immediate range that leads to an extradimensional space large enough to hold several thousand people in timeless stasis. The portal persists for up to an hour, during which time a small community could be evacuated through the aperture. Once the portal is closed, it can be opened from the outside at any time in the next three months, at which time all those who entered are expelled in the same order that they entered. If three months pass without the portal being opened manually, it opens automatically and expels its occupants. For those inside the portal, no time seems to have passed.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -975,8 +972,7 @@
     "NameRu": "",
     "Level": "1d6 + 1",
     "Effect": "To set up the artifact, the orb is broken into two halves. One half must be submerged in a liquid medium of any kind. Then the other half can be activated for up to 28 hours at a time (though it can be deactivated at any time), during which liquid from the submerged half is instantaneously transferred to the other half across any distance. Up to 150,000 gallons (568,000 l) can be transferred during a one-day activation period. If smartly deployed during a ranked flooding event (so that the output end drains someplace where it won’t just flow back), the rank of the flood is decreased by 2. A community looking for a new source of water could potentially use a faraway aquifer or other water source by dropping half of a liquid transfer orb into it.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -986,8 +982,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "It takes two rounds to assemble and set up this device. Once set up, the device sends out a transdimensional pulse that affects all creatures within long range, spreading out their continuity so that they exist on many levels of reality at once for about an hour. Such creatures are treated as phased—they can neither be affected by normal physical phenomena nor affect the normal world of physical matter. If deployed to protect from a ranked threat of some sort (including an attacking horde or community), the rank of that threat is decreased by 1 for the duration.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -1007,8 +1002,7 @@
     "NameRu": "",
     "Level": "1d6 + 1",
     "Effect": "Wearer can trigger the worn device as an action. On subsequent rounds, lasting for up to an hour, the helm produces a celebratory atmosphere in an area up to a long distance around it, superimposing colorful streamers, hanging lamps, festive music, and potentially additional visual and auditory factors (depending on the specific parameters set by the crafter). If deployed in a ranked community or horde, the rank is increased by 1 for all tasks related to abating sadness and sorrow, to positive interaction, and to the propagation of revelry.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -1018,8 +1012,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "This device projects either one or two needles up to long range each time it is used. The needles are far thinner than a human hair, and they inflict no damage. Instead, if one needle is fired, it will calm a belligerent, raging, or attacking creature so that they become calm for at least one minute or until they are attacked. If two needles are fired, the target falls asleep for up to a minute or until they are damaged. The needles can penetrate (ignore) up to 4 Armor. A pacifying needler can be activated to fire all its needles at once on a countdown timer, creating a detonation-like blast that can affect all creatures in line of sight within long range. This depletes and destroys the artifact. If deployed against a ranked horde or community during a conflict in this fashion, the horde or attacking community inflicts 3 less points of damage during that community action.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -1029,8 +1022,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. When activated, this device can affect an area up to a very long distance across for one hour. Within that area, all tasks relying on psychic effects, such as telepathy and psychokinesis, whose level is equal to or less than the artifact’s are hindered by two steps, and higher-level psychic tasks are hindered by one step. This means that routine tasks like telepathy are no longer routine, and those that require a roll to succeed, such as an Onslaught mindslice, become even more difficult. If deployed within a ranked community or horde, psychic attacks that would inflict damage to the community during one community action are treated as if 1 level lower.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -1040,8 +1032,7 @@
     "NameRu": "",
     "Level": "1d6 + 4",
     "Effect": "It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. When activated, the disk begins to agitate the ground underneath. Everyone and everything within very long range is affected by severe shaking over the next five rounds, building to peak severity on the third round when everyone and everything suffers damage equal to the artifact level and falls prone. Only those within 3 feet (1 m) of the device are unaffected. During all rounds of shaking, tasks that require movement or balance (including attacks) are hindered. This effectively creates a ranked quake event with a rank equal to 4 less than the artifact’s level, which could threaten a ranked community or horde.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -1091,8 +1082,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "It takes several minutes to deploy this device, or longer if trying to place it so it is not obvious. When deployed, all creatures within the area gain the ability to telepathically speak with other creatures they can see within short range for up to an hour. Should the line be broken, all creatures in the area suffer 1 point of Intellect damage (ignores Armor). If deployed to surround a ranked community or horde, the rank of the target increases by 1 for the duration due to an enhanced ability to communicate.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -1112,8 +1102,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "When activated, the toxic fogger produces a prodigious amount of yellowish fog that lasts an hour and moves with the prevailing air in a cloud a very long distance across. Creatures exposed to the fog for several minutes take damage from poison equal to the artifact’s level. If deployed against a ranked community or horde, 3 points of damage are inflicted to the target’s health during one community action.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Destiny"
   },
   {
@@ -3791,8 +3780,7 @@
     "NameRu": "",
     "Level": "1d6 + 3",
     "Effect": "The area within long range of the box becomes hazed for about an hour. The effect moves with and stays centered on the artifact for that period. Creatures within the area are unaffected, but tasks related to noticing the movements of those within the area by those outside the area are hindered. (However, the overall hazed area is obvious once noticed.) If the use is coordinated with a ranked horde, the horde is treated as if a stealthy horde for that community action, in addition to any other benefits it might possess. (When a stealthy horde first attacks, it gets a firee one-sided community action in which it inflicts damage on its opponent and is not simultaneously attacked in return.)",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3802,8 +3790,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "This cloak is woven of smart fibers and studded with small psychic emitters designed to engender disharmony in living creatures in the area. When the cloak is activated for periods of up to one hour, creatures within short range who can see the wearer become more disagreeable, more prone to angry reactions, and less willing to forgive and forget slights. To most creatures, it’s not immediately obvious that the cloak is the source of their unrest. Tasks to stem violence, promote peace, and reach compromise in the affected community are hindered. If a cloak of unrest is used for several days in a row in the same community, civil unrest is certain, which could eventually lead to citizenagainst-citizen violence.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3843,8 +3830,7 @@
     "NameRu": "",
     "Level": "1d6 + 1",
     "Effect": "The wearer can trigger the helm as an action. On subsequent rounds, the helm produces a solemn atmosphere in an area up to a long distance around it, superimposing dark mourning clothes, candles, mournful music, and potentially additional visual and auditory effects (depending on the parameters set by the crafter). The atmosphere lasts for about an hour. If deployed in a ranked community or horde, the rank is increased by 1 for all tasks related to remembering those who have passed on, stirring up grief, and interrupting normal activities for the purpose of having a funeral procession.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3854,8 +3840,7 @@
     "NameRu": "",
     "Level": "1d6 + 3",
     "Effect": "This artifact functions as a medium melee weapon. Unless covered, it also makes all bright light dim within immediate range. In addition, the wielder can call upon the following effects. Chill: If the wielder uses the artifact to strike a foe in melee, they can inflict additional damage to the target equal to the artifact level. Darken: The user greatly increases the light-draining effect of the loop, causing everything within long range to fall into complete darkness for about an hour. Ray: The wielder makes a long-range attack with a focused blast of chill darkness from the loop, inflicting damage equal to the artifact level and stunning the target for one round, causing it to lose its next turn. Terrify: If the darken function is used over the course of one community action to harass the enemy, the targeted community or horde inflicts 1 less point of damage during that interaction.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3885,8 +3870,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "The artifact collapses a force field in a manner designed to inflict damage on creatures sheltering on the opposite side of a force wall or inside a force dome. The device can target a force field within immediate range and collapse fields whose level is equal to or less than this artifact’s level. If successful, all creatures on the opposite side of (or inside) the force field and within short range of the field perimeter take damage equal to the level of the field just collapsed. If used against a ranked community that gains some benefit from force fields, the specific benefit provided by that field is removed during that community action.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3896,8 +3880,7 @@
     "NameRu": "",
     "Level": "1d6 + 1",
     "Effect": "The wearer can trigger the cloak as an action. On subsequent rounds, the cloak radiates a calming golden glow for about ten hours that provides dim light within short range. Characters within the glow add 1 to recovery rolls made in the light, and they have an asset on tasks related to persuasion, pleasant interaction, and Intellect defense. If deployed in a ranked community or horde, the rank is increased by 1 for community actions related to diplomacy, easing social disquiet, and so on.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3907,8 +3890,7 @@
     "NameRu": "",
     "Level": "1d6",
     "Effect": "Informative images formed on the inner lenses help the user to identify palatable ingredients, suggest interesting gastronomic pairings, and access a catalog of recipes for about 28 hours per activation. The meals the wearer makes while the device is active are generally considered to be amazing feats of culinary accomplishment. If actively deployed on behalf of a community for one day, the community’s rank is +1 for purposes related to overcoming food shortages, famine, and similar ranked disasters for that day. Tasks to persuade diners who have just eaten a fantastic meal prepared by someone wearing gourmand’s lenses gain an asset.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3928,8 +3910,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "A flechette fired from the artifact targets a creature within short range, inflicting 1 point of damage. A humanoid target of level 2 or less that is damaged becomes infected with bioreplicative nanobots that remake it over the course of about a minute if it fails three Might defense rolls before succeeding on two during that period (making one defense roll every few rounds). If the effect goes to completion, the target loses all interest in anything but fighting and destroying (becoming a level 2 creature if it is not already level 2). It also becomes compliant to the verbal command of anyone carrying the artifact for a period of three days. The target is infectious. Each creature it damages via unarmed attacks must make Might defense rolls as if targeted by the artifact or become another target, which is also infectious and amenable to the artifact bearer’s verbal instructions. The nanobot infection constrains the total number of converts to about a hundred active creatures, creating a rank 2 horde if enough targets are converted within ten hours. Three days after the first target was converted to a mindless warrior, the effect ends for all surviving converts simultaneously. They have little memory of the events that brought them to whatever their current circumstances are.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3939,8 +3920,7 @@
     "NameRu": "",
     "Level": "1d6 + 4",
     "Effect": "The area within long range of the box is replaced with an illusory scene crafted by the user. The effect moves with and stays centered on the artifact for that period. Creatures within the area are unaffected, but those outside the area might not notice anything unusual, or see a structure, community, or horde of creatures that isn’t really there.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3960,8 +3940,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "When the device is activated, an object (or a portion of a large structure up to an immediate distance in diameter) within long range begins to vibrate and buzz for about an hour. If the object is soundly struck during this period, it detonates and inflicts damage equal to this artifact’s level on everything within immediate range (and is itself destroyed). If the device is used continuously for about an hour against a defensive structure in a ranked community, 3 additional points of damage are dealt to the community’s infrastructure if it takes damage during that community action. However, this use automatically depletes the artifact.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3971,7 +3950,7 @@
     "NameRu": "",
     "Level": "1d6 + 3",
     "Effect": "It takes two rounds to assemble and set up this device. Once set up, it takes an action to activate. When activated, this device can affect an area up to a very long distance across that is up to 2 miles (3 km) away that the tripod has direct line of sight to. Within the affected area, energy-using devices whose level is less than or equal to the artifact’s level act as if 1 level higher for one hour. Thus, installations, artifacts, and many cyphers become more capable for the duration. If deployed within a ranked community or horde that gains a benefit to its rank from artifacts, cyphers, installations, and so on, the community’s rank is treated as if 1 higher for one hour.",
-    "Categories": "Installations",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3981,8 +3960,7 @@
     "NameRu": "",
     "Level": "1d6",
     "Effect": "It takes two rounds to assemble and set up this device. Once set up, it requires an action to activate. When activated, this device sends out an audible signal for about an hour in a very long radius that most creatures hear as an annoying, low-pitched whine but that margr hear as a horrific, overwhelming scream that makes them want to flee. If deployed to protect from a ranked horde of margr, the conflict is delayed for at least one hour, if not entirely avoided, unless the margr manage to disable the device or devise a long-term method to stop up their ears.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -3992,8 +3970,7 @@
     "NameRu": "",
     "Level": "1d6",
     "Effect": "The device emits a subtle bonding influence in a very long radius that causes all surfaces in contact with other surfaces to bond together for about an hour. The bond can be broken with a successful Might task with a difficulty equal to the melding projector’s level. If used on defensive structures in a ranked community, add 3 points to its infrastructure during that community action. If deployed against a ranked horde, confusion grows as the combatants realize they can’t put down their weapons, open their eyes if they happened to blink when the artifact was used, fire ranged weapons effectively, or even move because their feet are stuck to the ground. This confusion decreases the horde’s rank by 3 for that community action.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4021,8 +3998,7 @@
     "NameRu": "",
     "Level": "1d6 + 2 Wearable: Handheld device mounted with transparent screen",
     "Effect": "The user’s senses extend up to a mile (1.5 km) in any direction for one minute, allowing them to ask the GM very simple, general questions about that area, such as “Where is the margr camp?” or “Where did we leave the galloping gambado?” and receive simple, correct answers. If used to gather reconnaissance on a ranked horde or community, the process takes about an hour. At the end of that period, the user can confer an advantage to another group by providing the information learned, which modifires the effective rank of the second group by +1 during the next community action involving the target horde or community.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4032,8 +4008,7 @@
     "NameRu": "",
     "Level": "1d6",
     "Effect": "The device unfolds itself into a small fixed box about 3 feet (1 m) on a side that produces-in continuous fashion over a one-hour period-enough food and water to nutritiously feed up to a hundred people. If provided to the defenders of a ranked community or horde immediately prior to a conflict, they have +2 health during the next community action that occurs within ten hours of the feast.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4052,8 +4027,7 @@
     "NameRu": "",
     "Level": "1d6 + 1 Wearable: Helm with a rotating cone-shaped projection",
     "Effect": "The wearer can trigger the helm as an action. On subsequent rounds, the helm exerts a subtle psychic influence that induces creatures within long range to lie rather than speak the truth on any given topic. Lies are usually the opposite of the truth. Attempts to tell the literal truth require a successful Intellect task on the part of each creature in range. If a creature successfully tells the truth in one instance, all additional attempts it makes to do so are eased by three steps. The helm’s effect lasts for about an hour. If deployed in a ranked community or horde, the rank is decreased by 1 for community actions related to diplomacy, easing social disquiet, and so on.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4083,8 +4057,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "It takes several minutes to deploy the wire, or longer if the user tries to do it without being obvious. Thereafter, all creatures in the surrounded area feel a soothing sense of calm for up to 28 hours. Becoming angry or violent requires a successful Intellect roll with a difficulty equal to the level of the artifact. If the wire is severed during this period, all creatures in the area suffer 1 point of Intellect damage (ignores Armor). If deployed to surround a ranked community or horde, conflict between it and another community or horde becomes almost impossible for one day.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4094,8 +4067,7 @@
     "NameRu": "",
     "Level": "1d6 + 3",
     "Effect": "This artifact functions as a medium melee weapon. Unless covered, it also gives off bright light within immediate range. In addition, the wielder can call upon the following effects. Beacon: If the illuminate function is used over the course of one community action to rally defenders, the community or horde benefiting from the use inflicts +1 point of damage during that interaction. Combust: If the wielder uses the artifact to strike a foe in melee, they can inflict additional damage to the target equal to the artifact level. Illuminate: The user greatly increases the light from the loop, illuminating everything within long range in bright light (and dim light for an equal distance beyond that) for about an hour. Ray: The wielder makes a long-range attack with a focused blast of light from the loop, inflicting damage equal to the artifact level and blinding the target for one round.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4105,7 +4077,7 @@
     "NameRu": "",
     "Level": "1d6 + 4",
     "Effect": "It takes two rounds to assemble and set up this device. Once set up, it requires 1d6 + 1 rounds to activate and to allow the power to build to sufficient levels before it can be used. When used (another action), the device affects inert matter within very long range, causing the ground to tremble and shift in a way that damages structures (and installations) built there. The effect destroys structures of level 2 or less, inflicts major damage on level 3 structures, and inflicts minor damage on level 4 and 5 structures. Higher-level structures are not harmed. If used against a ranked community, the artifact inflicts 4 points of damage against the community’s infrastructure but is then automatically depleted.",
-    "Categories": "Installations",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4115,8 +4087,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "It takes two rounds to assemble and set up this device. Once set up and activated, the device sprays a fine rain of metallic particles, covering an area a long range in diameter. Over the course of the following hour, particles (which are nanite devices) that fell on inert ground reorganize the ground beneath them into level 1 combat automatons. When complete, a horde of about a hundred automatons emerges. They can be directed to attack or defend as the user wishes for one hour or until they are destroyed, whichever occurs first. If deployed against a ranked community or horde, treat the automatons as a rank 1 horde for that community action.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4146,8 +4117,7 @@
     "NameRu": "",
     "Level": "1d6",
     "Effect": "The user swaps position with a target of roughly similar size that the user can see within very long range. If the user of a transposing visor identifires an attacking horde’s leader (assuming there is one), trading places might be a way to cause the horde to disperse, though obviously at the cost of immediate personal danger to the user.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4157,8 +4127,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "When activated, the viscous fogger produces a prodigious amount of bluish-grey fog, which emerges in a stream that fills an area a short distance across (and up to a long distance away) within a round. On the following round, the fog solidifires into a mass of sticky strands that entangle targets in the area. Entangled victims can’t move or take actions that require movement. Targets remain caught until they escape. If deployed against a ranked community or horde, the target’s rank is reduced by 1 during that community action and the viscous fogger is automatically depleted.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   },
   {
@@ -4168,8 +4137,7 @@
     "NameRu": "",
     "Level": "1d6 + 3",
     "Effect": "When used in water, all creatures within long range that normally breathe only air can also breathe water for about an hour. The effect moves with and stays centered on the artifact for that period. If the use is coordinated with a ranked horde, the horde is treated as an aquatic horde for that community action, in addition to any other benefits the horde might possess. (An aquatic horde can attack communities and other hordes that are otherwise difficult or impossible to reach, on account of being located beneath the waves or using the water as a defensive feature.)",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Categories": "Utility",
     "Source": "Building Tomorrow"
   }
 ]
