@@ -27,4 +27,6 @@ Time Devices
 Dimensional/Phase Devices
 Weapons (Melee)
 Weapons (Ranged)
+Installations
+Communities
 Utility

@@ -1871,7 +1871,8 @@
     "Name": "Ablative Thrower",
     "NameRu": "Защитный распылитель",
     "Level": "1d6 + 3",
-    "Effect": "При активации существа на ближней дистанции покрываются тонким слоем мателлических нано-частиц, которые покрывают их одежду (но не кожу), усилия негибки части, давая +2 к броне. Эффект длится один час. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a defensive horde during that community action.",
+    "Effect": "При активации существа на ближней дистанции покрываются тонким слоем мателлических нано-частиц, которые покрывают их одежду (но не кожу), усилия негибки части, давая +2 к броне. Эффект длится один час.",
+    "CommunityEffect": "If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a defensive horde during that community action.",
     "Categories": "Protection (Armor), Communities",
     "Source": "Destiny"
   },
@@ -1882,7 +1883,8 @@
     "Name": "Acidic Resonator",
     "NameRu": "",
     "Level": "1d6 + 2",
-    "Effect": "При активации все металлические виды оружия вне чехлов на ближней дистанции покрываются каплями кислоты, давая +1 дополнительный урон в бою. Эффект длится 1 час. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the community or horde inflicts +1 damage during the next community-scale combat interaction.",
+    "Effect": "При активации все металлические виды оружия вне чехлов на ближней дистанции покрываются каплями кислоты, давая +1 дополнительный урон в бою. Эффект длится 1 час.",
+    "CommunityEffect": "If the use is coordinated with attackers who make up a community’s or horde’s combat force, the community or horde inflicts +1 damage during the next community-scale combat interaction.",
     "Categories": "Nodules (Weapon), Communities",
     "Source": "Destiny"
   },
@@ -1894,7 +1896,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "When activated, the cypher splits into two pieces. One piece is affixed to a numenera structure, and the other is kept by a character. The character can then use the connection between the two pieces to trigger a spatial warp any time within the next 28 hours. The spatial warp returns the user and all targets within immediate range to a location next to the numenera structure, no matter how far apart the character and the structure were.",
-    "Categories": "Utility",
+    "Categories": "Installations",
     "Source": "Destiny"
   },
   {
@@ -1905,7 +1907,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "Informative images formed on the inner lenses allow the user to automatically succeed on any one crafting subtask whose level is equal to or less than the cypher’s level.",
-    "Categories": "Utility",
+    "Categories": "Installations",
     "Source": "Destiny"
   },
   {
@@ -1929,7 +1931,7 @@
     "NameRu": "",
     "Level": "1d6",
     "Effect": "For the next 28 hours, each time the tool the nodule is attached to is used to repair, craft, or modify an object or structure, the tool provides the user an additional asset to the task.",
-    "Categories": "Utility",
+    "Categories": "Installations",
     "Source": "Destiny"
   },
   {
@@ -1940,8 +1942,8 @@
     "Name": "Detonation (horde Suppressor)",
     "NameRu": "",
     "Level": "1d6 + 1",
-    "Effect": "Explodes to release a burst of neurotoxic mist affecting all creatures within long range, hindering all attacks for about an hour. If effectively targeted during a conflict against a ranked horde or community, the affected horde or community inflicts 1 point of damage less than normal during that community action.",
-    "CommunityEffect": "",
+    "Effect": "Explodes to release a burst of neurotoxic mist affecting all creatures within long range, hindering all attacks for about an hour.",
+    "CommunityEffect": "If effectively targeted during a conflict against a ranked horde or community, the affected horde or community inflicts 1 point of damage less than normal during that community action.",
     "Categories": "Communities",
     "Source": "Destiny"
   },
@@ -2033,7 +2035,7 @@
     "NameRu": "",
     "Level": "1d6",
     "Effect": "For the next ten minutes, the user can be heard at any distant location that they can see, as long as nothing physically blocks the intervening space. They can also hear sounds made in return. The area in which the user can speak and hear is up to a short distance across in the target location.",
-    "Categories": "Utility",
+    "Categories": "Sound/Sonic Devices",
     "Source": "Destiny"
   },
   {
@@ -2044,7 +2046,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "Once placed, the plates change the direction of gravity within an area up to a short distance in diameter. The gravitic warp could be continuous across the affected area, or it could bend and curve, changing directions within the area up to a number of times equal to the level of the cypher. Once gravity is warped, it cannot be changed and persists for 28 hours.",
-    "Categories": "Utility",
+    "Categories": "Gravity Devices",
     "Source": "Destiny"
   },
   {
@@ -2054,10 +2056,10 @@
       "Диск"
     ],
     "Name": "Harmony Lamp",
-    "NameRu": "",
+    "NameRu": "Лампа гармонии",
     "Level": "1d6",
-    "Effect": "For an hour after activation, the cypher emits a combination of colored light, sound, odor, and healing nanobots that permeate an area up to a short distance across. All positive interaction tasks made in the area gain an asset. Creatures who’ve made up their minds about a topic may be open to revisiting the issue. PCs add +1 to recovery rolls made in the area.",
-    "Categories": "Utility",
+    "Effect": "После активации в течение часа сайфер излучает комбинацию света разных цветов, звука, запаха и лечащих наноботов, которые распростряняются на ближнюю дистанцию вокруг. Все позитивные социальные взаимодействия получают +д10. Существа, которые приняли какое-то решение или в чём-то уверены, могут пересмотреть свои взгляды. Персонажи полностью восстанавливают своё Здоровьё и Волю.",
+    "Categories": "Healing Devices, Utility",
     "Source": "Destiny"
   },
   {
@@ -2065,11 +2067,11 @@
       "Громоздкое портативное устройство"
     ],
     "Name": "Health Resonator",
-    "NameRu": "",
+    "NameRu": "Резонатор здоровья",
     "Level": "1d6 + 2",
-    "Effect": "When activated, creatures within short range each gain 2 points of health (or 2 points to Might for PCs) for about an hour. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force has +2 health during that community action.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Effect": "When activated, creatures within short range each gain 2 points of health (or 2 points to Might for PCs) for about an hour.",
+    "CommunityEffect": "If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force has +2 health during that community action.",
+    "Categories": "Healing Devices, Communities",
     "Source": "Destiny"
   },
   {
@@ -2101,8 +2103,8 @@
     "Name": "Infrastructure Drill",
     "NameRu": "",
     "Level": "1d6 + 1",
-    "Effect": "The user attaches this cypher to a wall or other structure. On the following round, it drills into the object and keeps going beneath the surface for the next hour, creating a series of tunnels that weaken the integrity of the structure and connecting structures. This decreases the level of all commonplace structures connected to the initial structure within long range and inflicts 3 points of damage to a ranked community’s infrastructure.",
-    "CommunityEffect": "",
+    "Effect": "The user attaches this cypher to a wall or other structure. On the following round, it drills into the object and keeps going beneath the surface for the next hour, creating a series of tunnels that weaken the integrity of the structure and connecting structures.",
+    "CommunityEffect": "This decreases the level of all commonplace structures connected to the initial structure within long range and inflicts 3 points of damage to a ranked community’s infrastructure.",
     "Categories": "Communities",
     "Source": "Destiny"
   },
@@ -2146,8 +2148,8 @@
     "Name": "Instant Wall",
     "NameRu": "",
     "Level": "1d6 + 1",
-    "Effect": "With the addition of water and air, the small device expands into an immobile plane up to 10 feet (3 m) tall, 30 feet (9 m) long, and 2 feet (60 cm) thick. It is made from a form of shapestone and is permanent and immobile once created. If an instant wall is tactically placed, the GM may decide that it grants a ranked community 1 additional point of infrastructure.",
-    "CommunityEffect": "",
+    "Effect": "With the addition of water and air, the small device expands into an immobile plane up to 10 feet (3 m) tall, 30 feet (9 m) long, and 2 feet (60 cm) thick. It is made from a form of shapestone and is permanent and immobile once created.",
+    "CommunityEffect": "If an instant wall is tactically placed, the GM may decide that it grants a ranked community 1 additional point of infrastructure.",
     "Categories": "Communities",
     "Source": "Destiny"
   },
@@ -2159,7 +2161,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "This small device expands into a workbench that fixes itself in place. The workbench provides an adjustable-height work surface with light and a variety of attached tools suitable for working with commonplace objects, numenera objects, and structural components. The workshop enables crafting tasks by providing the appropriate tools and workspace, though it does not provide shelter from the elements. The workbench and all its components are made from a form of shapemetal, and the workbench is permanent and immobile once created.",
-    "Categories": "Utility",
+    "Categories": "Installations, Utility",
     "Source": "Destiny"
   },
   {
@@ -2170,7 +2172,7 @@
     "NameRu": "",
     "Level": "1d6 + 1",
     "Effect": "When used as part of a salvaging task, the field emitted by the cypher stabilizes all iotum within short range so that an additional 1d6 units of iotum are recovered. The additional iotum must be of the same kind that has already been discovered, and the iotum must be of a level equal to or less than the level of this cypher.",
-    "Categories": "Utility",
+    "Categories": "Installations",
     "Source": "Destiny"
   },
   {
@@ -2181,7 +2183,7 @@
     "NameRu": "",
     "Level": "1d6 + 2",
     "Effect": "When attached to 1 unit of iotum, that iotum can then be used as if it were a unit of iotum 1 level higher in a crafting task. For example, an upgraded unit of io (level 1) could be used as if it were a unit of responsive synth (level 2) for the purpose of one crafting task, or a unit of quantium (level 5) could be used as if it were a unit of protomatter (level 6).",
-    "Categories": "Utility",
+    "Categories": "Installations",
     "Source": "Destiny"
   },
   {
@@ -2205,7 +2207,7 @@
     "NameRu": "",
     "Level": "1d6 + 3",
     "Effect": "Crafts one numenera object or structure whose level can be no higher than the mechanical wright’s level minus 3 (minimum level 1), as long as a numenera plan is provided to work from. Crafting occurs over the course of the next 28 hours, regardless of the target device’s level. Components, including parts and iotum, are contributed from the mechanical wright, which becomes completely integrated into the new numenera device over the course of the crafting process.",
-    "Categories": "Utility",
+    "Categories": "Installations",
     "Source": "Destiny"
   },
   {
@@ -2304,7 +2306,7 @@
     "NameRu": "",
     "Level": "1d6 + 1",
     "Effect": "These gloves can selectively phase through solid objects whose level is no higher than the cypher level in a fashion that allows the wearer to see what they are touching, providing an asset for anyone attempting to repair a disabled object or structure. Someone wearing the gloves could also search behind walls and under floors using the gloves. The gloves retain their phasing ability for up to one minute per cypher level. If used as part of a salvaging task, the gloves grant two assets.",
-    "Categories": "Utility",
+    "Categories": "Utility, Dimensional/Phase Devices, Installations",
     "Source": "Destiny"
   },
   {
@@ -2325,8 +2327,8 @@
     "Name": "Rage Thrower",
     "NameRu": "",
     "Level": "1d6 + 2",
-    "Effect": "When activated, creatures within short range are coated with a fine mist of insinuating nano particles that enter their blood and stimulate their behavior for about an hour, making them more violent but less able to feel pain. This grants them +1 Armor but an inability to use Effort from their Intellect Pool. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a marauding horde during that community action.",
-    "CommunityEffect": "",
+    "Effect": "When activated, creatures within short range are coated with a fine mist of insinuating nano particles that enter their blood and stimulate their behavior for about an hour, making them more violent but less able to feel pain. This grants them +1 Armor but an inability to use Effort from their Intellect Pool.",
+    "CommunityEffect": "If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a marauding horde during that community action.",
     "Categories": "Communities",
     "Source": "Destiny"
   },
@@ -2350,7 +2352,7 @@
     "NameRu": "",
     "Level": "1d6 + 1",
     "Effect": "When applied to a creature’s head, the disk immediately unleashes microfilaments that enter the brain. Within five minutes, the creature is trained in tasks related to salvaging numenera. If the creature is already trained or specialized in salvaging numenera, this graft has no effect. Once the graft attaches, the effect is permanent, and this device no longer counts against the number of cyphers that a PC can bear, but the disc remains.",
-    "Categories": "Utility",
+    "Categories": "Enhancements (Skills)",
     "Source": "Destiny"
   },
   {
@@ -2372,8 +2374,8 @@
     "Name": "Slash-retardant Spray",
     "NameRu": "",
     "Level": "1d6 + 2",
-    "Effect": "For the next 28 hours, walls and structures sprayed with these repairing nanites are treated as if 1 level higher. If an hour is spent spraying down the outer walls and defense structures of a ranked community, that community gains +1 Armor during any conflict that happens over the next 28 hours.",
-    "CommunityEffect": "",
+    "Effect": "For the next 28 hours, walls and structures sprayed with these repairing nanites are treated as if 1 level higher.",
+    "CommunityEffect": "If an hour is spent spraying down the outer walls and defense structures of a ranked community, that community gains +1 Armor during any conflict that happens over the next 28 hours.",
     "Categories": "Communities",
     "Source": "Destiny"
   },
@@ -2384,9 +2386,9 @@
     "Name": "Stealth Thrower",
     "NameRu": "",
     "Level": "1d6 + 2",
-    "Effect": "When activated, creatures within short range are coated with a fine mist of dull nano particles that render them more difficult to pick out from their surroundings for about an hour, granting them an asset to stealth tasks. If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a stealthy horde during that community action.",
-    "CommunityEffect": "",
-    "Categories": "Communities",
+    "Effect": "When activated, creatures within short range are coated with a fine mist of dull nano particles that render them more difficult to pick out from their surroundings for about an hour, granting them an asset to stealth tasks.",
+    "CommunityEffect": "If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a stealthy horde during that community action.",
+    "Categories": "Communities, Enhancements (Stealth)",
     "Source": "Destiny"
   },
   {
@@ -2410,7 +2412,7 @@
     "NameRu": "",
     "Level": "1d6",
     "Effect": "For the next number of days equal to the cypher level, the wearer feels no ill effects from not eating or from overeating. They also gain an asset to any defense tasks to withstand poison. A sustenance implant can be used for two radically different situations. The first is when someone expects to face extreme privation. The other is when someone expects to indulge beyond their normal capacity.",
-    "Categories": "Utility",
+    "Categories": "Protection (General), Utility",
     "Source": "Destiny"
   },
   {
