@@ -1,6 +1,6 @@
 const pathToCyphers = "cyphers/Cyphers_Official_Books_YZE.json";
 const pathToArtefacts = "artefacts/Artefacts_Official_Books_YZE.json";
-const pathToOddities = "oddities/Oddities_YZE_Discovery.json";
+const pathToOddities = "oddities/Oddities_Official_Books_YZE.json";
 const improvedEdge = 5;
 
 let cyphersJson;
@@ -55,8 +55,9 @@ function loadArtefacts(data) {
 
 function generateRandomCypher() {
     var filteredArray = cyphersJson.filter(function(x) {
-        return x.Source === "Discovery";
-        //return x.Categories === "Healing Devices";
+        //return x.Source != "Building Tomorrow";
+        //return !x.Categories.includes("Installations");
+        return x.Categories != "Installations" && x.Categories != "Communities"
         //return /Healing Devices/.test(x.Categories);
     });
     let randomDevice = getRandomDevice(filteredArray);
@@ -91,7 +92,8 @@ function generateRandomCypher() {
 
 function generateRandomArtefact() {
     var filteredArray = artefactsJson.filter(function(x) {
-        return x.Source === "Discovery";
+        //return x.Source != "Building Tomorrow";
+        return x.Categories != "Installations" && x.Categories != "Communities"
     });
     let randomDevice = getRandomDevice(filteredArray);
 
