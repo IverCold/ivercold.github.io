@@ -7,9 +7,6 @@ Enhancements (Attributes)
 Enhancements (Skills)
 Enhancements (Movement)
 Enhancements (Stealth)
-Enhancements (Might)
-Enhancements (Speed)
-Enhancements (Intellect)
 Gravity Devices
 Hard Light Devices
 Healing Devices
@@ -30,3 +27,9 @@ Weapons (Ranged)
 Installations
 Communities
 Utility
+
+
+
+Enhancements (Might)
+Enhancements (Speed)
+Enhancements (Intellect)
