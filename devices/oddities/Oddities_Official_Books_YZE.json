@@ -96,7 +96,7 @@
     "Source": "Discovery"
   },
   {
-    "Description": "Очки, которые окрашивают всё в зелёный ",
+    "Description": "Очки, которые окрашивают всё в зелёный цвет",
     "Source": "Discovery"
   },
   {
@@ -248,7 +248,7 @@
     "Source": "Discovery"
   },
   {
-    "Description": "Одеяло, которое укрывая живое существо издает приятный жужжащий звук ",
+    "Description": "Одеяло, которое укрывая живое существо издает приятный жужжащий звук",
     "Source": "Discovery"
   },
   {
@@ -268,7 +268,7 @@
     "Source": "Discovery"
   },
   {
-    "Description": "Банка с шестнадцатью семенами; при посадке каждое семечко через шесть месяцев превращается в золотой нарцисс.",
+    "Description": "Банка с шестнадцатью семенами; при посадке каждое семечко через шесть месяцев превращается в золотой нарцисс",
     "Source": "Discovery"
   },
   {
@@ -296,7 +296,7 @@
     "Source": "Discovery"
   },
   {
-    "Description": "Пара крошечных металлических стержней, которые, если поднести их на расстояние 2,5 сантиметра друг к друга, вибрируют ровно за пятнадцать минут до восхода солнца в любой день.",
+    "Description": "Пара крошечных металлических стержней, которые, если поднести их на расстояние 2,5 сантиметра друг к друга, вибрируют ровно за пятнадцать минут до восхода солнца в любой день",
     "Source": "Discovery"
   },
   {
@@ -380,11 +380,11 @@
     "Source": "Discovery"
   },
   {
-    "Description": "Большой прозрачный пакет из синта, который сохраняет свежесть продуктов на неопределённый срок.",
+    "Description": "Большой прозрачный пакет из синта, который сохраняет свежесть продуктов на неопределённый срок",
     "Source": "Discovery"
   },
   {
-    "Description": "Чулки, которые всегда теплые",
+    "Description": "Чулки, которые всегда остаются тёплыми",
     "Source": "Discovery"
   },
   {
@@ -520,767 +520,759 @@
     "Source": "Compendium"
   },
   {
-    "Description": "A glass ball filled with fluid through which swims a bloodshot eye trailing its nerve endings",
+    "Description": "Заполненный жидкостью стеклянный шарик, в котором плавает налитый кровью глаз, волочащий за собой нервные окончания",
     "Source": "Compendium"
   },
   {
-    "Description": "A small metal container that keeps liquid poured inside lukewarm but makes it bitter",
+    "Description": "Небольшая металлическая емкость, которая сохраняет налитую в нее жидкость теплой, но делает ее горькой",
     "Source": "Compendium"
   },
   {
-    "Description": "A horn that, when blown, blows bubbles instead of making a sound",
+    "Description": "Рожок, который, когда в него дуют, пускает пузыри, а не издает звук",
     "Source": "Compendium"
   },
   {
-    "Description": "Three glowing synth rings that orbit whatever they are placed around (like a wrist)",
+    "Description": "Три светящихся синтетических кольца, которые вращаются вокруг того, вокруг чего они расположены (например, вокруг запястья)",
     "Source": "Compendium"
   },
   {
-    "Description": "A dozen small stones in a narrow, thin box that burst with vibrant colors when tossed into a fire",
+    "Description": "Дюжина маленьких камней в узкой тонкой коробочке, которые вспыхивают яркими цветами, если их бросить в огонь",
     "Source": "Compendium"
   },
   {
-    "Description": "A leather belt with metal plates that glow faintly with light",
+    "Description": "Кожаный пояс с металлическими пластинами, слабо светящимися на свету",
     "Source": "Compendium"
   },
   {
-    "Description": "A set of garish clothes that never get dirty or show signs of wear and tear",
+    "Description": "Набор аляповатой одежды, которая никогда не пачкается и не имеет следов износа",
     "Source": "Compendium"
   },
   {
-    "Description": "A pouch of six pellets that, when dropped into liquid, remove its flavor and color",
+    "Description": "Пакетик с шестью гранулами, которые, опускаясь в жидкость, избавляют ее от вкуса и цвета",
     "Source": "Compendium"
   },
   {
-    "Description": "A small metal box that produces sounds of hysterical laughter when shaken",
+    "Description": "Небольшая металлическая коробка, которая при встряхивании издает звуки истерического смеха",
     "Source": "Compendium"
   },
   {
-    "Description": "A large piece of fabric that does not reflect in mirrors",
+    "Description": "Большой кусок ткани, который не отражается в зеркалах",
     "Source": "Compendium"
   },
   {
-    "Description": "A fist-sized glass sphere that floats through the air, never straying more than 2 feet (0.6 m) from a glass token",
+    "Description": "Стеклянная сфера размером с кулак, которая парит в воздухе, никогда не удаляясь от стеклянного жетона более чем на полметра",
     "Source": "Compendium"
   },
   {
-    "Description": "A glass jar filled with an edible, creamy white substance that fills back to the top each day at dawn",
+    "Description": "Стеклянная банка, наполненная съедобной кремово-белой субстанцией, которая каждый день на рассвете наполняется доверху",
     "Source": "Compendium"
   },
   {
-    "Description": "A vial of red liquid that causes anything that touches even a drop to turn bright purple for 28 hours",
+    "Description": "Флакон с красной жидкостью, которая заставляет все, к чему прикоснется (хоть одной каплей), становиться ярко-фиолетовым на 28 часов",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal wedge that always points east when placed on the ground",
+    "Description": "Металлический клин, который всегда направлен на восток, если положить его на землю",
     "Source": "Compendium"
   },
   {
-    "Description": "Small pink stone that, when placed under the tongue, causes harmless vapor to spill from your mouth",
+    "Description": "Маленький розовый камень, от которого, если положить его под язык, изо рта идёт безвредный пар",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth hemisphere that occasionally puffs out harmless green mist",
+    "Description": "Синтетическая полусфера, которая время от времени испускает безвредный зеленый туман",
     "Source": "Compendium"
   },
   {
-    "Description": "A tiny synth cube with two metal prongs on one side that hum",
+    "Description": "Крошечный синтетический кубик с двумя гудящими металлическими штырями на одной стороне",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal baton that feels as though it is filled with fluid",
+    "Description": "Металлическая дубинка, которая как будто бы наполнена жидкостью",
     "Source": "Compendium"
   },
   {
-    "Description": "A small metal box filled with blue powder that, when snuffed, causes profound feelings of ecstasy for about a minute, followed by painful cramps that are alleviated only by a messy and noisy bowel movement",
+    "Description": "Маленькая металлическая коробочка, наполненная голубым порошком, который, когда его нюхают, вызывает глубокое чувство экстаза примерно на минуту, после чего начинаются болезненные спазмы, облегчить которые можно только с помощью грязного и шумного опорожнения кишечника",
     "Source": "Compendium"
   },
   {
-    "Description": "A mirror that shows anything reflected in it, but something is always missing",
+    "Description": "Зеркало, в котором видно все, что в нем отражается, но чего-то всегда не хватает",
     "Source": "Compendium"
   },
   {
-    "Description": "A pair of eyes made of bronze that appear slightly human and occasionally blink",
+    "Description": "Пара глаз из бронзы, которые кажутся немного человеческими и изредка моргают",
     "Source": "Compendium"
   },
   {
-    "Description": "An invisible, empty, hollow cylinder that is 9 inches (23 cm) long",
+    "Description": "Невидимый, пустой, полый цилиндр длиной 20 см",
     "Source": "Compendium"
   },
   {
-    "Description": "A powerful magnet that appears to be in the shape of a stylized spider",
+    "Description": "Мощный магнит в форме стилизованного паука.",
     "Source": "Compendium"
   },
   {
-    "Description": "Bit of moldable synth that generates constant, soft static noise",
+    "Description": "Кусочек мягкого синта, который генерирует постоянный, мягкий статический шум",
     "Source": "Compendium"
   },
   {
-    "Description": "Shoes that produce sound and light with each step",
+    "Description": "Обувь, издающая звук и свет при каждом шаге",
     "Source": "Compendium"
   },
   {
-    "Description": "Synth sleeves that fit over one’s fingertips",
+    "Description": "Рукава из синта, надевающиеся на кончики пальцев",
     "Source": "Compendium"
   },
   {
-    "Description": "Cloth mask that makes each breath taste like mint",
+    "Description": "Тканевая маска, которая придает каждому вдоху вкус мяты",
     "Source": "Compendium"
   },
   {
-    "Description": "Small synth squares that taste good but are inedible",
+    "Description": "Маленькие синтетические квадратики, приятные на вкус, но несъедобные",
     "Source": "Compendium"
   },
   {
-    "Description": "Metal sphere that floats like a balloon",
+    "Description": "Металлическая сфера, которая плавает как воздушный шар",
     "Source": "Compendium"
   },
   {
-    "Description": "Crystal pendant that causes the wearer’s hair to stop growing",
+    "Description": "Хрустальный кулон, заставляющий волосы владельца перестать расти",
     "Source": "Compendium"
   },
   {
-    "Description": "Five-inch (13 cm) square of cloth that is uncannily pleasant to touch",
+    "Description": "Квадрат ткани со стороной в 15 см, к которому необыкновенно приятно прикасаться",
     "Source": "Compendium"
   },
   {
-    "Description": "Synth paper that absorbs ink (and stains) after one hour",
+    "Description": "Синтетическая бумага, которая впитывает чернила (и пятна) уже через час",
     "Source": "Compendium"
   },
   {
-    "Description": "Six-inch (15 cm) synth string that stretches to 8 feet (2 m) without breaking",
+    "Description": "Синтетическая струна длиной 15 см, которая без разрыва растягивается 2-х метров",
     "Source": "Compendium"
   },
   {
-    "Description": "Unbreakable glass pyramid filled with what appears to be ice or snow",
+    "Description": "Небьющаяся стеклянная пирамида, наполненная, как кажется, льдом или снегом",
     "Source": "Compendium"
   },
   {
-    "Description": "Synth sphere that is always warm",
+    "Description": "Всегда тёплая синтетическая сфера",
     "Source": "Compendium"
   },
   {
-    "Description": "Glass cube that is always cold",
+    "Description": "Стеклянный куб, который всегда остаётся холодным",
     "Source": "Compendium"
   },
   {
-    "Description": "Synth rod that changes color based on who holds it (always the same color for the same people)",
+    "Description": "Синтетический жезл, меняющий цвет в зависимости от того, кто его держит (всегда один и тот же цвет для одних и тех же людей)",
     "Source": "Compendium"
   },
   {
-    "Description": "Metal hemisphere with a glass handle that constantly repeats words in an unknown language",
+    "Description": "Металлическая полусфера со стеклянной ручкой, которая постоянно повторяет слова на неизвестном языке",
     "Source": "Compendium"
   },
   {
-    "Description": "Glass panel that appears to show the surrounding area from a high vantage, but it is always completely wrong",
+    "Description": "Стеклянная панель, которая, как кажется, показывает окрестности с высоты, но всегда совершенно неправильно",
     "Source": "Compendium"
   },
   {
-    "Description": "Clear synth globe with an arrow inside it that always points at the sun",
+    "Description": "Прозрачная синтетическая сфера со стрелкой внутри, которая всегда указывает на солнце",
     "Source": "Compendium"
   },
   {
-    "Description": "Synth panel about 8 inches (20 cm) square that shows meaningless, complex diagrams",
+    "Description": "Синтетическая панель в виде квадрата со стороной примерно 20 см, на которой изображены бессмысленные сложные диаграммы",
     "Source": "Compendium"
   },
   {
-    "Description": "Round pendant with a blinking red light that syncs with the wearer’s heartbeat",
+    "Description": "Круглый кулон с мигающим красным светом, который синхронизируется с сердцебиением владельца",
     "Source": "Compendium"
   },
   {
-    "Description": "Small jar that produces 1 ounce (28 g) of green paint when the sun rises",
+    "Description": "Маленькая банка, в которой при восходе солнца образуется 1 унция (28 г) зеленой краски",
     "Source": "Compendium"
   },
   {
-    "Description": "Synth panel that constantly shows unknown creatures cavorting in a woodland of unknown plants",
+    "Description": "Синтетическая панель, на которой постоянно появляются неизвестные существа, резвящиеся в лесу с неизвестными растениями",
     "Source": "Compendium"
   },
   {
-    "Description": "Small metal container that produces a peculiar (but not unpleasant) odor when opened",
+    "Description": "Небольшой металлический контейнер, который при открытии издает специфический (но не неприятный) запах",
     "Source": "Compendium"
   },
   {
-    "Description": "Small, warm metal blade that gives a very close shave",
+    "Description": "Маленькое теплое металлическое лезвие, которое обеспечивает очень аккуратное бритье",
     "Source": "Compendium"
   },
   {
-    "Description": "Small metal disk with a crystal at its center that causes a buzzing noise in the ears of anyone holding it",
+    "Description": "Небольшой металлический диск с кристаллом в центре, который вызывает жужжание в ушах у того, кто его держит.",
     "Source": "Compendium"
   },
   {
-    "Description": "Eight-inch (20 cm) length of synth cord that is invisible",
+    "Description": "Невидимый синтетический шнур длиной 20 см",
     "Source": "Compendium"
   },
   {
-    "Description": "Pea-sized sphere that reduces the pull of gravity within about 4 feet (1 m), just enough to notice",
+    "Description": "Сфера размером с горошину, которая уменьшает силу притяжения в пределах 1 м, достаточно, чтобы это было заметно",
     "Source": "Compendium"
   },
   {
-    "Description": "A pair of 1-foot-tall (0.3 m) metal stilts that can strap onto boots or shoes",
+    "Description": "Пара металлических ходуль высотой 0,3 м, которые можно пристегнуть к ботинкам или туфлям",
     "Source": "Compendium"
   },
   {
-    "Description": "A jar of putty that hardens after being exposed to air for one hour, but softens again if touched",
+    "Description": "Баночка со шпаклевкой, которая застывает под воздействием воздуха в течение часа, но размягчается при прикосновении.",
     "Source": "Compendium"
   },
   {
-    "Description": "A small disk that bears the image of the father of whoever is touching it",
+    "Description": "Маленький диск с изображением отца того, кто к нему прикасается",
     "Source": "Compendium"
   },
   {
-    "Description": "Six-inch (15 cm) wand of glass that can be bent and even tied in a knot",
+    "Description": "Стеклянная палочка длиной 15 см, которую можно сгибать и даже завязывать в узел",
     "Source": "Compendium"
   },
   {
-    "Description": "Small metal container that makes a loud (but brief) shrill tone when opened",
+    "Description": "Небольшой металлический контейнер, который издает громкий (но короткий) пронзительный звук при открывании",
     "Source": "Compendium"
   },
   {
-    "Description": "A small sphere nested within a cube, but the cube exists out of phase and cannot be touched",
+    "Description": "Маленькая сфера, вложенная в куб, но куб существует вне фазы и его нельзя потрогать",
     "Source": "Compendium"
   },
   {
-    "Description": "Eye lenses that glow in the dark",
+    "Description": "Светящиеся в темноте линзы для глаз",
     "Source": "Compendium"
   },
   {
-    "Description": "Three shoes meant for an unknown, nonhuman creature",
+    "Description": "Три ботинка, предназначенные для неизвестного нечеловеческого существа",
     "Source": "Compendium"
   },
   {
-    "Description": "Seven-inch (18 cm) square of cloth to which nothing—dirt, muck, tar, adhesive, and so on—will adhere",
+    "Description": "Квадрат ткани со стороной 15 см, к которому не прилипает ничего - грязь, навоз, смола, клей и т.д.",
     "Source": "Compendium"
   },
   {
-    "Description": "Metal rod bent into a triangle that frightens off small animals with its mere presence",
+    "Description": "Металлический стержень, согнутый в треугольник, который отпугивает мелких животных одним своим присутствием",
     "Source": "Compendium"
   },
   {
-    "Description": "Glow-in-the-dark hair dye (enough for twenty uses)",
+    "Description": "Светящаяся в темноте краска для волос (хватит на двадцать применений)",
     "Source": "Compendium"
   },
   {
-    "Description": "Glove that, when worn, makes the wearer’s voice sound very high and squeaky",
+    "Description": "Перчатка, которая при ношении заставляет голос владельца звучать очень высоко и пискляво",
     "Source": "Compendium"
   },
   {
-    "Description": "Ring that reduces the wearer’s sense of touch",
+    "Description": "Кольцо, снижающее чувство осязания у владельца",
     "Source": "Compendium"
   },
   {
-    "Description": "Brush that produces a cleansing soap when used",
+    "Description": "Щетка, при использовании которой образуется очищающее мыло",
     "Source": "Compendium"
   },
   {
-    "Description": "Tiny box that produces a small synth figurine in the image of someone within immediate range at random times",
+    "Description": "Крошечная коробочка, которая в случайное время создает маленькую синтетическую фигурку в образе человека, находящегося в пределах досягаемости",
     "Source": "Compendium"
   },
   {
-    "Description": "Synth cup that turns any liquid placed within it purple (no other change is made)",
+    "Description": "Синтетическая чашка, которая превращает любую жидкость, помещенную в нее, в фиолетовый цвет (никаких других изменений не происходит)",
     "Source": "Compendium"
   },
   {
-    "Description": "Cloth mask that gives anyone who wears it itchy hives for one hour",
+    "Description": "Тканевая маска, которая вызывает зудящую крапивницу у любого, кто ее наденет, в течение часа",
     "Source": "Compendium"
   },
   {
-    "Description": "Rod that projects the two-dimensional image of an unknown creature on any flat surface",
+    "Description": "Стержень, проецирующий двухмерное изображение неизвестного существа на любую плоскую поверхность",
     "Source": "Compendium"
   },
   {
-    "Description": "Metal rod that makes anyone who touches it sneeze, but never more than once every few minutes",
+    "Description": "Металлический стержень, который заставляет чихать любого, кто к нему прикоснется, но не чаще, чем раз в несколько минут",
     "Source": "Compendium"
   },
   {
-    "Description": "Two magnets that become one hundred times heavier when put together",
+    "Description": "Два магнита, которые становятся в сто раз тяжелее, когда их соединяют вместе",
     "Source": "Compendium"
   },
   {
-    "Description": "Tiny glass cube that distorts visibility within 6 inches (15 cm) around it",
+    "Description": "Крошечный стеклянный куб, искажающий видимость в пределах 15 см вокруг себя",
     "Source": "Compendium"
   },
   {
-    "Description": "",
+    "Description": "Небольшая тканевая сфера, в которую можно просунуть руку, чтобы положить вещи внутрь. Проделанное отверстие всегда мгновенно заделывается.",
     "Source": "Compendium"
   },
   {
-    "Description": "A small cloth sphere that one can thrust a hand through to put things in the inside. The hole made always instantly repairs itself.",
+    "Description": "Металлический кубик, который при прикосновении превращается в густую жидкость на одну минуту",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal cube that, when touched, turns to thick liquid for one minute",
+    "Description": "Клубок нерастяжимого шпагата, длина которого в распутанном состоянии составляет 20 м",
     "Source": "Compendium"
   },
   {
-    "Description": "A ball of unbreakable twine that, when fully unraveled, is 100 feet (30 m) long",
+    "Description": "Крошечная коробочка с кнопкой, при нажатии на которую раздается слабый звон",
     "Source": "Compendium"
   },
   {
-    "Description": "A tiny box with a button that makes a faint chiming noise when pressed",
+    "Description": "Двадцать красных сигарет, которые при курении позволяют выдыхать формы в виде монстров",
     "Source": "Compendium"
   },
   {
-    "Description": "Twenty red cigarettes that, when smoked, let you exhale monstrous shapes",
+    "Description": "Монета с профилем человека, который меняется каждый месяц",
     "Source": "Compendium"
   },
   {
-    "Description": "A coin stamped with the profile of a man that changes each month",
+    "Description": "Мешочек, в котором всегда есть двадцать семь шариков, сколько бы их ни вынули; шарики удаётся вынимать только по одному",
     "Source": "Compendium"
   },
   {
-    "Description": "A bag that always has twenty-seven marbles inside, no matter how many are removed",
+    "Description": "Маленькое металлическое полукольцо, которое заставляет каждого, кто к нему прикасается, говорить \"Фаношиль\"!",
     "Source": "Compendium"
   },
   {
-    "Description": "Small metal half-ring that forces anyone touching it to say “Fanoshil”",
+    "Description": "Устройство, которое заставляет всех, кто находится в пределах досягаемости, снова пережить последние одну-две секунды, хотя ничего нельзя изменить",
     "Source": "Compendium"
   },
   {
-    "Description": "Device that makes everyone within immediate range experience the last one to two seconds again, though nothing can be changed",
+    "Description": "Серебряная подвеска с невидимой цепочкой",
     "Source": "Compendium"
   },
   {
-    "Description": "Silver pendant with an invisible chain",
+    "Description": "Маленькая сфера, которая всегда находится на расстоянии 2 см от кончика короткого стержня, даже если они физически не связаны",
     "Source": "Compendium"
   },
   {
-    "Description": "Small sphere that always remains 1 inch (3 cm) from the tip of a short rod, even though they are not physically connected",
+    "Description": "Кристалл, пульсирующий в такт сердцебиению того, кто его держит",
     "Source": "Compendium"
   },
   {
-    "Description": "Crystal that pulses in time with the heartbeat of anyone holding it",
+    "Description": "Светящийся шар, который, если его взять под воду, никогда не сдвинется с места и не будет потревожен течениями",
     "Source": "Compendium"
   },
   {
-    "Description": "Glowglobe that, if taken underwater, is never moved or disturbed by currents",
+    "Description": "Квадрат из сложенной черной бумаги со стороной 3 см, который можно разворачивать до тех пор, пока он не превратится в квадрат со стороной 3 м",
     "Source": "Compendium"
   },
   {
-    "Description": "A 1-inch (3 cm) square of folded black paper that can be unfolded until it becomes a 10-foot (3 m) square of paper",
+    "Description": "Черный алмаз, который вызывает эротические сны, если положить его под голову спящего",
     "Source": "Compendium"
   },
   {
-    "Description": "A black diamond that causes erotic dreams when it is placed under a sleeper’s head",
+    "Description": "Коробка с двадцатью камнями странной формы разных оттенков красного, которые можно использовать как мел, но они никогда не кончатся",
     "Source": "Compendium"
   },
   {
-    "Description": "A box of twenty oddly shaped stones in different shades of red that can be used like chalk but never run out",
+    "Description": "Коробка зубочисток, каждая из которых имеет свой, порой странный вкус",
     "Source": "Compendium"
   },
   {
-    "Description": "A box of toothpicks that each have a different and sometimes strange flavor",
+    "Description": "Мешочек с порошком, который можно посыпать на тухлое мясо, чтобы освежить его и сделать безопасным для употребления в пищу",
     "Source": "Compendium"
   },
   {
-    "Description": "A pouch of powder that can be sprinkled over rotten meat to freshen it and make it safe to eat",
+    "Description": "Кубик льда, который никогда не растает",
     "Source": "Compendium"
   },
   {
-    "Description": "A cube of ice that never melts",
+    "Description": "Деревянный шар, который нельзя сжечь, но при замораживании он превращается в пар",
     "Source": "Compendium"
   },
   {
-    "Description": "A wooden ball that cannot be burned, but freezing it turns it to vapor",
+    "Description": "Стеклянная пластина, которая покрывается ледяными узорами при низких температурах; иногда в ледяных узорах видны отпечатки рук",
     "Source": "Compendium"
   },
   {
-    "Description": "A plate of glass that turns frosty in freezing temperatures and sometimes shows handprints in the frost",
+    "Description": "Монокль, который показывает различные цветные ауры вокруг людей в зависимости от времени суток, в которое они родились",
     "Source": "Compendium"
   },
   {
-    "Description": "A monocle that shows different colored auras around people depending on the time of day they were born",
+    "Description": "Металлический ящик со стеклянной панелью в центре, на которой каждый восход солнца отображаются различные неразборчивые символы",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal box with a glass panel in the center that displays different undecipherable symbols each sunrise",
+    "Description": "Дрожащая масса желатина, которая застывает, когда начинается шторм",
     "Source": "Compendium"
   },
   {
-    "Description": "A quivering mass of gelatin that hardens whenever it is about to storm",
+    "Description": "Металлический прут длиной 15 см, который нельзя ничем повредить",
     "Source": "Compendium"
   },
   {
-    "Description": "A 6-inch (15 cm) metal bar that is impervious to all damage",
+    "Description": "Кусок влажной плоти размером с кулак, который никогда не высыхает и издает мурлыкающие звуки, когда его гладят",
     "Source": "Compendium"
   },
   {
-    "Description": "A fist-sized hunk of wet flesh that never dries out and makes a purring noise when stroked",
+    "Description": "Флакон с шестью капельками, которые, будучи добавлены в кучу экскрементов, превращают ее в то, чем она была до того, как была переварена (хотя капельки не возвращают жизнь тому, что было убито, будучи съеденным)",
     "Source": "Compendium"
   },
   {
-    "Description": "A vial containing six droplets that, when added to a pile of excrement, turn it back into what it was before it was digested (though the droplets don’t restore life to something that was killed by being eaten)",
+    "Description": "Металлическое кольцо, издающее слабый звон при трении",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal ring that issues a faint ringing noise when rubbed",
+    "Description": "Десятигранник из темного стекла, которая, если держать ее за головой человека, заставляет его назвать свое имя, хотя он и не подозревает, что сделал это",
     "Source": "Compendium"
   },
   {
-    "Description": "A dark glass trapezohedron that, if held behind someone’s head, makes him state his name, even though he is unaware that he did so",
+    "Description": "Стеклянная коробка с живым, бьющимся сердцем, обмотанным золотой сеткой проводов",
     "Source": "Compendium"
   },
   {
-    "Description": "A glass box containing a living, beating heart wrapped in a golden mesh of wires",
+    "Description": "Кусок гибкого пластика, который излучает мягкий синий, зеленый или розовый свет, когда его надевают на лодыжку или запястье",
     "Source": "Compendium"
   },
   {
-    "Description": "A piece of flexible plastic that emits soft blue, green, or pink light when worn around the ankle or wrist",
+    "Description": "Прозрачный эластичный лист шириной 2 м и длиной 50 см из неизвестного водонепроницаемого материала, который сверкает при свете звезд",
     "Source": "Compendium"
   },
   {
-    "Description": "A clear elastic sheet, 7 feet (2 m) wide and 2 feet (0.6 m) long, of unknown waterproof material that sparkles under starlight",
+    "Description": "Резиновый мяч, который при броске с любой силой летит на расстояние 1 км или до соприкосновения с твердым предметом, а затем падает",
     "Source": "Compendium"
   },
   {
-    "Description": "A rubber ball that, when thrown with any strength at all, flies for 1 mile (2 km) or until it comes into contact with a solid object and then falls",
+    "Description": "Продолговатая металлическая пластина, покрытая странными надписями и диаграммами",
     "Source": "Compendium"
   },
   {
-    "Description": "An oblong metal plate covered with strange inscriptions and diagrams",
+    "Description": "Металлический предмет размером с кулак, наполненный отверстиями, который позволяет любому, кто к нему прикоснется, на мгновение увидеть бескрайнее море",
     "Source": "Compendium"
   },
   {
-    "Description": "A fist-sized metal object filled with holes that gives anyone touching it a brief glimpse of an endless sea",
+    "Description": "Кристалл, не позволяющий человеку, держащему его, потеть",
     "Source": "Compendium"
   },
   {
-    "Description": "A crystal that prevents the person holding it from perspiring",
+    "Description": "Стеклянный шар, который, будучи положенным на землю, катится по кругу, пока его не поднимут",
     "Source": "Compendium"
   },
   {
-    "Description": "A glass ball that, when placed on the ground, rolls around in a circle until it’s picked up",
+    "Description": "Обувь с такой скользкой подошвой, что в ней невозможно ходить",
     "Source": "Compendium"
   },
   {
-    "Description": "Shoes with such slippery soles that they are impossible to walk in",
+    "Description": "Маленький квадратик фольги, всегда теплый на ощупь",
     "Source": "Compendium"
   },
   {
-    "Description": "A tiny square of foil that always feels warm to the touch",
+    "Description": "Маленькая металлическая коробочка, которая случайным образом меняет цвет всего, что в нее помещено",
     "Source": "Compendium"
   },
   {
-    "Description": "A small metal box that changes the color of anything placed inside it",
+    "Description": "Губка, способная впитать до 40 л жидкости",
     "Source": "Compendium"
   },
   {
-    "Description": "A sponge that can absorb up to 10 gallons (38 L) of liquid",
+    "Description": "Пять запечатанных в пластик съедобных батончиков, каждый из которых обеспечивает питание в течение семи дней",
     "Source": "Compendium"
   },
   {
-    "Description": "Five synth-sealed edible bars that provide nourishment for seven days each",
+    "Description": "Пористый камень, который можно использовать как мыло и который имеет свежий запах",
     "Source": "Compendium"
   },
   {
-    "Description": "A porous stone that can be used like soap and has a fresh smell",
+    "Description": "Шляпа, которая исчезает по желанию владельца, но возвращается через несколько часов",
     "Source": "Compendium"
   },
   {
-    "Description": "A hat that disappears when the wearer wishes, but returns in a few hours",
+    "Description": "Чашка, которая превращает любую налитую в нее жидкость в алкоголь",
     "Source": "Compendium"
   },
   {
-    "Description": "A cup that turns any liquid poured into it into alcohol",
+    "Description": "Пластиковая коробочка странной формы с кнопкой на одной стороне, при нажатии на которую на крошечном дисплее появляется случайное слово на языке зрителя",
     "Source": "Compendium"
   },
   {
-    "Description": "Oddly shaped plastic box with a button on one side that, when depressed, causes a random word in the viewer’s language to appear in a tiny display",
+    "Description": "Резиновый шарик, который при броске о твердую поверхность создает второй резиновый шарик, который держится несколько минут, а затем исчезает",
     "Source": "Compendium"
   },
   {
-    "Description": "A rubber ball that, when thrown against a hard surface, creates a second rubber ball that lasts for a few minutes before disappearing",
+    "Description": "Кусок ткани, который полирует любой металлический предмет, к которому прикасается.",
     "Source": "Compendium"
   },
   {
-    "Description": "A piece of cloth that polishes any metal object it touches",
+    "Description": "Синтетический додекаэдр, позволяющий в течение двух секунд видеть глазами человека, которого коснулся держатель додекаэдра",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth dodecahedron that allows one to see for about two seconds through the eyes of a person touched",
+    "Description": "Помандер, который всегда пахнет свежеиспеченным хлебом",
     "Source": "Compendium"
   },
   {
-    "Description": "A pomander that always smells of freshly baked bread",
+    "Description": "Металлический стержень, который быстро растапливает прикоснувшийся к нему лед, несмотря на свою холодную температуру",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal rod that quickly melts ice touched to it, despite its cool temperature",
+    "Description": "Лицо человека, растянутое и зажатое между двумя стеклами",
     "Source": "Compendium"
   },
   {
-    "Description": "The face of a person stretched and pressed between two panes of glass",
+    "Description": "Длинный кусок ткани, который никогда не шевелится от ветра",
     "Source": "Compendium"
   },
   {
-    "Description": "A long piece of cloth never moved by the wind",
+    "Description": "Синтетический торк, от которого у владельца так кружится голова, что он почти не может идти по прямой",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth torc that makes the wearer so dizzy that it’s almost impossible to walk a straight line",
+    "Description": "Металлическая сфера размером с гальку, которая весит 20 кг",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal sphere the size of a pebble that weighs 50 pounds (23 kg)",
+    "Description": "Меховой шарик, который визжит, когда погружается в воду",
     "Source": "Compendium"
   },
   {
-    "Description": "A ball of fur that squeals when submerged in water",
+    "Description": "Плавающая сфера, которая на несколько минут удаляет все запахи из воздуха",
     "Source": "Compendium"
   },
   {
-    "Description": "A floating orb that removes all odors from the air for a few minutes",
+    "Description": "Кристалл, который при трении создает маленькое пламя",
     "Source": "Compendium"
   },
   {
-    "Description": "A crystal that creates a tiny flame when rubbed",
+    "Description": "Бутылочка с таблетками, которые не имеют питательной ценности, но избавляют от чувства голода",
     "Source": "Compendium"
   },
   {
-    "Description": "A bottle of pills that have no nutritional value but take away feelings of hunger",
+    "Description": "Синтетический полный шлем с шестью отверстиями для глаз и жужжащим звуком внутри",
     "Source": "Compendium"
   },
   {
-    "Description": "Synth full helmet with six eyeholes and a buzzing sound within",
+    "Description": "Металлический восьмигранник, который, когда его держат, заставляет голос пользователя менять высоту",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal octahedron that, when held, causes the user’s voice to change pitch",
+    "Description": "Синтетическая чаша, к которой ничего не прилипает, поэтому она всегда сухая и чистая",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth bowl that nothing adheres to, so it’s always dry and clean",
+    "Description": "Брусок длиной 30 см, имеющий вес стали, но гибкость резины",
     "Source": "Compendium"
   },
   {
-    "Description": "A 1-foot (0.3 m) bar that has the weight of steel but the flexibility of rubber",
+    "Description": "Синтетическая сфера, которая всегда отображает текущую температуру с помощью движущегося набора линий",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth sphere that always displays the current temperature with a moving set of lines",
+    "Description": "Металлическое кольцо, которое нагревается при прохладной температуре или охлаждается при теплой температуре",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal ring that grows warm in cool temperatures or cool in warm temperatures",
+    "Description": "Синтетический гептаэдр, который при соприкосновении с другими пластиком делает всех в ближайшем радиусе очень голодными",
     "Source": "Compendium"
   },
   {
-    "Description": "Synth heptahedron that, when touched to other synth, makes everyone in an immediate radius very hungry",
+    "Description": "Устройство, которое надевается на уши и воспроизводит странные звуки, похожие на атональную, в основном неприятную музыку",
     "Source": "Compendium"
   },
   {
-    "Description": "A device that fits over your ears and plays strange noises that sound like atonal, mostly unpleasant music",
+    "Description": "Пара многогранных линз в защитных кожаных очках, которые заставляют владельца видеть вещи, как насекомое",
     "Source": "Compendium"
   },
   {
-    "Description": "A pair of multifaceted lenses set into leather goggles that make the wearer see things as an insect would",
+    "Description": "Оранжевые контактные линзы, которая иногда позволяет увидеть, как произнесенные человеком слова проплывают над его головой в письменном виде",
     "Source": "Compendium"
   },
   {
-    "Description": "An orange contact lens that occasionally lets you see a person’s spoken words float above his head in written form",
+    "Description": "Асимметричный многоугольник размером с кулак, который вращается, если положить его на землю определенной стороной вниз.",
     "Source": "Compendium"
   },
   {
-    "Description": "An asymmetrical polygon about the size of a fist that spins whenever placed on the ground with a particular side down",
+    "Description": "Гироскопическая юла, которая вращается бесконечно долго, если ее не тревожить",
     "Source": "Compendium"
   },
   {
-    "Description": "A gyroscopic toy top that spins indefinitely if undisturbed",
+    "Description": "Медное кольцо размером с браслет. Если его раскрутить вокруг небольшого стержня (например, пальца или ручки), оно будет вращаться бесконечно долго.",
     "Source": "Compendium"
   },
   {
-    "Description": "A copper ring about the size of a bracelet. If spun around a small shaft (like a finger or a pen), it spins indefinitely.",
+    "Description": "Три отдельных серебряных пастилки длиной около 3 см, которые прикрепляются к плоти (и могут быть с трудом оторваны), но только если все три находятся на одном существе",
     "Source": "Compendium"
   },
   {
-    "Description": "Three separate silver lozenges about 1 inch (3 cm) long that attach to flesh (and can be pried off with difficulty), but only if all three are on the same creature",
+    "Description": "Плита прозрачного пластика, в которой заключено несколько предметов, большинство из которых, похоже, окаменелости. Под каждым предметом есть надпись на неизвестном языке.",
     "Source": "Compendium"
   },
   {
-    "Description": "A slab of clear synth that encases a dozen items, most of which appear to be fossils of some kind. There is writing in an unknown language beneath each item.",
+    "Description": "Мелованный лист бумаги со стороной около 3 см, который каждый день складывается в разные сложные конструкции",
     "Source": "Compendium"
   },
   {
-    "Description": "A coated piece of paper about 1 foot (0.3 m) square that folds itself into a different complex design each day",
+    "Description": "Вязаный квадрат, который самостоятельно добавляет новый ряд стежков",
     "Source": "Compendium"
   },
   {
-    "Description": "A knitted square that adds a new row of stitches on its own",
+    "Description": "Синтетические соты со стороной около 4 см, из которых получается терпкий голубой сироп",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth honeycomb about 3 inches (8 cm) square that produces a tangy blue syrup",
+    "Description": "Маленький камешек, который воет в ответ на звуки смеха",
     "Source": "Compendium"
   },
   {
-    "Description": "A small marble that howls in response to the sounds of laughter",
+    "Description": "Миниатюрный шар на цепочке, который парит в воздухе",
     "Source": "Compendium"
   },
   {
-    "Description": "A miniature ball on a chain that hovers in the air",
+    "Description": "Фиолетовая слизь, которая иногда показывает освещенную карту неизвестных созвездий",
     "Source": "Compendium"
   },
   {
-    "Description": "Purple goo that sometimes shows a lit map of unknown constellations",
+    "Description": "Синтетические ветряные колокольчики, которые звучат как разговор людей",
     "Source": "Compendium"
   },
   {
-    "Description": "A chime of synth objects that sounds like people talking",
+    "Description": "Ремень из неизвестной кожи и металла, благодаря которому вы всегда будете чувствовать себя сытым",
     "Source": "Compendium"
   },
   {
-    "Description": "A belt made of unknown leather and metal that makes you feel full all the time",
+    "Description": "Стеклянная призма, обеспечивающая калейдоскоп ароматов",
     "Source": "Compendium"
   },
   {
-    "Description": "A glass prism that provides a kaleidoscope of scents",
+    "Description": "Невероятно мягкая подушка, которая иногда стрижет ваши волосы, пока вы спите",
     "Source": "Compendium"
   },
   {
-    "Description": "An incredibly soft pillow that sometimes cuts your hair while you sleep",
+    "Description": "Браслет на лодыжку, который иногда облегчает боли в мышцах",
     "Source": "Compendium"
   },
   {
-    "Description": "An ankle bracelet that sometimes eases muscle aches",
+    "Description": "Иголка с ниткой, которая постоянно меняет цвет. Нить можно вытащить на 30 метров каждый день.",
     "Source": "Compendium"
   },
   {
-    "Description": "A needle with thread that never runs out but constantly changes color",
+    "Description": "Масса из геля, которая вибрирует в такт любому звуку",
     "Source": "Compendium"
   },
   {
-    "Description": "A mass of gel that vibrates in time to any sound",
+    "Description": "Синтетическая коробочка, которая каждые несколько дней показывает новое изображение места в Девятом мире.",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth box that shows a new image of a place in the Ninth World every couple of days",
+    "Description": "Шиньон, который, кажется, не был создан для людей",
     "Source": "Compendium"
   },
   {
-    "Description": "A hairpiece that does not seem to have been made for humans",
+    "Description": "Крошечное зеркало, которое отражает ваше лицо точно так же, как оно выглядело вчера",
     "Source": "Compendium"
   },
   {
-    "Description": "A tiny mirror that reflects your face exactly as it looked yesterday",
+    "Description": "Небольшая серая бутылка с отвинчивающейся крышкой, похожая на кусок скалы",
     "Source": "Compendium"
   },
   {
-    "Description": "A small grey bottle with a screw-off lid that looks like a piece of rock",
+    "Description": "Керамическая птица с острым как бритва металлическим клювом",
     "Source": "Compendium"
   },
   {
-    "Description": "A ceramic bird with a razor-sharp metal beak",
+    "Description": "Кусок войлока, который расширяется и превращается в большую плоскую водонепроницаемую чашу",
     "Source": "Compendium"
   },
   {
-    "Description": "A piece of felt that expands into a large, flat waterproof bowl",
+    "Description": "Непромокаемый лист бумаги, который нельзя помять и на котором изображена карта неизвестного места",
     "Source": "Compendium"
   },
   {
-    "Description": "A piece of waterproof paper that can’t be crumpled and shows a map of somewhere unknown",
+    "Description": "Прозрачный синтетический дырокол, который проделает крошечное круглое отверстие практически в любом тонком материале",
     "Source": "Compendium"
   },
   {
-    "Description": "A clear synth hole punch that will make a tiny circular hole in almost any thin material",
+    "Description": "Раковина из сильного стекла, внутри которой иногда можно увидеть призрачное изображение краба",
     "Source": "Compendium"
   },
   {
-    "Description": "A stronglass shell that sometimes has a ghostly visage of a crab inside it",
+    "Description": "Кольцо, которое стирает большинство царапин, потертостей и чернил, если провести им над ними",
     "Source": "Compendium"
   },
   {
-    "Description": "A ring that erases most scratches, scuffs, and ink when passed over them",
+    "Description": "Трубка с фиолетовым дымом, который превращается в жидкость под воздействием солнечного света",
     "Source": "Compendium"
   },
   {
-    "Description": "A tube of purple smoke that changes to a liquid when exposed to sunlight",
+    "Description": "Прядь волос, которая постоянно шепчет",
     "Source": "Compendium"
   },
   {
-    "Description": "A lock of hair that whispers constantly",
+    "Description": "Бутылка с жидкостью, которая пускает светящиеся в темноте пузырьки",
     "Source": "Compendium"
   },
   {
-    "Description": "A bottle of liquid that releases bubbles that glow in the dark",
+    "Description": "Маленький штамп, который создает причудливый рисунок на любом съедобном предмете",
     "Source": "Compendium"
   },
   {
-    "Description": "",
+    "Description": "Маленькое кольцо, которое можно отсканировать поверх чего угодно, и оно приобретает цвет отсканированного предмета",
     "Source": "Compendium"
   },
   {
-    "Description": "A small stamp that creates a bizarre design on anything edible",
+    "Description": "Металлический диск с отверстием, сквозь которое видны очертания облаков.",
     "Source": "Compendium"
   },
   {
-    "Description": "A small ring that can be scanned over anything and becomes the color of the item scanned",
+    "Description": "Рог неизвестного существа, который продолжает медленно расти",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal disk with a hole in it that reveals shapes in the clouds when you look through it",
+    "Description": "Циферблат часов, отмечающий ход времени нечитаемыми и неразрешимыми уравнениями",
     "Source": "Compendium"
   },
   {
-    "Description": "An antler from an unknown creature that continues to slowly grow",
+    "Description": "Деревянная трубка с вырезанным внутри существом. Каждые несколько дней существо переходит в другое положение.",
     "Source": "Compendium"
   },
   {
-    "Description": "A clock face that marks the passage of time with unreadable and unsolvable equations",
+    "Description": "Кольцо, которое вибрирует, когда в вашем месте восходит солнце",
     "Source": "Compendium"
   },
   {
-    "Description": "A wooden tube with a creature carved inside it. Every few days, the creature moves into a different position.",
+    "Description": "Шляпа, которая держится только на голове, но не сдувается и не падает",
     "Source": "Compendium"
   },
   {
-    "Description": "A ring that vibrates when the sun rises in your location",
+    "Description": "Торнадо высотой 8 см, который не перестает двигаться, когда вы держите его в руке",
     "Source": "Compendium"
   },
   {
-    "Description": "A hat that rests just on top of your head but never blows or falls off",
+    "Description": "Два маленьких голубых диска, которые, кажется, притягиваются к вашей коже, и их трудно оторвать, когда они вступают в контакт с вами",
     "Source": "Compendium"
   },
   {
-    "Description": "A 3-inch (8 cm) tall tornado that never stops moving when you hold it in your hand",
+    "Description": "Каплевидный предмет, образующий кристаллы соли на поверхности дна",
     "Source": "Compendium"
   },
   {
-    "Description": "Two small blue disks that seem attracted to your skin and are hard to pull off when they come in contact with you",
+    "Description": "Пуговица, которая, кажется, пролезет в любую петлю",
     "Source": "Compendium"
   },
   {
-    "Description": "Teardrop-shaped object that forms salt crystals along the bottom surface",
+    "Description": "Живая оранжевая и зеленая лягушка, заключенная в прозрачный пузырь из сильного стекла",
     "Source": "Compendium"
   },
   {
-    "Description": "Button that seems to fit through any buttonhole",
+    "Description": "Ожерелье, при ношении которого ваши волосы временно становятся седыми",
     "Source": "Compendium"
   },
   {
-    "Description": "Living orange and green frog encased inside a clear stronglass bubble",
+    "Description": "Стакан с небьющимся дном, который всегда выглядит пустым, даже если он полон",
     "Source": "Compendium"
   },
   {
-    "Description": "Necklace that, when worn, temporarily turns your hair grey",
+    "Description": "Окаменевший аномальный осьминог с многочисленными разветвленными руками",
     "Source": "Compendium"
   },
   {
-    "Description": "Unbreakable stemmed glass that always looks empty, even when it’s full",
+    "Description": "Баллончик с жидким топливом, которое превращает всю пыль в воздухе в цвета радуги",
     "Source": "Compendium"
   },
   {
-    "Description": "A petrified anomalous octopus with multiple branched arms",
+    "Description": "Пустая коробка на шарнирах, которая при встряхивании издает звук, как будто она полна камней",
     "Source": "Compendium"
   },
   {
-    "Description": "A can of liquid propellant that turns all dust in the air into rainbow colors",
-    "Source": "Compendium"
-  },
-  {
-    "Description": "An empty hinged box that sounds like it’s full of rocks when shaken",
-    "Source": "Compendium"
-  },
-  {
-    "Description": "A tiny tube that, when blown through, produces small pebbles (and sometimes a surprisingly large rock)",
+    "Description": "Крошечная трубка, если дуть в которую, то образуются мелкие камешки (а иногда и удивительно крупные камни).",
     "Source": "Compendium"
   },
   {
@@ -1288,323 +1280,323 @@
     "Source": "Compendium"
   },
   {
-    "Description": "A bag of small green scales that sometimes seem to mold themselves into a tail",
+    "Description": "Мешочек с маленькими зелеными чешуйками, которые иногда как бы сами собой складываются в хвост.",
     "Source": "Compendium"
   },
   {
-    "Description": "A bizarrely shaped paintbrush that, when licked, becomes coated with a sparkling clear substance that smells like the sea",
+    "Description": "Кисточка причудливой формы, которая при облизывании покрывается сверкающей прозрачной субстанцией, пахнущей морем",
     "Source": "Compendium"
   },
   {
-    "Description": "A tube of lip gloss that temporarily makes the user’s lips invisible",
+    "Description": "Тюбик блеска для губ, который на время делает губы пользователя невидимыми",
     "Source": "Compendium"
   },
   {
-    "Description": "A winged circlet that whispers endlessly about jumping when worn",
+    "Description": "Крылатый браслет, который бесконечно шепчет о прыжках, когда его надевают.",
     "Source": "Compendium"
   },
   {
-    "Description": "A leather headdress that turns your eyes black when worn",
+    "Description": "Кожаный головной убор, при ношении которого глаза становятся черными",
     "Source": "Compendium"
   },
   {
-    "Description": "A small round mirror that reflects nothing during the day and reflects only the moon at night",
+    "Description": "Маленькое круглое зеркало, которое днем ничего не отражает, а ночью отражает только луну, но в близком масштабе",
     "Source": "Compendium"
   },
   {
-    "Description": "A small, ornate bead that adjusts to fit over any diameter of rope or string",
+    "Description": "Маленькая витиеватая бусина, которая изменяет свой размер для верёвки или шнура любого диаметра.",
     "Source": "Compendium"
   },
   {
-    "Description": "A mesh teabag shaped like a star that can be used over and over and never seems to get used up",
+    "Description": "Сетчатый чайный пакетик в форме звезды, который можно использовать снова и снова и который, кажется, никогда не израсходуется",
     "Source": "Compendium"
   },
   {
-    "Description": "A tiny tiara that seems too small for even a newborn baby",
+    "Description": "Крошечная диадема, которая кажется слишком маленькой даже для новорожденного ребенка",
     "Source": "Compendium"
   },
   {
-    "Description": "A tiny synth mouth that spits out words all day long, at random",
+    "Description": "Крошечный синтетический рот, который целыми днями произносит случайные слова",
     "Source": "Compendium"
   },
   {
-    "Description": "A handful of small blue stones that randomly turn into sacs full of water. They appear to be drinkable if you open them while in their liquid state.",
+    "Description": "Горсть маленьких голубых камней, которые случайным образом превращаются в мешочки, наполненные водой. Их можно пить, если открыть, когда они находятся в жидком состоянии.",
     "Source": "Compendium"
   },
   {
-    "Description": "A long-handled spoon that brings everything in it to the perfect eating or drinking temperature",
+    "Description": "Ложка с длинной ручкой, которая доводит все, что в ней находится, до идеальной температуры для еды или питья.",
     "Source": "Compendium"
   },
   {
-    "Description": "A living plant that turns into a different type of edible herb each night",
+    "Description": "Живое растение, которое каждую ночь превращается в разные виды съедобных трав",
     "Source": "Compendium"
   },
   {
-    "Description": "A length of chain that glows blue if touched by sweat or salt water",
+    "Description": "Цепочка, которая светится голубым светом при соприкосновении с потом или соленой водой.",
     "Source": "Compendium"
   },
   {
-    "Description": "A teardrop-shaped bauble that always leans to the south",
+    "Description": "Каплевидная безделушка, которая всегда клонится к югу",
     "Source": "Compendium"
   },
   {
-    "Description": "A leaf pin that gradually turns different colors as time passes",
+    "Description": "Булавка в виде листа, которая с течением времени постепенно приобретает разные цвета",
     "Source": "Compendium"
   },
   {
-    "Description": "A glob of chewing putty that never loses its flavor or texture",
+    "Description": "Кусочек жевательной резинки, которая никогда не теряет своего вкуса и текстуры",
     "Source": "Compendium"
   },
   {
-    "Description": "A slab of petrified wood that glows with a soft green hue",
+    "Description": "Плита окаменевшего дерева, светящаяся мягким зеленым оттенком.",
     "Source": "Compendium"
   },
   {
-    "Description": "A preserved flower that lights up when you blow on it",
+    "Description": "Сохранившийся цветок, который загорается, если на него подуть",
     "Source": "Compendium"
   },
   {
-    "Description": "A 5-foot (2 m) length of string that hangs perfectly horizontal without being tied to anything",
+    "Description": "Струна длиной 1м, которая висит совершенно горизонтально, ни к чему не привязанная",
     "Source": "Compendium"
   },
   {
-    "Description": "Small stone that sings a lullaby in an unknown tongue when you rub your thumb over it",
+    "Description": "Маленький камень, который поет колыбельную на неизвестном языке, когда вы проводите по нему большим пальцем.",
     "Source": "Compendium"
   },
   {
-    "Description": "A small colored-glass sculpture of a bird that flaps its wings in sunlight",
+    "Description": "Небольшая скульптура птицы из цветного стекла, которая хлопает крыльями в солнечном свете",
     "Source": "Compendium"
   },
   {
-    "Description": "A net with holes so large you can’t imagine what it’s designed to capture",
+    "Description": "Сеть с такими большими отверстиями, что невозможно представить, для чего она предназначена.",
     "Source": "Compendium"
   },
   {
-    "Description": "A leather mask that, when worn, causes you to hear meaningless voices in your head",
+    "Description": "Кожаная маска, при ношении которой вы слышите бессмысленные голоса в своей голове.",
     "Source": "Compendium"
   },
   {
-    "Description": "A jar of face paint that starts out black and changes color to match your mood while you wear it",
+    "Description": "Баночка с краской для лица, которая начинается с черного и меняет цвет в соответствии с вашим настроением, пока вы ее носите",
     "Source": "Compendium"
   },
   {
-    "Description": "A feather necklace that seems to attract all small birds in the area to you",
+    "Description": "Ожерелье из перьев, которое, кажется, привлекает к вам всех мелких птиц в округе",
     "Source": "Compendium"
   },
   {
-    "Description": "A small square of cloth that is always clean, cool, and slightly damp",
+    "Description": "Небольшой квадрат ткани, всегда чистый, прохладный и слегка влажный",
     "Source": "Compendium"
   },
   {
-    "Description": "A square of ice 3 inches by 3 inches by 1 inch (8 cm by 8 cm by 3 cm) that never melts, never feels cold, and cools liquids",
+    "Description": "Кубик льда со стороной 5см, который никогда не тает, не чувствует холода и охлаждает жидкости",
     "Source": "Compendium"
   },
   {
-    "Description": "A bit of yeast in an inflatable synth packet that occasionally expands. When placed in the sun for a day, it turns into a fully cooked loaf of bread. If eaten, a new bit of yeast appears inside the packet.",
+    "Description": "Немного дрожжей в надувной синтетической упаковке, которая периодически расширяется. Если положить его на солнце на день, он превращается в полностью готовый хлеб. Если его съесть, внутри пакета появится новая порция дрожжей.",
     "Source": "Compendium"
   },
   {
-    "Description": "A glass pentagonal cupola 2 inches (5 cm) wide that makes one’s hair stand on end if touched",
+    "Description": "Стеклянный пятиугольный купол диаметром 5 см, от прикосновения к которому волосы встают дыбом",
     "Source": "Compendium"
   },
   {
-    "Description": "A self-stick bandage that changes size to fit any wound up to 4 inches (10 cm)",
+    "Description": "Самоклеящаяся повязка, которая меняет размер, чтобы соответствовать любой ране размером до 10 см",
     "Source": "Compendium"
   },
   {
-    "Description": "A pair of black and blue feathers that float on the wind and flap in the presence of varjellens",
+    "Description": "Пара черно-синих перьев, которые развеваются на ветру и хлопают в присутствии варджелленов",
     "Source": "Compendium"
   },
   {
-    "Description": "A handheld rake that scratches only synthetic materials. If used on dirt or rock, it softens in your hands.",
+    "Description": "Ручные грабли, которые царапают только синтетические материалы. При использовании на грязи или камне он размягчается в руках.",
     "Source": "Compendium"
   },
   {
-    "Description": "A piece of strong paper full of written symbols. Every few days, one of the symbols rises off the paper, becoming threedimensional, and disengages from the paper. A new symbol appears on the page to take its place.",
+    "Description": "Лист прочной бумаги, на котором написаны символы. Раз в несколько дней один из символов поднимается с бумаги, становится трехмерным и отсоединяется от нее. На его месте на странице появляется новый символ.",
     "Source": "Compendium"
   },
   {
-    "Description": "A jar full of glitter that always goes back into the jar in the morning, no matter what you used it on",
+    "Description": "Баночка, полная блесток, которые утром всегда возвращаются обратно в баночку, независимо от того, на что вы их использовали",
     "Source": "Compendium"
   },
   {
-    "Description": "A pillow in the shape of a creature’s face that never bites you while you sleep",
+    "Description": "Подушка в виде мордочки существа, которое никогда не укусит вас во время сна",
     "Source": "Compendium"
   },
   {
-    "Description": "A skull of an unknown creature that is covered in ornate tattoos, one of which shows the face of someone you used to know",
+    "Description": "Череп неизвестного существа, покрытый витиеватыми татуировками, на одной из которых изображено лицо человека, которого вы когда-то знали.",
     "Source": "Compendium"
   },
   {
-    "Description": "A small handheld box that projects a series of shadows on a flat surface. The shadows seem to be asking for help.",
+    "Description": "Небольшая переносная коробка, которая проецирует серию теней на плоскую поверхность. Тени словно просят о помощи.",
     "Source": "Compendium"
   },
   {
-    "Description": "A wire sculpture of a flower that releases petals when you blow on it. The petals “grow” back eventually.",
+    "Description": "Проволочная скульптура цветка, который отпускает лепестки, когда вы дуете на него. Со временем лепестки «вырастают» обратно.",
     "Source": "Compendium"
   },
   {
-    "Description": "A crystalline stellated dodecahedron that changes color based on how much numenera is nearby (more numenera makes it redder)",
+    "Description": "Кристаллический звездчатый додекаэдр, который меняет цвет в зависимости от количества нуменеры поблизости (больше нуменеры делает его краснее).",
     "Source": "Compendium"
   },
   {
-    "Description": "A stub of paper with writing on it that says something different to everyone who looks at it",
+    "Description": "Корешок бумаги с надписью, которая говорит что-то свое каждому, кто на нее смотрит",
     "Source": "Compendium"
   },
   {
-    "Description": "A metal bell that releases the scent of animal dung when you ring it",
+    "Description": "Металлический колокольчик, который издает запах навоза животных, когда вы в него звоните.",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth bracelet with a tiny pocket that manufactures potable water every time it rains",
+    "Description": "Синтетический браслет с крошечным карманом, который производит питьевую воду каждый раз, когда идет дождь.",
     "Source": "Compendium"
   },
   {
-    "Description": "A charm bracelet that randomly adds new charms (and occasionally shins)",
+    "Description": "Браслет со множеством разных висячих элементов, которые меняются со временем",
     "Source": "Compendium"
   },
   {
-    "Description": "A soft, big-brimmed hat that sometimes drips water when it’s not raining",
+    "Description": "Мягкая широкополая шляпа, с которой иногда капает вода, когда нет дождя",
     "Source": "Compendium"
   },
   {
-    "Description": "A rolled-up piece of synth that plays music when it gets warm",
+    "Description": "Свернутый кусок гибкого пластика, который играет музыку, когда нагревается",
     "Source": "Compendium"
   },
   {
-    "Description": "A scarf that releases a soothing odor when you’re scared or hurt",
+    "Description": "Шарф, который издает успокаивающий запах, когда вам страшно или больно.",
     "Source": "Compendium"
   },
   {
-    "Description": "A piece of natural stone that, when you press your ear to it, makes noise that sounds like people screaming",
+    "Description": "Кусок натурального камня, который, если прижать к нему ухо, издает шум, похожий на крики людей.",
     "Source": "Compendium"
   },
   {
-    "Description": "A pair of glasses that purr and coo softly when you breathe rapidly",
+    "Description": "Очки, которые нежно мурлычут и воркуют, когда вы быстро дышите.",
     "Source": "Compendium"
   },
   {
-    "Description": "A double-handled mug that appears to be made for nonhuman hands",
+    "Description": "Кружка с двумя ручками, которая, похоже, создана для нечеловеческих рук",
     "Source": "Compendium"
   },
   {
-    "Description": "A fossilized curled shell that sometimes uncurls",
+    "Description": "Окаменевшая свернутая раковина, которая иногда разворачивается.",
     "Source": "Compendium"
   },
   {
-    "Description": "A sticky piece of synth that shows a series of bones and adheres to almost anything",
+    "Description": "Липкий кусок синта, который показывает серию костей и прилипает практически ко всему.",
     "Source": "Compendium"
   },
   {
-    "Description": "A crystal that sometimes attracts living things, such as insects and plants, to its surface. The living things appear to be unharmed, and eventually they are released.",
+    "Description": "Кристалл, который иногда притягивает к своей поверхности живых существ, таких как насекомые и растения. Живые существа кажутся невредимыми, и в конце концов их отпускают.",
     "Source": "Compendium"
   },
   {
-    "Description": "A tiny cage in which different things appear, sometimes living, sometimes not. There appears to be no way to open or break the cage.",
+    "Description": "Крошечная клетка, в которой появляются разные вещи, иногда живые, иногда нет. Кажется, нет способа открыть или сломать клетку.",
     "Source": "Compendium"
   },
   {
-    "Description": "A bit of synth that is full of holes. The holes collect and hold fluid, despite the fact that they go all the way through the material.",
+    "Description": "Кусочек синта с множеством отверстий. Отверстия собирают и удерживают жидкость, несмотря на то, что они проходят через весь материал.",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth star about 3 inches (8 cm) across that allows one to levitate about 1 inch (3 cm) for about three seconds, usable at random intervals (about once a day)",
+    "Description": "Синтетическая звезда около 8 см в поперечнике, позволяющая левитировать на 3 см в течение примерно трех секунд, используемая через случайные промежутки времени (примерно раз в день).",
     "Source": "Compendium"
   },
   {
-    "Description": "A mask with a set of eyes drawn on the outside. The eyes blink rapidly in bright sunlight.",
+    "Description": "Маска с нарисованными снаружи глазами. Глаза быстро моргают при ярком солнечном свете.",
     "Source": "Compendium"
   },
   {
-    "Description": "A heart-shaped piece of synth that you can smoke through, and it always tastes faintly of wood",
+    "Description": "Кусок синта в форме сердца, через который можно курить, и он всегда имеет слабый привкус дерева",
     "Source": "Compendium"
   },
   {
-    "Description": "A pyramid made of heavy metal that always stands straight up from its narrowest end",
+    "Description": "Пирамида из тяжелого металла, которая всегда стоит прямо острым концом вниз",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth ball that perfectly camouflages itself to whatever it’s touching. It turns white when you whistle at it.",
+    "Description": "Синтетический шар, который идеально маскируется под то, к чему прикасается. Он становится белым, когда вы свистите в него.",
     "Source": "Compendium"
   },
   {
-    "Description": "A flexible synth mold of a creature you’ve never seen before, except in your dreams",
+    "Description": "Гибкий синтетический муляж существа, которое вы никогда не видели раньше, разве что в своих снах.",
     "Source": "Compendium"
   },
   {
-    "Description": "A piece of lavarock that is cool to the touch but never stops flowing with bright red lava",
+    "Description": "Кусочек холодного на ощупь лавового камня, который не прекращает переливаться красной лавой",
     "Source": "Compendium"
   },
   {
-    "Description": "A ceramic cup that lights up when it’s full of liquid",
+    "Description": "Керамическая чашка, которая светится, когда наполнена жидкостью",
     "Source": "Compendium"
   },
   {
-    "Description": "A handheld shredder that seems to work only on plants",
+    "Description": "Ручной измельчитель, который, кажется, работает только на растениях",
     "Source": "Compendium"
   },
   {
-    "Description": "A synth flower that stays mostly in bud form but blooms when you place it under certain people’s chins",
+    "Description": "Синтетический цветок, который остается в основном в форме бутона, но расцветает, если подставить его под подбородок некоторых людей.",
     "Source": "Compendium"
   },
   {
-    "Description": "A tiny hose made of rubber that squirms around, as if it’s trying to connect to something",
+    "Description": "Крошечный шланг из резины, который извивается, как будто пытается к чему-то подсоединиться.",
     "Source": "Compendium"
   },
   {
-    "Description": "Two metal rings that sometimes become one",
+    "Description": "Два металлических кольца, которые иногда становятся одним",
     "Source": "Compendium"
   },
   {
-    "Description": "A tiny stuffed seskii doll that growls when you kiss it",
+    "Description": "Миниатюрная мягкая кукла Сескии, которая рычит, когда вы ее целуете.",
     "Source": "Compendium"
   },
   {
-    "Description": "A set of tassels that attach to your clothing and flutter when you’re near someone you love",
+    "Description": "Набор кисточек, которые крепятся к одежде и развеваются, когда вы находитесь рядом с тем, кого любите",
     "Source": "Compendium"
   },
   {
-    "Description": "A set of stick-on nails that were clearly created for someone with much larger hands than a normal human",
+    "Description": "Набор накладных ногтей, которые явно были созданы для человека с руками гораздо больше, чем у обычного человека",
     "Source": "Compendium"
   },
   {
-    "Description": "A stone with a mouth carved into it that sometimes has a pinkish tongue",
+    "Description": "Камень с вырезанным ртом, на котором иногда появляется розоватый язык.",
     "Source": "Compendium"
   },
   {
-    "Description": "A stone snail that grows edible mushrooms instead of a shell",
+    "Description": "Каменная улитка, у которой вместо раковины растут съедобные грибы",
     "Source": "Compendium"
   },
   {
-    "Description": "A black metal box that makes the sound of a broken hound when you shake it",
+    "Description": "Черный металлический ящик, который издает звук ломающейся гончей, когда вы его трясете.",
     "Source": "Compendium"
   },
   {
-    "Description": "Shoes that make the ground ripple like water when the wearer walks",
+    "Description": "Обувь, от которой земля рябит, как вода при ходьбе",
     "Source": "Compendium"
   },
   {
-    "Description": "A mask made of a long jaw and sharp teeth. When you wear it, it makes your tongue numb.",
+    "Description": "Маска из длинной челюсти и острых зубов. Когда вы ее надеваете, у вас немеет язык",
     "Source": "Compendium"
   },
   {
-    "Description": "A jar of oil that, when spread on metal, makes the metal glow with a faint radiance",
+    "Description": "Банка с маслом, которое, будучи нанесенным на металл, заставляет его светиться слабым сиянием",
     "Source": "Compendium"
   },
   {
-    "Description": "Metal boots that sizzle and steam as if very hot, although their temperature is normal",
+    "Description": "Металлические ботинки, которые шипят и исходят паром, как будто очень горячие, хотя их температура нормальная",
     "Source": "Compendium"
   },
   {
-    "Description": "Metal wristband that smells strongly of sugar",
+    "Description": "Металлический браслет, сильно пахнущий сахаром",
     "Source": "Compendium"
   },
   {
-    "Description": "Rhomboid of solid stone that sometimes turns to liquid, but always reforms",
+    "Description": "Ромбоид из твердого камня, который иногда превращается в жидкость, но всегда восстанавливается",
     "Source": "Compendium"
   },
   {
-    "Description": "Glowing, 6-inch (15 cm) elongated teardrop made of synth that seems to have no weight and very little substance",
+    "Description": "Светящаяся вытянутая капля из синта длиной 15 см, которая, кажется, не имеет веса и очень мало вещества",
     "Source": "Compendium"
   }
 ]
