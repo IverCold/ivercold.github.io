@@ -99,6 +99,10 @@ img {
   width: inherit;
 }
 
+button {
+  padding: 2px;
+}
+
 table{
   text-align: center;
 }
