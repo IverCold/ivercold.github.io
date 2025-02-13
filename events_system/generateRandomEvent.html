@@ -27,82 +27,22 @@
     <main>
         <div class="container">
             <div>
-                <p>Кидается на каждые 7 часов хода, плюс один на ночь - всего 4.<br>
-                    В случае 16-20 что-то происходит, и кидается д20 на типа события:</p>
-
-                <table border="1" cellspacing="0" cellpadding="4">
-                    <thead>
-                        <th>Утро</th>
-                        <th>Полдень</th>
-                        <th>Вечер</th>
-                        <th>Ночь</th>
-                    </thead>
-
-                    <tbody style="height: 30px;">
-                        <td id="morning"></td>
-                        <td id="midday"></td>
-                        <td id="evening"></td>
-                        <td id="night"></td>
-                    </tbody>
-                </table>
-                <br>
-                <button id="rolld20_for4phases">Roll d20</button>
-
-                <br>
-                <br>
-
-
-                <table border="1" cellspacing="0" cellpadding="4">
-                    <thead>
-                        <th>D20</th>
-                        <th>Type</th>
-                    </thead>
-                    <tbody>
-                        <tr>
-                            <td>1-10</td>
-                            <td>Creature</td>
-                        </tr>
-                        <tr>
-                            <td>11-20</td>
-                            <td>Encounter</td>
-                        </tr>
-                    </tbody>
-                </table>
-                <br>
-                <button id="rolld20_button">Roll d20</button>
-                &nbsp;<span id="d20result"></span>
+                <p>Новый гекс - флип монетки 50/50</p>
+                <button id="flip_coin">Flip coin</button>
+                <span id="coin_result"></span>
             </div>
-            <br>
-
-            <div>
-                <h3>Creatures</h3>
-                <form id="generate_creature_form" class="radio_form">
-                    <input type="radio" name="creature_terrain" value="RuinsUnderground" />Ruins/Underground<br>
-                    <input type="radio" name="creature_terrain" value="PlainsHills" checked="true" />Plains/Hills<br>
-                    <input type="radio" name="creature_terrain" value="Desert" />Desert<br>
-                    <input type="radio" name="creature_terrain" value="Woods" />Woods<br>
-                    <input type="radio" name="creature_terrain" value="Mountains" />Mountains<br>
-                    <input type="radio" name="creature_terrain" value="Swamp" />Swamp<br>
-                    <input type="radio" name="creature_terrain" value="Dimensions" />Dimensions<br>
-                    <input type="radio" name="creature_terrain" value="Water" />Water<br>
-                </form>
-
-                <button id="generate_creature_button">Generate Creature</button>
-                <br><br>
-                <div id="creature">
-                </div>
-            </div>
-            <br>
 
             <div>
                 <h3>Encounters</h3>
                 <form id="generate_encounter_form" class="radio_form">
+                    <input type="checkbox" id="encounter_woods_only"> <label for="woods_only">Только лес, без равнин</label><br>
+                    <input type="checkbox" id="encounter_phenomenon"> <label for="phenomenon">Феномен</label><br><br>
+
                     <input type="radio" name="encounter_terrain" value="PlainsHills" checked="true" />Plains/Hills<br>
                     <input type="radio" name="encounter_terrain" value="Desert" />Desert<br>
                     <input type="radio" name="encounter_terrain" value="Woods" />Woods<br>
                     <input type="radio" name="encounter_terrain" value="Mountains" />Mountains<br>
                     <input type="radio" name="encounter_terrain" value="Swamp" />Swamp<br>
-                    <input type="radio" name="encounter_terrain" value="Camp" />Camp<br>
                 </form>
 
                 <button id="generate_encounter_button">Generate Encounter</button>
@@ -110,6 +50,48 @@
                 <div id="encounter">
                 </div>
             </div>
+            <hr>
+            <div>
+                <h3>Camp</h3>
+                <form id="generate_camp_event_form" class="radio_form">
+                    <input type="checkbox" id="camp_woods_only"> <label for="camp_woods_only">Только лес, без равнин</label><br><br>
+
+                    <input type="radio" name="camp_event_terrain" value="PlainsHills" checked="true" />Plains/Hills<br>
+                    <input type="radio" name="camp_event_terrain" value="Desert" />Desert<br>
+                    <input type="radio" name="camp_event_terrain" value="Woods" />Woods<br>
+                    <input type="radio" name="camp_event_terrain" value="Mountains" />Mountains<br>
+                    <input type="radio" name="camp_event_terrain" value="Swamp" />Swamp<br>
+                </form>
+
+                <button id="generate_camp_event_button">Generate Camp Event</button>
+                <br><br>
+                <div id="camp_event">
+                </div>
+            </div>
+            <hr>
+            <div>
+                <h3>Creatures</h3>
+                <form id="generate_creature_form" class="radio_form">
+                    <input type="checkbox" id="all_creatures"> <label for="all_creatures">Все существа (не только "UsedInRandom")</label><br><br>
+
+                    <input type="radio" name="creature_terrain" value="RuinsUnderground" checked="true"/>Ruins/Underground<br>
+                    <input type="radio" name="creature_terrain" value="PlainsHills"/>Plains/Hills<br>
+                    <input type="radio" name="creature_terrain" value="Desert" />Desert<br>
+                    <input type="radio" name="creature_terrain" value="Woods" />Woods<br>
+                    <input type="radio" name="creature_terrain" value="Mountains" />Mountains<br>
+                    <input type="radio" name="creature_terrain" value="Swamp" />Swamp<br>
+                    <input type="radio" name="creature_terrain" value="Dimensions" />Dimensions<br>
+                    <input type="radio" name="creature_terrain" value="Water" />Water<br>
+                </form>
+                
+                <button id="generate_creature_button">Generate Creature</button>
+                <br><br>
+                <div id="creature">
+                </div>
+            </div>
+            <br>
+            
+
         </div>
     </main>
     <footer>

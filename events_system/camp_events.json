@@ -1,0 +1,362 @@
+[
+  {
+    "Description": "Неподалеку заметны кустики с цветами разного цвета. От них доносится слабая мелодия.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "На привале не чувствуется ветра, но крона одного дерева неподалеку шумит так, как будто бы сквозь неё дует ветер.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Персонажи замечают, что часть цветов и деревьев вокруг как будто бы расплавлены. Хотя температура воздуха нормальная.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Персонаж замечает неподалеку камни с небольшими кружочками. При нажатии они отодвигаются и внутри оказывается небольшой туннель. Если продолжать исследовать камни, то из одного из них выскочит стержень, который стремительно начнет краснеть.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false
+  },
+  {
+    "Description": "Неподалеку видно муравьиное гнездо. Через какое-то время привала персонажи замечают, что муравьи сформировали лицо одного из них.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Феномен. Рядом с привалом появляется небольшое облако тумана - оно начинает тянуться к персонажам. Но ничего больше не происходит.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "Персонажи встречают (или разбивают лагерь) рядом с небольшим озером. Но к воде в нём невозможно прикоснуться - она отодвигается от любой попытки.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Камни вокруг привала периодически сильно вибрируют.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false
+  },
+  {
+    "Description": "Среди деревьев возле привала можно заметить, что некоторые выглядят прямо как люди с лицами, руками, ногами.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false
+  },
+  {
+    "Description": "Грязь недалеко от лагеря начинает проявлять интерес к снаряжению персонажей.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Большой камень рядом с привалом неожиданно открывает рот и начинает произносить незнакомые слова.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false
+  },
+  {
+    "Description": "Рядом с привалом есть камень. От него вкусно пахнет. Если облить его водой, то он образует сладкую вату.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false
+  },
+  {
+    "Description": "Неподалёку от лагеря обнаруживается озеро, но вместо воды в нём оказывается силикон (синт).",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "На этом привале ощущение, что все говорят и действуют несколько быстрее, чем обычно.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "Рядом с привалом кусты с ягодами. Если их сорвать, то куст начинает издавать звуки плачущего младенца.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "В какой-то момент на привале персонаж наступает на гнездо с яйцами и из них вылетают маленькие комки света.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "Птицы рядом с привалом телепортируются вместо того, чтобы перелетать от ветке к ветке.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Рядом с привалом есть грибы, у каждого из которых есть глаз.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Растения вокруг плавают в пузырях.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "После установки лагеря ветер начинает резко менять направление из одной стороны в другую, что сильно нервирует.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false
+  },
+  {
+    "Description": "Вокруг множество осколков металла и каких-то зданий. Всё заросло растениями, которые оплели руины.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Дерево начинает разговаривать с персонажами на незнакомом языке. Но быстро приспосабливается к их языку. Оказывается что оно очень древнее, но слабо заинтересовано в окружающем мире.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "На привале можно обнаружить слегка закопанный небольшой случайный сайфер. Проверка Восприятия.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "Вокруг множество луж темно-красного цвета. Но ничего больше.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "На персонажей выходит небольшое животное, которое начинает с ними разговаривать. Постепенно оказывается, что оно думает, что они нереальны и лишь проекция мозга",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "К вечеру оказывается, что деревья вокруг привала помигивают красным.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Неподалёку от лагеря обнаруживается озеро, которое показывает мысли всех, кто рядом.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": false,
+    "Mountains": false,
+    "Swamp": false
+  },
+  {
+    "Description": "Камни и растения вокруг привала изменили своё положение за ночь",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "К лагерю персонажей выходит небольшая стая лисиц. Все они голограммы.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Мимо лагеря персонажей проплывает сфера со множеством глаз. Но ничего интересного.",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "В лесу персонажи встречают лагерь с мёртвыми телами. Обследование заражает одного из персонажей. Червь будет отравлять жизнь какое-то время, пока персонаж не обнаружит его. Flesh Pup (Bestiary)",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Персонажи просыпаются, обнаруживая, что прошло более 10 часов. У них у всех есть странные метки и раны в виде кругов вокруг головы. Никто не может вспомнить почему. Единственная зацепка - сайфер телепортации. Это существо Bithyran (Bestiary 2).",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "Персонажи обнаруживают небольшую стоянку. Все люди в ней представляют из себя мёртвые тела чёрного цвета, который поглощает свет. Их атакует Carnivorous Color (Bestiary 2).",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "В небе происходят вспышки энергии и на персонажей спускаются Faradawk (Bestiary 2), которым приглянулись устройства с энергией.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false
+  },
+  {
+    "Description": "Камни рядом за ночь покрылись фиолетовыми кристаллами. Это Gaphelin (Bestiary 2)",
+    "PlainsHills": false,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false
+  },
+  {
+    "Description": "Вечером или ночью появляется странная сфера, которая проносится сквозь каждого персонажа. Если ей не мешать, то она просто возьмёт сэмплы (нанеся 1 урон в Здоровье и атаку страхом 8) и полетит дальше. Это Gevanic (Bestiary 2)",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Ночью к лагерю прилетают слабо-светящиеся шары. Утром персонажи обнаруживают, что часть их снаряжения не хватает. Это Imorphin Gonoph (Bestiary 2). Он ворует вещи.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": true
+  },
+  {
+    "Description": "Лагерь поставлен успешно (или нет). Но в этой области в какой-то момент поднимается куча мошкары. Это Jacentwing (Bestiary 2).",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "В лагере появляется запах хлеба со специями. Лагерь оказывается поставлен рядом с обломками руин, где обитает Moilt (Besitary 2)",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "В поисках места для ночлега персонажи натыкаются на двухкомнатный домик. На самом деле это Nibovian Domicile (Bestiary 2)",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": true,
+    "Swamp": false
+  },
+  {
+    "Description": "Ночью на одного из персонажей залазит Phasic (Bestiary 2). Если нет стражи, то он вытаскивает волю до нуля. Если стража есть, то его можно заметить. Но не сразу в силу фазирования.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": false
+  },
+  {
+    "Description": "Ночью к одному из персонажей приходит умирающий Quover (Bestiary 2). Он переносится в разум персонажа, чтобы потихоньку его направлять, чтобы найти более подходящее тело.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Ночью у персонажей пропадает один из артефактов или сайферов. Это Reconstructor (Bestiary 2). Если сразу это не было замечено, то утром по следам можно прийти к улею таких автоматонов.",
+    "PlainsHills": true,
+    "Desert": true,
+    "Woods": false,
+    "Mountains": true,
+    "Swamp": false
+  },
+  {
+    "Description": "Персонажи расположились на достаточно удобной и мягкой подстилки. Часть этой подстилки на самом деле - это Somenal (Bestiary 2).",
+    "PlainsHills": true,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  },
+  {
+    "Description": "Персонажи поставили лагерь в лесу рядом с большим и красивым скоплением кристаллов. На самом деле это Stheed (Bestiary 2), которые хотят, чтобы персонажи уснули от их незаметного запаха.",
+    "PlainsHills": false,
+    "Desert": false,
+    "Woods": true,
+    "Mountains": false,
+    "Swamp": true
+  }
+]
