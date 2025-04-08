@@ -2510,15 +2510,15 @@
   },
   {
     "Forms": [
-      "Living fish",
-      "Beetle",
-      "Or worm that must be ingested"
+      "Живая рыба",
+      "Жук",
+      "Червяк"
     ],
     "Name": "Amplification Parasite",
-    "NameRu": "",
-    "Level": "1d6 + 4",
-    "Effect": "Upon eating the parasite, the user chooses one stat and the GM chooses a different stat. The difficulty of any roll related to the user’s chosen stat is reduced by two steps, and the difficulty of any roll involving the GM’s chosen stat is increased by two steps. The parasite dies after 1d6 hours, and the effect ends when the user violently expels it from her body.",
-    "Categories": "Utility",
+    "NameRu": "Паразит усиления",
+    "Level": "1d6 + 2",
+    "Effect": "При поедании паразита пользователь выбирает одну характеристику и Мастер другую. Броски с выбранной пользователем характеристикой получают +1д12, а Мастером -3. Эффект заканчивается через 1д6 часов, когда паразит умирает. Он выходит из тела в виде кала, когда пользователь его переварит.",
+    "Categories": "Enhancements (Attributes)",
     "Source": "Compendium"
   },
   {
@@ -2835,9 +2835,9 @@
       "Капсула"
     ],
     "Name": "Blood Boiler",
-    "NameRu": "",
+    "NameRu": "Нагреватель крови",
     "Level": "1d6 + 1",
-    "Effect": "Causes an increase in blood flow to any stimulated body parts. Adds 1 to Might Edge for one hour.",
+    "Effect": "Позволяет прикладывать Усилие до максимума Здоровья, а не до его текущего значения. Действует 1 час.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -3579,10 +3579,10 @@
       "Пусковая установка, установленная на руке или плече (средняя дистанция)"
     ],
     "Name": "Deployer (Atmospheric)",
-    "NameRu": "",
-    "Level": "1d6",
-    "Effect": "Once initiated, the device collects the most widely available atmospheric aerosols within long range (such as drit dust, water droplets, pollen, bacteria, or smoke). It brings those aerosols together in a whirling tornado that centers around the device itself. Anything in close range of the tornado takes damage equal to the cypher level. Deployers are complex numenera devices that are almost always fashioned rather than cobbled or scavenged. Their main purpose is to simplify the process of arranging or moving things strategically for the user. Deployers can arrange everything from cells and light waves to sentient, living creatures into specific, complicated patterns and reactions. Think of them as a Ninth World equivalent of an app— someone else has done all the complicated coding for you, and all you have to do is push a button or pop a pill.",
-    "Categories": "Utility",
+    "NameRu": "Развёртыватель (Атмосфера)",
+    "Level": "1d6 + 1",
+    "Effect": "После запуска устройство собирает наиболее доступные атмосферные аэрозоли в радиусе действия (например, пыльцу, капли воды, пыльцу, бактерии или дым). Он собирает эти аэрозоли в вихревое торнадо, которое концентрируется вокруг самого устройства. Все, что находится на ближней дистанции от торнадо, получает удар [DeviceLevel x 2], урон 1 (тупая травма). Развертыватели - это сложные устройства, которые почти всегда создаются, а не собираются на ходу или извлекаются. Их основная задача - упростить для пользователя процесс стратегического размещения или перемещения предметов. Развертыватели могут организовать все - от клеток и световых волн до разумных живых существ - в определенные, сложные схемы и реакции. Думайте о них как об эквиваленте приложения в Девятом мире - кто-то другой выполнил за вас всю сложную работу по программированию, и вам остается только нажать на кнопку или выпить таблетку.",
+    "Categories": "Detonations",
     "Source": "Compendium"
   },
   {
@@ -3590,24 +3590,24 @@
       "Портативное устройство"
     ],
     "Name": "Deployer (Hypersound)",
-    "NameRu": "",
+    "NameRu": "Развёртыватель (Гиперзвук)",
     "Level": "1d6",
-    "Effect": "Once initiated, the device causes all audible sound waves within long range to gather in a single wave of inaudible hypersound. This wave then carries the sound directly to the ears of the user, allowing him to hear everything while at the same time creating absolute silence for everyone else in long range. Deployers are complex numenera devices that are almost always fashioned rather than cobbled or scavenged. Their main purpose is to simplify the process of arranging or moving things strategically for the user. Deployers can arrange everything from cells and light waves to sentient, living creatures into specific, complicated patterns and reactions. Think of them as a Ninth World equivalent of an app— someone else has done all the complicated coding for you, and all you have to do is push a button or pop a pill.",
+    "Effect": "После включения устройство заставляет все слышимые звуковые волны в границах средней дистанции собираться в одну волну неслышимого гиперзвука. Эта волна доносит звук прямо до ушей пользователя, позволяя ему слышать все, и в то же время создавая абсолютную тишину для всех остальных в радиусе действия. Развертыватели - это сложные устройства, которые почти всегда создаются, а не собираются на ходу или извлекаются. Их основная задача - упростить для пользователя процесс стратегического размещения или перемещения предметов. Развертыватели могут организовать все - от клеток и световых волн до разумных живых существ - в определенные, сложные схемы и реакции. Думайте о них как об эквиваленте приложения в Девятом мире - кто-то другой выполнил за вас всю сложную работу по программированию, и вам остается только нажать на кнопку или выпить таблетку.",
     "Categories": "Sound/Sonic Devices",
     "Source": "Compendium"
   },
   {
     "Forms": [
-      "Needle projector",
-      "Blow gun (short range)",
+      "Проектор для игл",
+      "Духовой пистолет (ближняя дистанция)",
       "Инжектор",
       "Таблетка"
     ],
     "Name": "Deployer (Muscular)",
-    "NameRu": "",
+    "NameRu": "Развёртыватель (Мускулы)",
     "Level": "1d6",
-    "Effect": "Once the material enters a living body, it begins to rearrange the skeletal muscle tissue of the creature in an orderly fashion to allow muscles to be used at their maximum capacity. For the next ten minutes, the difficulty of all Speed-based tasks (including Speed defense) is decreased by one step. Deployers are complex numenera devices that are almost always fashioned rather than cobbled or scavenged. Their main purpose is to simplify the process of arranging or moving things strategically for the user. Deployers can arrange everything from cells and light waves to sentient, living creatures into specific, complicated patterns and reactions. Think of them as a Ninth World equivalent of an app— someone else has done all the complicated coding for you, and all you have to do is push a button or pop a pill.",
-    "Categories": "Enhancements (Speed)",
+    "Effect": "Как только материал в дротике входит в живое тело, он перестраивает мышечную ткань так, что она используется на пределе. Следующие 10 минут все навыки связанные с Ловкостью получают +1д10. Стрельба из оружия Дальнего боя получает этот бонус только если требует быстрого движения рук. Развертыватели - это сложные устройства, которые почти всегда создаются, а не собираются на ходу или извлекаются. Их основная задача - упростить для пользователя процесс стратегического размещения или перемещения предметов. Развертыватели могут организовать все - от клеток и световых волн до разумных живых существ - в определенные, сложные схемы и реакции. Думайте о них как об эквиваленте приложения в Девятом мире - кто-то другой выполнил за вас всю сложную работу по программированию, и вам остается только нажать на кнопку или выпить таблетку.",
+    "Categories": "Enhancements (Attributes)",
     "Source": "Compendium"
   },
   {
@@ -3615,9 +3615,9 @@
       "Портативное устройство"
     ],
     "Name": "Deployer (Optical)",
-    "NameRu": "",
+    "NameRu": "Развёртыватель (Оптический)",
     "Level": "1d6",
-    "Effect": "Once initiated, the device manipulates the path of electromagnetic radiation through specific parts of the light spectrum. In doing so, it shields the user from view, essentially rendering her invisible, for one hour. Deployers are complex numenera devices that are almost always fashioned rather than cobbled or scavenged. Their main purpose is to simplify the process of arranging or moving things strategically for the user. Deployers can arrange everything from cells and light waves to sentient, living creatures into specific, complicated patterns and reactions. Think of them as a Ninth World equivalent of an app— someone else has done all the complicated coding for you, and all you have to do is push a button or pop a pill.",
+    "Effect": "После запуска устройство манипулирует траекторией электромагнитного излучения в определенных частях светового спектра. При этом оно скрывает пользователя от посторонних глаз, делая его невидимым на один час. Развертыватели - это сложные устройства, которые почти всегда создаются, а не собираются на ходу или извлекаются. Их основная задача - упростить для пользователя процесс стратегического размещения или перемещения предметов. Развертыватели могут организовать все - от клеток и световых волн до разумных живых существ - в определенные, сложные схемы и реакции. Думайте о них как об эквиваленте приложения в Девятом мире - кто-то другой выполнил за вас всю сложную работу по программированию, и вам остается только нажать на кнопку или выпить таблетку.",
     "Categories": "Enhancements (Stealth)",
     "Source": "Compendium"
   },
@@ -4960,15 +4960,15 @@
   },
   {
     "Forms": [
-      "Small transparent panel",
+      "Маленькая переносная панель",
       "Контактные линзы",
       "Монокль",
       "Очки"
     ],
     "Name": "Health Viewer",
-    "NameRu": "",
+    "NameRu": "Просмотрщик здоровья",
     "Level": "1d6",
-    "Effect": "Allows the user to see through clothing and skin to view a creature’s insides. Lead blocks the special vision. The user can use this ability as an asset for any healing-related tasks. Once activated, the cypher functions for ten minutes.",
+    "Effect": "Позволяют пользователю видеть сквозь кожу внутренние органы и кости существа. Свинцовые части блокируют взор. Это даёт {+д8|+д10} на проверку Медицины для спасения жизни. После активации сайфер функционирует 10 минут.",
     "Categories": "Healing Devices",
     "Source": "Compendium"
   },
@@ -6374,10 +6374,10 @@
       "Капсула"
     ],
     "Name": "Nevermind",
-    "NameRu": "",
+    "NameRu": "Отсутствие разума",
     "Level": "1d6 + 2",
-    "Effect": "The wearer’s mind can’t be telepathically sensed or contacted for 28 hours. If the wearer has telepathic abilities or psychic attacks, they’re inaccessible. On the other hand, during this period, defense rolls against all kinds of psychic and mental attacks are modified by two steps to the wearer’s benefit.",
-    "Categories": "Utility",
+    "Effect": "Пользователь теряет возможность использовать телепатические способности или психические атаки, но при этом его разум нельзя обнаружить или наладить с ним контакт, а его защита против психического/ментального воздействия получают +1д12.",
+    "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
@@ -6851,13 +6851,13 @@
     "Forms": [
       "Портативный проектор",
       "Браслет-проектор",
-      "Headband projector",
-      "Shoulder- or arm-mounted launcher (long range)"
+      "Проектор на головной повязке",
+      "Пусковая установка, установленная на руке или плече (средняя дистанция)"
     ],
     "Name": "Pyrolytic Pulser",
-    "NameRu": "",
+    "NameRu": "Пиролитический пульсатор",
     "Level": "1d6 + 2",
-    "Effect": "Sends out a series of rapid-fire encapsulated heat pellets up to 200 feet (61 m). The pellets burst into flame upon contact, causing disintegration damage equal to the cypher level to all creatures within immediate range of the explosion.",
+    "Effect": "Выбрасывает быструю серию из кусочков энкапсулированного огня на расстояние 50 метров (3 зоны). Кусочки взрываются при контакте, нанося повреждения дезинтеграцией всем существам в нулевой дистанции от взрыва. Атака [DeviceLevel x 2] с уроном 2 (энергия).",
     "Categories": "Ray Projectors, Weapons (Ranged)",
     "Source": "Compendium"
   },
@@ -6917,10 +6917,10 @@
       "Пусковая установка, установленная на руке или плече (средняя дистанция)"
     ],
     "Name": "Ray Emitter (Molecular Rearrangement)",
-    "NameRu": "",
+    "NameRu": "Излучатель (Молекулярная перестройка)",
     "Level": "1d6 + 3",
-    "Effect": "Emits a ray that causes random molecular rearrangement on a small scale. The ray inflicts damage equal to the cypher level at a range of 200 feet (61 m). Wounds inflicted on living creatures are twisted and bizarre, with tissue literally turned into another substance, another state (liquid or gas), or even energy. Damage to inorganic objects is similarly strange.",
-    "Categories": "Utility",
+    "Effect": "Создаёт луч, который запускает случайную молекулярную перестройку в малом размере. Луч наносит удар [DeviceLevel x 2] с уроном 2 (энергия) на расстоянии в 50 метров (3 зоны). Наносимые живым существам раны странные и безумные, материал буквально превращается в другой вид материи, состояние или даже энергию. Урон неживым объектам также необычен.",
+    "Categories": "Ray Projectors, Weapons (Ranged)",
     "Source": "Compendium"
   },
   {
@@ -7486,18 +7486,17 @@
   },
   {
     "Forms": [
-      "Disposable goggles",
-      "Glasses",
-      "Glass contact lenses",
-      "Full face mask with special lenses",
-      "Eye drops",
-      "Eye injector",
-      "Eye smear"
+      "Одноразовые очки",
+      "Очки",
+      "Стеклянные контактные линзы",
+      "Полноценная маска со специальными линзами",
+      "Глазные капли",
+      "Глазной инжектор"
     ],
     "Name": "Snow Lens",
-    "NameRu": "",
+    "NameRu": "Снежные линзы",
     "Level": "1d6",
-    "Effect": "Protects wearer from snowblindness, extremely bright light, and other light- or vision-based damage. User gains +1 to Armor against these types of attacks for 28 hours.",
+    "Effect": "Защищает пользователя от ослепления снегом или слишком ярким светом, а также защищает от урона основанного на свете или зрении. Даёт {+2|+3} брони против таких атак на 28 часов.",
     "Categories": "Protection (General)",
     "Source": "Compendium"
   },
