@@ -1436,7 +1436,7 @@
     "Name": "Sheen",
     "NameRu": "Глянец",
     "Level": "1d6",
-    "Effect": "В течение следующей недели клетки пользователя покрываются защитным слоем, который сопротивляется урону. Это даёт {+2|+3} к броне и +д8 на броски Выносливости. Однако сайфер затрудняет исцеление; на восстановление 1 пункта Здоровья и Воли нужно два часа.",
+    "Effect": "В течение следующей недели клетки пользователя покрываются защитным слоем, который сопротивляется урону. Это даёт {+2|+3} к броне и +д8 на броски Выносливости. Однако сайфер затрудняет исцеление; на восстановление Здоровья и Воли нужно два Периода.",
     "Categories": "Protection (General)",
     "Source": "Discovery"
   },
@@ -1870,8 +1870,8 @@
     ],
     "Name": "Ablative Thrower",
     "NameRu": "Защитный распылитель",
-    "Level": "1d6 + 3",
-    "Effect": "При активации существа на ближней дистанции покрываются тонким слоем мателлических нано-частиц, которые покрывают их одежду (но не кожу), усилия негибки части, давая +2 к броне. Эффект длится один час.",
+    "Level": "1d6 + 2",
+    "Effect": "При активации существа на ближней дистанции покрываются тонким слоем металлических нано-частиц, которые покрывают их одежду (но не кожу), усиливая негибкие части, давая {+2|+3} к броне. Эффект длится один час.",
     "CommunityEffect": "If the use is coordinated with attackers who make up a community’s or horde’s combat force, the force is treated as a defensive horde during that community action.",
     "Categories": "Protection (Armor), Communities",
     "Source": "Destiny"
@@ -2132,12 +2132,12 @@
   },
   {
     "Forms": [
-      "Громоздкий амулет"
+      "Амулет с цепочкой"
     ],
     "Name": "Instant Item",
-    "NameRu": "",
+    "NameRu": "Быстрый предмет",
     "Level": "1d6",
-    "Effect": "This cypher has a two-stage activation. The first stage occurs when the wearer keys an object that they can hold in one hand to the cypher. The object falls into a subspace pocket and remains indefinitely or until a user activates the cypher a second (and final) time, immediately retrieving the stored item.",
+    "Effect": "Этот сайфер имеет двухэтапную активацию. На первом этапе пользователь прикрепляет к сайферу объект, который он может держать одной рукой. Объект оказывается в карманном подпространстве, где он остаётся до бесконечности или до тех пор, пока пользователь не активирует сайфер второй (и последний) раз, мгновенно возвращая объект. Вес объекта не имеет значения. Если объект был сайфером, то он перестаёт учитываться в лимите сайферов персонажа.",
     "Categories": "Utility",
     "Source": "Destiny"
   },
@@ -3448,12 +3448,12 @@
   },
   {
     "Forms": [
-      "Hourglass-shaped synth device with a ring around the center"
+      "Синтетическое устройство в форме песочных часов с кольцом вокруг центра"
     ],
     "Name": "Data Vault",
-    "NameRu": "",
+    "NameRu": "Хранилище данных",
     "Level": "1d6 + 2",
-    "Effect": "The device scans one object (chosen by the user) that can fit inside a 10-foot (3 m) cube and is within a short distance. The object then dissolves, its substance drawn into the device. Activating the device again causes it to create an identical copy of the object using solidified light at an open spot within a short distance.",
+    "Effect": "Устройство сканирует один объект (выбранный пользователем), который может поместиться в {3|6} м кубе и находится на ближней дистанции. Затем объект растворяется, а его вещество втягивается в устройство. Повторная активация устройства заставляет его создать идентичную копию объекта с помощью застывшего света в открытом месте на ближней дистанции. Сканирование занимает два раунда. Сканируемый объект должен не двигаться. Данные объекта хранятся неограниченное количество времени.",
     "Categories": "Hard Light Devices",
     "Source": "Compendium"
   },
@@ -5428,9 +5428,9 @@
       "Взрывное устройство"
     ],
     "Name": "Light Binder",
-    "NameRu": "",
-    "Level": "1d6 + 4",
-    "Effect": "Two rounds after activation, the device explodes in a short radius. All light in the area (any place in the area illuminated by light or dim light) becomes solid, trapping everything in the area in place for one minute. Nothing in the area can move, and nothing from outside the area can enter it until the effect ends. Rendering any area dark, such as by blocking a source of light, firees anything in the darkness that was affected by the device.",
+    "NameRu": "Захват света",
+    "Level": "1d6 + 2",
+    "Effect": "Через {1 раунд|2 раунда} после активации устройство взрывается в рамках одной зоны. Весь свет в зоне (в любом месте, где зона освещена хотя бы слабым светом) становится твёрдым, захватывая всё, что было в зоне на одну минуту. Ничего в зоне не может двигаться, и ничего вне зоны не может попасть в неё до тех пор, пока эффект не закончится. Погружение зоны в темноту (например, блокированием источника света) освобождает всё, что было в ней захвачено.",
     "Categories": "Hard Light Devices",
     "Source": "Compendium"
   },
@@ -6827,12 +6827,12 @@
   },
   {
     "Forms": [
-      "Liquid in a metal or glass canister"
+      "Жидкость в металлиской или стеклянной канистре"
     ],
     "Name": "Purity",
-    "NameRu": "",
+    "NameRu": "Чистая жидкость",
     "Level": "1d6",
-    "Effect": "Pouring the canister’s contents into another liquid or onto solid material instantly eradicates any toxins, poisons, diseases, or other contaminants in that liquid or material. The purity liquid also prevents the target from being contaminated by such things for 28 hours.",
+    "Effect": "Если вылить содержимое канистры в другую жидкость или на твердый материал, то она мгновенное уничтожаете все токсины, яды, болезни и другие загрязнения (включая гниль), содержащиеся в этой жидкости или материале. Их уровень не должен превышать уровень сайфера умноженный на 2. Чистая жидкость также предотвращает заражение цели в течение 28 часов.",
     "Categories": "Protection (General)",
     "Source": "Compendium"
   },
@@ -7725,13 +7725,13 @@
   },
   {
     "Forms": [
-      "Unfolding synth harness"
+      "Раскладывающаяся упряжь"
     ],
     "Name": "Stronghold",
-    "NameRu": "",
+    "NameRu": "Опора",
     "Level": "1d6",
-    "Effect": "Allows the user to lift and carry twice as much weight as normal with minimal exertion for one hour.",
-    "Categories": "Enhancements (Might)",
+    "Effect": "В течение 1 периода позволяет пользователю поднимать и переносить в два раза больше веса, чем обычно",
+    "Categories": "Enhancements (Might), Utility",
     "Source": "Compendium"
   },
   {

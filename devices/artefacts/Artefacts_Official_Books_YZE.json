@@ -3645,12 +3645,12 @@
     "Source": "Priests of the Aeons"
   },
   {
-    "Form": "Synth or glass stylus",
-    "Depletion": "1 in 1d100 (check each hour of use)",
+    "Form": "Синтетический или стеклянный стилус",
+    "Depletion": "1 на 1d100 (проверка каждый час работы)",
     "Name": "Synth Ink Pen",
-    "NameRu": "",
+    "NameRu": "Карандаш с чернилами из синта",
     "Level": "1d6",
-    "Effect": "When used like a pencil, the artifact creates lines of thin synth on surfaces, which can be built up like a lattice to create three-dimensional structures. A single strand of fabricated synth is flexible but sturdy for its thickness, and multiple strands together are about the equivalent strength and flexibility of soft wood (a level 1 material). Most of these pens can create three or four different colors of synth. If the artifact is level 4 or higher, it can also produce thin strands of soft metal, allowing a skilled user to create complex objects (like circuit boards) by mixing synth and metal strands. The artifact is an asset for appropriate crafting tasks.",
+    "Effect": "Если использовать артефакт как карандаш, то он создает на поверхности линии из тонкого синта, которые можно выстраивать как решетку, создавая трехмерные структуры. За один раунд создаётся 50 см нити. Отдельный отрезок синтетической нити гибкий, но прочный для своей толщины, а несколько нитей вместе примерно эквивалентны по прочности и гибкости мягкой древесине. Большинство таких перьев могут создавать три или четыре разных цвета синта. Если артефакт имеет уровень 5 или выше, он также может создавать тонкие нити мягкого металла, позволяя опытному пользователю создавать сложные объекты (например, печатные платы) путем смешивания нитей синта и металла. Артефакт даёт бонус +д10, если он может быть полезен в создании чего-либо.",
     "Categories": "Utility",
     "Source": "Priests of the Aeons"
   },
@@ -3665,12 +3665,12 @@
     "Source": "Priests of the Aeons"
   },
   {
-    "Form": "Sword, axe, or other medium or heavy weapon",
-    "Depletion": "1 in 1d100 (check each day the tools are used)",
+    "Form": "Меч, топор или другое оружие ближнего боя",
+    "Depletion": "1 in 1d100 (проверяется каждый раз, когда создаются инструменты, но не реже, чем раз в день)",
     "Name": "Toolbox Blade",
-    "NameRu": "",
+    "NameRu": "Клинок с набором инструментов",
     "Level": "1d6",
-    "Effect": "This weapon has a set of subtle controls that allow it to transform into or extrude any typical metal or synth tool from a bag of light tools (also from a bag of heavy tools if the artifact is level 4 or higher). Extruded tools remain connected to the artifact by a thin flexible cable about 10 feet (3 m) long. If the cable is destroyed, the artifact can still become or extrude that tool, but the first time it does so requires a depletion roll. If left alone for a few hours, the artifact returns to its weapon configuration. If the artifact depletes, it can still be used as a regular weapon.",
+    "Effect": "Это оружие обладает небольшим набором элементов управления, которые позволяют ему превращаться в любой типичный металлический или синтетический инструмент из набора лёгких или тяжёлых инструментов (щипцы, плоскогубцы, отвёртка, молоток, зубило, ломик, отмычки, 3 метра верёвки, 1 метр крепкого металлического троса). Инструменты остаются соединенными с артефактом тонким гибким кабелем длиной около 3 м (что позволяет их вытащить на это расстояние). Если кабель будет уничтожен, артефакт все равно сможет создать этот инструмент, но потребуется дополнительный бросок на истощение. Если оставить артефакт в покое на несколько часов, он вернется к своей оружейной конфигурации. Если артефакт истощается, его по-прежнему можно использовать как обычное оружие. Инструменты лучше качеством, чем обычные, поэтому дают не +1, а +{д8|д10} модификатор на проверку.",
     "Categories": "Utility",
     "Source": "Priests of the Aeons"
   },
