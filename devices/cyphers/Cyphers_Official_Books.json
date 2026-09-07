@@ -5060,7 +5060,7 @@
     "Usable": "Handheld device",
     "Name": "Rejuvenation Field",
     "Level": "1d6 + 2",
-    "Effect": "This device projects a nimbus of energy that fills the immediate area. All characters within the area regain a number of points equal to the cypher level in one Pool. Roll a d100:",
+    "Effect": "This device projects a nimbus of energy that fills the immediate area. All characters within the area regain a number of points equal to the cypher level in one Pool (Creatures and NPCs in the area regain the points to their health). Roll a d100:",
     "RollTable": {
       "RollTableRows": [
         {
@@ -5073,7 +5073,7 @@
         },
         {
           "Roll": "76–00",
-          "Result": "Intellect Pool Creatures and NPCs in the area regain the points to their health."
+          "Result": "Intellect Pool"
         }
       ]
     },

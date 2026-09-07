@@ -400,8 +400,8 @@
     "Depletion": "1 in 1d20",
     "Name": "Mephitic Staff",
     "NameRu": "Зловонный посох",
-    "Level": "1d6",
-    "Effect": "При активации (что не требует действия) и попадании в живое существо или предмет наконечник посоха выпускает концентрированный поток ядовитых паров, поражающий цель в шаговой доступности. Поражённое существо должно пройти проверку Выносливости или потерять следующее стандартное действие из-за кашля и удушья. Монстры подвержены этому эффекту, только если значительно полагаются на нюх.",
+    "Level": "1d6 + 2",
+    "Effect": "При активации (что не требует действия) и попадании в живое существо или предмет наконечник посоха выпускает концентрированный поток ядовитых паров, поражающий цель в шаговой доступности. Поражённое существо должно пройти проверку Выносливости против яда силой [DeviceLevel] или потерять возможность действовать в следующем ходу из-за кашля и удушья. Монстры подвержены этому эффекту, только если значительно полагаются на нюх.",
     "Categories": "Weapons (Melee)",
     "Source": "Discovery"
   },
@@ -1761,12 +1761,12 @@
     "Source": "Compendium"
   },
   {
-    "Form": "Flexible, lightweight sleeves with integrated fiber optic wires, designed to go over existing armor",
-    "Depletion": "1 in 1d20 for the confusion ability (after depletion, the sleeves still function as armor)",
+    "Form": "Гибкие, легкие рукава со встроенными оптоволоконными кабелями, предназначенные для надевания поверх существующей брони",
+    "Depletion": "1 in 1d20 для способности (после истощения рукава всё ещё работают как броня)",
     "Name": "Fiber Optic Sleeves",
-    "NameRu": "",
+    "NameRu": "Оптико-волоконные рукава",
     "Level": "1d6 + 4",
-    "Effect": "These armor sleeves grant +1 to Armor in addition to whatever armor the user is currently wearing. Further, when active, the sleeves light up in a random, pulsing pattern for ten minutes. When used with melee attacks, this pattern confuses the target during that attack, modifying all defense actions by one step to its detriment.",
+    "Effect": "Эти бронированные рукава дают +1 к броне в дополнение к той броне, которую пользователь носит в данный момент. Кроме того, когда они активируются, рукава светятся случайным пульсирующим узором в течение одной минуты. При использовании в ближнем бою этот узор сбивает цель с толку во время атаки. Цель должна пройти проверку Восприятия (или Нуменеры для монстров, если он полагается на зрение) против уровня артефакта. При провале все её уклонения и блокирования получают -1.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -1821,12 +1821,12 @@
     "Source": "Compendium"
   },
   {
-    "Form": "A long cloak made from material woven with circuitry",
+    "Form": "Длинный плащ, сшитый из ткани, в которую вплетены электронные схемы",
     "Depletion": "1 in 1d10",
     "Name": "Flicker Cloak",
-    "NameRu": "",
+    "NameRu": "Мерцающий плащ",
     "Level": "1d6 + 2",
-    "Effect": "Causes the user to flicker in and out of existence for ten minutes. At the end of each of her turns while wearing the cloak, she must roll a d6. On an odd number, nothing happens. On an even number, she disappears, ceasing to exist. At the start of her next turn, she reappears in the space she left (or an open space nearest to that space). She has no idea what happened during the time she ceased to exist.",
+    "Effect": "Заставляет пользователя то появляться, то исчезать в течение десяти минут. В конце каждого своего хода, пока он носит плащ, он должен бросить d6. При нечетном результате ничего не происходит. При выпадении четного числа он исчезает, переставая существовать. В начале своего следующего хода он вновь появляется на том месте, которое покинул (или на ближайшем к нему свободном месте). Он не имеет представления о том, что происходило в то время, пока он перестал существовать.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -2351,12 +2351,12 @@
     "Source": "Compendium"
   },
   {
-    "Form": "Hilt with connected red sphere",
+    "Form": "Рукоять с присоединенным красным шариком",
     "Depletion": "1 in 1d20",
     "Name": "Monowhip",
-    "NameRu": "",
+    "NameRu": "Монохлыст",
     "Level": "1d6 + 4",
-    "Effect": "Produces a 10-foot-long (3 m), hairthin, glowing white cord. The whip cuts through any material of a level lower than its own. If used to attack, the whip is a light weapon that ignores Armor of a level lower than its own, but each attack requires a depletion check. Furthermore, each missed attack requires a difficulty 3 Speed defense roll to avoid accidentally taking damage from the retracting whip.",
+    "Effect": "Создаёт тонкий как волос светящийся белый шнур длиной 3 м. Шнур действует как кнут, но игнорирует брони цели или объекта ниже своего уровня. Броня выше его уровня уменьшается в половину (с округлением вниз). Каждая атака требует брони на истощение. Кроме того, если атака промахнулась, то нужно пройти проверку Проворства или получить 1 ед урона от возвращающегося кнута.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -2391,12 +2391,12 @@
     "Source": "Compendium"
   },
   {
-    "Form": "A leather face mask with a variety of synth protuberances",
-    "Depletion": "1 in 1d100 (checked each day the mask is worn, and checked each time the mutation is changed)",
+    "Form": "Кожаная маска с различными синтетическими выпуклостями",
+    "Depletion": "1 in 1d100 (проверяется каждый день, когда надевается маска, и проверяется каждый раз при смене мутации)",
     "Name": "Mutation Mask",
-    "NameRu": "",
+    "NameRu": "Маска мутаций",
     "Level": "1d6 + 4",
-    "Effect": "When worn, the mask conforms to the wearer’s head, enclosing it. While wearing the mask, the character can trigger a mutation by spending an action fiddling with the mask. Over the next few rounds, any previous mutations fade, and a new mutation appears. Roll on the mutation tables for a harmful mutation (1 on a 1d6), a beneficial mutation (2–5 on a 1d6), or a powerful mutation (6 on a 1d6).",
+    "Effect": "При ношении маска плотно облегает голову персонажа, полностью закрывая её. Находясь в маске, персонаж может вызвать мутацию, потратив действие на манипуляции с маской. В течение следующих нескольких раундов все предыдущие мутации исчезают, и появляется новая мутация. Сделайте бросок по таблицам мутаций, чтобы определить: вредную (harmful) мутацию (1 на 1d6), полезную (beneficial) мутацию (2–5 на 1d6) или мощную (powerful) мутацию (6 на 1d6).",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -2531,12 +2531,12 @@
     "Source": "Compendium"
   },
   {
-    "Form": "Black synth cube 1 foot (0.3 m) on a side that expands to a shelter 3 feet by 3 feet by 7 feet (1 m by 1 m by 2 m)",
+    "Form": "Черный синтетический куб со стороной 30 см, который раскладывается в укрытие размером 1х1х2 метра",
     "Depletion": "1 in 1d20",
     "Name": "Portable Lavation",
-    "NameRu": "",
+    "NameRu": "Портативный душ",
     "Level": "1d6",
-    "Effect": "When set up near water (or if set up prior to a rainstorm), the device cleans and heats up to 1 gallon (4 L) of liquid and then creates a pressurized shower that lasts for ten minutes. The pressurized water also contains a scented residue that stays on the skin, which produces an odor that most humans find pleasing. Those who shower for ten minutes (and don’t wipe the scented residue off their skin) find that the difficulty of all actions related to charm, charisma, and persuasion is reduced by one step for one hour, but only when they are dealing with humans. The device takes 28 hours to recharge between uses. When in its box form, the device is sturdy enough to use as a stool or small table.",
+    "Effect": "При установке рядом с водой (или если устройство установлено перед началом ливня) оно очищает и нагревает до 4 л жидкости, а затем создает душ под давлением, который работает в течение десяти минут. Вода под давлением также содержит ароматизированный осадок, остающийся на коже и источающий запах, который большинству людей кажется приятным. Те, кто принимает душ в течение десяти минут (и не вытирает ароматизированный осадок с кожи), обнаруживают, что задачи, связанные с обаянием, харизмой и убеждением при общении с людьми, становятся легче. Они получают {+д8|+д10}  в течение одного часа. Перезарядка устройства между использованием занимает 28 часов. В сложенном виде устройство достаточно прочное, чтобы использовать его в качестве табуретки или небольшого столика.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -2625,12 +2625,12 @@
     }
   },
   {
-    "Form": "A weave of thin metallic wires worn on a shaved head",
-    "Depletion": "1 in 1d10 (check each time the user makes an Intellect defense roll)",
+    "Form": "Плетение из тонких металлических проволок, которое носят на бритой голове",
+    "Depletion": "1 in 1d10 (проверяется каждый раз при защите от психической атаки)",
     "Name": "Psycap",
-    "NameRu": "",
+    "NameRu": "Псишапка",
     "Level": "1d6 + 2",
-    "Effect": "The weave protects the wearer’s mind from mental attacks. While he wears it, he has an asset on Intellect defense rolls and cannot be contacted by telepathic means.",
+    "Effect": "Это плетение защищает разум владельца от психических атак. Пока он носит его, он получает бонус {+д10|+д12} к броскам на защиту от психических атак и с ним невозможно установить телепатический контакт.",
     "Categories": "Protection (General)",
     "Source": "Compendium"
   },
@@ -2975,22 +2975,22 @@
     "Source": "Compendium"
   },
   {
-    "Form": "Handheld device",
+    "Form": "Портативное устройство",
     "Depletion": "1 in 1d10",
     "Name": "Stasis Projector",
-    "NameRu": "",
+    "NameRu": "Проектор стазиса",
     "Level": "1d6 + 4",
-    "Effect": "This device projects a wide ray at a target that is already immobile (perhaps a creature that is bound or willing). The target is placed in safe suspended animation within an energy sheath. The sheath floats about 4 feet (1 m) off the ground and can be pushed along easily, almost as if it were weightless. The sheath lasts for 28 hours and is impervious to attacks of a level lower than the artifact that created it.",
+    "Effect": "Это устройство проецирует широкий луч на цель, которая уже находится в неподвижном состоянии (например, на существо, связанное или согласившиеся на это). Цель погружается в безопасное состояние приостановленной жизнедеятельности внутри энергетической оболочки. Оболочка парит на высоте около 1 м над землёй и её можно легко сдвигать с места, словно она не имеет веса. Оболочка сохраняется в течение 28 часов и имеет [DeviceLevel x 3] брони.",
     "Categories": "Protection (General)",
     "Source": "Compendium"
   },
   {
-    "Form": "Biological tube synthesized from living cellular tissue, with a toothed “mouth” at each end",
+    "Form": "Биологическая трубка, синтезированная из живой клеточной ткани, с зубастой «пастью» на каждом конце",
     "Depletion": "1 in 1d20",
     "Name": "Stimulation Stem",
-    "NameRu": "",
+    "NameRu": "Стимулирующий стержень",
     "Level": "1d6",
-    "Effect": "This 3-foot-long (1 m) tube can be attached to the flesh of two biological, sentient creatures via the ever-grasping mouths. Once the teeth sink in, the tube is attached for five minutes (pulling it off before that kills the cellular tissue and renders the device useless). If both creatures are in agreement, one of them can siphon 1d6 Might points from the other via the tube. If the device senses that one or both participants are not amenable to the exchange, it draws 1d6 Might points from both creatures. When not pulled tight, the tube self-coils for easy carrying.",
+    "Effect": "Эту трубку длиной 3 фута (1 м) можно прикрепить к телу двух живых, разумных существ с помощью ее постоянно сжимающихся «ртов». Как только зубы вонзятся в плоть, трубка остается прикрепленной в течение пяти минут (если снять её раньше, это приведёт к гибели клеточной ткани и сделает устройство непригодным для использования). Если оба существа дают согласие, одно из них может через трубку перекачать д3 очков Здоровья от другого. Если устройство определяет, что один или оба участника не согласны на обмен, оно отнимает по д3 очков Здоровья у обоих существ. Когда трубка не натянута, она самосворачивается для удобства переноски.",
     "Categories": "Healing Devices",
     "Source": "Compendium"
   },
@@ -3135,22 +3135,22 @@
     "Source": "Compendium"
   },
   {
-    "Form": "Snakelike creature grafted onto a user’s tongue",
+    "Form": "Змееподобное существо, прижитое к языку пользователя",
     "Depletion": "—",
     "Name": "Tongue Snake",
-    "NameRu": "",
+    "NameRu": "Язык-змея",
     "Level": "1d6 + 2",
     "Effect": "The creature must be surgically and permanently attached (a task equal to the artifact level), a procedure that takes about an hour in a skilled chiurgeon’s hands. Once the serpent is attached to the user’s tongue, he can control it and attack with it. The serpent can attack targets within an immediate distance and inflicts poison damage equal to the artifact level (ignores Armor).",
     "Categories": "Weapons (Melee)",
     "Source": "Compendium"
   },
   {
-    "Form": "Long black rod of metal and synth",
+    "Form": "Длинный чёрный стержень из металла и синта",
     "Depletion": "1 in 1d10",
     "Name": "Torment Wand",
-    "NameRu": "",
-    "Level": "1d6 + 1",
-    "Effect": "The user can attack anyone within short range, inflicting horrendous pain. The victim moves one step down the damage track and cannot take actions. This lasts as long as the victim is within range and the user spends an action each round to continue the attack. Torment wands of level 6 or higher can continue to move the victim down the damage track each round (with a new Might defense roll each round to resist), which means that after three rounds, the target is dead.",
+    "NameRu": "Жезл мучений",
+    "Level": "1d6",
+    "Effect": "Пользователь может атаковать живое немонструозное существо, которое находится в пределах ближнего радиуса действия, причиняя ему ужасную боль. Сила атаки [DeviceLevel x 2] против Сопротивления. Жертва получает ментальную травму и теряет способность действовать в этот раунд. Действие можно поддерживать каждый раунд, тратя на это стандартное действие. На второй раунд цель получает две ментальные травмы и выбирает из них худшую. На третий раунд три ментальные травмы и выбирает из них худшую. На четвёртый раунд цель умирает от невероятных мучений.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -3545,12 +3545,12 @@
     "Source": "Priests of the Aeons"
   },
   {
-    "Form": "When not affixed to a creature, this looks like a mass of heavy fabric. On a creature, it looks like heavy, leathery flesh.",
+    "Form": "Когда это не прикреплено к существу, оно выглядит как кусок плотной ткани. На теле существа же оно выглядит как плотная кожаная плоть.",
     "Depletion": "1 in 1d100 (check each day of use)",
     "Name": "Living Conceptualization Sheath",
-    "NameRu": "",
+    "NameRu": "Оболочка «Живая концептуализация»",
     "Level": "1d6 + 1",
-    "Effect": "When worn over normal skin, this organic material adheres and conforms to the creature’s body shape. The wearer is trained in Intellect defense tasks. Further, they add 2 to their Intellect Edge. However, they cannot wear armor over the living sheath because it’s too bulky.",
+    "Effect": "При ношении на обычной коже этот органический материал прилегает к телу существа и принимает его форму. Носитель получает {+д10|+д12} на все защиты от атак по Разуму и Нуменере. Кроме того, раз в день он получает одно бесплатное ментальное Усилие. Если у носителя есть очки Концентрации, то он получает +4 очка Концентрации. Однако он не может надевать доспехи поверх этой живой оболочки, поскольку они мешают её действию.",
     "Categories": "Utility",
     "Source": "Priests of the Aeons"
   },

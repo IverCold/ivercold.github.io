@@ -4137,9 +4137,9 @@
       "Кристаллическая друза прикрепляемая к оружию ближнего боя"
     ],
     "Name": "Ejection Nodule",
-    "NameRu": "",
+    "NameRu": "Выталкивающая друза",
     "Level": "1d6 + 1",
-    "Effect": "For the next hour, each time the weapon the nodule is attached to strikes a solid creature or object hard enough to inflict damage (but no more than once per round), the target of the strike teleports to a random location within a radius of 100 × the cypher level in feet. If you affix an ejection nodule and a disrupting nodule to the same weapon, not only do both function, but the weapon inflicts 2 additional points of damage to any transdimensional creature it strikes.",
+    "Effect": "В течение следующего часа каждый раз, когда оружие, к которому прикреплена друза, наносит урон твердому существу или предмету (не чаще одного раза за раунд), цель удара телепортируется в случайное место в радиусе 20 × [DeviceLevel] метров. Если это межпространственное существо, то цель не телепортируется, а получает {1 дополнительный пункт|2 дополнительных пункта} урона.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -4726,12 +4726,12 @@
   },
   {
     "Forms": [
-      "Small scorpion made of glass"
+      "Маленький скорпион из стекла"
     ],
     "Name": "Glass Scorpion",
-    "NameRu": "",
-    "Level": "1d6 + 1",
-    "Effect": "When activated, the glass scorpion immediately moves in the direction it is pointed until it comes upon a living creature at least the size of a hound. It then attacks with the needlelike stinger in its tail as a creature of a level equal to the cypher level. The scorpion injects a poison that inflicts 3 points of damage per round for a number of rounds equal to the cypher level. If the GM wants to make the glass scorpion weaker, it can be a level 1 creature that has 3 health.",
+    "NameRu": "Стеклянный скорпион",
+    "Level": "1d6 + 2",
+    "Effect": "При активации стеклянный скорпион немедленно движется в направлении, в которое он направлен, пока не наткнется на живое существо размером не меньше гончей. Затем он наносит удар игольчатым жалом в хвосте с силой равной [DeviceLevel x 2] (урон 1, колящее). Скорпион впрыскивает смертельный яд силой [DeviceLevel], который действует [DeviceLevel] раундов. Сам скорпион - существо с 1 Здоровья, 4 брони, Ловкость 7.",
     "Categories": "Automatons",
     "Source": "Compendium"
   },
@@ -5078,13 +5078,12 @@
   },
   {
     "Forms": [
-      "A metallic",
-      "Seven-fingered hand"
+      "Металлическая рука с семью пальцами"
     ],
     "Name": "Helping Hand",
-    "NameRu": "",
+    "NameRu": "Помогающая рука",
     "Level": "1d6 + 1",
-    "Effect": "When activated, the hand hovers near the user for 28 hours. During that time, it acts as the user’s third hand—holding objects, opening doors, turning dials, and so on. The helping hand can also make attacks as the user might, with weapons provided to it, but all such attacks are modified by two steps to the user’s detriment.",
+    "Effect": "После активации рука парит рядом с пользователем в течение 28 часов. В течение этого времени она действует как третья рука пользователя — держит предметы, открывает двери, поворачивает ручки и так далее. Помогающая рука также может совершать атаки, как и сам пользователь, если ей дать оружие, но делает это с модификатором -4. Для удара рукой нужно потратить быстрое действие.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -5656,23 +5655,23 @@
     ],
     "Name": "Lutin (Metal Shrapnel)",
     "NameRu": "",
-    "Level": "1d6 + 2",
-    "Effect": "Bursts in a cloud of metal shrapnel within short distance. Roll to determine the effect:",
+    "Level": "1d6 + 1",
+    "Effect": "Взрывается в облаке металлических осколков на ближней расстоянии, нанося удар силой [DeviceLevel x 2]. Сделайте бросок, чтобы определить тип урона:",
     "Categories": "Weapons (Ranged)",
     "Source": "Compendium",
     "RollTable": {
       "RollTableRows": [
         {
           "Roll": "01–50",
-          "Result": "Sharp. Living creatures with exposed skin suffer damage equal to the cypher level from the sharp edges of the shrapnel."
+          "Result": "Режущий. Острые края осколков."
         },
         {
           "Roll": "51–75",
-          "Result": "Corrosive. Living creatures with exposed skin suffer damage equal to the cypher level from corrosive-laden shrapnel."
+          "Result": "Гниль. Осколки, пропитанные коррозионным веществом."
         },
         {
           "Roll": "76–00",
-          "Result": "Electrical. The shrapnel contains small amounts of electric charge. Living creatures with exposed skin suffer electrical damage equal to the cypher level."
+          "Result": "Энергия. Осколки содержат небольшой электрический заряд."
         }
       ]
     }
@@ -6058,9 +6057,9 @@
       "Кольцо"
     ],
     "Name": "Mist Energizer",
-    "NameRu": "",
+    "NameRu": "Облачный электрификатор",
     "Level": "1d6 + 3",
-    "Effect": "Alters the composition of a gaseous cloud no larger than 10 feet by 10 feet by 10 feet (3 m by 3 m by 3 m) so that it inflicts damage equal to the cypher level to anyone that enters it. Damage continues every round that a creature is within the energized mist, which lasts for ten minutes. The gaseous cloud can simply be the normal air, but it could also be an already poisonous vapor or some other gas.",
+    "Effect": "Изменяет состав газообразного облака размером не более 4х4х4 метров таким образом, что оно наносит удар силой [DeviceLevel x 2] (урон 1, энергия) любому, кто в него попадает. Удар происходит каждый раунд, пока существо находится в насыщенном тумане, который длится десять минут. Газовое облако может представлять собой обычный воздух, но также может быть уже ядовитым паром или каким-либо другим газом.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -6966,24 +6965,20 @@
       "Портативное устройство"
     ],
     "Name": "Rejuvenation Field",
-    "NameRu": "",
+    "NameRu": "Область омоложения",
     "Level": "1d6 + 2",
-    "Effect": "This device projects a nimbus of energy that fills the immediate area. All characters within the area regain a number of points equal to the cypher level in one Pool. Roll a d100:",
+    "Effect": "Это устройство проецирует энергетический ореол, заполняющий пространство c радиусом 4 м. Все персонажи, находящиеся в этой зоне, восстанавливают количество очков Здоровья или Воли, равное [DeviceLevel / 2]. Также восстанавливается соответствующая Усталость. Бросьте кубик d100:",
     "Categories": "Healing Devices",
     "Source": "Compendium",
     "RollTable": {
       "RollTableRows": [
         {
           "Roll": "01–50",
-          "Result": "Might Pool"
+          "Result": "Здоровье"
         },
         {
-          "Roll": "51–75",
-          "Result": "Speed Pool"
-        },
-        {
-          "Roll": "76–00",
-          "Result": "Intellect Pool Creatures and NPCs in the area regain the points to their health."
+          "Roll": "51–00",
+          "Result": "Воля"
         }
       ]
     }
@@ -7542,12 +7537,12 @@
       "Маленькое портативное устройство",
       "Полный комбинезон",
       "Повязка на голову",
-      "Metallic disk that hangs from a chain"
+      "Металлический диск, подвешенный на цепочке"
     ],
     "Name": "Sound Amplifier",
-    "NameRu": "",
+    "NameRu": "Усилитель звука",
     "Level": "1d6",
-    "Effect": "Amplifires sounds within immediate range so they can be heard up to 1 mile (2 km) away. The amplified noise lasts for a few minutes. Until the effect ends, everyone within immediate range of the device becomes deafened while it emits sounds.",
+    "Effect": "Устройство усиливает звуки в 4 метрах вокруг, поэтому их слышно на расстоянии до {2 км|4 км} в течение [DeviceLevel] минут. Пока эффект не закончится, все, кто находится в 4 метрах от устройства, теряют слух на время его работы.",
     "Categories": "Sound/Sonic Devices",
     "Source": "Compendium"
   },
@@ -7618,9 +7613,9 @@
       "Браслет-проектор (ближняя дистанция)"
     ],
     "Name": "Standstill",
-    "NameRu": "",
+    "NameRu": "Парализатор",
     "Level": "1d6",
-    "Effect": "This device projects an electric shock that causes a living target’s muscles to seize up, rendering him immobile for one round.",
+    "Effect": "Это устройство вызывает электрический разряд, который приводит к спазму мышц живой цели, лишая её возможности двигаться в течение одного раунда. Проверка [DeviceLevel x 2] против Выносливости (или Нуменеры для живых монстров).",
     "Categories": "Weapons (Ranged)",
     "Source": "Compendium"
   },
@@ -9456,9 +9451,9 @@
       "Металлическая сфера"
     ],
     "Name": "Null Orb",
-    "NameRu": "",
+    "NameRu": "Нулевой шар",
     "Level": "1d6 + 1",
-    "Effect": "When activated, the null orb tumbles away in the direction the user throws it as if unaffected by gravity, moving at a rate of an immediate distance each round for about a minute. The orb’s surface becomes charged with entropic energy, and as it passes within 30 feet (6 m) of living creatures, damage equal to the cypher’s level is inflicted on them. The moving orb bounces off fixed surfaces, and thus might be set to bounce back and forth across a field of conflict for the duration of the effect. When a minute has passed, the orb tumbles to the ground, inert.",
+    "Effect": "При активации сфера нуля отскакивает в направлении, в котором её бросает пользователь, словно не подчиняясь силе тяжести, и движется со скоростью 6 м в раунд, в течение примерно одной минуты. Поверхность шара заряжается энтропийной энергией, и при прохождении в пределах 6 м от живых существ по ним производится атака силой [DeviceLevel x 2] (урон 2, энергия). Движущийся шар отскакивает от неподвижных поверхностей, поэтому его можно заставить отскакивать туда-сюда по полю сражения в течение всего времени действия эффекта. По истечении минуты шар падает на землю и становится безжизненным.",
     "CommunityEffect": "If used during a conflict between ranked communities or hordes, the affected force suffers damage equal to one third the cypher’s level (minimum 1).",
     "Categories": "Communities, Detonations",
     "Source": "Building Tomorrow"
