@@ -3325,12 +3325,12 @@
     "Source": "Compendium"
   },
   {
-    "Form": "Black and silver covers for footwear sporting thick heels layered with hydrofuge hairs",
+    "Form": "Черно-серебристые чехлы для обуви на массивном каблуке, покрытые слоем водоотталкивающего ворса",
     "Depletion": "—",
     "Name": "Water Skimmers",
-    "NameRu": "",
+    "NameRu": "Водомерки",
     "Level": "1d6",
-    "Effect": "Anyone wearing these water skimmers over their regular footwear can stride quickly across liquid surfaces up to 20 feet (6 m) deep without sinking or getting wet. Wearing water skimmers while on land offsets the wearer’s center of gravity, increasing the difficulty of all movementbased actions by one step.",
+    "Effect": "Любой, кто наденет эти водомерки поверх обычной обуви, сможет быстро передвигаться по водной глади (над глубиной до 6 метров), не погружаясь в воду и не промокая. При ходьбе по суше они смещают центр тяжести владельца, из-за чего любые действия, связанные с передвижением, получают штраф в -2.",
     "Categories": "Utility",
     "Source": "Compendium"
   },

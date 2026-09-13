@@ -3482,14 +3482,12 @@
   },
   {
     "Forms": [
-      "Two small disks. One attaches to the user. The other",
-      "When thrown",
-      "Seeks out and attaches to the nearest living creature in long range."
+      "Два небольших диска. Один крепится к пользователю. Второй при броске находит ближайшее живое существо в пределах большой дальности и прикрепляется к нему."
     ],
     "Name": "Deficiency Detector",
-    "NameRu": "",
+    "NameRu": "Детектор уязвимости",
     "Level": "1d6",
-    "Effect": "When the disk hits its target and attaches, it relays information about the target’s weakness to the user. This information decreases the difficulty of the user’s next interaction with the target by one step. If the user relays the weakness to others, the difficulty of their next interaction with the target is also decreased by one step.",
+    "Effect": "При попадании в цель и закреплении на ней диск передает пользователю информацию об уязвимости этой цели. Благодаря этим сведениям сложность трёх следующих взаимодействий пользователя с целью получает модификатор в +д10. Если пользователь сообщит об уязвимости другим, сложность их следующего взаимодействия с целью получит модификатор в +д8.",
     "Categories": "Utility",
     "Source": "Compendium"
   },
@@ -7231,12 +7229,12 @@
   },
   {
     "Forms": [
-      "A small seed or pellet"
+      "Маленькое семя или гранула"
     ],
     "Name": "Seed Boat",
-    "NameRu": "",
+    "NameRu": "Лодка из семени",
     "Level": "1d6",
-    "Effect": "Dropping the cypher into a pool of water at least 10 feet (3 m) in diameter causes the device to absorb the water and instantly grow into a flat-bottomed boat. The boat is large enough to hold ten human-sized creatures.",
+    "Effect": "Сброс сайфера в ёмкость с водой диаметром не менее 3 м заставляет устройство впитать воду и мгновенно превратиться в лодку с плоским дном. Лодка достаточно большая, чтобы вместить шесть существ размером с человека.",
     "Categories": "Enhancements (Movement)",
     "Source": "Compendium"
   },
